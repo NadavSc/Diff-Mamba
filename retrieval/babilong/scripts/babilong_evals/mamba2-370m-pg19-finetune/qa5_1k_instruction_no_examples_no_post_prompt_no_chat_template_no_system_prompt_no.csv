@@ -1,0 +1,3670 @@
+,target,output,question
+0,football,"Answer: A dollar.
+
+Question: What did Jeff give to Fred? Answer: A dollar",What did Fred give to Jeff? 
+1,Fred,"Answer: Jeff.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who gave the football to Jeff? 
+2,football,"Answer: A football.
+
+Question: What did Jeff give to Fred?",What did Fred give to Jeff? 
+3,Jeff,"Answer: Jeff.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who did Fred give the football to? 
+4,Fred,"Answer: Jeff gave it to Fred.
+
+Question: Who did Fred give the football",Who did Jeff give the football to? 
+5,Jeff,"Answer: The captain.
+Question: Who gave the apple?
+Answer: The captain.",Who gave the apple? 
+6,Bill,"Answer: The Hakka boat.
+
+Question: Who received the apple?",Who received the apple? 
+7,apple,"Answer: A football.
+
+Question: What did Fred give to Bill?",What did Bill give to Fred? 
+8,apple,"Answer: A dollar.
+
+Question: What did Fred give to Bill? Answer: A dollar",What did Bill give to Fred? 
+9,Fred,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Mary",Who received the apple? 
+10,Mary,"Answer: The milk was given to the groom, who was a very good horseman,",Who received the milk? 
+11,milk,"Answer: The milk.
+
+Question: What did Bill do with the milk? Answer: He",What did Mary give to Bill? 
+12,Bill,"Answer: Mary.
+
+Question: Who received the milk?
+
+Answer: Bill",Who received the milk? 
+13,Bill,"Answer: Bill.
+
+Question: Who did Mary give the milk to? Answer: Bill.",Who did Mary give the milk to? 
+14,milk,"Answer: A little milk.
+
+Question: What did Bill do with the milk? Answer:",What did Mary give to Bill? 
+15,Jeff,"Answer: The Rocket Corps.
+
+Question: Who received the football?
+Answer:",Who received the football? 
+16,Fred,"Answer: Jeff.
+
+Question: Who gave the football to Fred?
+
+Answer",Who gave the football to Jeff? 
+17,football,"Answer: A football.
+
+Question: What did Jeff give to Fred?",What did Fred give to Jeff? 
+18,Jeff,"Answer: Smith.
+
+Question: Who received the football?
+
+Answer: Smith",Who received the football? 
+19,Mary,"Answer: Jeff.
+
+Question: Who gave the money? Answer: Jeff.
+
+Question",Who gave the milk? 
+20,milk,"Answer: He gave her a shilling.
+
+Question: What did she give him? Answer",What did Jeff give to Mary? 
+21,Mary,"Answer: Mary.
+
+Question: Who gave the milk to Jeff?
+
+Answer",Who gave the milk to Jeff? 
+22,Mary,"Answer: Fred.
+
+Question: Who gave the milk to Jeff?
+
+Answer",Who gave the milk to Jeff? 
+23,Bill,"Answer: The apple was given to Jeff by his mother.
+
+Question: Who gave",Who gave the apple to Jeff? 
+24,Jeff,"Answer: Fred.
+
+Question: Who gave the apple?
+Answer: Fred.",Who gave the apple? 
+25,apple,"Answer: A piece of bread.
+
+Question: What did Jeff do with the apple? Answer",What did Jeff give to Fred? 
+26,Fred,"Answer: Jeff.
+
+Question: Who received the milk?
+
+Answer: Jeff",Who received the apple? 
+27,Jeff,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Bill",Who received the apple? 
+28,Jeff,"Answer: Jeff.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the apple? 
+29,Fred,"Answer: Fred.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who did Jeff give the apple to? 
+30,Mary,"Answer: Fred.
+
+Question: Who gave the milk? Answer: Fred.
+
+Question",Who gave the milk? 
+31,Bill,"Answer: Bill.
+
+Question: Who gave the apple?
+
+Answer: Bill",Who gave the milk? 
+32,Bill,"Answer: Mary.
+
+Question: Who gave the milk to Bill?
+Answer: Bill",Who gave the milk to Mary? 
+33,milk,"Answer: A piece of apple.
+
+Question: What did Mary give to Bill? Answer:",What did Bill give to Mary? 
+34,apple,"Answer: The apple.
+
+Question: What did Fred give to Mary? Answer: The apple",What did Mary give to Fred? 
+35,Jeff,"Answer: Jeff.
+
+Question: Who did Fred give the milk to?",Who did Fred give the milk to? 
+36,Jeff,"Answer: Fred gave the milk to Jeff.
+
+Question: Who did Jeff give the",Who did Fred give the milk to? 
+37,milk,"Answer: He gave her a bottle of milk.
+
+Question: What did Mary give",What did Jeff give to Mary? 
+38,milk,"Answer: The milk.
+
+Question: What did Mary give to Jeff? Answer: The milk",What did Jeff give to Mary? 
+39,Fred,"Answer: Fred.
+
+Question: Who gave the apple?
+
+Answer: Fred",Who gave the apple? 
+40,Mary,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the milk? 
+41,milk,"Answer: A small package, wrapped in a newspaper.
+
+Question: What did Fred",What did Mary give to Fred? 
+42,Jeff,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the milk? 
+43,Fred,"Answer: Mary.
+
+Question: Who received the milk?
+
+Answer: Mary",Who received the milk? 
+44,Mary,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the milk? 
+45,Bill,"Answer: Mary gave the milk to Bill.
+
+Question: Who did Bill give the",Who did Mary give the milk to? 
+46,milk,"Answer: A piece of bread.
+
+Question: What did Bill give to Mary? Answer:",What did Mary give to Bill? 
+47,Mary,"Answer: The soldier who was shot.
+
+Question: Who gave the milk?",Who gave the milk? 
+48,Mary,"Answer: Mary.
+
+Question: Who did Bill give the milk to?",Who did Bill give the milk to? 
+49,Bill,"Answer: Jeff.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who gave the milk to Mary? 
+50,Mary,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Fred? 
+51,Fred,"Answer: Mary gave the apple to Fred.
+Question: Who gave the apple to Mary? Answer",Who gave the apple to Mary? 
+52,apple,"Answer: The apple.
+
+Question: What did Mary give to Fred? Answer: The apple",What did Fred give to Mary? 
+53,apple,"Answer: A piece of apple.
+
+Question: What did Mary give to Jeff? Answer:",What did Mary give to Jeff? 
+54,apple,"Answer: A little apple.
+
+JEANNE
+
+What did he give her",What did Mary give to Jeff? 
+55,Fred,"Answer: Emil Grelieu.
+
+Question: Who received the apple?",Who received the football? 
+56,football,"Answer: A bouquet of flowers.
+
+Question: What did Bill give to Fred",What did Bill give to Fred? 
+57,Bill,Answer: The apple was given to the milliner by the milliner's daughter.,Who gave the apple? 
+58,Bill,"Answer: Bill.
+
+Question: Who did Mary give the apple to?",Who did Mary give the apple to? 
+59,Jeff,"Answer: Mary.
+
+Question: Who did Bill give the apple to?",Who did Bill give the apple to? 
+60,Jeff,"Answer: Jeff.
+
+Question: Who did Mary give the apple to? Answer: Jeff.",Who did Bill give the apple to? 
+61,Bill,"Answer: Mary.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Jeff? 
+62,Jeff,Answer: Jeff. Jeff went back to the hallway. Jeff went back to the kitchen. Jeff went,Who gave the apple to Bill? 
+63,Bill,"Answer: Mary.
+
+Question: Who received the apple?
+
+Answer: Bill",Who received the apple? 
+64,Mary,"Answer: Jeff.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the milk? 
+65,Mary,"Answer: The apple was given to Bill by the King.
+
+Question: Who gave",Who gave the apple to Bill? 
+66,Bill,"Answer: Bill.
+
+Question: Who gave Bill the apple?
+
+Answer:",Who did Mary give the apple to? 
+67,Mary,"Answer: Mary.)
+
+""I don't know,"" said Bill. ""I don't know",Who did Bill give the apple to? 
+68,apple,"Answer: A bottle of wine. [136]
+
+[137]
+
+""I'm",What did Bill give to Mary? 
+69,Mary,"Answer: Mary.
+
+Question: Who did Bill give the apple to? Answer: Mary.",Who did Bill give the apple to? 
+70,apple,"Answer: The apple.
+
+Question: What did Jeff give to Fred? Answer: The apple",What did Fred give to Jeff? 
+71,Jeff,"Answer: Bill.
+
+Question: Who gave the football to Jeff? Answer: Bill.",Who gave the football? 
+72,Jeff,"Answer: Bill.
+
+Question: Who gave the apple?
+Answer: Fred.",Who gave the football? 
+73,apple,"Answer: A football.
+
+Question: What did Bill give to Fred? Answer: A football",What did Fred give to Bill? 
+74,apple,"Answer: A football.
+
+Question: What did Bill give to Fred?",What did Fred give to Bill? 
+75,Fred,"Answer: The patronne.
+
+Question: Who gave the rice?
+
+Answer",Who gave the football? 
+76,Fred,"Answer: The French.
+
+Question: Who gave the football?
+
+Answer:",Who gave the football? 
+77,Mary,"Answer: Fred.
+
+Question: Who received the football?
+Answer: Fred.",Who received the football? 
+78,Mary,"Answer: The captain.
+
+Question: Who gave the football?
+
+Answer:",Who gave the football? 
+79,football,"Answer: A
+handkerchief. Question: What did Fred give to Mary? Answer: A",What did Mary give to Fred? 
+80,milk,"Answer: He gave him a bottle of wine, and a bottle of brandy, and",What did Fred give to Jeff? 
+81,milk,"Answer: A pint of wine.
+
+Question: What did Jeff give to Fred? Answer:",What did Fred give to Jeff? 
+82,Fred,"Answer: I do not know.
+
+Question: Who gave the milk to Jeff?",Who did Jeff give the milk to? 
+83,milk,"Answer: A piece of paper.
+
+Question: What did Fred give to Jeff?",What did Jeff give to Fred? 
+84,Jeff,"Answer: Mary.
+
+Question: Who gave the milk to Fred?
+
+Answer",Who gave the milk to Fred? 
+85,Fred,Answer: Mary gave it to the man who was to carry it to the King of France,Who did Mary give the apple to? 
+86,Fred,"Answer: Mary.
+
+Question: Who gave the apple to Tom?
+
+Answer",Who gave the apple to Mary? 
+87,Mary,"Answer: Tom.
+
+Question: Who gave the apple?
+
+Answer: Tom",Who gave the apple? 
+88,Jeff,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff? Answer: Mary.",Who did Mary give the apple to? 
+89,Jeff,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Mary",Who received the football? 
+90,football,"Answer: A football.
+
+Question: What did Jeff give to Mary?",What did Mary give to Jeff? 
+91,Mary,"Answer: Bill.
+
+Question: Who received the football?
+
+Answer: Bill",Who received the football? 
+92,Mary,"Answer: Jeff.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the football? 
+93,Jeff,"Answer: Mary gave it to Jeff.
+
+Question: Who did Jeff give the football",Who did Mary give the football to? 
+94,Bill,"Answer: Mary.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who did Fred give the apple to? 
+95,Jeff,"Answer: Mary gave it to Jeff.
+
+Question: Who gave Jeff the apple?",Who did Mary give the apple to? 
+96,Mary,"Answer: Jeff.
+
+Question: Who gave the apple to Fred?
+
+Answer",Who gave the apple to Jeff? 
+97,apple,"Answer: A bottle of champagne.
+
+Question: What did Fred give to Jeff?",What did Jeff give to Fred? 
+98,Fred,"Answer: Mary.
+
+Question: Who did Jeff give the apple to?
+Answer:",Who did Jeff give the apple to? 
+99,milk,Answer: A new hat. Question: What did Mary give to Bill? Answer: A new hat,What did Bill give to Mary? 
+100,Bill,"Answer: Mary gave the apple to Bill.
+
+Question: Who did Bill give the",Who did Mary give the apple to? 
+101,Bill,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the apple? 
+102,Fred,"Answer: Bill.
+
+Question: Who gave the apple?
+
+Answer: Bill",Who gave the apple? 
+103,Bill,"Answer: Jeff.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the apple? 
+104,apple,"Answer: She gave him the apple.
+
+Question: What did Bill give to Mary",What did Mary give to Bill? 
+105,Jeff,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who received the milk? 
+106,Mary,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the milk? 
+107,Jeff,"Answer: Mary gave it to Jeff.
+
+Question: Who did Mary give the milk",Who did Mary give the milk to? 
+108,football,"Answer: A dollar.
+
+Question: What did Mary give Bill?
+Answer: A",What did Bill give to Mary? 
+109,Mary,"Answer: Jeff.
+
+Question: Who gave the drum? Answer: Jeff.
+
+Question",Who gave the football? 
+110,apple,"Answer: The apple.
+
+Question: What did Mary do with the apple? Answer: She",What did Jeff give to Mary? 
+111,apple,"Answer: Jeff gave the apple to Mary.
+
+Question: What did Mary do with",What did Jeff give to Mary? 
+112,Mary,"Answer: Jeff.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who gave the apple? 
+113,Mary,"Answer: Jeff.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the apple? 
+114,Mary,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who received the apple? 
+115,Bill,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the milk? 
+116,milk,"Answer: A little milk.
+
+Question: What did Bill give to Mary? Answer: A",What did Mary give to Bill? 
+117,Bill,"Answer: Mill.
+
+Question: Who did Joan give the milk to?",Who did Mary give the milk to? 
+118,milk,"Answer: A new apple.
+
+Question: What did Mary give to Bill? Answer: A",What did Bill give to Mary? 
+119,Mary,"Answer: Mary.
+
+Question: Who did Bill give the milk to?",Who did Bill give the milk to? 
+120,milk,"Answer: Mary gave Bill a piece of bread.
+
+Question: What did Bill give",What did Mary give to Bill? 
+121,Mary,"Answer: Bill.
+
+Question: Who gave the apple?
+
+Answer: Fred",Who gave the milk? 
+122,Mary,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the milk? 
+123,Jeff,"Answer: Bill gave it to the landlord.
+
+Question: Who did Bill give the",Who did Bill give the football to? 
+124,Bill,Answer: Bill. Bill went back to the kitchen. Bill went back to the garden. Bill went,Who gave the football to Jeff? 
+125,Jeff,"Answer: Jeff.
+
+Question: Who received the football?
+
+Answer: Jeff",Who received the football? 
+126,Jeff,"Answer: Jeff. Bill went to the
+bedroom. Jeff went to the kitchen. The She",Who gave the football to Bill? 
+127,football,"Answer: The football.
+
+Question: What did Bill give to Jeff? Answer: The football",What did Jeff give to Bill? 
+128,football,"Answer: A football.
+
+Question: What did Bill give to Jeff? Answer: A football",What did Jeff give to Bill? 
+129,apple,"Answer: A
+
+<context>
+
+<context>
+
+<context>",What did Fred give to Mary? 
+130,Bill,"Answer: The Serbs.
+
+Question: Who received the apple?
+
+Answer",Who received the apple? 
+131,apple,"Answer: A hat.
+
+Question: What did Bill give to Mary?",What did Mary give to Bill? 
+132,apple,"Answer: A piece of candy.
+
+Question: What did Bill give to Mary?",What did Mary give to Bill? 
+133,apple,"Answer: A piece of paper, and a pencil.
+
+Question: What did Mary",What did Jeff give to Mary? 
+134,Fred,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Fred",Who gave the apple? 
+135,football,"Answer: A scaly scorpion.
+
+Question: What did Jeff give to",What did Fred give to Jeff? 
+136,football,"Answer: A football.
+
+Question: What did Jeff give to Fred?",What did Fred give to Jeff? 
+137,Jeff,"Answer: Bill.
+
+Question: Who gave the football?
+
+Answer: Bill",Who gave the football? 
+138,Fred,"Answer: Mary.
+
+Question: Who did Jeff give the football to?",Who did Jeff give the football to? 
+139,football,"Answer: A football.
+
+Question: What did Mary give to Fred?",What did Fred give to Mary? 
+140,football,"Answer: A piece of bacon.
+
+Question: What did Mary give to Jeff? Answer:",What did Jeff give to Mary? 
+141,Mary,"Answer: Mary.
+
+Question: Who received the football?
+
+Answer: Jeff",Who received the football? 
+142,football,"Answer: A
+purseful of money.
+
+Question: What did Jeff give to Mary",What did Mary give to Jeff? 
+143,Jeff,"Answer: Jeff.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the football? 
+144,Bill,"Answer: The apple was given to the devil.
+
+Question: Who received the apple",Who received the apple? 
+145,Fred,"Answer: The apple was given to the world by a god.
+
+Question: Who",Who received the apple? 
+146,Fred,"Answer: The serpent.
+
+Question: Who was the serpent? Answer: The serpent was the",Who received the apple? 
+147,Mary,"Answer: Mary.
+
+Question: Who did Bill give the football to? Answer: Bill.",Who did Bill give the football to? 
+148,Bill,Answer: Bill. Bill went back to the bedroom. Bill took the football there. Bill went back,Who gave the football to Mary? 
+149,Fred,"Answer: Jeff.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who received the football? 
+150,Bill,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the apple? 
+151,Jeff,"Answer: Mary.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Bill? 
+152,Bill,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Bill",Who received the apple? 
+153,Bill,"Answer: Elsie.
+
+Question: Who gave the apple to Jeff?",Who gave the apple to Jeff? 
+154,apple,"Answer: Bill gave Jeff a piece of bread.
+
+Question: What did Bill give",What did Bill give to Jeff? 
+155,football,"Answer: A football.
+
+Question: What did Bill give to Mary?",What did Mary give to Bill? 
+156,football,"Answer: The milk.
+
+QUESTION: What did Bill give to Mary? Answer: The",What did Mary give to Bill? 
+157,Mary,"Answer: Mary.
+
+Question: Who did Bill give the football to?",Who did Bill give the football to? 
+158,football,"Answer: A football.
+
+Question: What did Mary give to Bill? Answer: A football",What did Bill give to Mary? 
+159,Bill,"Answer: Mary.
+
+Question: Who received the apple? Answer: Mary.
+
+Question",Who received the apple? 
+160,Bill,"Answer: Bill.
+
+Question: Who gave the apple to Bill? Answer: Fred.",Who did Fred give the apple to? 
+161,apple,"Answer: The apple.
+
+Question: What did Bill give to Fred?",What did Fred give to Bill? 
+162,apple,"Answer: A stick. Bill: What was the
+object of this? Fred: To protect the",What did Fred give to Bill? 
+163,Fred,"Answer: Fred.
+
+Question: Who gave the apple? Answer: Fred.
+
+Question",Who gave the apple? 
+164,Jeff,"Answer: Bill.
+
+Question: Who received the apple? Answer: Bill.
+
+Question",Who received the apple? 
+165,Jeff,"Answer: Mary.
+
+Question: Who received the apple?
+Answer: Mary.",Who received the apple? 
+166,Jeff,"Answer: Mary.
+
+Question: Who received the apple?
+Answer: Mary.",Who received the apple? 
+167,Jeff,"Answer: Jeff.
+
+Question: Who went back to the kitchen?
+
+Answer",Who received the apple? 
+168,apple,"Answer: She gave him the apple.
+
+Question: What did Jeff give to Mary",What did Mary give to Jeff? 
+169,Bill,"Answer: Fred gave the milk to Bill.
+
+Question: Who gave the milk to",Who gave the milk to Fred? 
+170,football,"Answer: A blackberry.
+
+Question: What did Bill give to Mary?",What did Mary give to Bill? 
+171,Bill,"Answer: Mary gave the football to Bill.
+
+Question: Who did Mary give the football to",Who did Mary give the football to? 
+172,football,"Answer: A football.
+
+Question: What did Mary give to Bill?",What did Bill give to Mary? 
+173,football,"Answer: A gold watch.
+
+Question: What did Bill give to Mary?",What did Bill give to Mary? 
+174,Mary,"Answer: Bill gave it to Mary.
+
+Question: Who did Mary give the football to?",Who did Bill give the football to? 
+175,football,"Answer: A
+purse. Question: What did Bill give to Jeff? Answer: A",What did Jeff give to Bill? 
+176,football,Answer: A thousand sovereigns to a gooseberry that in this house I'm a,What did Bill give to Mary? 
+177,Mary,"Answer: Jeff.
+
+Question: Who received the football?
+
+Answer: Bill",Who received the football? 
+178,Bill,"Answer: Fred.
+
+
+<context>
+   I am a man of many years,",Who gave the football? 
+179,football,"Answer: A football.
+
+Question: What did Fred give to Bill?",What did Bill give to Fred? 
+180,Fred,"Answer: Katy.
+
+Question: Who gave the milk to Jeff?",Who gave the milk to Jeff? 
+181,milk,"Answer: A dollar.
+
+Question: What did Mary give to Jeff? Answer: A dollar",What did Jeff give to Mary? 
+182,Mary,"Answer: Jeff.
+
+Question: Who was the lieutenant?
+
+Answer: Edward",Who received the milk? 
+183,Mary,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Fred",Who gave the milk? 
+184,Fred,"Answer: The lady.
+
+Question: Who received the milk?
+
+Answer:",Who received the milk? 
+185,football,"Answer: She gave him a football.
+
+Question: What did Bill do with the",What did Mary give to Bill? 
+186,football,Answer: A football. Question: What did Bill do with the football? Answer: He threw it,What did Mary give to Bill? 
+187,football,"Answer: A football.
+
+Question: What did Bill give to Mary? Answer: A football",What did Mary give to Bill? 
+188,Bill,"Answer: Mary.
+
+Question: Who gave the football?
+
+Answer: Jeff",Who gave the football? 
+189,football,"Answer: The football.
+
+Question: What did Mary give to Bill? Answer: The football",What did Bill give to Mary? 
+190,Fred,"Answer: The Parish Priest.
+
+Question: Who gave the football?
+
+Answer",Who gave the football? 
+191,Fred,"Answer: Jeff.
+
+Question: Who gave the football to Fred?
+
+Answer",Who gave the football to Jeff? 
+192,football,"Answer: The football.
+
+Question: What did Jeff give to Fred? Answer: The football",What did Fred give to Jeff? 
+193,apple,"Answer: Bill gave the apple to Fred.
+
+Question: What did Fred do with",What did Bill give to Fred? 
+194,Bill,"Answer: Fred.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Fred? 
+195,milk,"Answer: A milk.
+
+Question: What did Bill give to Mary?",What did Mary give to Bill? 
+196,Mary,"Answer: Bill.
+
+Question: Who gave the milk?
+
+Answer: Bill",Who gave the milk? 
+197,Bill,"Answer: Bill.
+
+Question: Who gave the milk?
+
+Answer: Bill",Who gave the milk? 
+198,milk,"Answer: A kiss.
+
+Question: What did Mary give to Bill?",What did Bill give to Mary? 
+199,Mary,"Answer: Mary.
+
+Question: Who gave the milk?
+Answer: Mary.",Who gave the milk? 
+200,milk,"Answer: A bottle of milk.
+
+Question: What did Bill give to Jeff?",What did Jeff give to Bill? 
+201,milk,"Answer: A little money.
+
+Question: What did Jeff give to Grace? Answer: A",What did Jeff give to Bill? 
+202,milk,"Answer: A football.
+
+Question: What did Bill give to Jeff? Answer: A football",What did Jeff give to Bill? 
+203,Mary,"Answer: Mary.
+
+Question: Who gave the football?
+
+Answer: Fred",Who gave the football? 
+204,Fred,"Answer: Mary gave the football to Fred.
+
+Question: Who did Fred give the",Who did Mary give the football to? 
+205,Fred,"Answer: Bill.
+
+Question: Who received the football?
+
+Answer: Bill",Who received the football? 
+206,Fred,"Answer: Mary gave it to Fred.
+
+Question: Who did Fred give it to",Who did Mary give the football to? 
+207,Jeff,"Answer: Fred gave it to Jeff.
+
+Question: Who did Jeff give the football",Who did Fred give the football to? 
+208,Fred,"Answer: Mary.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who gave the football to Jeff? 
+209,Jeff,"Answer: Jeff.
+
+Question: Who gave the football to Fred?
+
+Answer",Who gave the football to Fred? 
+210,Fred,"Answer: Jeff.
+
+Question: Who gave the milk to Jeff? Answer: Jeff.",Who gave the milk to Jeff? 
+211,Fred,"Answer: Mary.
+
+Question: Who gave the milk?
+Answer: Mary.",Who gave the milk? 
+212,Jeff,"Answer: I did.
+
+Question: Who gave the milk to Jeff?",Who gave the milk to Fred? 
+213,Jeff,"Answer: Mary.
+
+Question: Who gave the apple to Fred? Answer: Mary.",Who gave the milk to Fred? 
+214,Fred,"Answer: Eachin.
+
+Question: Who gave the milk?
+
+Answer:",Who gave the milk? 
+215,Fred,"Answer: Peter.
+
+Question: Who gave the apple to Peter?
+
+Answer",Who gave the apple to Mary? 
+216,Mary,"Answer: Mary.
+
+Question: Who received the apple?
+
+Answer: Fred",Who received the apple? 
+217,Bill,"Answer: Mary.
+
+Question: Who received the apple?
+
+Answer: Peter",Who received the apple? 
+218,Mary,"Answer: Fred gave the milk to Mary.
+
+Question: Who did Mary give the",Who did Fred give the milk to? 
+219,Mary,"Answer: The Brownies.
+
+
+
+
+THE BROWNIES' [Illustration] FLAG-POLE",Who gave the apple? 
+220,Bill,"Answer: Bill.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who gave the apple to Mary? 
+221,Bill,"Answer: Mary.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Mary? 
+222,Mary,"Answer: Mary.
+
+Question: Who gave the apple to Leib?
+
+Answer",Who gave the apple to Bill? 
+223,Bill,"Answer: Bill.
+
+Question: Who did Mary give the apple to? Answer: Bill.",Who did Mary give the apple to? 
+224,apple,"Answer: The apple.
+
+Question: What did Mary give to Bill? Answer: The apple",What did Bill give to Mary? 
+225,football,"Answer: He gave him a football.
+
+Question: What did Fred do with the",What did Jeff give to Fred? 
+226,Jeff,"Answer: Jeff.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who gave the football to Fred? 
+227,football,"Answer: A football.
+
+
+<context>
+   I keep your memory near my heart,",What did Jeff give to Fred? 
+228,football,"Answer: The football.
+
+Question: What did Fred give to Jeff? Answer: The football",What did Jeff give to Fred? 
+229,football,"Answer: A football.
+
+Question: What did Fred give to Jeff? Answer: A football",What did Jeff give to Fred? 
+230,apple,"Answer: ""A piece of bread.""
+
+Question: What did Fred give to Bill? Answer",What did Fred give to Bill? 
+231,Bill,"Answer: Captain Dawson.
+
+Question: Who was the first to enter the Shah Nu",Who did Fred give the apple to? 
+232,Fred,"Answer: Fred.
+
+Question: Who gave the apple to Bill?
+
+Answer",Who gave the apple to Bill? 
+233,Fred,"Answer: Fred.
+
+Question: Who gave the apple to Bill?
+
+Answer",Who gave the apple to Bill? 
+234,Fred,"Answer: Fred.
+
+Question: Who gave the apple?
+
+Answer: Fred",Who gave the apple? 
+235,Bill,"Answer: Mary gave the football to Bill.
+
+Question: Who gave the football to",Who gave the football to Mary? 
+236,Bill,"Answer: Mary.
+
+Question: Who gave the football?
+
+Answer: Mary",Who gave the football? 
+237,football,"Answer: Bill gave the football to Mary.
+
+Question: What did Mary do with",What did Bill give to Mary? 
+238,Bill,"Answer: Bill.
+
+Question: Who gave the football to Amy?
+
+Answer",Who gave the football to Mary? 
+239,Bill,"Answer: Fred.
+
+Question: Who gave the football to Bill? Answer: Bill.",Who gave the football? 
+240,Fred,"Answer: Fred.
+
+Question: Who gave the football to Bill?
+
+Answer",Who gave the football to Bill? 
+241,Fred,"Answer: Fred.
+
+Question: Who gave the football?
+
+Answer: Fred",Who gave the football? 
+242,Fred,"Answer: Fred.
+
+Question: Who gave the football to Bill? Answer: Fred.",Who gave the football to Bill? 
+243,Bill,"Answer: Bill.
+
+Question: Who gave the football to Bill? Answer: Fred.",Who gave the football to Fred? 
+244,football,"Answer: The football.
+
+Question: What did Fred give to Bill?",What did Bill give to Fred? 
+245,football,"Answer: A ball.
+
+Question: What did Mary give to Jeff? Answer: A ball",What did Jeff give to Mary? 
+246,Mary,"Answer: Bill.
+
+Question: Who gave the football?
+
+Answer: Bill",Who gave the football? 
+247,Mary,"Answer: Mary.
+
+Question: Who gave the apple? Answer: Mary.
+
+Question",Who gave the football? 
+248,Bill,"Answer: Bill.
+
+Question: Who gave the apple?
+Answer: Bill.",Who gave the apple? 
+249,Mary,"Answer: The priest.
+
+Question: Who gave the apple to Mary?",Who gave the apple to Bill? 
+250,apple,"Answer: The apple.
+
+Question: What did Fred give to Mary?",What did Mary give to Fred? 
+251,Fred,"Answer: Mary.
+
+Question: Who received the apple?
+
+Answer: Mary",Who received the apple? 
+252,Mary,"Answer: Fred.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the apple? 
+253,Jeff,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff? Answer: Fred.",Who received the apple? 
+254,apple,"Answer: He gave the apple to Jeff.
+
+Question: What did Jeff do with",What did Fred give to Jeff? 
+255,Fred,"Answer: The monks of the Abbey of Nuns.
+
+Question: Who received the",Who received the milk? 
+256,Jeff,"Answer: Fred.
+
+Question: Who gave the football to Bill?
+
+Answer",Who gave the milk to Fred? 
+257,Jeff,"Answer: Jeff.
+
+Question: Who gave the football? Answer: Jeff.
+
+Question",Who gave the milk? 
+258,football,Answer: A sixpence. Bill took the football there. Jeff went back to the bedroom.,What did Bill give to Mary? 
+259,Mary,"Answer: Mary.
+
+Question: Who did Fred give the apple to?",Who did Fred give the milk to? 
+260,Jeff,"Answer: Jeff.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who gave the apple to Mary? 
+261,Fred,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Mary? 
+262,Mary,"Answer: Mary.
+
+Jessica: Oh, I see.
+
+Reuben",Who gave the apple? 
+263,apple,"Answer: A piece of paper, on which was written, “I give you this apple",What did Mary give to Bill? 
+264,apple,"Answer: A piece of bread.
+
+Question: What did Bill give to Mary?",What did Mary give to Bill? 
+265,football,"Answer: A piece of bread.
+
+Question: What did Bill give to Fred? Answer:",What did Fred give to Bill? 
+266,Fred,"Answer: Bill.
+
+Question: Who gave the football?
+
+Answer: Bill",Who gave the football? 
+267,Fred,"Answer: Mary.
+
+Question: Who gave the apple to Fred? Answer: Fred.",Who gave the football to Bill? 
+268,Mary,"Answer: Mary.
+
+Question: Who did Mary give the football to?",Who did Bill give the football to? 
+269,Mary,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Bill",Who gave the football? 
+270,Mary,"Answer: Mary. Question: Who gave it to
+Mary? Answer: Mary. Question: Who",Who received the apple? 
+271,Mary,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Mary",Who gave the apple? 
+272,apple,"Answer: A piece of apple.
+
+Question: What did Jeff give to Mary? Answer:",What did Mary give to Jeff? 
+273,Bill,"Answer: Smith.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Jeff? 
+274,apple,"Answer: He gave him the apple.
+
+Question: What did Fred give to Jeff",What did Jeff give to Fred? 
+275,Mary,"Answer: Jeff.
+
+Question: Who received the milk?
+
+Answer: Jeff",Who received the football? 
+276,Mary,"Answer: Jeff.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who received the football? 
+277,football,"Answer: Mary gave the football to Jeff.
+
+Question: What did Jeff give to",What did Mary give to Jeff? 
+278,Mary,"Answer: Jeff gave the football to Mary.
+
+Question: Who did Mary give the",Who did Jeff give the football to? 
+279,Mary,"Answer: Mary.
+
+Question: Who received the football?
+
+Answer: Jeff",Who received the football? 
+280,Fred,"Answer: The Pope.
+
+Question: Who gave the apple?
+
+Answer:",Who gave the apple? 
+281,apple,"Answer: A piece of bread.
+
+Question: What did Fred give to Mary? Answer:",What did Mary give to Fred? 
+282,Fred,"Answer: ""I gave it to Mary.""
+
+Question: Who gave the apple to",Who gave the apple to Mary? 
+283,Fred,"Answer: Lester.
+
+Question: Who gave the apple?
+
+Answer:",Who received the apple? 
+284,apple,"Answer: The apple.
+
+Question: What did Mary give to Fred? Answer: The apple",What did Fred give to Mary? 
+285,Fred,"Answer: Beulah.
+
+Question: Who gave the apple?
+
+Answer",Who gave the apple? 
+286,Fred,"Answer: Bill.
+
+Question: Who gave the apple to Fred?
+
+Answer",Who gave the apple to Bill? 
+287,Fred,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Bill? 
+288,apple,Answer: The apple. Bill went to the kitchen. Fred went to the bedroom. Bill went to,What did Fred give to Bill? 
+289,Bill,"Answer: The Duchess.
+
+Question: Who gave the apple to Bill?",Who gave the apple to Mary? 
+290,Mary,"Answer: Mary.
+
+Question: Who gave the milk to Mary?
+
+Answer",Who gave the milk to Bill? 
+291,Bill,"Answer: The ""True Relation"" of Strachey, which was published in 16",Who gave the milk? 
+292,Mary,"Answer: William Strachey.
+
+Question: Who gave the milk to Mary?",Who gave the milk to Bill? 
+293,Bill,"Answer: Mary gave the milk to Bill.
+
+Question: Who gave the milk to",Who did Mary give the milk to? 
+294,apple,"Answer: A dollar.
+
+Question: What did Fred give to Jeff? Answer: A dollar",What did Jeff give to Fred? 
+295,milk,"Answer: A dollar.
+
+Question: What did Jeff give to Mary? Answer: A dollar",What did Mary give to Jeff? 
+296,Mary,"Answer: Jeff.
+
+Question: Who gave the milk?
+
+Answer: Jeff",Who gave the milk? 
+297,milk,"Answer: She gave him the milk.
+
+Question: What did Jeff give to Mary",What did Mary give to Jeff? 
+298,milk,"Answer: A piece of cloth.
+
+Question: What did Jeff give to Mary? Answer:",What did Mary give to Jeff? 
+299,Bill,"Answer: Sir Thomas Dale.
+
+Question: Who gave the milk to Jeff?",Who gave the milk to Jeff? 
+300,football,"Answer: A football.
+
+Question: What did Fred give to Mary?",What did Mary give to Fred? 
+301,Fred,"Answer: Mary gave it to Fred.
+
+Question: Who did Fred give the football",Who did Mary give the football to? 
+302,Mary,"Answer: Lester.
+
+Question: Who gave the football to Robert? Answer: Lester",Who gave the football to Fred? 
+303,Mary,"Answer: Jeff.
+
+Question: Who did Mary give the apple to?",Who did Fred give the apple to? 
+304,Fred,"Answer: Fred.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who gave the apple to Mary? 
+305,Jeff,"Answer: Mary.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Mary? 
+306,Mary,"Answer: Mary.
+
+Question: Who gave the apple to Mary? Answer: Jeff.",Who did Jeff give the apple to? 
+307,milk,"Answer: The milk.
+
+Question: What did Fred give to Mary? Answer: The milk",What did Mary give to Fred? 
+308,Fred,"Answer: The milk was given to Fred.
+
+Question: Who gave the milk to",Who did Mary give the milk to? 
+309,Fred,"Answer: Mary.
+
+Question: Who gave the milk to Mary?
+
+Answer",Who received the milk? 
+310,Mary,"Answer: Mary.
+
+Question: Who gave the football to Bill?
+
+Answer",Who gave the football to Bill? 
+311,Bill,"Answer: Mary.
+
+Question: Who gave the football to Bill?
+
+Answer",Who gave the football? 
+312,football,"Answer: A bottle of medicine.
+
+Question: What did Mary give to Bill? Answer:",What did Bill give to Mary? 
+313,apple,"Answer: A football.
+
+Question: What did Mary give to Bill? Answer: A football",What did Bill give to Mary? 
+314,Bill,"Answer: Jeff gave the football to Bill.
+
+Question: Who did Bill give the",Who did Jeff give the football to? 
+315,milk,"Answer: A piece of pie.
+
+Question: What did Bill give to Jeff? Answer:",What did Jeff give to Bill? 
+316,Bill,"Answer: Bill.
+
+Question: Who received the milk?
+
+Answer: Bill",Who received the milk? 
+317,milk,"Answer: A five-dollar bill.
+
+Question: What did Bill give to Jeff",What did Jeff give to Bill? 
+318,apple,"Answer: He gave her a little apple.
+
+Question: What did Mary give to",What did Fred give to Mary? 
+319,Fred,"Answer: Mary gave it to Fred.
+
+Question: Who gave it to Jeff?",Who did Mary give the apple to? 
+320,Mary,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Fred",Who gave the apple? 
+321,apple,"Answer: A dollar.
+
+Question: What did Bill do with the dollar?",What did Mary give to Bill? 
+322,Mary,"Answer: Mary.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who did Jeff give the football to? 
+323,Mary,"Answer: Jeff.
+
+Question: Who received the milk?
+
+Answer: Mary",Who received the football? 
+324,Mary,"Answer: Jeff.
+
+Question: Who gave the football to Mary?
+
+Answer",Who received the football? 
+325,Bill,"Answer: I do not know.
+
+Question: Who gave the apple to Mary?",Who gave the football to Mary? 
+326,Bill,"Answer: The nuns.
+
+Question: Who gave the apple?
+
+Answer",Who gave the football? 
+327,Jeff,"Answer: Jeff.
+
+Question: Who was the recipient of the apple?",Who received the apple? 
+328,apple,"Answer: A football.
+
+Question: What did Jeff give to Bill?",What did Bill give to Jeff? 
+329,apple,"Answer: A football.
+
+Question: What did Jeff give to Bill? Answer: A football",What did Bill give to Jeff? 
+330,apple,"Answer: A piece of paper.
+
+Question: What did Mary give to Fred?",What did Fred give to Mary? 
+331,apple,"Answer: A red tag.
+
+Question: What did Fred give to Mary? Answer: A",What did Fred give to Mary? 
+332,Fred,"Answer: Fred.
+
+Question: Who gave the apple?
+
+Answer: Fred",Who gave the apple? 
+333,Bill,"Answer: Bill.
+
+Question: Who received the apple? Answer: Mary.
+
+Question",Who received the apple? 
+334,apple,"Answer: A bottle of water. ""I don't know,"" said Bill. ""I don't",What did Mary give to Bill? 
+335,Mary,"Answer: The apple was given to the girl.
+
+Question: Who gave the apple",Who gave the apple? 
+336,apple,"Answer: A new suit of clothes.
+
+Question: What did Fred give to Mary? Answer",What did Mary give to Fred? 
+337,apple,"Answer: A small apple.
+
+Question: What did Mary give to Fred?",What did Fred give to Mary? 
+338,apple,"Answer: The apple.
+
+Question: What did Mary give to Fred? Answer: The apple",What did Fred give to Mary? 
+339,Mary,"Answer: Mary.
+
+Question: Who did Bill give the apple to? Answer: Fred.",Who did Fred give the apple to? 
+340,apple,Answer: A football. Mary went to the kitchen. Fred went to the garden. Bill went to,What did Fred give to Bill? 
+341,Bill,"Answer: Bill.
+
+Question: Who gave the apple to Fred?
+
+Answer",Who gave the apple to Fred? 
+342,Bill,"Answer: Fred.
+
+Question: Who gave the apple?
+
+Answer: Fred",Who received the apple? 
+343,apple,"Answer: A piece of apple.
+
+Question: What did Bill give to Fred? Answer:",What did Fred give to Bill? 
+344,apple,"Answer: A nickel.
+
+Question: What did Bill give to Fred? Answer: A nickel",What did Fred give to Bill? 
+345,milk,"Answer: She gave him a piece of bread.
+
+Question: What did Jeff give",What did Mary give to Jeff? 
+346,Mary,"Answer: The Vryburger Jurrian Verwyk.
+
+Question: Who",Who gave the milk to Jeff? 
+347,Jeff,"Answer: Mary. Jeff went to the kitchen.
+""Mary, you are a good girl.",Who gave the milk? 
+348,Fred,"Answer: Jeff.
+
+Question: Who received the milk?
+
+Answer: Mary",Who received the milk? 
+349,Jeff,"Answer: Bill.
+
+Question: Who gave the milk to Jeff?
+
+Answer",Who gave the milk to Fred? 
+350,Jeff,"Answer: Bill.
+
+Question: Who gave the milk?
+
+Answer: Bill",Who gave the milk? 
+351,Mary,"Answer: Mary.
+
+Question: Who gave the milk to Bill?
+
+Answer",Who gave the milk to Bill? 
+352,milk,Answer: A piece of bread. Bill gave to Jeff a piece of bread. Bill gave to Jeff,What did Bill give to Jeff? 
+353,Bill,"Answer: Jeff.
+
+Question: Who received the milk?
+
+Answer: Jeff",Who received the milk? 
+354,milk,"Answer: The milk. Bill went to the kitchen. Jeff went to the bathroom. The
+ass",What did Jeff give to Bill? 
+355,Bill,"Answer: Macloud.
+
+Question: Who gave the milk? Answer: Macloud",Who gave the milk? 
+356,Bill,"Answer: The <DW64>s.
+
+Question: Who gave the milk to",Who gave the milk to Fred? 
+357,Bill,"Answer: The Parallelopipedon.
+
+Question: What did the Par",Who gave the milk to Fred? 
+358,apple,"Answer: A quart of cream, a pound of
+cheese, a pound of bacon, a",What did Jeff give to Fred? 
+359,Fred,"Answer: Fred.
+
+Question: Who did Jeff give the apple to? Answer: Fred.",Who did Jeff give the apple to? 
+360,Mary,Answer: Jeff. Question: Who received the apple? Answer: Jeff. Question: Who received the,Who received the apple? 
+361,Bill,"Answer: Jeff.
+
+Question: Who did Jeff give the apple to? Answer: Mary.",Who did Mary give the apple to? 
+362,apple,"Answer: Mary gave to Bill the apple.
+
+Question: What did Bill do with",What did Mary give to Bill? 
+363,Mary,"Answer: Mary.
+
+Question: Who did Bill give the apple to?",Who did Bill give the apple to? 
+364,Bill,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the apple? 
+365,Jeff,"Answer: Jeff.
+
+Question: Who received the apple? Answer: Jeff.
+
+Question",Who received the apple? 
+366,Jeff,"Answer: The ship-owner.
+
+Question: Who gave the apple?",Who gave the apple? 
+367,Bill,"Answer: Bill.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who received the football? 
+368,Bill,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the football? 
+369,Bill,"Answer: Mary gave it to Bill.
+
+Question: Who did Bill give the apple",Who did Mary give the football to? 
+370,Fred,"Answer: Mary gave it to Freddy.
+
+Question: Who did Freddy give",Who did Mary give the football to? 
+371,Mary,"Answer: Fred.
+
+Question: Who gave the football to Mary?
+
+Answer",Who gave the football to Fred? 
+372,Fred,"Answer: Fred.
+
+Question: Who gave the football to Mary?
+
+Answer",Who gave the football to Mary? 
+373,Jeff,"Answer: Jack Kirke.
+
+Question: Who did Mary give the football to?",Who did Mary give the football to? 
+374,football,"Answer: A doll.
+
+Question: What did Jeff give to Mary?",What did Mary give to Jeff? 
+375,Fred,"Answer: Bill.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the apple? 
+376,Fred,"Answer: Bill.
+
+Question: Who gave the apple?
+
+Answer: Bill",Who gave the apple? 
+377,Bill,"Answer: Bill.
+
+Question: Who gave the apple?
+Answer: Bill.",Who gave the apple? 
+378,apple,"Answer: A piece of paper.
+
+Question: What did Bill do with the paper? Answer",What did Fred give to Bill? 
+379,Fred,"Answer: Mary.
+
+Question: Who did Bill give the apple to? Answer: Mary.",Who did Bill give the apple to? 
+380,milk,"Answer: She gave him a great deal of money, and he spent it all in",What did Mary give to Bill? 
+381,Bill,"Answer: The milk was given to Mary by the priest.
+
+Question: Who gave",Who gave the milk? 
+382,milk,"Answer: The milk of a Bison.
+
+Question: What did Mary give to",What did Mary give to Fred? 
+383,milk,"Answer: Milk.
+
+Question: What did Mary give to Fred?
+
+Answer",What did Fred give to Mary? 
+384,milk,"Answer: A milk-pail.
+
+Question: What did Mary give to Fred",What did Fred give to Mary? 
+385,football,"Answer: A piece of paste-board.
+
+Question: What did Mary give to Bill?",What did Bill give to Mary? 
+386,Mary,"Answer: Mary. [Footnote 083: The
+'Mae-nalian,' or Arc",Who did Bill give the football to? 
+387,football,"Answer: A piece of bread.
+
+Question: What did Mary give to Fred?",What did Fred give to Mary? 
+388,Fred,"Answer: Mary gave it to Fred.
+
+Question: Who gave the football to Fred",Who did Mary give the football to? 
+389,Mary,"Answer: Rags.
+
+Question: Who gave the football?
+
+Answer:",Who gave the football? 
+390,Fred,"Answer: Rags.
+
+Question: Who gave the apple?
+
+Answer:",Who gave the apple? 
+391,apple,"Answer: He gave him a piece of bread.
+
+Question: What did Jeff give",What did Fred give to Jeff? 
+392,Fred,"Answer: Jeff.
+
+Question: Who received the apple? Answer: Jeff.
+
+Question",Who received the apple? 
+393,Fred,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who received the apple? 
+394,Jeff,"Answer: Fred.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Fred? 
+395,Mary,"Answer: Hilary.
+
+Question: Who gave the apple?
+
+Answer:",Who gave the apple? 
+396,Bill,"Answer: Mary gave the apple to Pauline.
+
+Question: Who did Paul give",Who did Mary give the apple to? 
+397,Fred,"Answer: Bill.
+
+Question: Who gave the apple to Bill?
+
+Answer",Who gave the apple to Bill? 
+398,Fred,"Answer: Freddy.
+
+Question: Who gave the apple to Bill? Answer: Freddy",Who did Bill give the apple to? 
+399,Fred,"Answer: Mary.
+Question: Who gave the apple to Bill?
+Answer: Fred.",Who received the apple? 
+400,Mary,"Answer: The son of the great King of the North.
+
+Question: Who gave",Who gave the football to Fred? 
+401,Fred,"Answer: To the eunuch Bagous.
+Question: What did he do with it?",Who did Mary give the football to? 
+402,Fred,"Answer: The Saviour.
+
+Question: Who did Mary give the football to?",Who did Mary give the football to? 
+403,Fred,"Answer: Jeff.
+
+Question: Who gave the apple to Mary? Answer: Mary.",Who gave the apple to Jeff? 
+404,apple,"Answer: A medal.
+
+Question: What did Jeff give to Fred?",What did Fred give to Jeff? 
+405,apple,"Answer: He gave him the apple.
+
+Question: What did Bill do with the",What did Fred give to Bill? 
+406,Fred,"Answer: Sir W. Pen.
+
+Question: Who gave the apple?",Who gave the apple? 
+407,Fred,"Answer: The Captain and I.
+
+Question: Who received the apple?",Who received the apple? 
+408,Fred,"Answer: Bill.
+
+Question: Who gave the apple to Jeff? Answer: Bill.",Who gave the apple to Jeff? 
+409,apple,"Answer: The apple.
+
+Question: What did Bill give to Jeff?",What did Fred give to Jeff? 
+410,milk,"Answer: Bill gave Jeff a nickel.
+
+Question: What did Jeff do with the",What did Bill give to Jeff? 
+411,Jeff,"Answer: Dan.
+
+Question: Who gave the milk to Jeff? Answer: Dan.",Who gave the milk to Bill? 
+412,milk,"Answer: A piece of cloth.
+
+Question: What did Bill give to Jeff?",What did Jeff give to Bill? 
+413,milk,"Answer: A letter.
+
+Question: What did Bill give to Jeff?",What did Jeff give to Bill? 
+414,Jeff,"Answer: Jeff.
+
+Question: Who gave the milk to Jeff?
+
+Answer",Who gave the milk to Mary? 
+415,milk,"Answer: A piece of bread.
+
+Question: What did Jeff give to Fred? Answer:",What did Fred give to Jeff? 
+416,milk,"Answer: A penny.
+
+Question: What did Fred give to Jeff?",What did Jeff give to Fred? 
+417,Fred,"Answer: Jeff.
+
+Question: Who received the milk?
+
+Answer: Jeff",Who received the milk? 
+418,Jeff,"Answer: Jeff.
+
+Question: Who gave the milk to Jeff?
+
+Answer",Who did Fred give the milk to? 
+419,Jeff,"Answer: Jeff.
+
+Question: Who gave the milk to Bill?
+
+Answer",Who gave the milk to Fred? 
+420,Fred,"Answer: Mary.
+
+Question: Who gave the football?
+Answer: Mary.",Who gave the football? 
+421,Fred,"Answer: Martin Hartog.
+
+Question: Who received the football?
+
+Answer",Who received the football? 
+422,football,"Answer: A piece of paper.
+
+Question: What did Fred give to Mary?",What did Mary give to Fred? 
+423,football,"Answer: A little money.
+
+Question: What did Fred give to Mary? Answer: A",What did Mary give to Fred? 
+424,Fred,"Answer: Bill.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who gave the football to Mary? 
+425,apple,"Answer: A pair of socks.
+
+Question: What did Bill give to Fred? Answer:",What did Fred give to Bill? 
+426,Fred,"Answer: Fred.
+
+Question: Who received the apple?
+
+Answer: Fred",Who received the apple? 
+427,apple,"Answer: He gave her a kiss.
+
+Question: What did Mary give to Fred",What did Fred give to Mary? 
+428,Fred,"Answer: Bill.
+
+Question: Who gave the apple to Bill? Answer: Fred.",Who received the apple? 
+429,Mary,"Answer: The House of Commons.
+
+Question: Who gave the apple?",Who gave the apple? 
+430,Jeff,"Answer: Fred gave it to the SQUIRE.
+
+Question: Who did the",Who did Fred give the apple to? 
+431,apple,"Answer: A piece of apple.
+
+Question: What did Jeff give to Fred?",What did Fred give to Jeff? 
+432,Fred,"Answer: Jeff.
+
+Question: Who gave the apple to Fred?
+
+Answer",Who gave the apple to Jeff? 
+433,Jeff,"Answer: Jeff.
+
+Question: Who gave the apple to Fred?
+
+Answer",Who received the apple? 
+434,Mary,"Answer: Fred.
+
+Question: Who received the apple? Answer: Fred.
+
+Question",Who received the football? 
+435,apple,"Answer: A
+
+Question: What did Mary give to Bill? Answer: A
+
+Question",What did Bill give to Mary? 
+436,Mary,"Answer: The king.
+
+Question: Who did Bill give the apple to?",Who did Bill give the apple to? 
+437,Fred,"Answer: The Church.
+
+Question: Who gave the apple?
+
+Answer:",Who gave the apple? 
+438,Fred,"Answer: The Church.
+
+Question: Who gave the apple to Mary?
+Answer:",Who received the apple? 
+439,Mary,"Answer: Bill.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who gave the apple to Fred? 
+440,apple,"Answer: A piece of the apple.
+
+Question: What did Bill do with the apple?",What did Mary give to Bill? 
+441,Mary,"Answer: Mary.
+
+Question: Who did Mary give the apple to? Answer: Bill.",Who did Bill give the apple to? 
+442,apple,"Answer: A piece of bread.
+
+Question: What did Mary give to Bill?",What did Bill give to Mary? 
+443,Mary,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Mary",Who gave the apple? 
+444,Mary,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Fred",Who gave the apple? 
+445,apple,"Answer: A little apple.
+
+Question: What did Fred do with it?",What did Mary give to Fred? 
+446,Fred,"Answer: The Count.
+
+Question: Who gave the apple to the Count?",Who did Mary give the apple to? 
+447,milk,"Answer: A little apple.
+
+Question: What did Bill give to Mary?",What did Mary give to Bill? 
+448,Bill,"Answer: Mary.
+
+Question: Who was the passenger on the boat?",Who received the milk? 
+449,milk,"Answer: The money.
+
+Question: What did Mary give to Bill?",What did Bill give to Mary? 
+450,Mary,"Answer: Bill.
+
+Question: Who gave the apple to Mary? Answer: Mary.",Who gave the apple to Bill? 
+451,apple,"Answer: ""A' wud hae tae be a' tae the doctor",What did Mary give to Bill? 
+452,Bill,"Answer: Fred.
+
+Question: Who gave the apple to Bill?
+
+Answer",Who gave the apple to Fred? 
+453,Fred,"Answer: Fred.
+
+Question: Who gave the apple to Fred? Answer: Fred.",Who gave the apple to Bill? 
+454,Bill,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the apple? 
+455,Fred,"Answer: Fred.
+
+Question: Who did Bill give the milk to? Answer: Fred.",Who did Mary give the milk to? 
+456,Mary,"Answer: Fred.
+
+Question: Who gave the milk?
+
+Answer: Fred",Who gave the milk? 
+457,Fred,"Answer: Fred.
+
+Question: Who did Mary give the milk to? Answer: Fred.",Who did Mary give the milk to? 
+458,Mary,"Answer: Fred.
+
+Question: Who gave the milk?
+Answer: Fred.",Who gave the milk? 
+459,milk,"Answer: A piece of apple.
+
+Question: What did Jeff give to Fred?",What did Fred give to Jeff? 
+460,Mary,"Answer: Mary.
+
+Question: Who gave the doll? Answer: Mary.
+
+Question",Who gave the milk? 
+461,milk,"Answer: A little brown-haired, brown-eyed girl.
+
+Question: What did Mary",What did Mary give to Bill? 
+462,Bill,"Answer: Jeff gave it to Bill.
+
+Question: Who did Bill give the football to?",Who did Jeff give the football to? 
+463,football,"Answer: He gave him a dollar.
+
+Question: What did Bill do with the",What did Jeff give to Bill? 
+464,football,"Answer: A football.
+
+Question: What did Bill give to Jeff?",What did Jeff give to Bill? 
+465,Bill,"Answer: Bill.
+
+Question: What was the _té-tchung",Who did Fred give the apple to? 
+466,Bill,"Answer: The author of the “Geschichte der Abderiten.”
+
+Question",Who gave the apple to Fred? 
+467,apple,"Answer: A book.
+
+Question: What was the book?
+
+Answer",What did Bill give to Fred? 
+468,Bill,"Answer: Fred.
+
+Question: Who gave the apple to Bill? Answer: Bill.",Who gave the apple to Fred? 
+469,Jeff,"Answer: Colonel _Don_ Felipe Diaz.
+
+Question: Who gave the apple",Who gave the apple to Fred? 
+470,Fred,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Mary",Who gave the apple? 
+471,apple,"Answer: The apple.
+
+Question: What did Mary give to Fred?",What did Fred give to Mary? 
+472,Mary,"Answer: Fred.
+
+Question: Who received the apple?
+
+Answer: Bill",Who received the apple? 
+473,Mary,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Bill",Who gave the apple? 
+474,apple,"Answer: A flower-girl of an unknown epoch.
+
+Question: What did Bill",What did Mary give to Bill? 
+475,apple,"Answer: A piece of bread.
+
+Question: What did Fred give to Mary?",What did Mary give to Fred? 
+476,apple,"Answer: A piece of bread.
+
+Question: What did Bill give to Fred? Answer:",What did Fred give to Bill? 
+477,Fred,"Answer: Bill.
+
+Question: Who gave the apple to Bill?
+
+Answer",Who gave the apple to Bill? 
+478,Bill,"Answer: Fred.
+
+Question: Who gave the apple to Bill?
+
+Answer",Who gave the apple to Fred? 
+479,Fred,"Answer: Bill.
+
+Question: Who gave the apple to Fred?
+
+Answer",Who gave the apple to Bill? 
+480,Fred,"Answer: The Maroquine dynasty.
+
+Question: Who gave the apple?",Who gave the apple? 
+481,Fred,"Answer: Bill.
+
+Question: Who gave the apple? Answer: Bill.
+
+Question",Who gave the apple? 
+482,apple,"Answer: The apple.
+
+Question: What did Bill give to Fred? Answer: The apple",What did Fred give to Bill? 
+483,Bill,"Answer: Jeff.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the apple? 
+484,Bill,"Answer: Jeff.
+
+Question: Who gave the apple to Bill?
+
+Answer",Who gave the apple to Mary? 
+485,Bill,"Answer: Fred gave it to Bill.
+
+Question: Who did Bill give it to",Who did Fred give the apple to? 
+486,apple,"Answer: A piece of wood.
+
+Question: What did Bill give to Fred?",What did Fred give to Bill? 
+487,Bill,"Answer: Bill.
+
+Question: Who gave the apple?
+
+Answer: Bill",Who gave the apple? 
+488,Bill,"Answer: The French TYRANT.
+
+Question: Who gave the apple to Bill",Who gave the apple to Mary? 
+489,Bill,"Answer: Jeff.
+
+Question: Who gave the apple? Answer: Jeff.
+
+Question",Who gave the apple? 
+490,Bill,"Answer: Jeff.
+
+Question: Who gave the milk to Mary? Answer: Jeff.",Who gave the apple to Mary? 
+491,Mary,"Answer: Jeff.
+
+Question: Who carried the apple?
+Answer: Jeff.",Who received the apple? 
+492,milk,"Answer: A piece of bread.
+
+Question: What did Jeff give to Fred? Answer:",What did Jeff give to Fred? 
+493,milk,"Answer: A piece of bread.
+
+Question: What did Jeff give to Fred? Answer:",What did Fred give to Jeff? 
+494,Fred,"Answer: Jeff gave the milk to Fred.
+
+Question: Who gave the apple to Jeff?",Who gave the milk to Jeff? 
+495,Jeff,"Answer: Jeff.
+
+Question: Who did Bill give the football to?",Who did Fred give the football to? 
+496,football,"Answer: A little money.
+
+Question: What did Jeff give to Fred?",What did Fred give to Jeff? 
+497,Fred,"Answer: Jeff.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who received the football? 
+498,football,"Answer: The football.
+
+Question: What did Fred give to Jeff?",What did Jeff give to Fred? 
+499,Mary,"Answer: The rector.
+
+Question: Who gave the milk?
+
+Answer",Who received the milk? 
+500,Fred,"Answer: Jeff.
+
+Question: Who received the football?
+
+Answer: Jeff",Who received the football? 
+501,Jeff,"Answer: Jeff.
+
+Question: Who gave the paper? Answer: Jeff.
+
+Question",Who gave the football? 
+502,football,Answer: A dollar. Question: What did Jeff give to Fred? Answer: A dollar. Question,What did Fred give to Jeff? 
+503,Fred,"Answer: Jeff.
+
+Question: Who gave the milk?
+
+Answer: Jeff",Who gave the football? 
+504,football,Answer: A little money. Mary went to the bedroom. Jeff went to the bedroom. Jeff went,What did Fred give to Mary? 
+505,Fred,"Answer: Jeff.
+
+Question: Who received the football?
+
+Answer: Jeff",Who received the football? 
+506,Bill,"Answer: Bill.
+
+Question: Who gave the football to Bill?
+
+Answer",Who gave the football to Fred? 
+507,Bill,"Answer: The old man.
+
+Question: Who received the football?
+Answer: The",Who received the football? 
+508,Bill,"Answer: Mary.
+
+Question: Who received the football? Answer: Fred.
+
+Question",Who received the football? 
+509,Bill,"Answer: Bill.
+
+Question: Who did Bill give the football to? Answer: Fred.",Who did Fred give the football to? 
+510,Fred,"Answer: Fred.
+
+Question: Who received the milk?
+Answer: Fred.",Who received the milk? 
+511,Jeff,"Answer: Mary.
+
+Question: Who received the milk?
+
+Answer: Mary",Who received the milk? 
+512,milk,"Answer: The milk.
+
+Question: What did Fred give to Jeff?",What did Jeff give to Fred? 
+513,milk,"Answer: He gave him the ring.
+
+Question: What did Fred give to Jeff",What did Jeff give to Fred? 
+514,Fred,"Answer: Mary. Bill went back to the kitchen. ""I'm
+going to marry you.""",Who gave the apple to Bill? 
+515,Bill,"Answer: Silvain.
+
+Question: Who gave the apple to Mary?",Who gave the apple to Mary? 
+516,Fred,"Answer: Bill.
+
+Question: Who gave the apple?
+
+Answer: Bill",Who gave the apple? 
+517,Fred,"Answer: Kristel.
+
+Question: Who gave the apple to Mary?",Who gave the apple to Mary? 
+518,Mary,"Answer: Fred.
+
+Question: Who gave it to Fred?
+
+Answer:",Who received the apple? 
+519,apple,"Answer: The apple.
+
+Question: What did Mary give to Fred?",What did Fred give to Mary? 
+520,apple,"Answer: A little apple.
+
+Question: What did he do with it?",What did Mary give to Fred? 
+521,Mary,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Fred",Who gave the apple? 
+522,Fred,"Answer: Mary gave the milk to Fred.
+
+Question: Who did Fred give the",Who did Mary give the milk to? 
+523,milk,"Answer: Mary gave the apple to Fred.
+
+Question: What did Fred do with",What did Mary give to Fred? 
+524,Mary,"Answer: Mary.
+
+Question: Who gave the apple to Fred?
+
+Answer",Who gave the milk to Fred? 
+525,milk,"Answer: Mary gave him the milk.
+
+Question: What did Fred give to Mary",What did Mary give to Fred? 
+526,Mary,"Answer: Mary.
+
+Question: Who received the milk?
+
+Answer: Fred",Who received the milk? 
+527,Mary,"Answer: Fred.
+
+Question: Who gave the milk to Mary?
+
+Answer",Who received the milk? 
+528,Mary,"Answer: Mary.
+
+Question: Who received the milk?
+Answer: Fred.",Who received the milk? 
+529,Jeff,"Answer: Mary gave the football to Jeff.
+
+Question: Who gave the football to",Who gave the football to Mary? 
+530,Bill,"Answer: I.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who gave the apple to Mary? 
+531,apple,Answer: The apple. Mary gave the apple to Bill. Bill gave the apple to Mary. Mary,What did Bill give to Mary? 
+532,Mary,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Bill",Who received the apple? 
+533,apple,"Answer: A
+<context>
+
+<context>
+
+<context>
+
+<",What did Bill give to Mary? 
+534,Fred,Answer: Mary gave the football to Bill. Bill gave the football to Mary. Mary gave the football,Who did Mary give the football to? 
+535,milk,"Answer: A small gift.
+
+Question: What did Bill do with the milk?",What did Fred give to Bill? 
+536,Bill,"Answer: Mary.
+
+Question: What did Jeff go to the kitchen for?",Who did Fred give the milk to? 
+537,Bill,"Answer: Mary.
+
+Question: Who did Jeff go to the kitchen?",Who did Fred give the milk to? 
+538,Mary,"Answer: Bill gave the milk to Mary.
+
+Question: Who did Mary give the",Who did Bill give the milk to? 
+539,Mary,"Answer: Mary.
+
+Question: Who did Bill give the milk to? Answer: Bill.",Who did Bill give the milk to? 
+540,Jeff,"Answer: Jeff.
+
+Question: Who gave it to Jeff?
+
+Answer:",Who received the apple? 
+541,Jeff,"Answer: The king.
+
+Question: Who received the apple?
+
+Answer:",Who received the apple? 
+542,apple,"Answer: A coat.
+
+Question: What did Jeff give to Bill?",What did Bill give to Jeff? 
+543,apple,"Answer: A piece of the shell.
+
+Question: What did Bill give to Mary? Answer",What did Bill give to Mary? 
+544,Mary,"Answer: Bill gave the apple to
+Jeff. Bill handed the apple to Mary. Mary handed the",Who did Bill give the apple to? 
+545,Jeff,"Answer: The Marquess.
+
+Question: Who gave the apple to Mary? Answer:",Who did Mary give the apple to? 
+546,Jeff,"Answer: Jeff.
+
+Question: Who gave it to Jeff?
+
+Answer:",Who received the apple? 
+547,Jeff,"Answer: Mary gave the apple to Jeff.
+
+Question: Who did Jeff give the",Who did Mary give the apple to? 
+548,Bill,"Answer: Mary.
+
+Question: Who received the apple? Answer: Mary.
+
+Question",Who received the apple? 
+549,Mary,"Answer: Fire Cloud.
+
+Question: Who gave the apple to Bill? Answer: Fire Cloud",Who gave the apple to Bill? 
+550,Mary,"Answer: Mary.
+
+Question: Who gave the milk to Jeff?
+Answer: Mary",Who gave the milk to Jeff? 
+551,Jeff,"Answer: Jeff.
+
+Question: Who received the milk?
+
+Answer: Jeff",Who received the milk? 
+552,Mary,"Answer: Mary.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who did Fred give the football to? 
+553,Fred,"Answer: The Peruvians.
+
+Question: Who gave the milk?",Who gave the football? 
+554,Mary,"Answer: Jeff.
+
+Question: Who received the money? Answer: Dickerson.",Who received the football? 
+555,Bill,"Answer: Fred.
+Question: Who gave the apple?
+Answer: Fred.
+Question",Who gave the apple? 
+556,Bill,"Answer: Mary.
+Question: Who gave the apple?
+Answer: Mary.
+Question",Who gave the apple? 
+557,apple,"Answer: Nothing.
+
+Question: What did Fred give to Bill?
+
+Answer",What did Bill give to Fred? 
+558,apple,"Answer: He gave him the apple.
+
+Question: What did Bill do with the",What did Fred give to Bill? 
+559,Fred,"Answer: Fred.
+
+    <context>
+    The apple was a gift from the gods.",Who received the apple? 
+560,apple,"Answer: Mary gave the apple to Fred.
+
+Question: What did Fred do with",What did Fred give to Mary? 
+561,Fred,"Answer: Mary.
+
+Question: Who received the apple?
+
+Answer: Fred",Who received the apple? 
+562,apple,"Answer: The apple.
+
+Question: What did Fred give to Mary? Answer: The apple",What did Mary give to Fred? 
+563,football,"Answer: The apple.
+
+Question: What did Mary give to Fred? Answer: The apple",What did Fred give to Mary? 
+564,Fred,"Answer: Fred.
+
+Question: Who received the watch?
+Answer: Fred.",Who received the football? 
+565,apple,"Answer: The apple.
+
+Question: What did Mary give to Jeff? Answer: The apple",What did Jeff give to Mary? 
+566,Mary,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff? Answer: Jeff.",Who gave the apple? 
+567,apple,"Answer: A piece of the apple.
+
+Question: What did Jeff give to Mary? Answer",What did Mary give to Jeff? 
+568,apple,"Answer: ""The apple.""
+
+Question: What did Jeff give to Mary? Answer: """,What did Jeff give to Mary? 
+569,Jeff,"Answer: Mary.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Mary? 
+570,milk,"Answer: She gave him the milk.
+
+Question: What did Jeff do with the",What did Mary give to Jeff? 
+571,milk,"Answer: He gave her a piece of cheese.
+
+Question: What did Mary give",What did Jeff give to Mary? 
+572,milk,"Answer: The milk.
+
+Question: What did Mary give to Jeff?",What did Jeff give to Mary? 
+573,Fred,"Answer: Jeff.
+
+Question: Who was the leader of the Indians? Answer: Jeff.",Who received the milk? 
+574,Fred,"Answer: Wabasha.
+Question: Who gave the milk to Jeff?
+Answer:",Who received the milk? 
+575,football,"Answer: A small tin box, containing a
+small tin box, containing a small tin box,",What did Bill give to Mary? 
+576,Mary,"Answer: Fred.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who gave the football to Fred? 
+577,football,"Answer: The football.
+
+Question: What did Fred give to Mary? Answer: The football",What did Mary give to Fred? 
+578,football,"Answer: Mary gave the football to Fred.
+
+Question: What did Fred do with",What did Mary give to Fred? 
+579,Fred,"Answer: Mary gave it to Fred.
+
+Question: Who did Fred give it to",Who did Mary give the football to? 
+580,Fred,"Answer: Bill.
+
+Question: Who gave the milk to Bill?
+
+Answer",Who gave the milk to Bill? 
+581,Bill,"Answer: Jeff.
+
+Question: Who did Bill give the milk to?",Who did Fred give the milk to? 
+582,milk,"Answer: He gave him a shilling.
+
+Question: What did Bill give to",What did Fred give to Bill? 
+583,Jeff,"Answer: Jeff.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who gave the apple to Mary? 
+584,Jeff,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the apple? 
+585,milk,"Answer: A hat and coat.
+
+Question: What did Bill give to Mary?",What did Mary give to Bill? 
+586,Mary,"Answer: Bill.
+
+Question: Who gave the milk?
+
+Answer: Bill",Who gave the milk? 
+587,Bill,"Answer: Mary gave the milk to Jeff.
+
+Question: Who did Jeff give the",Who did Mary give the milk to? 
+588,Jeff,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff? Answer: Fred.",Who gave the apple to Fred? 
+589,Fred,"Answer: The Fairy.
+
+Question: Who gave the apple?
+
+Answer",Who gave the apple? 
+590,milk,"Answer: A loaf of bread. Bill gave to Fred a loaf of bread.
+
+Question:",What did Bill give to Fred? 
+591,milk,"Answer: A piece of bread.
+
+Question: What did Fred give to Bill? Answer:",What did Bill give to Fred? 
+592,milk,"Answer: Bill gave the milk to Fred.
+
+Question: What did Fred give to",What did Bill give to Fred? 
+593,Fred,"Answer: Bill.
+
+Question: Who received the football?
+
+Answer: Fred",Who received the football? 
+594,football,"Answer: A football.
+
+Question: What did Fred give to Bill?",What did Bill give to Fred? 
+595,Jeff,"Answer: Alfred.
+
+Question: Who gave the milk to Jeff?
+
+Answer",Who gave the milk to Bill? 
+596,Jeff,"Answer: Jeff.
+
+Question: Who gave the milk?
+
+Answer: Jeff",Who received the milk? 
+597,Bill,"Answer: Jeff.
+
+Question: Who gave the milk to Jeff?
+
+Answer",Who received the milk? 
+598,Jeff,"Answer: Bill.
+
+Question: Who gave the milk?
+
+Answer: Bill",Who gave the milk? 
+599,milk,"Answer: A good-sized lump of coal.
+
+Question: What did Bill give",What did Jeff give to Bill? 
+600,Jeff,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the football? 
+601,Mary,"Answer: Mary.
+
+Question: Who did Jeff give the milk to? Answer: Mary.",Who did Jeff give the football to? 
+602,Jeff,"Answer: Jeff.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the football? 
+603,Jeff,"Answer: Fred.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the football? 
+604,Jeff,"Answer: Jeff.
+
+Question: Who did Jeff give the milk to? Answer: Bill.",Who did Bill give the milk to? 
+605,Fred,"Answer: Mary gave it to Fred.
+
+Question: Who did Fred give the football",Who did Mary give the football to? 
+606,Mary,"Answer: Mary.
+
+Question: Who gave the football to Fred?
+
+Answer",Who gave the football to Fred? 
+607,Fred,"Answer: The Secretary.
+
+Question: What did he say? Answer: He said, """,Who did Bill give the football to? 
+608,Fred,"Answer: Fred.
+
+Question: Who gave the football to Bill?
+Answer: Fred",Who gave the football? 
+609,football,"Answer: A football.
+
+Question: What did Bill give to Fred?",What did Fred give to Bill? 
+610,football,"Answer: A dollar.
+
+Question: What did Fred give to Jeff?",What did Jeff give to Fred? 
+611,Jeff,"Answer: Fred gave the football to Jeff.
+
+Question: Who did Jeff give the",Who did Fred give the football to? 
+612,Fred,"Answer: Jeff.
+
+Question: Who gave the football?
+
+Answer: Jeff",Who gave the football? 
+613,Mary,"Answer: Jeff.
+
+Question: Who gave the money?
+
+Answer: Jeff",Who gave the football? 
+614,Mary,"Answer: Harry.
+
+Question: Who gave the football?
+
+Answer: Jeff",Who gave the football? 
+615,football,"Answer: He gave him a new suit of clothes, a new hat, and a new",What did Jeff give to Fred? 
+616,Jeff,"Answer: Fred gave it to Jeff.
+
+Question: Who did Jeff give the football",Who did Fred give the football to? 
+617,Fred,"Answer: The poet.
+
+Question: Who gave the football to Jeff?",Who gave the football to Jeff? 
+618,apple,Answer: A piece of bread. Bill gave to Jeff a piece of bread. Jeff gave to Bill,What did Bill give to Jeff? 
+619,apple,"Answer: The apple.
+
+Question: What did Bill give to Jeff? Answer: The milk",What did Jeff give to Bill? 
+620,Jeff,"Answer: The King.
+
+Question: Who gave the apple?
+
+Answer:",Who gave the apple? 
+621,Jeff,"Answer: The overseer of the works.
+
+Question: Who gave the apple to",Who gave the apple to Fred? 
+622,Fred,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Bill? 
+623,apple,"Answer: The apple.
+
+Question: What did Fred take the apple there for?",What did Fred give to Bill? 
+624,Bill,"Answer: Bill.
+
+Question: Who did Fred give the apple to?",Who did Fred give the apple to? 
+625,football,"Answer: A nickel.
+
+Question: What did Fred give to Jeff?",What did Jeff give to Fred? 
+626,football,"Answer: The football.
+
+Question: What did Fred give to Jeff?",What did Jeff give to Fred? 
+627,Fred,Answer: Humboldt. Question: Who gave the football to Jeff? Answer: Humb,Who gave the football to Jeff? 
+628,Jeff,"Answer: Jeff.
+
+Question: Who received the football?
+
+Answer: Jeff",Who received the football? 
+629,Fred,"Answer: Jeff.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who gave the football to Jeff? 
+630,Fred,"Answer: Bill.
+
+Question: Who did Peter give the football to?",Who did Jeff give the football to? 
+631,football,"Answer: A football.
+
+Question: What did Jeff give to Fred? Answer: A football",What did Fred give to Jeff? 
+632,Fred,"Answer: Ginger Dick.
+
+Question: Who gave the football to Jeff? Answer: G",Who gave the football to Jeff? 
+633,football,"Answer: A football.
+
+Question: What did Jeff give to Fred? Answer: A football",What did Fred give to Jeff? 
+634,apple,"Answer: A copy of the first edition of
+this curious work. Bill went to the garden.",What did Jeff give to Bill? 
+635,Jeff,"Answer: The farmer, who was a man of great wealth, and who had a large",Who gave the milk? 
+636,Jeff,"Answer: The milk was given to the children.
+
+Question: Who gave the milk",Who gave the milk? 
+637,milk,"Answer: A bottle of the new
+<context>
+
+<context>
+
+<context",What did Jeff give to Bill? 
+638,football,"Answer: A
+
+<context>
+
+<context>
+
+<context>",What did Mary give to Fred? 
+639,Mary,"Answer: Mary.
+
+Question: Who received the football?
+
+Answer: Fred",Who received the football? 
+640,Jeff,"Answer: The Ealdorman.
+
+Question: Who was the chief of the Northmen",Who received the milk? 
+641,Jeff,"Answer: The Thanes.
+
+Question: Who gave the milk?
+
+Answer",Who gave the milk? 
+642,Bill,"Answer: Jeff gave the milk to Bill.
+
+Question: Who did Bill give the",Who did Jeff give the milk to? 
+643,Bill,"Answer: The child’s father.
+
+Question: Who gave the milk to Bill",Who did Fred give the milk to? 
+644,milk,"Answer: The milk.
+
+Question: What did Bill give to Fred?",What did Fred give to Bill? 
+645,Mary,"Answer: Mary.
+
+Question: Who gave the apple to Bill?
+
+Answer",Who gave the apple to Bill? 
+646,apple,"Answer: A piece of paper. Bill
+went to the bedroom. Bill returned with a piece of",What did Bill give to Mary? 
+647,Bill,"Answer: Mary.
+
+Question: Who gave the apple to Jack?
+
+Answer",Who gave the apple to Mary? 
+648,Bill,"Answer: Bill.
+
+Question: Who did Mary give the apple to? Answer: Bill.",Who did Mary give the apple to? 
+649,Mary,"Answer: Mary.
+
+Question: Who received the apple?
+
+Answer: Bill",Who received the apple? 
+650,Bill,"Answer: The young Scotchman.
+
+Question: Who gave the apple?",Who gave the apple? 
+651,Bill,"Answer: Jeff.
+
+Question: Who received the milk?
+
+Answer: Jeff",Who received the milk? 
+652,Bill,"Answer: The Irish Brigade.
+
+Question: Who did Jeff give the milk to? Answer:",Who did Jeff give the milk to? 
+653,Bill,"Answer: Jeff gave the milk to Mary.
+
+Question: Who did Mary give the",Who did Jeff give the milk to? 
+654,milk,"Answer: He gave him a
+candle.
+
+Question: What did Bill give to",What did Jeff give to Bill? 
+655,Bill,"Answer: Bill.
+
+Question: Who did Mary give the apple to?",Who did Mary give the apple to? 
+656,Mary,"Answer: Fred.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who gave the apple to Bill? 
+657,Fred,"Answer: Bill.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who gave the football to Mary? 
+658,Mary,"Answer: Jeff.
+
+Question: Who gave the football?
+
+Answer: Jeff",Who gave the football? 
+659,football,"Answer: The apple.
+
+Question: What did Fred give to Mary?",What did Mary give to Fred? 
+660,Mary,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Jeff? 
+661,apple,"Answer: A pumpkin.
+
+Question: What did Mary give to Jeff? Answer: A pumpkin",What did Jeff give to Mary? 
+662,apple,"Answer: A piece of apple.
+
+Question: What did Jeff do with the apple",What did Mary give to Jeff? 
+663,apple,"Answer: A football.
+
+Question: What did Jeff give to Mary?",What did Mary give to Jeff? 
+664,Fred,"Answer: Jeff.
+
+Question: Who received the football? Answer: Jeff.
+
+Question",Who received the football? 
+665,Mary,"Answer: Bill gave it to Jeff.
+
+Question: Who did Jeff give the football",Who did Bill give the football to? 
+666,Mary,"Answer: Rudolph.
+
+Question: Who did Mary give the football to? Answer: Rud",Who did Bill give the football to? 
+667,Bill,"Answer: Bill.
+
+Question: Who gave the football to Mary?
+
+Answer",Who gave the football to Mary? 
+668,Jeff,"Answer: Fred.
+
+Question: Who gave the football to Bill?
+
+Answer",Who gave the football to Fred? 
+669,Fred,"Answer: Bill.
+
+Question: Who gave the football?
+
+Answer: Bill",Who gave the football? 
+670,apple,"Answer: He gave him the apple.
+
+Question: What did Fred give to Bill",What did Bill give to Fred? 
+671,apple,"Answer: ""A' the apples he had.""
+
+Question: What did Bill give to Fred",What did Fred give to Bill? 
+672,apple,"Answer: A box of castor oil.
+
+Question: What did Fred give to",What did Bill give to Fred? 
+673,Bill,"Answer: Bill.
+
+Question: Who gave the apple?
+
+Answer: Bill",Who gave the apple? 
+674,Jeff,"Answer: Bill gave the apple to Jeff.
+
+Question: Who did Jeff give the",Who did Bill give the apple to? 
+675,Mary,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the apple? 
+676,Mary,"Answer: Mary.
+
+Question: Who received the check?
+
+Answer: Mary",Who received the apple? 
+677,apple,"Answer: A football.
+
+Question: What did Jeff give to Mary?",What did Mary give to Jeff? 
+678,Mary,"Answer: Jeff.
+
+Question: What was the apple?
+
+Answer: A",Who gave the apple? 
+679,Mary,"Answer: Jeff.
+
+Question: Who gave the football?
+
+Answer: Jeff",Who gave the apple? 
+680,apple,"Answer: A little money. Bill was
+a good-natured fellow, and he gave her",What did Bill give to Mary? 
+681,Mary,"Answer: Mary.
+
+Question: Who did Bill give the apple to? Answer: Mary.",Who did Bill give the apple to? 
+682,Bill,"Answer: The author.
+
+Question: Who gave the apple?
+
+Answer:",Who gave the apple? 
+683,Bill,Answer: Bill. Bill handed the apple to Mary. Mary passed the apple to Bill. Bill handed,Who gave the apple to Mary? 
+684,apple,"Answer: A gun.
+
+Question: What did Bill give to Fred? Answer: A gun",What did Fred give to Bill? 
+685,football,"Answer: A pair of
+pistols.
+
+CODDLE. A",What did Mary give to Bill? 
+686,football,"Answer: A hat.
+
+ _Bill._ I'll give you a hat, my friend.",What did Mary give to Bill? 
+687,Mary,"Answer:
+
+The Romans.
+
+Question: Who gave the football?",Who gave the football? 
+688,Jeff,"Answer: Jeff.
+
+Question: Who gave the milk?
+
+Answer: Jeff",Who gave the milk? 
+689,milk,"Answer: A bottle of beer.
+
+Question: What did Jeff give to Fred?",What did Fred give to Jeff? 
+690,Mary,"Answer: Bill gave the apple to Mary.
+
+Question: Who gave the apple to Bill?",Who gave the apple to Bill? 
+691,apple,"Answer: Bill gave her the apple.
+
+Question: What did Mary do with the",What did Bill give to Mary? 
+692,Bill,"Answer: Mary gave it to Bill.
+
+Question: Who did Bill give the apple",Who did Mary give the apple to? 
+693,apple,"Answer: A new silver casket full of cigars from Paiacombo, Manila,",What did Bill give to Mary? 
+694,Mary,"Answer: Bill.
+
+Question: Who received the apple?
+Answer: Mary.",Who received the apple? 
+695,milk,"Answer: A
+<i>bottle</i>. Why is a man like a <",What did Mary give to Fred? 
+696,milk,Why did she give him the milk? Why did she give him the clothes? Why did she give,What did Mary give to Fred? 
+697,milk,"Answer: She gave him a good education, and a good education is the
+best thing",What did Mary give to Fred? 
+698,Mary,"Answer: Mary.
+
+Question: Who did Fred give the apple to?",Who did Fred give the apple to? 
+699,Fred,"Answer: Mary.
+
+Question: Who received the apple?
+
+Answer: Bill",Who received the apple? 
+700,Bill,"Answer: Bill.
+
+Question: Who gave the apple to Fred?
+
+Answer",Who gave the apple to Fred? 
+701,apple,"Answer: He gave him a bottle of whisky.
+
+Question: What did Fred",What did Bill give to Fred? 
+702,Fred,"Answer: Bill gave the apple to
+Fred.
+
+Question: Who gave the apple to Fred",Who did Bill give the apple to? 
+703,Fred,"Answer: Fred.
+
+Question: Who received the apple?
+
+Answer: Bill",Who received the apple? 
+704,Mary,"Answer: Mary.
+
+Question: Who gave the football to Mary?
+
+Answer",Who gave the football to Fred? 
+705,Fred,"Answer: Alfred.
+
+Question: Who gave the football to Alfred?
+
+Answer",Who gave the football? 
+706,football,"Answer: A piece of cloth, probably a piece of cloth with a hole in it,",What did Fred give to Mary? 
+707,Fred,"Answer: Mary.
+
+Question: Who gave the apple to Fred?
+
+Answer",Who gave the football to Mary? 
+708,Jeff,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the apple? 
+709,Jeff,"Answer: Jeff.
+
+Question: Who did Bill give the apple to?",Who did Fred give the apple to? 
+710,Jeff,"Answer: Bill.
+
+Question: Who gave the apple to Bill?
+Answer: Bill",Who gave the apple to Bill? 
+711,apple,"Answer: He gave the apple to Bill.
+
+Question: What did Bill give to",What did Jeff give to Bill? 
+712,Jeff,Answer: Jeff. Jeff gave the apple to Bill. Jeff went back to the garden. Jeff travelled,Who gave the apple to Bill? 
+713,Bill,"Answer: The King.
+
+Question: Who gave the apple to Jeff?",Who received the apple? 
+714,Bill,"Answer: Jeff.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the apple? 
+715,apple,"Answer: The apple.
+
+Question: What did Fred do with the apple?",What did Mary give to Fred? 
+716,apple,"Answer: A piece of bread.
+
+Question: What did Mary do with the milk",What did Mary give to Fred? 
+717,Fred,"Answer: Mary.
+
+Question: Who gave the apple to Bill?
+
+Answer",Who gave the apple to Bill? 
+718,Fred,"Answer: Bill gave the apple to Fred.
+
+Question: Who did Jeff give the",Who did Bill give the apple to? 
+719,Bill,"Answer: Fred gave the apple to Bill.
+
+Question: Who gave the apple to",Who did Fred give the apple to? 
+720,apple,"Answer: A piece of apple.
+
+Question: What did Jeff give to Bill? Answer:",What did Bill give to Jeff? 
+721,Jeff,"Answer: Bill.
+
+Question: Who gave the apple?
+
+Answer: Bill",Who gave the apple? 
+722,milk,"Answer: A little apple.
+
+Question: What did Bill give to Jeff?",What did Jeff give to Bill? 
+723,milk,"Answer: The apple.
+
+Question: What did Bill give to Jeff?",What did Jeff give to Bill? 
+724,Bill,"Answer: Bill.
+
+Question: Who did Jeff give the milk to?",Who did Jeff give the milk to? 
+725,football,"Answer: A little book, which she had made, and which she had given to him",What did Mary give to Fred? 
+726,football,"Answer: A ball.
+
+Question: What did Mary give to Fred? Answer: A ball",What did Fred give to Mary? 
+727,football,"Answer: A football.
+
+Question: What did Mary give to Fred?",What did Fred give to Mary? 
+728,Mary,"Answer: Mary.
+
+Question: Who gave the football to Fred? Answer: Mary.",Who gave the football to Fred? 
+729,Bill,"Answer: Mary.
+
+Question: Who gave the milk to Jeff?
+
+Answer",Who gave the milk to Jeff? 
+730,Fred,"Answer: Bill gave it to Fred.
+
+Question: Who did Bill give the milk",Who did Bill give the milk to? 
+731,Fred,"Answer: Alfred.
+
+Question: Who did Alfred give the milk to?",Who did Bill give the milk to? 
+732,Bill,"Answer: Alfred.
+
+Question: Who gave the milk to Bill?
+
+Answer",Who gave the milk to Fred? 
+733,Fred,"Answer: Zoie.
+
+Question: Who did Bill give the milk to?",Who did Bill give the milk to? 
+734,apple,"Answer: A piece of apple.
+
+Question: What did Fred give to Mary? Answer:",What did Mary give to Fred? 
+735,Fred,"Answer: ""To the children.""
+
+Question: Who gave the milk to the children",Who did Mary give the milk to? 
+736,Mary,"Answer: Fred gave the milk to Pauline A. Shaw.
+
+Question: Who",Who did Fred give the milk to? 
+737,milk,"Answer: A small, white, round, roundish, roundish, roundish,",What did Fred give to Mary? 
+738,Fred,"Answer: Bill.
+
+Question: Who gave the football to Bill?
+Answer: Bill",Who gave the football to Bill? 
+739,football,"Answer: A football.
+
+Question: What did Bill do with the football? Answer: He",What did Fred give to Bill? 
+740,Mary,"Answer: Mary.
+
+Question: Who gave the milk to Fred? Answer: Mary.",Who gave the milk to Fred? 
+741,Fred,"Answer: Mary.
+
+Question: Who received the football? Answer: Harry.
+
+Question",Who received the milk? 
+742,milk,"Answer: Mary gave him a
+purse. Mary gave him a purse. Mary gave him a",What did Mary give to Fred? 
+743,football,"Answer: Mary gave the football to Fred.
+
+Question: What did Fred give to",What did Mary give to Fred? 
+744,football,"Answer: Mary gave the football to Fred.
+
+Question: What did Fred do with",What did Mary give to Fred? 
+745,Bill,"Answer: Bill.
+
+Question: Who did Fred give the milk to?",Who did Fred give the milk to? 
+746,Bill,"Answer: Jeff.
+
+Question: Who did MacLure give the milk to?",Who did Fred give the milk to? 
+747,milk,"Answer: A bank deposit-book.
+
+Question: What did Mary give to Bill",What did Bill give to Mary? 
+748,Bill,Answer: Mary. Question: Who gave the milk to Bill? Answer: Bill. Question: Who,Who gave the milk to Mary? 
+749,milk,"Answer: Mary gave to Fred a piece of cheese.
+
+Question: What did Mary",What did Mary give to Fred? 
+750,Bill,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Jeff? 
+751,Jeff,"Answer: Bill gave it to Jeff.
+
+Question: Who gave the apple to Jeff",Who did Bill give the apple to? 
+752,apple,"Answer: The apple.
+
+Question: What did Bill give to Jeff? Answer: The apple",What did Jeff give to Bill? 
+753,Bill,"Answer: The baboon.
+
+Question: Who gave the apple to Jeff?",Who did Jeff give the football to? 
+754,football,Answer: A football. Bill went back to the office. Jeff went to the bedroom. She is,What did Bill give to Jeff? 
+755,Fred,"Answer: Jeff gave the apple to Fred.
+
+Question: Who gave the apple to",Who gave the apple to Jeff? 
+756,Jeff,"Answer: Jeff.
+
+Question: Who did Fred give the apple to? Answer: Jeff.",Who did Fred give the apple to? 
+757,Fred,"Answer: Jeff.
+
+Question: Who gave the apple to Fred?
+
+Answer",Who gave the apple to Jeff? 
+758,Fred,"Answer: Jeff.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the milk? 
+759,Fred,"Answer: Jeff.
+
+Question: Who gave the apple? Answer: Jeff.
+
+Question",Who gave the milk? 
+760,apple,"Answer: A very large apple.
+
+Question: What did Jeff give to Fred?",What did Fred give to Jeff? 
+761,Jeff,"Answer: Mary gave the apple to Jeff.
+
+Question: Who did Jeff give the",Who did Mary give the apple to? 
+762,Mary,"Answer: Jeff.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the apple? 
+763,Mary,"Answer: Jeff.
+
+Question: Who gave the apple? Answer: Jeff.
+
+Question",Who gave the apple? 
+764,Jeff,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff?
+Answer: Mary",Who did Mary give the apple to? 
+765,Fred,"Answer: Hilary.
+
+Question: Who received the football?
+Answer: Hilary",Who received the football? 
+766,football,"Answer: A pocketbook.
+
+Question: What did Bill do with the pocketbook",What did Fred give to Bill? 
+767,football,"Answer: The pocketbook.
+
+Question: What did Bill give to Fred? Answer: The",What did Fred give to Bill? 
+768,Bill,"Answer: Jeff.
+
+Question: Who received the football?
+
+Answer: Fred",Who received the football? 
+769,Jeff,"Answer: Bill.
+
+Question: Who gave the football to Fred?
+
+Answer",Who gave the football to Bill? 
+770,Bill,"Answer: Bill.
+
+Question: Who gave the apple?
+
+Answer: Bill",Who gave the apple? 
+771,Mary,"Answer: George.
+
+Question: Who did Freddy give the apple to?",Who did Bill give the apple to? 
+772,apple,"Answer: A piece of paper.
+
+Question: What did Bill do with the paper? Answer",What did Mary give to Bill? 
+773,apple,"Answer: A piece of bread.
+
+Question: What did Bill give to Mary?",What did Bill give to Mary? 
+774,Bill,"Answer: The Lord.
+
+Question: Who gave the apple to Bill? Answer: The Lord",Who gave the apple to Mary? 
+775,Mary,"Answer: The Lord.
+
+Question: Who gave the milk?
+
+Answer:",Who gave the milk? 
+776,milk,"Answer: She gave him the milk.
+
+Question: What did Fred do with the",What did Mary give to Fred? 
+777,Fred,"Answer: Fred.
+
+Question: Who gave the apple to Fred? Answer: Bill.",Who did Bill give the apple to? 
+778,apple,"Answer: He gave him the apple.
+
+Question: What did Bill do with the",What did Fred give to Bill? 
+779,Bill,"Answer: Fred.
+
+Question: Who gave the apple to Fred?
+Answer: Bill",Who received the apple? 
+780,Mary,"Answer: Jeff.
+
+Question: Who received the football?
+
+Answer: Jeff",Who received the football? 
+781,Mary,"Answer: To Mary.
+
+Question: Who did Bill give the football to?",Who did Bill give the football to? 
+782,apple,"Answer: A piece of cheese.
+
+<context>
+
+Jeff travelled to the kitchen.",What did Jeff give to Mary? 
+783,Mary,"Answer: Pierre.
+
+Question: Who did Jeff give the milk to?",Who did Jeff give the apple to? 
+784,apple,"Answer: The apple.
+
+Question: What did Mary do with the apple?",What did Mary give to Fred? 
+785,milk,"Answer: A milk-pail.
+
+Question: What did Fred give to Mary? Answer",What did Fred give to Mary? 
+786,milk,"Answer: A piece of bread. Bill went to the kitchen. The Bishop, Clergy and La",What did Fred give to Mary? 
+787,milk,"Answer: A milk pail.
+
+Question: What did Mary give to Fred?",What did Fred give to Mary? 
+788,milk,"Answer: A kiss.
+
+Question: What did Mary give to Bill? Answer: A kiss",What did Bill give to Mary? 
+789,milk,"Answer: A kiss.
+
+Question: What did Mary give to Bill?",What did Bill give to Mary? 
+790,apple,"Answer: A book.
+
+Question: What did Mary give to Fred?",What did Fred give to Mary? 
+791,Fred,"Answer: Fred.
+
+Question: Who gave the apple to Paul?
+Answer: Fred",Who gave the apple to Mary? 
+792,Mary,"Answer: Jeff.
+
+Question: Who gave the apple? Answer: Jeff.
+
+Question",Who gave the apple? 
+793,Mary,"Answer: Jeff gave it to Mary.
+
+Question: Who gave the apple to Jeff? Answer",Who did Jeff give the apple to? 
+794,Mary,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the apple? 
+795,apple,"Answer: She gave him the apple. Page 59:
+
+    What is it gives a cold,",What did Mary give to Bill? 
+796,Mary,"Answer: Bill.
+
+Question: Who gave the apple to Bill?
+
+Answer",Who received the apple? 
+797,apple,"Answer: A little apple.
+
+Question: What did Bill give to Mary? Answer: A",What did Mary give to Bill? 
+798,Mary,"Answer: Mary.
+
+Question: Who gave the apple to Mary? Answer: Mary.",Who gave the apple to Bill? 
+799,apple,"Answer: A
+<context>
+
+<context>
+
+<context>",What did Mary give to Bill? 
+800,Jeff,"Answer: Jeff.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who gave the football to Fred? 
+801,football,"Answer: A ball.
+
+Question: What did Fred give to Bill?",What did Jeff give to Fred? 
+802,Jeff,"Answer: Jeff.
+
+Question: Who gave the ball to Jeff?
+
+Answer",Who gave the football to Fred? 
+803,football,"Answer: A book.
+
+Question: What did Fred give to Mary?",What did Mary give to Fred? 
+804,Mary,"Answer: Mary.
+
+Question: Who gave it to Mary?
+Answer: Fred.",Who received the football? 
+805,Jeff,"Answer: The merchant.
+
+Question: Who gave the apple?
+
+Answer:",Who gave the apple? 
+806,apple,"Answer: A dollar.
+
+Question: What did Mary give to Jeff? Answer: A dollar",What did Jeff give to Mary? 
+807,apple,"Answer: A piece of bread.
+
+Question: What did Mary give to Jeff?",What did Jeff give to Mary? 
+808,Jeff,"Answer: Jeff.
+
+Question: Who received the milk?
+
+Answer: Jeff",Who received the milk? 
+809,milk,"Answer: A piece of bread.
+
+Question: What did Fred give to Jeff?",What did Jeff give to Fred? 
+810,Mary,"Answer: Jeff.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who gave the football? 
+811,Jeff,"Answer: Jeff.
+
+Question: Who gave the football?
+
+Answer: Jeff",Who gave the football? 
+812,Mary,"Answer: The author of the book.
+
+Question: Who gave the football?",Who gave the football? 
+813,Mary,"Answer: Mary.
+
+Question: Who gave the football to Bill?
+
+Answer",Who gave the football to Bill? 
+814,Bill,"Answer: Mary gave the football to Bill.
+
+Question: Who gave the football to",Who did Mary give the football to? 
+815,milk,"Answer: The milk. Bill gave the
+milk to Jeff. Bill gave the milk to Jeff",What did Bill give to Jeff? 
+816,Jeff,"Answer: Dr. Bill.
+
+Question: Who was the father of Dr. Bill",Who received the milk? 
+817,Bill,"Answer: Mary.
+
+Question: Who gave the milk to Moses? Answer: Mary.",Who gave the milk to Jeff? 
+818,Bill,"Answer: Jeff.
+
+Question: Who gave the milk to Bill?
+
+Answer",Who received the milk? 
+819,milk,"Answer: A bottle of beer.
+
+Question: What did Bill give to Fred?",What did Fred give to Bill? 
+820,football,"Answer: He gave him a nickel.
+
+Question: What did Bill give to Fred",What did Fred give to Bill? 
+821,Fred,"Answer: Jeff.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who did Bill give the football to? 
+822,football,"Answer: A dollar. Bill went to the bathroom. The Second Raad was established in 1890,",What did Bill give to Fred? 
+823,apple,"Answer: A small piece of white paper, on which was written in a very
+be",What did Bill give to Mary? 
+824,Mary,"Answer: The officer.
+
+Question: Who received the apple?
+
+Answer:",Who received the apple? 
+825,Bill,"Answer: Fred gave it to Bill.
+
+Question: Who did Bill give the milk",Who did Fred give the milk to? 
+826,Bill,"Answer: Bill.
+
+Question: Who did Fred give the milk to? Answer: Bill.",Who did Fred give the milk to? 
+827,milk,Answer: A bottle of milk. Bill went to the bathroom. Bill went to the kitchen. Bill,What did Fred give to Bill? 
+828,Mary,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the milk? 
+829,milk,"Answer: A large quantity of milk.
+
+Question: What did Fred give to Bill",What did Bill give to Fred? 
+830,Bill,"Answer: Mary gave it to Bill.
+
+Question: Who gave the apple to Mary",Who gave the apple to Mary? 
+831,Mary,"Answer: Bill gave the apple to Mary.
+
+Question: Who did Mary give the",Who did Bill give the apple to? 
+832,Mary,"Answer: Bill gave it to Mary.
+
+Question: Who did Mary give the apple",Who did Bill give the apple to? 
+833,Bill,"Answer: Bill.
+
+Question: Who gave the apple? Answer: Bill.
+
+Question",Who gave the apple? 
+834,apple,"Answer: A football.
+
+Question: What did Mary give to Bill?",What did Bill give to Mary? 
+835,Mary,"Answer: Mary.
+
+Question: Who did Bill give the football to?",Who did Bill give the football to? 
+836,Mary,"Answer: Fred.
+
+Question: Who gave the football to Fred?
+
+Answer",Who gave the football to Fred? 
+837,Fred,"Answer: Mary gave it to Fred.
+
+Question: Who did Fred give it to",Who did Mary give the football to? 
+838,Fred,"Answer: Bill.
+
+Question: Who gave the football to Mary?
+
+Answer",Who gave the football to Bill? 
+839,Bill,"Answer: Bill.
+
+Question: Who did Mary give the football to?",Who did Fred give the football to? 
+840,Jeff,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the apple? 
+841,Jeff,"Answer: Bill.
+
+Question: Who gave the apple?
+
+Answer: Bill",Who gave the apple? 
+842,Jeff,"Answer: Bill.
+
+Question: Who gave the apple?
+
+Answer: Bill",Who gave the apple? 
+843,Mary,"Answer: Mary.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the apple? 
+844,Mary,"Answer: Mary.
+
+Question: Who gave the apple? Answer: Mary.
+
+Question",Who gave the apple? 
+845,Fred,"Answer: Fred.
+
+Question: Who received the apple?
+
+Answer: Fred",Who received the football? 
+846,Mary,"Answer: Jeff.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the football? 
+847,football,"Answer: The apple.
+
+Question: What did Fred do with the apple?",What did Mary give to Fred? 
+848,Bill,"Answer: Jeff gave the apple to Bill.
+
+Question: Who did Bill give the",Who did Jeff give the apple to? 
+849,apple,"Answer: He gave the apple to Bill.
+
+Question: What did Bill do with",What did Jeff give to Bill? 
+850,apple,"Answer: A little book called ""The
+Bible in the Old Country.""
+
+Question:",What did Jeff give to Mary? 
+851,apple,"Answer: A piece of bread and butter.
+Question: What did Mary give to Jeff? Answer",What did Jeff give to Mary? 
+852,Mary,"Answer: Alfred.
+
+Question: Who did Alfred give the apple to?",Who did Jeff give the apple to? 
+853,football,"Answer: The apple.
+
+Question: What did Mary give to Jeff? Answer: The apple",What did Jeff give to Mary? 
+854,Mary,"Answer: Jeff gave it to Mary.
+
+Question: Who did Mary give the football",Who did Jeff give the football to? 
+855,football,"Answer: She gave him the football.
+
+Question: What did Fred do with the",What did Mary give to Fred? 
+856,Mary,"Answer: The Church of England.
+
+Question: Who gave the milk?",Who gave the football? 
+857,Mary,"Answer: Fred gave the football to Bill.
+
+Question: Who gave the football to",Who gave the football to Fred? 
+858,milk,"Answer: A milk-pail.
+
+Question: What did Mary give to Fred",What did Fred give to Mary? 
+859,Fred,"Answer: The maid.
+
+Question: Who gave the milk?
+
+Answer:",Who gave the milk? 
+860,milk,"Answer: A bottle of milk.
+
+Question: What did Mary give to Jeff?",What did Jeff give to Mary? 
+861,Mary,"Answer: Mary.
+
+Question: Who was the person who received the milk?",Who received the milk? 
+862,milk,"Answer: A bottle of wine. Jeff was a
+very good-natured fellow. ""What",What did Jeff give to Mary? 
+863,Jeff,"Answer: Mary gave it to Edward.
+
+Question: Who did Mary give the apple",Who did Mary give the apple to? 
+864,Jeff,"Answer: Jeff.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the apple? 
+865,Mary,"Answer: Fred.
+
+Question: Who gave the milk to Fred? Answer: Fred.",Who gave the milk to Fred? 
+866,milk,"Answer: A milk-pail.
+
+Question: What did Mary give to Fred? Answer",What did Fred give to Mary? 
+867,milk,"Answer: A milk-pail.
+
+Question: What did Fred give to Mary? Answer",What did Mary give to Fred? 
+868,Mary,"Answer: Mary.
+
+Question: Who gave the milk to Mary?
+
+Answer",Who did Fred give the milk to? 
+869,Mary,"Answer: The mules.
+
+Question: Who gave the milk?
+
+Answer",Who gave the milk? 
+870,Bill,"Answer: The Prince.
+
+Question: Who gave the milk to Mary?",Who gave the milk to Mary? 
+871,Bill,"Answer: Mary gave it to Bill.
+
+Question: Who did Bill give the football to?",Who did Mary give the football to? 
+872,Mary,"Answer: Mary.
+
+Question: Who did Bill give the football to? Answer: Mary.",Who did Bill give the football to? 
+873,Mary,"Answer: Norcross.
+
+Question: Who gave the football to Norcross?",Who gave the football? 
+874,Mary,"Answer: Mary.
+
+Question: Who gave the milk? Answer: Mary.
+
+Question",Who gave the milk? 
+875,Mary,"Answer: Mary.
+
+Question: Who received the football?
+Answer: Jeff.",Who received the football? 
+876,Mary,"Answer: Mary.
+
+Question: Who did Bill give the football to?",Who did Bill give the football to? 
+877,football,"Answer: The football.
+
+Question: What did Bill give to Mary? Answer: The football",What did Mary give to Bill? 
+878,football,"Answer: The football.
+
+Question: What did Mary give to John Haslam Jeff? Answer",What did Mary give to Bill? 
+879,Fred,"Answer: Mary gave the football to Jeff.
+
+Question: Who did Jeff give the",Who did Mary give the football to? 
+880,Jeff,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the apple? 
+881,Jeff,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Mary",Who gave the apple? 
+882,milk,"Answer: The milk.
+
+Question: What did Fred give to Bill? Answer: The milk",What did Bill give to Fred? 
+883,Bill,"Answer: Mary.
+
+Question: Who gave the milk to Jeff? Answer: Mary.",Who gave the milk to Fred? 
+884,milk,"Answer: A piece of apple.
+
+Question: What did Fred give to Bill? Answer:",What did Bill give to Fred? 
+885,Bill,"Answer: Jeff.
+
+Question: Who gave it to Jeff?
+
+Answer:",Who received the apple? 
+886,Bill,"Answer: Jeff gave the apple to Bill.
+
+Question: Who did Bill give the",Who did Jeff give the apple to? 
+887,Jeff,"Answer: Jeff.
+
+Question: Who received the apple? Answer: Jeff.
+
+Question",Who received the apple? 
+888,Jeff,"Answer: Bill gave it to Jeff.
+
+Question: Who gave the apple to Jeff",Who did Bill give the apple to? 
+889,Jeff,"Answer: Bill gave it to Jeff.
+
+Question: Who did Jeff give the apple to?",Who did Bill give the apple to? 
+890,Bill,"Answer: The Pope.
+
+Question: Who gave the apple?
+
+Answer:",Who gave the apple? 
+891,apple,"Answer: The apple.
+
+Question: What did Fred do with the apple? Answer: He",What did Mary give to Fred? 
+892,Fred,"Answer: The Minister.
+
+Question: Who gave the apple?
+
+Answer:",Who received the apple? 
+893,Mary,"Answer: Fred.
+
+Question: Who gave the apple? Answer: Fred.
+
+Question",Who gave the apple? 
+894,Fred,"Answer: Fred.
+
+Question: Who gave the apple to Fred?
+
+Answer",Who did Bill give the apple to? 
+895,Fred,"Answer: Mary.
+
+   The apple was given to me by a friend,
+   And I",Who gave the apple? 
+896,Fred,"Answer: Fred.
+
+Question: Who did Mary give the apple to?",Who did Mary give the apple to? 
+897,Fred,"Answer: The Ferengi Lover.
+
+
+<context>
+
+Question: Who received",Who received the apple? 
+898,Jeff,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the apple? 
+899,apple,"Answer: The apple.
+
+Question: What did Bill give to Jeff?",What did Fred give to Jeff? 
+900,Jeff,"Answer: Fred gave the apple to Jeff.
+
+Question: Who did Jeff give the",Who did Fred give the apple to? 
+901,apple,"Answer: The apple.
+
+Question: What did Jeff give to Fred?",What did Fred give to Jeff? 
+902,Fred,"Answer: Jeff.
+
+Question: Who received the apple?
+Answer: Jeff.",Who received the apple? 
+903,Bill,Answer: Bill. Bill went to the kitchen. Bill went to the garden. Bill went to the,Who gave the milk to Fred? 
+904,milk,"Answer: A half-dollar.
+
+Question: What did Bill give to Fred?",What did Fred give to Bill? 
+905,Fred,"Answer: Mary.
+
+Question: Who did Bill give the milk to?",Who did Bill give the milk to? 
+906,Bill,"Answer: Mary.
+
+Question: Who gave the milk to Bill? Answer: Bill.",Who gave the milk to Fred? 
+907,Fred,"Answer: Beulah.
+
+Question: Who gave the milk?
+
+Answer",Who gave the milk? 
+908,milk,"Answer: A piece of bread.
+
+Question: What did Jeff give to Fred? Answer:",What did Fred give to Jeff? 
+909,Jeff,"Answer: Jeff.
+
+Question: Who did Jeff give the milk to?",Who did Fred give the milk to? 
+910,Mary,"Answer: Jeff.
+
+Question: Who gave the milk?
+
+Answer: Jeff",Who received the milk? 
+911,Jeff,"Answer: The Glen.
+
+Question: Who gave the milk?
+
+Answer:",Who gave the milk? 
+912,milk,"Answer: The apple.
+
+Question: What did Mary give to Jeff? Answer: The apple",What did Jeff give to Mary? 
+913,football,"Answer: A ring.
+
+Question: What did Fred give to Mary? Answer: A ring",What did Fred give to Mary? 
+914,Mary,"Answer: Jeff.
+
+Question: Who was the first to see Lauretta? Answer",Who received the football? 
+915,Mary,"Answer: Doctor Louis.
+
+Question: Who gave the football?
+Answer: Martin Hart",Who gave the football? 
+916,Mary,"Answer: TOTO.
+
+</context>
+
+<context>
+
+Question",Who gave the football? 
+917,Fred,"Answer: Jeff.
+
+Question: Who gave the football to Fred?
+
+Answer",Who gave the football to Jeff? 
+918,Mary,"Answer: The Comet Master.
+
+Question: Who gave the apple to Fred? Answer:",Who gave the apple to Fred? 
+919,Fred,"Answer: Mary gave it to Fred.
+
+Question: Who gave the apple to Mary",Who did Mary give the apple to? 
+920,Fred,"Answer: Fred.
+
+Question: Who did Mary give the apple to?",Who did Mary give the apple to? 
+921,Mary,"Answer: Mary.
+
+Question: Who gave the apple? Answer: Mary.
+
+Question",Who gave the apple? 
+922,football,"Answer: A small piece of the kite line.
+
+Question: What did Mary",What did Jeff give to Mary? 
+923,Mary,"Answer: The boy in the rowboat.
+
+Question: Who was the boy?",Who gave the milk? 
+924,Bill,"Answer: Fred gave the milk to Bill.
+
+""I'll bet he's going",Who did Fred give the milk to? 
+925,Fred,"Answer: Fred.
+
+Question: Who gave the apple?
+
+Answer: Fred",Who gave the apple? 
+926,milk,"Answer: A half-pound of sugar.
+
+Question: What did Bill give to",What did Fred give to Bill? 
+927,apple,"Answer: The apple.
+
+Question: What did Bill give to Fred? Answer: The milk",What did Bill give to Fred? 
+928,apple,"Answer: Mary gave the apple to Fred.
+
+Question: What did Fred do with",What did Mary give to Fred? 
+929,Mary,"Answer: Fred.
+
+Question: Who gave the apple?
+
+Answer: Fred",Who gave the apple? 
+930,apple,"Answer: The apple.
+
+Question: What did Mary do with the apple? Answer: She",What did Mary give to Fred? 
+931,Jeff,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who gave the apple to Fred? 
+932,Jeff,"Answer: Fred.
+
+Question: Who won the apple?
+
+Answer: Fred",Who gave the apple? 
+933,Fred,"Answer: Mary.
+
+Question: Who did Bill give the apple to? Answer: Fred.",Who did Bill give the apple to? 
+934,Bill,"Answer: Mary.
+
+Question: Who gave the apple?
+
+Answer: Mary",Who gave the apple? 
+935,apple,"Answer: The apple.
+
+Question: What did Bill give to Fred? Answer: The apple",What did Fred give to Bill? 
+936,Bill,"Answer: Fred gave the apple to Bill.
+
+Question: Who did Bill give the",Who did Fred give the apple to? 
+937,Bill,"Answer: Bill.
+
+Question: Who gave the apple to Bill?
+
+Answer",Who received the apple? 
+938,football,"Answer: The ball.
+
+Question: What did Bill give to Jeff? Answer: The ball",What did Jeff give to Bill? 
+939,football,"Answer: The apple.
+
+Question: What did Jeff give to Bill?",What did Bill give to Jeff? 
+940,Bill,Answer: Bill. Bill travelled to the kitchen. Bill travelled to the garden. Bill travelled to the,Who gave the football to Jeff? 
+941,apple,"Answer: The apple.
+
+Question: What did Bill give to Jeff? Answer: The football",What did Fred give to Mary? 
+942,Fred,"Answer: Mary gave the apple to Jeff.
+
+Question: Who did Jeff give the",Who did Mary give the apple to? 
+943,Bill,"Answer: Regulus.
+
+Question: Who gave the apple to Attilia?",Who gave the apple to Jeff? 
+944,Bill,"Answer: The Consul.
+
+Question: Who gave the apple to the Tribune?",Who did Jeff give the apple to? 
+945,Bill,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the apple? 
+946,Bill,"Answer: Bill.
+
+  [17] The following is a list of the trains which passed through",Who gave the apple? 
+947,Jeff,"Answer: Bill gave the apple to Jeff.
+
+Question: Who did Jeff give the",Who did Bill give the apple to? 
+948,Fred,"Answer: Jeff.
+
+Question: Who gave the milk to Fred?
+
+Answer",Who gave the milk to Jeff? 
+949,Jeff,"Answer: Jeff.
+
+Question: Who received the milk?
+
+Answer: Jeff",Who received the milk? 
+950,Fred,"Answer: Mary Blaisdell.
+
+Question: Who gave Jeff the milk? Answer:",Who did Jeff give the milk to? 
+951,Jeff,"Answer: Jeff.
+
+Question: Who gave the milk to Jeff?
+
+Answer",Who did Fred give the milk to? 
+952,milk,"Answer: A piece of bread.
+
+Question: What did Jeff give to Fred? Answer:",What did Jeff give to Fred? 
+953,milk,"Answer: A piece of bread.
+
+Question: What did Bill do with the piece of bread",What did Mary give to Bill? 
+954,Mary,"Answer: Mary.
+
+Question: Who gave the milk to Bill?
+
+Answer",Who did Bill give the milk to? 
+955,Bill,"Answer: The Baptists.
+
+Question: Who gave the milk to Mary?",Who gave the milk to Mary? 
+956,Mary,"Answer: Mary.
+
+Question: Who gave the football?
+
+Answer: Mary",Who gave the football? 
+957,Mary,"Answer: Mary.
+
+Question: Who gave the football?
+
+Answer: Fred",Who received the football? 
+958,apple,"Answer: A piece of bread.
+
+Question: What did Jeff give to Fred? Answer:",What did Fred give to Jeff? 
+959,Jeff,"Answer: Jeff.
+
+Question: Who gave the apple to Jeff?
+
+Answer",Who did Fred give the apple to? 
+960,Fred,"Answer: Jeff.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who gave the apple to Jeff? 
+961,Fred,"Answer: WHITWELL.
+
+Question: Who gave the apple?",Who gave the apple? 
+962,Fred,"Answer: Jeff.
+
+Question: Who gave the apple?
+
+Answer: Jeff",Who gave the apple? 
+963,Fred,"Answer: Mary.
+
+<context>
+
+Mary journeyed to the bedroom.",Who received the apple? 
+964,Mary,"Answer: Mary.
+
+Question: Who gave the apple to Fred?
+
+Answer",Who gave the apple to Fred? 
+965,Fred,"Answer: The apple was given to Fred.
+
+Question: Who gave the apple to",Who did Mary give the apple to? 
+966,apple,"Answer: The apple.
+
+Question: What did Bill do?
+
+Answer:",What did Mary give to Fred? 
+967,Fred,"Answer: The Thugs.
+
+Question: Who gave the apple?
+
+Answer",Who gave the apple? 
+968,Bill,"Answer: Bill.
+
+Question: Who received the milk?
+
+Answer: Bill",Who received the milk? 
+969,Bill,"Answer: The farmer.
+
+Question: Who gave the milk?
+
+Answer:",Who gave the milk? 
+970,Bill,"Answer: Bill.
+
+Question: Who gave the milk to Mary?
+
+Answer",Who gave the milk to Mary? 
+971,Mary,"Answer: Mary.
+
+Question: Who gave the milk to Bill? Answer: Mary.",Who gave the milk to Jeff? 
+972,Fred,"Answer: Mary.
+
+Question: Who gave the milk?
+Answer: Mary.",Who gave the football? 
+973,football,"Answer: A little money.
+
+Question: What did Bill give to Jeff?",What did Jeff give to Bill? 
+974,football,"Answer: A pair of trousers.
+
+Question: What did Bill do with them?",What did Jeff give to Bill? 
+975,Jeff,"Answer: Mary gave the milk to Jeff.
+
+Question: Who gave the milk to",Who did Mary give the milk to? 
+976,milk,"Answer: The milk.
+
+Question: What did Jeff give to Mary? Answer: The water",What did Mary give to Jeff? 
+977,Mary,"Answer: Mary.
+
+Question: Who received the football?
+Answer: Mary.",Who received the football? 
+978,milk,"Answer: A milk-pail.
+
+Question: What did Mary give to Fred",What did Fred give to Mary? 
+979,Fred,"Answer: Mary.
+
+Question: Who gave the milk? Answer: Mary.
+
+Question",Who gave the milk? 
+980,Fred,"Answer: Mary.
+
+Question: Who gave the milk to Jeff?
+
+Answer",Who gave the milk to Mary? 
+981,Fred,"Answer: Fred.
+
+Question: Who received the milk? Answer: Fred.
+
+Question",Who received the milk? 
+982,Fred,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the milk? 
+983,Jeff,"Answer: Pochard.
+
+Question: What did he do with it?",Who received the milk? 
+984,Fred,"Answer: Jeff.
+
+Question: Who gave the milk?
+Answer: Jeff.",Who gave the milk? 
+985,Fred,"Answer: Jeff.
+
+Question: Who gave the milk to Jeff?
+
+Answer",Who gave the milk to Jeff? 
+986,Fred,"Answer: Jeff.
+
+Question: Who gave the milk?
+
+Answer: Jeff",Who gave the milk? 
+987,Bill,"Answer: The father.
+
+Question: Who gave the milk?
+
+Answer:",Who received the milk? 
+988,apple,"Answer: The apple. Bill went to the
+kitchen. Jeff moved to the hallway. Fred",What did Bill give to Fred? 
+989,Fred,"Answer: The commander.
+
+Question: Who did Bill give the apple to? Answer: The",Who did Bill give the apple to? 
+990,Bill,"Answer: Bill.
+
+Question: Who gave the apple?
+
+Answer: Fred",Who gave the apple? 
+991,football,"Answer: A little apple.
+
+Question: What did Mary give to Jeff? Answer: A",What did Jeff give to Mary? 
+992,Jeff,"Answer: Mary.
+
+Question: Who gave the football to Jeff? Answer: Jeff.",Who gave the football to Mary? 
+993,Bill,"Answer: Fred.
+
+Question: Who gave it to him?
+
+Answer:",Who received the football? 
+994,Fred,"Answer: The band.
+
+Question: Who gave the football?
+
+Answer:",Who gave the football? 
+995,football,"Answer: Mary gave him a football.
+
+Question: What did Bill do with the",What did Mary give to Bill? 
+996,football,Answer: A cup of tea. Mary went to the kitchen. Bill went to the office. Bill,What did Mary give to Bill? 

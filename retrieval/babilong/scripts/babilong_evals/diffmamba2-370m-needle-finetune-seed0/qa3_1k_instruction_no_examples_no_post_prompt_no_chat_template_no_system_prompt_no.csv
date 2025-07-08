@@ -1,0 +1,863 @@
+,target,output,question
+0,office,"garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden,",Where was the apple before the bathroom? 
+1,office,"garden, bathroom, bedroom, bathroom, bedroom, bedroom, bathroom, bedroom, bedroom, bedroom,",Where was the apple before the hallway? 
+2,office,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+3,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+4,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+5,garden,"hallway, hallway, kitchen, hallway, kitchen, kitchen, hallway, kitchen, hallway, kitchen,",Where was the apple before the bathroom? 
+6,kitchen,"kitchen kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the milk before the office? 
+7,kitchen,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the office? 
+8,kitchen,"garden, bedroom, bedroom, garden, bedroom, bedroom, garden, bedroom, bedroom, garden,",Where was the apple before the office? 
+9,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+10,garden,"office, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+11,garden,"hallway, bedroom, bedroom, hallway, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the bathroom? 
+12,garden,kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen,Where was the milk before the bathroom? 
+13,garden,"office, kitchen, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the milk before the bathroom? 
+14,kitchen,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the football before the garden? 
+15,kitchen,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the garden? 
+16,garden,"garden, kitchen, office, garden, kitchen, garden, kitchen, garden, kitchen, garden,",Where was the milk before the bedroom? 
+17,garden,"garden, bathroom, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden,",Where was the milk before the bedroom? 
+18,bedroom,"office garden, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden",Where was the football before the bathroom? 
+19,garden,"office garden, bathroom, bathroom, office garden, bathroom, office garden, bathroom, office garden,",Where was the football before the hallway? 
+20,garden,"garden, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the football before the office? 
+21,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the garden? 
+22,office,"office garden, bedroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the milk before the kitchen? 
+23,kitchen,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bedroom? 
+24,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+25,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+26,garden,"bedroom, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom, bathroom,",Where was the football before the office? 
+27,garden,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the office? 
+28,garden,"bedroom, bedroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the office? 
+29,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the hallway? 
+30,office,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the kitchen? 
+31,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the kitchen? 
+32,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bedroom? 
+33,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the garden? 
+34,hallway,"hallway kitchen, hallway kitchen, hallway kitchen, hallway kitchen, hallway kitchen, hallway kitchen, hallway kitchen",Where was the apple before the bathroom? 
+35,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the kitchen? 
+36,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+37,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+38,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the hallway? 
+39,hallway,"hallway garden, hallway garden, hallway garden, hallway garden, hallway garden, hallway garden, hallway garden",Where was the milk before the bathroom? 
+40,bedroom,"garden, bedroom, bedroom, garden, bedroom, bedroom, garden, bedroom, bedroom, garden,",Where was the apple before the bathroom? 
+41,bedroom,"office garden, garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden",Where was the apple before the bathroom? 
+42,bedroom,"bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom, bedroom,",Where was the apple before the bathroom? 
+43,bedroom,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the apple before the bathroom? 
+44,bedroom,"bedroom, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the hallway? 
+45,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+46,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+47,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+48,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+49,bathroom,"bathroom, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the apple before the bedroom? 
+50,office,"office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the hallway? 
+51,kitchen,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the apple before the office? 
+52,office,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the garden? 
+53,office,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+54,garden,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the hallway? 
+55,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+56,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+57,bedroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+58,garden,"office garden, office garden, office garden, office garden, office garden, office garden, office garden",Where was the football before the bathroom? 
+59,garden,"office, hallway, office, hallway, office, hallway, office, hallway, office, hallway,",Where was the football before the bathroom? 
+60,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+61,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+62,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+63,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+64,kitchen,"bathroom, hallway, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the football before the bathroom? 
+65,office,"office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the hallway? 
+66,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the garden? 
+67,bathroom,"office, garden, hallway, bathroom, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the kitchen? 
+68,kitchen,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the bathroom? 
+69,garden,"garden, office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+70,hallway,"garden, bedroom, bedroom, garden, bedroom, bedroom, garden, bedroom, bedroom, garden,",Where was the milk before the office? 
+71,garden,"garden, bedroom, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+72,office,"office garden, garden, garden, garden, garden, garden, garden, garden, garden, garden",Where was the apple before the bathroom? 
+73,office,"office garden, garden, garden, garden, garden, garden, garden, garden, garden, garden",Where was the apple before the bathroom? 
+74,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+75,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+76,kitchen,"kitchen, garden, kitchen, garden, kitchen, garden, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+77,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+78,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+79,garden,"bedroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the bathroom? 
+80,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the kitchen? 
+81,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the kitchen? 
+82,garden,"office garden, bedroom, kitchen, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom, bathroom",Where was the milk before the bathroom? 
+83,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+84,hallway,"garden, office, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the kitchen? 
+85,hallway,"office, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the milk before the kitchen? 
+86,garden,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the milk before the bedroom? 
+87,bedroom,"garden, kitchen, garden, kitchen, garden, kitchen, kitchen, garden, kitchen, garden,",Where was the football before the kitchen? 
+88,kitchen,"kitchen, bathroom, hallway, bathroom, kitchen, hallway, kitchen, bathroom, hallway, kitchen,",Where was the apple before the hallway? 
+89,kitchen,"bedroom, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom,",Where was the apple before the hallway? 
+90,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the kitchen? 
+91,bedroom,"bedroom, kitchen, bedroom, kitchen, bathroom, kitchen, bedroom, bathroom, kitchen, bedroom,",Where was the milk before the bathroom? 
+92,bathroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bedroom? 
+93,hallway,"office, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the football before the bathroom? 
+94,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the hallway? 
+95,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the hallway? 
+96,hallway,"kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden",Where was the apple before the bathroom? 
+97,hallway,"bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen,",Where was the apple before the bathroom? 
+98,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the hallway? 
+99,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the hallway? 
+100,hallway,"hallway, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+101,hallway,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the kitchen? 
+102,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the garden? 
+103,hallway,"hallway, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bathroom? 
+104,hallway,"office, bedroom, kitchen, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bathroom? 
+105,hallway,"office, bedroom, kitchen, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bathroom? 
+106,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the kitchen? 
+107,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the hallway? 
+108,garden,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the hallway? 
+109,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the hallway? 
+110,kitchen,"office, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the garden? 
+111,kitchen,"kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom,",Where was the milk before the garden? 
+112,kitchen,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the garden? 
+113,office,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the apple before the kitchen? 
+114,office,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the kitchen? 
+115,garden,"office, bedroom, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom,",Where was the milk before the kitchen? 
+116,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+117,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+118,bathroom,"bedroom, bedroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+119,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+120,garden,"garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where was the football before the kitchen? 
+121,garden,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the kitchen? 
+122,garden,"office, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+123,bedroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+124,bedroom,"bathroom, bedroom, bedroom, bathroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the garden? 
+125,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bedroom? 
+126,kitchen,"kitchen, garden, kitchen, garden, kitchen, garden, kitchen, kitchen, garden, kitchen,",Where was the milk before the bedroom? 
+127,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bedroom? 
+128,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+129,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+130,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the garden? 
+131,garden,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the hallway? 
+132,garden,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the hallway? 
+133,garden,"office, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+134,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the kitchen? 
+135,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the office? 
+136,bathroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the office? 
+137,bedroom,"hallway, bedroom, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom,",Where was the apple before the bathroom? 
+138,bedroom,"hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the apple before the bathroom? 
+139,garden,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the hallway? 
+140,office,"office, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the football before the kitchen? 
+141,office,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the bedroom? 
+142,office,"office, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+143,garden,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the office? 
+144,bathroom,"kitchen, kitchen, garden, kitchen, garden, kitchen, garden, kitchen, kitchen, kitchen,",Where was the milk before the bedroom? 
+145,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+146,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+147,kitchen,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+148,kitchen,"kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom,",Where was the milk before the garden? 
+149,bedroom,"bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden,",Where was the milk before the kitchen? 
+150,bathroom,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the football before the kitchen? 
+151,bathroom,"office, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the football before the kitchen? 
+152,bathroom,"garden, kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen,",Where was the football before the office? 
+153,bathroom,"garden, bedroom, bedroom, garden, bedroom, garden, bedroom, bedroom, garden, bedroom,",Where was the football before the office? 
+154,bathroom,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the milk before the office? 
+155,office,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+156,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the garden? 
+157,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the garden? 
+158,kitchen,"office, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the garden? 
+159,hallway,"garden, kitchen, kitchen, garden, kitchen, garden, kitchen, garden, kitchen, garden,",Where was the football before the bedroom? 
+160,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+161,bathroom,"bedroom, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the hallway? 
+162,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bathroom? 
+163,kitchen,"garden, kitchen kitchen, garden, kitchen kitchen, garden, kitchen kitchen, garden, kitchen kitchen,",Where was the apple before the office? 
+164,kitchen,"hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the football before the bathroom? 
+165,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the kitchen? 
+166,bedroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the bathroom? 
+167,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the kitchen? 
+168,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the kitchen? 
+169,hallway,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the office? 
+170,bathroom,"kitchen kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the apple before the office? 
+171,bedroom,"office, kitchen, bathroom, office, kitchen, bathroom, office, kitchen, bathroom, office,",Where was the apple before the bathroom? 
+172,bathroom,"kitchen kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the apple before the office? 
+173,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+174,bedroom,"bedroom, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the garden? 
+175,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the garden? 
+176,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the garden? 
+177,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the garden? 
+178,kitchen,"office, garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the hallway? 
+179,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the hallway? 
+180,kitchen,"garden, kitchen, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+181,garden,"bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden,",Where was the milk before the kitchen? 
+182,bathroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the hallway? 
+183,hallway,"hallway, bathroom, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the kitchen? 
+184,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the kitchen? 
+185,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the garden? 
+186,office,"bathroom, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the football before the hallway? 
+187,hallway,"hallway garden, hallway garden, hallway bathroom, hallway bathroom, hallway bathroom, hallway bathroom, hallway bathroom",Where was the apple before the bedroom? 
+188,hallway,"bathroom, hallway, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the apple before the bedroom? 
+189,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the bedroom? 
+190,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the garden? 
+191,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the garden? 
+192,bedroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the garden? 
+193,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the office? 
+194,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the office? 
+195,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the hallway? 
+196,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the hallway? 
+197,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the hallway? 
+198,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the bedroom? 
+199,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the bedroom? 
+200,kitchen,"bathroom, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the apple before the garden? 
+201,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+202,bedroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+203,bedroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+204,bedroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+205,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+206,kitchen,"office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+207,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+208,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+209,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+210,bedroom,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+211,bedroom,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+212,bedroom,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+213,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the garden? 
+214,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the garden? 
+215,hallway,"garden, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the bathroom? 
+216,hallway,"kitchen kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen",Where was the football before the bathroom? 
+217,hallway,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bathroom? 
+218,bathroom,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the kitchen? 
+219,garden,"office, kitchen, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the hallway? 
+220,bedroom,"garden, bedroom, bedroom, garden, bedroom, garden, bedroom, bedroom, garden, bedroom,",Where was the apple before the kitchen? 
+221,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+222,bathroom,"office, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+223,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+224,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+225,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the bathroom? 
+226,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the garden? 
+227,bathroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+228,bathroom,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+229,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+230,bathroom,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+231,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+232,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+233,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+234,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+235,garden,"office, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the football before the kitchen? 
+236,garden,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the kitchen? 
+237,kitchen,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the apple before the bathroom? 
+238,bathroom,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the apple before the hallway? 
+239,office,"kitchen kitchen, garden, kitchen kitchen, garden, kitchen kitchen, garden, kitchen kitchen, garden,",Where was the football before the bedroom? 
+240,kitchen,"bedroom, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the garden? 
+241,bedroom,"bathroom, kitchen, office, bathroom, kitchen, office, bathroom, kitchen, office, bathroom,",Where was the football before the hallway? 
+242,bathroom,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the garden? 
+243,office,"office, garden, bedroom, bedroom, garden, bedroom, garden, bedroom, bedroom, garden,",Where was the apple before the bathroom? 
+244,kitchen,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the apple before the bedroom? 
+245,kitchen,"kitchen, garden, kitchen, garden, kitchen, kitchen, garden, kitchen, kitchen, kitchen,",Where was the apple before the bedroom? 
+246,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+247,office,"office, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the bathroom? 
+248,office,"office, office, office, office, office, office, office, office, office, office,",Where was the apple before the bathroom? 
+249,bathroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the office? 
+250,office,"office, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+251,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+252,garden,"hallway, hallway, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+253,bedroom,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the apple before the garden? 
+254,garden,"garden, kitchen, garden, kitchen, kitchen, garden, kitchen, kitchen, garden, kitchen,",Where was the apple before the kitchen? 
+255,kitchen,"kitchen kitchen, bathroom, kitchen kitchen, bathroom, kitchen kitchen, bathroom, kitchen kitchen, bathroom,",Where was the milk before the bathroom? 
+256,garden,"garden, bathroom, hallway, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the bathroom? 
+257,garden,"hallway garden, hallway garden, bathroom, hallway garden, bathroom, hallway garden, bathroom, hallway garden",Where was the apple before the bathroom? 
+258,hallway,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+259,office,"office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bathroom? 
+260,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bathroom? 
+261,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bathroom? 
+262,bedroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the office? 
+263,hallway,"office garden, bathroom, hallway garden, bathroom, hallway garden, bathroom, hallway garden, bathroom,",Where was the football before the bathroom? 
+264,hallway,"hallway kitchen, hallway kitchen, hallway kitchen, hallway kitchen, hallway kitchen, hallway kitchen, hallway kitchen",Where was the football before the bathroom? 
+265,hallway,"hallway garden, hallway garden, bathroom, hallway garden, bathroom, hallway garden, bathroom, hallway garden",Where was the football before the bathroom? 
+266,bathroom,"bedroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the hallway? 
+267,office,"office, office, office, office, office, office, office, office, office, office,",Where was the football before the bathroom? 
+268,office,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the football before the bathroom? 
+269,bathroom,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the garden? 
+270,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+271,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+272,office,"kitchen, garden, kitchen, garden, kitchen, garden, kitchen, kitchen, garden, kitchen,",Where was the milk before the hallway? 
+273,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+274,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the garden? 
+275,kitchen,"bathroom, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the garden? 
+276,garden,"office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+277,bedroom,"bedroom, hallway, bedroom, hallway, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the bathroom? 
+278,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bedroom? 
+279,bedroom,"bedroom, hallway, bedroom, hallway, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the bathroom? 
+280,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+281,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the bathroom? 
+282,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bathroom? 
+283,office,"office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the bathroom? 
+284,office,"office, garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the bathroom? 
+285,office,"office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the bathroom? 
+286,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+287,garden,"kitchen, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bedroom? 
+288,garden,"office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bedroom? 
+289,garden,"office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+290,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+291,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+292,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+293,bedroom,"office, bedroom, bedroom, hallway, bedroom, bedroom, hallway, bedroom, bedroom, hallway,",Where was the milk before the hallway? 
+294,bedroom,"bedroom, kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the garden? 
+295,bedroom,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the milk before the garden? 
+296,bedroom,"kitchen kitchen, office, kitchen kitchen, office, kitchen kitchen, office, kitchen kitchen, office,",Where was the milk before the garden? 
+297,hallway,"hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the milk before the bathroom? 
+298,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+299,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+300,kitchen,"kitchen, garden, kitchen, kitchen, garden, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+301,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+302,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+303,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+304,bathroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bedroom? 
+305,bathroom,"office, kitchen, office, kitchen, office, kitchen, office, kitchen, office, kitchen,",Where was the milk before the kitchen? 
+306,hallway,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the bedroom? 
+307,kitchen,"kitchen kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen",Where was the football before the garden? 
+308,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the garden? 
+309,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the garden? 
+310,hallway,"office garden, hallway, garden, hallway, garden, bathroom, hallway, garden, bathroom, hallway",Where was the apple before the bathroom? 
+311,hallway,"hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway,",Where was the apple before the bathroom? 
+312,hallway,"hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway,",Where was the apple before the bathroom? 
+313,bedroom,"office garden, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom",Where was the football before the kitchen? 
+314,office,"office garden, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the milk before the bedroom? 
+315,office,"office, bedroom, office, bedroom, office, bedroom, bedroom, office, bedroom, bedroom,",Where was the milk before the bedroom? 
+316,office,"office garden, office garden, office garden, office garden, office garden, office garden, office garden",Where was the milk before the bedroom? 
+317,bedroom,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+318,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+319,bedroom,"bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen,",Where was the milk before the hallway? 
+320,bathroom,"bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen,",Where was the milk before the hallway? 
+321,bathroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the hallway? 
+322,hallway,"hallway garden, bathroom, hallway garden, bathroom, hallway garden, bathroom, hallway garden, bathroom,",Where was the football before the bathroom? 
+323,office,"office garden, bathroom, office garden, bathroom, office garden, bathroom, office garden, bathroom,",Where was the milk before the bathroom? 
+324,office,kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen,Where was the football before the bathroom? 
+325,office,"hallway garden, bathroom, hallway garden, bathroom, hallway garden, bathroom, hallway garden, bathroom,",Where was the football before the bathroom? 
+326,bathroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the kitchen? 
+327,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+328,garden,"garden, garden, kitchen, garden, kitchen, garden, kitchen, garden, kitchen, garden,",Where was the milk before the kitchen? 
+329,kitchen,"bathroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the garden? 
+330,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the garden? 
+331,garden,"bathroom, hallway garden, bathroom, hallway garden, bathroom, hallway garden, bathroom, hallway garden,",Where was the football before the bedroom? 
+332,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the garden? 
+333,kitchen,"kitchen kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen",Where was the apple before the garden? 
+334,kitchen,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the apple before the garden? 
+335,kitchen,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the garden? 
+336,hallway,"bathroom, office, bathroom, office, bathroom, office, bathroom, office, bathroom, office,",Where was the apple before the garden? 
+337,garden,"garden, office, garden, kitchen, garden, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the bathroom? 
+338,hallway,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the office? 
+339,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+340,bedroom,"hallway bedroom, bedroom, hallway bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the bathroom? 
+341,hallway,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the bathroom? 
+342,bedroom,"office, kitchen, office, kitchen, office, kitchen, office, kitchen, office, kitchen,",Where was the apple before the kitchen? 
+343,bedroom,"garden, bedroom, kitchen, garden, kitchen, bedroom, kitchen, garden, kitchen, bedroom,",Where was the apple before the kitchen? 
+344,kitchen,"office, kitchen, kitchen, office, kitchen, office, kitchen, office, kitchen, office,",Where was the apple before the garden? 
+345,kitchen,"office, bedroom, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen,",Where was the apple before the garden? 
+346,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the garden? 
+347,kitchen,"garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where was the football before the office? 
+348,kitchen,"garden, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen,",Where was the football before the office? 
+349,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+350,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+351,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+352,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+353,hallway,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the garden? 
+354,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+355,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+356,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+357,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+358,garden,"bedroom, bedroom, kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+359,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+360,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the hallway? 
+361,hallway,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+362,hallway,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the office? 
+363,bathroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the hallway? 
+364,office,"garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where was the milk before the kitchen? 
+365,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the garden? 
+366,office,"office, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the kitchen? 
+367,bathroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the kitchen? 
+368,kitchen,kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen,Where was the apple before the office? 
+369,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the kitchen? 
+370,bathroom,"bathroom, kitchen, bathroom, kitchen, bathroom, kitchen, bathroom, kitchen, bathroom, kitchen,",Where was the milk before the hallway? 
+371,bedroom,"garden, bedroom, kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+372,bedroom,"garden, bathroom, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden,",Where was the milk before the office? 
+373,hallway,"hallway, bedroom, kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+374,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+375,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+376,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+377,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+378,hallway,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the office? 
+379,bedroom,"office, garden, bedroom, garden, bedroom, garden, bedroom, bedroom, garden, bedroom,",Where was the milk before the kitchen? 
+380,bedroom,"garden, bedroom, garden, bedroom, bedroom, garden, bedroom, garden, bedroom, garden,",Where was the milk before the kitchen? 
+381,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bathroom? 
+382,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+383,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the hallway? 
+384,bedroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the office? 
+385,bedroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the office? 
+386,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the office? 
+387,bathroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bedroom? 
+388,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+389,garden,"garden, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the milk before the bedroom? 
+390,garden,"garden, bathroom, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bedroom? 
+391,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+392,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+393,garden,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the kitchen? 
+394,office,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+395,hallway,"hallway, office, hallway, office, hallway, office, hallway, office, hallway, office,",Where was the football before the bathroom? 
+396,hallway,"hallway, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the bathroom? 
+397,bedroom,"office garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom",Where was the football before the hallway? 
+398,hallway,"office, kitchen, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bedroom? 
+399,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bedroom? 
+400,bedroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the kitchen? 
+401,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+402,kitchen,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the apple before the bedroom? 
+403,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+404,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+405,garden,"garden, kitchen, kitchen, garden, kitchen, kitchen, garden, kitchen, kitchen, garden,",Where was the milk before the office? 
+406,office,"garden, bedroom, garden, bedroom, bedroom, garden, bedroom, garden, bedroom, garden,",Where was the milk before the kitchen? 
+407,kitchen,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the garden? 
+408,bedroom,"office garden, bathroom, office garden, bathroom, office garden, bathroom, office garden, bathroom,",Where was the apple before the bathroom? 
+409,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+410,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the office? 
+411,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the office? 
+412,garden,"garden, kitchen kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the apple before the office? 
+413,hallway,"kitchen kitchen, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway",Where was the apple before the bathroom? 
+414,bedroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the kitchen? 
+415,hallway,"hallway, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the bathroom? 
+416,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+417,office,"office, kitchen, office, kitchen, office, kitchen, office, kitchen, office, kitchen,",Where was the apple before the kitchen? 
+418,garden,"bedroom, bathroom, bedroom, bathroom, hallway, bedroom, bathroom, hallway, bedroom, bathroom,",Where was the football before the hallway? 
+419,garden,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the hallway? 
+420,garden,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the office? 
+421,garden,"garden, kitchen, garden, kitchen, kitchen, garden, kitchen, garden, kitchen, garden,",Where was the apple before the office? 
+422,garden,"garden, garden, kitchen, garden, kitchen, garden, kitchen, garden, kitchen, garden,",Where was the apple before the office? 
+423,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the garden? 
+424,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the garden? 
+425,kitchen,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+426,office,"kitchen, office, garden, kitchen, garden, kitchen, kitchen, garden, kitchen, kitchen,",Where was the apple before the bedroom? 
+427,office,"kitchen kitchen, kitchen kitchen, bedroom, kitchen, bedroom, kitchen, kitchen, bedroom, kitchen,",Where was the apple before the bedroom? 
+428,garden,"hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway,",Where was the apple before the bathroom? 
+429,garden,"hallway, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway,",Where was the apple before the bathroom? 
+430,bathroom,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the apple before the kitchen? 
+431,bathroom,"office garden, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom",Where was the apple before the kitchen? 
+432,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+433,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+434,bathroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bedroom? 
+435,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+436,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+437,garden,"garden, kitchen, garden, kitchen, kitchen, garden, kitchen, kitchen, garden, kitchen,",Where was the apple before the kitchen? 
+438,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+439,garden,"office, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the football before the kitchen? 
+440,garden,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the kitchen? 
+441,garden,"garden, hallway, hallway, garden, bathroom, hallway, garden, bathroom, hallway, garden,",Where was the apple before the bathroom? 
+442,kitchen,"bathroom, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway,",Where was the apple before the bedroom? 
+443,bathroom,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the football before the office? 
+444,bathroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the office? 
+445,bedroom,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the kitchen? 
+446,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the kitchen? 
+447,bedroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+448,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+449,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+450,garden,"bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden,",Where was the football before the bedroom? 
+451,garden,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the football before the bedroom? 
+452,bedroom,"office, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden,",Where was the apple before the bathroom? 
+453,garden,"bathroom, kitchen, bathroom, kitchen, bathroom, kitchen, bathroom, kitchen, bathroom, kitchen,",Where was the milk before the bedroom? 
+454,garden,"garden, kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+455,garden,"kitchen, garden, kitchen, garden, kitchen, garden, kitchen, garden, kitchen, garden,",Where was the milk before the bedroom? 
+456,garden,"kitchen, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+457,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+458,bathroom,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the hallway? 
+459,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the office? 
+460,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the office? 
+461,garden,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the apple before the office? 
+462,office,"office, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+463,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+464,garden,"garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where was the football before the kitchen? 
+465,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+466,hallway,"bedroom, garden, kitchen, bedroom, kitchen, garden, kitchen, bedroom, kitchen, garden,",Where was the milk before the office? 
+467,office,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the hallway? 
+468,office,"hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway,",Where was the football before the bathroom? 
+469,kitchen,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the apple before the garden? 
+470,kitchen,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the apple before the garden? 
+471,bedroom,"garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom,",Where was the football before the kitchen? 
+472,kitchen,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the apple before the garden? 
+473,bathroom,"bedroom, bedroom, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+474,bathroom,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the garden? 
+475,bedroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the office? 
+476,bedroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the office? 
+477,bedroom,"bedroom, kitchen kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the milk before the office? 
+478,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+479,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+480,bathroom,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+481,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the hallway? 
+482,garden,"kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+483,bathroom,"garden, garden, kitchen, garden, kitchen, kitchen, garden, kitchen, garden, kitchen,",Where was the football before the kitchen? 
+484,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+485,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+486,garden,"garden, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen,",Where was the football before the bedroom? 
+487,garden,"bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden,",Where was the football before the bedroom? 
+488,garden,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the bedroom? 
+489,garden,"kitchen kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the milk before the bedroom? 
+490,garden,"garden, kitchen kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the milk before the bedroom? 
+491,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+492,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+493,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+494,garden,"office garden, bedroom, kitchen, bathroom, bedroom, kitchen, bathroom, bedroom, kitchen, bathroom",Where was the football before the bathroom? 
+495,bathroom,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the office? 
+496,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+497,garden,"bedroom, garden, bedroom, garden, bedroom, garden, bedroom, bedroom, garden, bedroom,",Where was the milk before the hallway? 
+498,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+499,hallway,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the football before the garden? 
+500,garden,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the football before the office? 
+501,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the football before the kitchen? 
+502,hallway,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the kitchen? 
+503,kitchen,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the hallway? 
+504,hallway,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the kitchen? 
+505,bedroom,"bedroom, bedroom, bathroom, hallway, bedroom, bathroom, hallway, bedroom, bathroom, hallway,",Where was the milk before the office? 
+506,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+507,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+508,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+509,garden,"kitchen, office, garden, kitchen, garden, kitchen, garden, kitchen, kitchen, garden,",Where was the football before the bedroom? 
+510,office,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the bathroom? 
+511,bathroom,"bathroom, hallway bathroom, hallway bathroom, hallway bathroom, hallway bathroom, hallway bathroom, hallway bathroom,",Where was the football before the garden? 
+512,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+513,office,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+514,office,"hallway, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+515,office,"garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom,",Where was the apple before the kitchen? 
+516,bathroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the hallway? 
+517,hallway,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the office? 
+518,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+519,kitchen,"garden, kitchen, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the office? 
+520,bathroom,"office, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the hallway? 
+521,bathroom,"office, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the hallway? 
+522,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+523,bathroom,"garden, kitchen, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the kitchen? 
+524,garden,"garden, kitchen, garden, kitchen, garden, kitchen, kitchen, garden, kitchen, garden,",Where was the apple before the kitchen? 
+525,bedroom,"bedroom, bedroom, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bathroom? 
+526,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the bathroom? 
+527,garden,"office, kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+528,garden,"hallway, kitchen kitchen, hallway, kitchen kitchen, hallway, kitchen kitchen, hallway, kitchen kitchen,",Where was the apple before the bathroom? 
+529,office,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the apple before the hallway? 
+530,hallway,"bathroom, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the apple before the kitchen? 
+531,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+532,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+533,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the hallway? 
+534,bathroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the hallway? 
+535,hallway,"hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway,",Where was the milk before the bedroom? 
+536,hallway,"kitchen garden, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway",Where was the milk before the bedroom? 
+537,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+538,kitchen,"kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden",Where was the apple before the hallway? 
+539,garden,"bedroom, hallway, bedroom, hallway, bedroom, bedroom, hallway, bedroom, bedroom, bedroom,",Where was the milk before the office? 
+540,office,"kitchen kitchen, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway",Where was the milk before the garden? 
+541,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+542,bathroom,"office, garden, kitchen, garden, kitchen, garden, kitchen, kitchen, garden, kitchen,",Where was the milk before the kitchen? 
+543,bathroom,"bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden,",Where was the milk before the kitchen? 
+544,bathroom,"office, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+545,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+546,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+547,garden,"garden, kitchen, garden, kitchen, garden, kitchen, garden, kitchen, garden, kitchen,",Where was the football before the kitchen? 
+548,garden,"garden, garden, kitchen, garden, kitchen, garden, kitchen, garden, kitchen, garden,",Where was the football before the kitchen? 
+549,office,"office, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+550,office,"hallway, hallway, garden, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the milk before the bathroom? 
+551,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the kitchen? 
+552,bathroom,"bathroom, bedroom, bedroom, bathroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the kitchen? 
+553,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+554,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the kitchen? 
+555,bathroom,"office, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the kitchen? 
+556,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+557,bedroom,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+558,bedroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+559,bedroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+560,bedroom,"bedroom, garden, bedroom, garden, bedroom, bedroom, garden, bedroom, bedroom, garden,",Where was the milk before the office? 
+561,kitchen,"garden, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen,",Where was the football before the bedroom? 
+562,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the office? 
+563,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the office? 
+564,kitchen,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the office? 
+565,bathroom,"bedroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the kitchen? 
+566,office,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the garden? 
+567,kitchen,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+568,kitchen,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the football before the hallway? 
+569,office,"office garden, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the milk before the kitchen? 
+570,kitchen,"office garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden",Where was the football before the hallway? 
+571,office,"office garden, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the milk before the kitchen? 
+572,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bedroom? 
+573,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bedroom? 
+574,office,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the garden? 
+575,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the garden? 
+576,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the garden? 
+577,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the office? 
+578,bedroom,"bedroom, hallway, bedroom, kitchen, hallway, bedroom, kitchen, hallway, bedroom, kitchen,",Where was the milk before the office? 
+579,kitchen,"bedroom, bedroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the hallway? 
+580,office,"kitchen, garden, kitchen, garden, kitchen, kitchen, garden, kitchen, kitchen, garden,",Where was the milk before the bedroom? 
+581,hallway,"kitchen kitchen, hallway, bedroom, kitchen kitchen, hallway, bedroom, kitchen kitchen, hallway, bedroom",Where was the milk before the bedroom? 
+582,hallway,"kitchen kitchen, hallway, bathroom, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom",Where was the milk before the bedroom? 
+583,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+584,bathroom,"bathroom, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the football before the hallway? 
+585,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the bedroom? 
+586,bedroom,"office garden, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom",Where was the apple before the hallway? 
+587,hallway,"hallway, office, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+588,hallway,"hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the apple before the bedroom? 
+589,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+590,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the hallway? 
+591,garden,"office, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+592,kitchen,"bedroom, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+593,kitchen,"kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom,",Where was the milk before the office? 
+594,office,"office garden, office garden, office garden, office garden, office garden, office garden, office garden",Where was the milk before the bathroom? 
+595,office,"office, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the kitchen? 
+596,garden,"office, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the bathroom? 
+597,garden,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the bathroom? 
+598,kitchen,"kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, kitchen kitchen",Where was the football before the office? 
+599,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the garden? 
+600,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the garden? 
+601,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+602,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+603,office,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+604,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+605,office,"garden, kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen,",Where was the football before the bedroom? 
+606,office,"kitchen, hallway, hallway, bedroom, kitchen, hallway, bedroom, kitchen, hallway, bedroom,",Where was the milk before the bedroom? 
+607,kitchen,"bedroom, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the office? 
+608,office,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the hallway? 
+609,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+610,bedroom,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the kitchen? 
+611,garden,"bedroom, garden, bedroom, garden, bedroom, garden, bedroom, bedroom, garden, bedroom,",Where was the football before the office? 
+612,garden,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the office? 
+613,garden,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the office? 
+614,bedroom,"garden, hallway, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the kitchen? 
+615,bedroom,"office, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the apple before the kitchen? 
+616,bedroom,"bedroom, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom,",Where was the milk before the office? 
+617,bedroom,"bedroom, bedroom, bathroom, bedroom, bathroom, bedroom, bedroom, bathroom, bedroom, bedroom,",Where was the milk before the office? 
+618,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the bathroom? 
+619,hallway,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the office? 
+620,hallway,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the office? 
+621,hallway,"garden, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the apple before the office? 
+622,hallway,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the bathroom? 
+623,garden,"garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where was the football before the bathroom? 
+624,garden,"hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the football before the bathroom? 
+625,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the office? 
+626,garden,kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen,Where was the apple before the bathroom? 
+627,bathroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the office? 
+628,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the garden? 
+629,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the garden? 
+630,office,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the milk before the bedroom? 
+631,office,"office garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden",Where was the milk before the bedroom? 
+632,bedroom,"bedroom, garden, bathroom, bedroom, garden, bathroom, bedroom, garden, bathroom, bedroom,",Where was the apple before the bathroom? 
+633,hallway,"office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the bathroom? 
+634,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the hallway? 
+635,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bathroom? 
+636,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+637,kitchen,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the football before the garden? 
+638,kitchen,"office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+639,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+640,office,"office, bedroom, bedroom, office, bedroom, bedroom, office, bedroom, bedroom, bedroom,",Where was the milk before the bathroom? 
+641,office,"office, office, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the milk before the bathroom? 
+642,office,"office, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom,",Where was the milk before the bathroom? 
+643,bathroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the kitchen? 
+644,bathroom,"hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway,",Where was the apple before the kitchen? 
+645,bathroom,"hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the apple before the kitchen? 
+646,bedroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the garden? 
+647,garden,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bedroom? 
+648,office,"office, office, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the milk before the bathroom? 
+649,office,"kitchen, office, kitchen, office, kitchen, office, kitchen, office, kitchen, office,",Where was the milk before the bathroom? 
+650,office,"garden, kitchen, office, garden, kitchen, office, garden, kitchen, office, garden,",Where was the milk before the bathroom? 
+651,office,"office, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the kitchen? 
+652,office,"office, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the kitchen? 
+653,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+654,garden,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+655,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+656,hallway,"garden, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the apple before the bedroom? 
+657,office,"office, garden, kitchen, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the hallway? 
+658,office,"office, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the hallway? 
+659,bedroom,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the hallway? 
+660,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the garden? 
+661,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the garden? 
+662,kitchen,"office, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the hallway? 
+663,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the office? 
+664,hallway,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the bathroom? 
+665,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the bathroom? 
+666,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the bathroom? 
+667,bedroom,"office garden, bathroom, office garden, bathroom, office garden, bathroom, office garden, bathroom,",Where was the football before the bathroom? 
+668,bedroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+669,garden,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the football before the office? 
+670,garden,"garden, kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the office? 
+671,garden,"kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom,",Where was the football before the office? 
+672,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the office? 
+673,kitchen,"kitchen kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen",Where was the milk before the garden? 
+674,kitchen,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the milk before the garden? 
+675,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the kitchen? 
+676,bedroom,"bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden,",Where was the football before the kitchen? 
+677,hallway,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+678,hallway,"kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+679,office,"office, bathroom, office, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bathroom? 
+680,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+681,garden,"garden, kitchen, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+682,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the kitchen? 
+683,kitchen,"kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+684,kitchen,"kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom,",Where was the apple before the garden? 
+685,kitchen,"kitchen kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom",Where was the apple before the garden? 
+686,bathroom,"office, garden, kitchen, garden, kitchen, kitchen, garden, kitchen, garden, kitchen,",Where was the football before the hallway? 
+687,garden,"office, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway,",Where was the milk before the bathroom? 
+688,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the bathroom? 
+689,kitchen,"kitchen, garden, kitchen, garden, kitchen, garden, kitchen, garden, kitchen, garden,",Where was the apple before the bathroom? 
+690,kitchen,"garden, kitchen, garden, kitchen, garden, kitchen, garden, kitchen, garden, kitchen,",Where was the apple before the bathroom? 
+691,garden,"garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom,",Where was the apple before the kitchen? 
+692,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the kitchen? 
+693,bathroom,"office, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the milk before the hallway? 
+694,bathroom,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the hallway? 
+695,bathroom,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the hallway? 
+696,bedroom,"office, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the kitchen? 
+697,bathroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the bedroom? 
+698,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+699,garden,"office, bedroom, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+700,bedroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the garden? 
+701,bedroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+702,bedroom,"bathroom, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the apple before the garden? 
+703,garden,"office garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom",Where was the apple before the hallway? 
+704,office,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the garden? 
+705,hallway,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the football before the kitchen? 
+706,hallway,"hallway, garden, kitchen, hallway, garden, kitchen, hallway, garden, kitchen, hallway,",Where was the football before the kitchen? 
+707,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+708,bathroom,"garden, kitchen, bathroom, kitchen, bathroom, kitchen, bathroom, kitchen, bathroom, kitchen,",Where was the milk before the hallway? 
+709,bathroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+710,bedroom,"garden, bedroom, kitchen, garden, bedroom, kitchen, garden, bedroom, kitchen, garden,",Where was the football before the kitchen? 
+711,hallway,"hallway, garden, bedroom, hallway, bedroom, garden, bedroom, hallway, bedroom, hallway,",Where was the apple before the bedroom? 
+712,hallway,"kitchen kitchen, hallway, hallway, bedroom, hallway, bedroom, bedroom, bedroom, bedroom, bedroom",Where was the apple before the bedroom? 
+713,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+714,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+715,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the bedroom? 
+716,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the bedroom? 
+717,bedroom,"hallway office, hallway bedroom, hallway bedroom, hallway bedroom, hallway bedroom, hallway bedroom, hallway bedroom",Where was the apple before the bathroom? 
+718,office,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bedroom? 
+719,bathroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the office? 
+720,hallway,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the milk before the garden? 
+721,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the garden? 
+722,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the garden? 
+723,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+724,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+725,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+726,hallway,"office garden, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway",Where was the football before the bathroom? 
+727,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+728,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+729,garden,"kitchen kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen",Where was the milk before the hallway? 
+730,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+731,bedroom,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the hallway? 
+732,bedroom,"office, bathroom, office, bathroom, office, bathroom, office, bathroom, office, bathroom,",Where was the football before the hallway? 
+733,bedroom,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the milk before the hallway? 
+734,bedroom,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the milk before the hallway? 
+735,bedroom,"kitchen, garden, kitchen, garden, kitchen, garden, kitchen, kitchen, garden, kitchen,",Where was the milk before the hallway? 
+736,bedroom,"office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+737,bedroom,"office garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen",Where was the milk before the hallway? 
+738,garden,"garden, kitchen, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+739,garden,"garden, kitchen, garden, kitchen, kitchen, garden, kitchen, garden, kitchen, kitchen,",Where was the milk before the office? 
+740,bedroom,"bedroom, garden, kitchen, garden, kitchen, garden, kitchen, kitchen, garden, kitchen,",Where was the milk before the hallway? 
+741,bedroom,"garden, kitchen, kitchen, garden, kitchen, garden, kitchen, kitchen, garden, kitchen,",Where was the milk before the hallway? 
+742,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+743,hallway,"kitchen kitchen garden, kitchen kitchen garden, kitchen kitchen garden, kitchen kitchen garden, kitchen kitchen garden,",Where was the milk before the bathroom? 
+744,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the garden? 
+745,kitchen,"garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where was the football before the bathroom? 
+746,kitchen,"garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where was the football before the bathroom? 
+747,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the garden? 
+748,garden,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the apple before the hallway? 
+749,bedroom,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the apple before the garden? 
+750,bedroom,"kitchen kitchen, office, kitchen, office, kitchen, office, kitchen, office, kitchen, office",Where was the apple before the garden? 
+751,garden,"garden, kitchen, bathroom, kitchen, bathroom, kitchen, bathroom, kitchen, bathroom, kitchen,",Where was the milk before the office? 
+752,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the garden? 
+753,hallway,"kitchen kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the milk before the garden? 
+754,kitchen,"bathroom, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the football before the office? 
+755,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+756,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+757,hallway,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the office? 
+758,office,"hallway, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway,",Where was the milk before the bathroom? 
+759,bedroom,"kitchen kitchen, hallway, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen",Where was the apple before the garden? 
+760,kitchen,"hallway, garden, kitchen, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the apple before the bedroom? 
+761,garden,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the kitchen? 
+762,bathroom,"garden, bedroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+763,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+764,garden,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the football before the bedroom? 
+765,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+766,office,"office, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+767,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+768,garden,"garden, kitchen, garden, kitchen, garden, kitchen, kitchen, garden, kitchen, garden,",Where was the milk before the office? 
+769,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+770,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+771,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the hallway? 
+772,bathroom,"garden, kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the hallway? 
+773,bathroom,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the hallway? 
+774,garden,"office garden, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the milk before the kitchen? 
+775,bedroom,kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen,Where was the football before the hallway? 
+776,garden,"bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, garden, garden,",Where was the milk before the hallway? 
+777,garden,"kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom,",Where was the milk before the hallway? 
+778,garden,"office, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen,",Where was the milk before the hallway? 
+779,garden,"bedroom, garden, bedroom, garden, bedroom, bedroom, garden, bedroom, bedroom, bedroom,",Where was the milk before the hallway? 
+780,bedroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the garden? 
+781,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bedroom? 
+782,office,"garden, kitchen, bathroom, kitchen, bathroom, kitchen, garden, kitchen, garden, kitchen,",Where was the milk before the bedroom? 
+783,bedroom,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the office? 
+784,bedroom,"garden, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the office? 
+785,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the garden? 
+786,office,"office, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the kitchen? 
+787,hallway,"kitchen, hallway, kitchen, hallway, kitchen, kitchen, hallway, kitchen, kitchen, hallway,",Where was the apple before the bedroom? 
+788,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the bedroom? 
+789,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the hallway? 
+790,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the hallway? 
+791,hallway,"kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway,",Where was the milk before the garden? 
+792,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the garden? 
+793,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bathroom? 
+794,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+795,bathroom,"garden, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen,",Where was the milk before the office? 
+796,garden,"hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the milk before the bathroom? 
+797,bedroom,"hallway, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the bathroom? 
+798,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+799,hallway,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the kitchen? 
+800,hallway,"garden, garden, kitchen, garden, kitchen, garden, kitchen, garden, kitchen, garden,",Where was the football before the kitchen? 
+801,garden,"garden, hallway, garden, kitchen, hallway, garden, kitchen, hallway, garden, kitchen,",Where was the football before the bedroom? 
+802,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the bedroom? 
+803,garden,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the hallway? 
+804,garden,"bedroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the office? 
+805,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+806,bathroom,"office, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the garden? 
+807,garden,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the office? 
+808,garden,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the office? 
+809,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the office? 
+810,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the garden? 
+811,hallway,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+812,hallway,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the football before the kitchen? 
+813,hallway,"office garden, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom",Where was the football before the kitchen? 
+814,kitchen,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+815,hallway,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+816,kitchen,kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen,Where was the milk before the garden? 
+817,hallway,"kitchen kitchen, office, garden, kitchen, garden, kitchen, garden, kitchen, kitchen, garden",Where was the milk before the bathroom? 
+818,office,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the football before the hallway? 
+819,office,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the football before the hallway? 
+820,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the hallway? 
+821,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the bathroom? 
+822,kitchen,"office, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the milk before the bathroom? 
+823,bathroom,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the football before the bedroom? 
+824,bathroom,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the bedroom? 
+825,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bedroom? 
+826,bathroom,"office, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+827,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the apple before the hallway? 
+828,bathroom,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the apple before the hallway? 
+829,bathroom,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the hallway? 
+830,bathroom,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the apple before the hallway? 
+831,hallway,"kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway,",Where was the football before the garden? 
+832,bathroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+833,bathroom,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+834,bathroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the milk before the hallway? 
+835,hallway,"garden, bedroom, bedroom, garden, bedroom, bedroom, garden, bedroom, garden, bedroom,",Where was the milk before the kitchen? 
+836,hallway,"office garden, bedroom, bedroom, garden, bedroom, garden, bedroom, bedroom, garden, bedroom",Where was the milk before the kitchen? 
+837,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the office? 
+838,bedroom,"hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where was the football before the bathroom? 
+839,bedroom,"bedroom, bedroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the office? 
+840,hallway,"kitchen, hallway, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+841,hallway,"bathroom, office, bathroom, office, bathroom, office, bathroom, office, bathroom, office,",Where was the milk before the bedroom? 
+842,hallway,"office, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the milk before the bedroom? 
+843,bedroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the apple before the office? 
+844,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the apple before the bedroom? 
+845,hallway,"kitchen kitchen, hallway, bedroom, kitchen kitchen, hallway, bedroom, kitchen kitchen, bedroom, kitchen",Where was the football before the bedroom? 
+846,bedroom,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where was the milk before the bathroom? 
+847,hallway,"kitchen kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen",Where was the football before the bedroom? 
+848,kitchen,"kitchen, kitchen, garden, kitchen, garden, kitchen, garden, kitchen, garden, kitchen,",Where was the milk before the bathroom? 
+849,office,"office, garden, kitchen, bathroom, kitchen, office, garden, kitchen, bathroom, kitchen,",Where was the football before the bathroom? 
+850,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 
+851,bedroom,"kitchen kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where was the apple before the office? 
+852,bedroom,"bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen,",Where was the apple before the office? 
+853,bathroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where was the milk before the bedroom? 
+854,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the garden? 
+855,garden,"office, kitchen, office, kitchen, office, kitchen, office, kitchen, office, kitchen,",Where was the milk before the bedroom? 
+856,kitchen,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where was the football before the garden? 
+857,bedroom,"garden, bedroom, bedroom, garden, bedroom, bedroom, garden, bedroom, bedroom, garden,",Where was the football before the office? 
+858,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where was the football before the bedroom? 
+859,hallway,"hallway, garden, kitchen, hallway, garden, kitchen, hallway, garden, kitchen, hallway,",Where was the football before the kitchen? 
+860,hallway,"office, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where was the football before the kitchen? 
+861,hallway,"hallway, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where was the football before the kitchen? 

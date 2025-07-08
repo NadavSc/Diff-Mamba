@@ -1,0 +1,36 @@
+# @package _global_
+defaults:
+  - /pipeline: cifar
+  - /model: s4
+  - override /scheduler: cosine_warmup
+
+model:
+  dropout: 0.1
+  tie_dropout: true
+  n_layers: 4
+  d_model: 128
+  prenorm: false
+  layer:
+    rank: 1
+    init: legs
+    deterministic: false
+    d_state: 64
+    bidirectional: true
+    final_act: id
+
+loader:
+  batch_size: 50
+
+optimizer:
+  lr: 0.01
+  weight_decay: 0.01
+
+trainer:
+  max_epochs: 100
+
+scheduler:
+  num_warmup_steps: 900  # 1 epoch
+  num_training_steps: 90000  # 100 epochs
+
+train:
+  seed: 1111

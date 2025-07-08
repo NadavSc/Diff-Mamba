@@ -1,0 +1,1001 @@
+,target,output,question
+0,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+1,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+2,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+3,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+4,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+5,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+6,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+7,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+8,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+9,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+10,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+11,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+12,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+13,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+14,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+15,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+16,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+17,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+18,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+19,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+20,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+21,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+22,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+23,hallway,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where is Sandra? 
+24,bedroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+25,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+26,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+27,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+28,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+29,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+30,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+31,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+32,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+33,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+34,bathroom,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where is Sandra? 
+35,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+36,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+37,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+38,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+39,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+40,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+41,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+42,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+43,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+44,garden,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+45,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+46,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+47,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+48,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+49,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+50,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+51,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+52,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+53,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+54,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+55,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+56,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+57,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+58,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+59,hallway,"hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway,",Where is Sandra? 
+60,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+61,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+62,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+63,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+64,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+65,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+66,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+67,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+68,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+69,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+70,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+71,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+72,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+73,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+74,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+75,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+76,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+77,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+78,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+79,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+80,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+81,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+82,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+83,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+84,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+85,garden,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where is Sandra? 
+86,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+87,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+88,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+89,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+90,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+91,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+92,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+93,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is Sandra? 
+94,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+95,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+96,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+97,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+98,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+99,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+100,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+101,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+102,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+103,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+104,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+105,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+106,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+107,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+108,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+109,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+110,bathroom,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where is Daniel? 
+111,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+112,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+113,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+114,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+115,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+116,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+117,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+118,bathroom,"office, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where is Daniel? 
+119,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+120,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+121,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+122,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+123,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+124,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+125,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+126,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+127,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+128,garden,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+129,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+130,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+131,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+132,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+133,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+134,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+135,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+136,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+137,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+138,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+139,bathroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is John? 
+140,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+141,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+142,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+143,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+144,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+145,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+146,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+147,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+148,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+149,kitchen,"garden,e,e,e,e,e,e,e,e,e,",Where is Daniel? 
+150,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+151,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+152,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+153,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+154,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+155,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+156,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+157,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+158,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+159,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+160,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+161,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+162,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+163,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+164,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+165,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+166,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+167,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+168,kitchen,"office, office, office, office, office, office, office, office, office, office,",Where is Daniel? 
+169,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+170,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+171,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+172,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+173,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+174,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+175,office,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+176,kitchen,"kitchen kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen",Where is Sandra? 
+177,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+178,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+179,office,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+180,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+181,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+182,hallway,"kitchen, hallway, kitchen, hallway, kitchen, kitchen, hallway, kitchen, hallway, kitchen,",Where is Daniel? 
+183,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+184,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+185,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+186,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+187,garden,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+188,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+189,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+190,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+191,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+192,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+193,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+194,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+195,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+196,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+197,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+198,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+199,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+200,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+201,office,"office, office, office, office, office, office, office, office, office, office,",Where is John? 
+202,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+203,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+204,hallway,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is Sandra? 
+205,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+206,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+207,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+208,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+209,hallway,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+210,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+211,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+212,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+213,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+214,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+215,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+216,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+217,hallway,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+218,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+219,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+220,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+221,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+222,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+223,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+224,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is John? 
+225,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+226,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+227,garden,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+228,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+229,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+230,office,"office,e,e,e,e,e,e,e,e,e,",Where is Daniel? 
+231,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+232,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+233,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+234,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+235,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+236,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+237,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+238,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+239,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+240,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+241,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+242,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+243,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+244,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+245,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+246,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+247,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+248,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+249,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+250,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+251,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+252,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+253,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+254,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+255,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+256,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+257,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+258,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+259,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+260,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+261,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+262,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+263,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+264,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+265,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+266,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+267,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+268,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+269,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+270,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+271,office,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+272,office,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+273,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+274,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+275,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+276,kitchen,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+277,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+278,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+279,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+280,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+281,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+282,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+283,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+284,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+285,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+286,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+287,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+288,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+289,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+290,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+291,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+292,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is John? 
+293,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+294,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+295,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+296,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+297,hallway,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+298,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+299,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+300,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+301,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+302,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+303,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+304,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+305,garden,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where is Daniel? 
+306,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+307,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+308,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+309,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+310,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+311,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+312,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+313,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+314,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+315,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+316,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+317,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+318,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+319,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+320,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+321,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+322,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+323,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+324,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+325,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+326,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+327,garden,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+328,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+329,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+330,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+331,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+332,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+333,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+334,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+335,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+336,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+337,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+338,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+339,hallway,"office, office, office, office, office, office, office, office, office, office,",Where is Sandra? 
+340,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+341,garden,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+342,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+343,kitchen,"kitchen kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen",Where is Sandra? 
+344,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+345,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+346,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+347,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+348,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+349,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+350,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+351,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+352,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+353,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+354,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+355,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+356,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+357,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+358,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+359,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+360,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+361,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+362,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+363,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+364,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+365,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+366,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+367,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+368,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+369,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+370,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+371,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+372,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+373,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+374,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+375,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+376,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+377,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+378,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+379,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+380,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+381,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+382,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+383,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+384,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+385,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+386,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+387,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+388,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+389,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+390,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+391,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+392,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+393,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+394,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+395,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+396,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+397,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+398,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+399,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+400,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+401,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+402,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+403,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+404,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+405,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+406,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+407,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+408,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+409,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+410,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+411,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+412,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+413,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+414,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+415,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+416,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+417,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+418,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+419,bathroom,"office, office, office, office, office, office, office, office, office, office,",Where is Sandra? 
+420,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+421,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+422,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+423,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+424,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+425,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+426,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+427,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+428,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+429,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+430,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+431,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+432,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+433,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+434,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+435,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+436,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+437,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+438,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+439,garden,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where is John? 
+440,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+441,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+442,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+443,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+444,bedroom,"office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+445,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+446,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+447,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+448,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+449,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+450,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+451,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+452,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+453,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+454,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+455,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+456,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+457,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+458,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+459,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+460,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+461,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+462,bedroom,"school, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+463,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+464,garden,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+465,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+466,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+467,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+468,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+469,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+470,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+471,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+472,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+473,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+474,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+475,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+476,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+477,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+478,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+479,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+480,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+481,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+482,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+483,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+484,garden,"hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway, hallway,",Where is John? 
+485,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+486,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+487,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+488,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+489,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+490,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+491,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+492,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+493,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+494,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+495,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+496,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+497,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+498,hallway,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+499,hallway,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+500,kitchen,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+501,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+502,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+503,hallway,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+504,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+505,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+506,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+507,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+508,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+509,bedroom,"office, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where is Daniel? 
+510,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+511,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+512,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+513,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+514,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+515,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+516,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+517,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+518,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+519,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+520,office,"office office, office, office, office, office, office, office, office, office, office",Where is Sandra? 
+521,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+522,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+523,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+524,garden,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where is Sandra? 
+525,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+526,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+527,garden,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+528,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+529,hallway,"hallway, hallway, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+530,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+531,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+532,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+533,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+534,bathroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+535,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+536,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+537,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+538,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+539,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+540,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+541,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+542,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+543,hallway,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+544,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+545,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+546,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+547,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+548,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+549,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+550,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+551,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+552,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+553,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+554,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+555,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+556,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+557,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+558,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+559,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+560,garden,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+561,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+562,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+563,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+564,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+565,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+566,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+567,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+568,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+569,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+570,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+571,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+572,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+573,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+574,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+575,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+576,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+577,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+578,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+579,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+580,hallway,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+581,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+582,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+583,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+584,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+585,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+586,garden,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+587,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+588,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+589,bedroom,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+590,office,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+591,hallway,"e,e,e,e,e,e,e,e,e,e,",Where is Mary? 
+592,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+593,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+594,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+595,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+596,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+597,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+598,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+599,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+600,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+601,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+602,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+603,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+604,office,"office,e,e,e,e,e,e,e,e,e,",Where is John? 
+605,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+606,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+607,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+608,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+609,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+610,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+611,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+612,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+613,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+614,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+615,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+616,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+617,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+618,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+619,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+620,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+621,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+622,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+623,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+624,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is John? 
+625,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+626,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+627,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+628,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+629,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+630,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+631,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+632,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+633,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+634,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+635,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+636,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+637,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+638,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+639,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+640,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+641,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+642,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+643,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+644,garden,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+645,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+646,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+647,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+648,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+649,kitchen,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+650,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+651,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+652,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+653,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+654,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+655,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+656,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+657,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+658,garden,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+659,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+660,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+661,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+662,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+663,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+664,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+665,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+666,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+667,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+668,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+669,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+670,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+671,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+672,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+673,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+674,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+675,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+676,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+677,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+678,hallway,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+679,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+680,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+681,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+682,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+683,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+684,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+685,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+686,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+687,office,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+688,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+689,hallway,"kitchen, hallway, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+690,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+691,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+692,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+693,office,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+694,garden,"e,e,e,e,e,e,e,e,e,e,",Where is Mary? 
+695,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+696,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+697,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+698,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+699,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+700,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+701,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+702,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+703,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+704,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+705,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+706,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+707,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+708,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+709,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+710,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+711,garden,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where is Sandra? 
+712,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+713,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+714,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+715,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+716,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+717,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+718,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+719,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+720,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+721,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+722,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+723,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+724,office,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+725,garden,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+726,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+727,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+728,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+729,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+730,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+731,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+732,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+733,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+734,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+735,hallway,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+736,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+737,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is John? 
+738,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+739,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+740,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+741,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+742,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+743,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+744,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+745,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+746,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+747,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+748,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+749,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+750,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+751,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+752,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+753,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+754,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+755,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+756,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+757,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+758,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+759,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+760,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+761,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+762,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+763,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+764,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+765,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+766,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+767,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+768,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+769,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+770,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+771,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+772,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+773,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+774,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+775,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+776,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+777,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+778,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+779,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+780,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+781,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+782,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+783,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+784,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+785,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+786,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+787,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+788,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+789,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+790,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+791,garden,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+792,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+793,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+794,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+795,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+796,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+797,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+798,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+799,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+800,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+801,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+802,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+803,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+804,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+805,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+806,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+807,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+808,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+809,hallway,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+810,garden,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+811,garden,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+812,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+813,hallway,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+814,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+815,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+816,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+817,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+818,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+819,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+820,garden,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where is Sandra? 
+821,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+822,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+823,hallway,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+824,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+825,office,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+826,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+827,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+828,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+829,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+830,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+831,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+832,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+833,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+834,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+835,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+836,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+837,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+838,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+839,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+840,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+841,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+842,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+843,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+844,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+845,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+846,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+847,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+848,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+849,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+850,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+851,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+852,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+853,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+854,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+855,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+856,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+857,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is John? 
+858,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+859,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+860,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+861,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+862,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+863,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+864,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+865,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+866,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+867,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+868,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+869,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+870,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+871,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+872,hallway,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+873,hallway,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+874,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+875,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+876,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+877,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+878,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+879,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+880,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+881,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+882,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+883,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+884,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+885,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+886,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+887,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+888,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+889,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+890,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+891,office,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is John? 
+892,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+893,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+894,office,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is John? 
+895,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+896,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+897,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+898,garden,"office, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+899,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+900,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+901,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+902,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+903,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+904,garden,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+905,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+906,kitchen,"kitchen kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen",Where is Sandra? 
+907,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+908,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+909,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+910,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+911,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+912,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+913,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+914,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+915,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+916,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+917,garden,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+918,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+919,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+920,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+921,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+922,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+923,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+924,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+925,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+926,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+927,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+928,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+929,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+930,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+931,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+932,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+933,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+934,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+935,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+936,hallway,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+937,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+938,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+939,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+940,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+941,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+942,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+943,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+944,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+945,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+946,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+947,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+948,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+949,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+950,hallway,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+951,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+952,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+953,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+954,office,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+955,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+956,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+957,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+958,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+959,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+960,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+961,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+962,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+963,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+964,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+965,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+966,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+967,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+968,hallway,"hallway, hallway, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+969,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+970,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+971,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+972,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+973,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+974,hallway,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+975,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+976,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+977,office,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+978,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+979,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+980,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+981,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+982,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+983,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+984,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+985,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+986,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+987,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+988,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+989,bathroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is John? 
+990,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+991,kitchen,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+992,garden,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+993,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Daniel? 
+994,garden,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Mary? 
+995,kitchen,"e,e,e,e,e,e,e,e,e,e,",Where is John? 
+996,hallway,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+997,office,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is Sandra? 
+998,bathroom,"e,e,e,e,e,e,e,e,e,e,",Where is Sandra? 
+999,bedroom,"e,e,e,e,e,e,e,e,e,e,",Where is John? 

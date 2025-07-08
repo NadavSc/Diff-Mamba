@@ -1,0 +1,101 @@
+,target,output,question
+0,Bill,"Mary, Bill, Mary, Bill, Mary, Bill, Mary, Bill, Mary, Bill,",Who gave the football? 
+1,Jeff,"Jeff Bill, Jeff Jeff, Bill, Jeff, Bill, Jeff, Bill, Jeff, Bill,",Who received the apple? 
+2,apple,"apple, milk, football, football, football, football, football, football, football, football,",What did Fred give to Jeff? 
+3,Jeff,"Jeff Bill, Jeff Mary, Bill, Jeff Mary, Bill, Jeff Mary, Bill, Jeff Mary",Who did Fred give the apple to? 
+4,apple,"apple, apple, football, football, football, football, football, football, football, football,",What did Fred give to Jeff? 
+5,Fred,"Fred Mary, Fred Fred Bill, Fred Mary, Fred Bill, Fred Mary, Fred Bill, Fred",Who received the apple? 
+6,Bill,"Bill Bill, Mary, Fred, Bill, Mary, Fred, Bill, Mary, Fred, Bill",Who gave the milk to Fred? 
+7,milk,"milk, milk, football, football, football, football, football, football, football, football,",What did Fred give to Bill? 
+8,Fred,"Fred Mary, Fred Fred Bill, Fred Mary, Fred Bill, Fred Mary, Fred Bill, Fred",Who did Bill give the milk to? 
+9,Bill,"Bill Bill, Bill Mary, Bill Bill, Fred, Bill Bill, Mary, Fred, Bill Bill",Who gave the milk to Fred? 
+10,Fred,"Fred Bill Bill, Bill Fred Mary, Bill Bill, Bill Mary, Bill Bill, Mary, Bill",Who gave the milk? 
+11,milk,"milk, football, football, football, football, football, football, football, football, football,",What did Fred give to Jeff? 
+12,Jeff,"Jeff, Bill, Bill, Bill, Jeff, Bill, Bill, Bill, Jeff, Bill,",Who did Fred give the milk to? 
+13,Mary,"Mary, Jeff, Bill, Bill, Mary, Bill, Mary, Bill, Mary, Bill,",Who received the milk? 
+14,Jeff,"Mary, Jeff, Bill, Bill, Mary, Bill, Mary, Bill, Mary, Bill,",Who gave the milk? 
+15,milk,"milk, football, football, football, football, football, football, football, football, football,",What did Jeff give to Mary? 
+16,football,"football football, football football, football football football football football football football football football football football football football football",What did Fred give to Mary? 
+17,Mary,"Mary, Mary, Mary, Mary, Mary, Mary, Mary, Mary, Mary, Mary,",Who received the football? 
+18,Mary,"Jeff, Mary, Jeff, Bill, Bill, Mary, Jeff, Bill, Mary, Jeff,",Who gave the football? 
+19,Mary,"Jeff, Mary, Bill, Bill, Mary, Bill, Jeff, Bill, Mary, Bill,",Who gave the football? 
+20,Fred,"Bill Bill, Jeff, Bill Bill, Jeff, Bill Bill, Jeff, Bill Bill, Jeff,",Who gave the football to Jeff? 
+21,Mary,"Bill, Fred, Bill, Fred, Bill, Fred, Bill, Fred, Bill, Fred,",Who gave the apple to Fred? 
+22,Fred,"Fred, Mary, Fred, Mary, Fred, Mary, Fred, Mary, Fred, Mary,",Who did Mary give the apple to? 
+23,Fred,"Fred, Mary, Fred, Mary, Fred, Mary, Fred, Mary, Fred, Mary,",Who did Mary give the apple to? 
+24,Mary,"Fred, Mary, Fred, Mary, Fred, Mary, Fred, Mary, Fred, Mary,",Who gave the apple? 
+25,football,"football, football, football, football, football, football, football, football, football, football,",What did Jeff give to Mary? 
+26,Mary,"Fred Mary, Fred Mary, Fred Mary, Fred Mary, Fred Mary, Fred Mary, Fred Mary",Who gave the milk? 
+27,Bill,"Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill Bill",Who did Fred give the milk to? 
+28,Fred,"Fred Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill",Who gave the apple? 
+29,milk,"milk, milk, football, football, football, football, football, football, football, football,",What did Fred give to Bill? 
+30,apple,"apple, milk, football, football, football, football, football, football, football, football,",What did Bill give to Fred? 
+31,apple,"apple, football, football, football, football, football, football, football, football, football,",What did Mary give to Fred? 
+32,Mary,"Fred Mary, Fred Bill, Fred Mary, Bill, Fred Mary, Bill, Mary, Fred Mary",Who gave the apple? 
+33,apple,"apple, football, football, football, football, football, football, football, football, football,",What did Mary give to Fred? 
+34,Jeff,"Bill, Jeff, Bill, Bill, Fred, Bill, Fred, Bill, Fred, Bill,",Who gave the apple to Fred? 
+35,Jeff,"Fred Bill, Fred Mary, Fred Bill, Fred Fred Mary, Fred Bill, Fred Mary, Fred",Who gave the apple? 
+36,Fred,"Fred Fred Mary, Fred Fred Fred Bill, Fred Fred Mary, Fred Fred Fred Bill, Fred Fred",Who did Bill give the apple to? 
+37,Bill,"Fred Fred Bill, Fred Fred Bill, Fred Fred Bill, Fred Fred Bill, Fred Fred Bill,",Who gave the apple? 
+38,apple,"apple, apple, apple, apple, Bill, Bill, Bill, Fred, Bill, Bill,",What did Fred give to Bill? 
+39,Bill,"Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill Bill",Who did Fred give the apple to? 
+40,Bill,"Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill Bill",Who received the apple? 
+41,football,"football football, football football football football football football football football football football football football football football football football football",What did Jeff give to Bill? 
+42,football,"football football, football football, football football football football football football football football football football football football football football",What did Bill give to Jeff? 
+43,Bill,"Bill Bill, Bill Bill, Bill Bill, Jeff, Bill, Bill, Bill, Jeff, Bill",Who gave the football to Jeff? 
+44,apple,"apple, football, football, football, football, football, football, football, football, football,",What did Fred give to Mary? 
+45,Fred,"Fred Fred, Bill, Mary, Fred, Bill, Mary, Fred, Bill, Mary, Fred",Who did Mary give the apple to? 
+46,Bill,"Bill Bill, Jeff, Bill Bill, Jeff, Bill Bill, Jeff, Bill Bill, Jeff,",Who gave the apple to Jeff? 
+47,Bill,"Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill Bill, Bill Bill",Who did Jeff give the apple to? 
+48,Bill,"Bill Bill, Jeff, Bill Bill, Bill Bill, Bill, Bill, Bill, Bill, Bill",Who received the apple? 
+49,Bill,"Jeff, Bill, Bill, Jeff, Bill, Bill, Jeff, Bill, Bill, Jeff,",Who gave the apple? 
+50,Jeff,"Jeff, Bill, Bill, Jeff, Bill, Bill, Jeff, Bill, Bill, Jeff,",Who did Bill give the apple to? 
+51,Fred,"Bill, Jeff, Bill, Bill, Jeff, Bill, Jeff, Bill, Jeff, Bill,",Who gave the milk to Jeff? 
+52,Jeff,"Jeff, Jeff, Jeff, Jeff, Jeff, Jeff, Jeff, Jeff, Jeff, Jeff,",Who received the milk? 
+53,Fred,"Bill, Fred, Bill, Jeff, Bill, Fred, Bill, Jeff, Bill, Fred,",Who did Jeff give the milk to? 
+54,Jeff,"Jeff Bill, Jeff Jeff, Bill, Jeff Bill, Jeff Jeff, Bill, Jeff Jeff, Bill",Who did Fred give the milk to? 
+55,milk,"milk, milk, milk, milk, milk, milk, milk, milk, milk, milk,",What did Jeff give to Fred? 
+56,milk,"milk, milk, milk, milk, milk, milk, milk, milk, milk, milk,",What did Mary give to Bill? 
+57,Mary,"Mary, Bill, Mary, Bill, Mary, Bill, Mary, Bill, Mary, Bill,",Who did Bill give the milk to? 
+58,Bill,"Bill, Bill, Mary, Bill, Mary, Bill, Mary, Bill, Mary, Bill,",Who gave the milk to Mary? 
+59,Mary,"Fred, Bill, Mary, Bill, Mary, Bill, Mary, Bill, Mary, Bill,",Who gave the football? 
+60,Mary,"Mary, Fred, Bill, Mary, Bill, Mary, Fred, Bill, Mary, Bill,",Who received the football? 
+61,apple,"apple, apple, apple, apple, football, football, football, football, football, football,",What did Fred give to Jeff? 
+62,Jeff,"Jeff Bill, Bill, Bill, Jeff, Bill, Bill, Jeff, Bill, Bill, Jeff",Who did Fred give the apple to? 
+63,Fred,"Bill, Bill, Bill, Bill, Jeff, Bill, Bill, Jeff, Bill, Bill,",Who gave the apple to Jeff? 
+64,Fred,"Jeff, Bill, Jeff, Bill, Jeff, Bill, Jeff, Bill, Jeff, Bill,",Who gave the apple? 
+65,Fred,"Jeff, Jeff, Bill, Bill, Jeff, Bill, Jeff, Bill, Jeff, Bill,",Who gave the apple? 
+66,Fred,"Fred, Mary, Bill, Mary, Bill, Fred, Mary, Bill, Mary, Bill,",Who received the apple? 
+67,Mary,"Bill, Mary, Bill, Fred, Bill, Mary, Fred, Bill, Mary, Fred,",Who gave the apple to Fred? 
+68,Fred,"Fred Fred, Fred Mary, Fred Bill, Fred Mary, Fred Bill, Fred Mary, Fred Bill",Who did Mary give the apple to? 
+69,apple,"apple, apple, football, football, football, football, football, football, football, football,",What did Mary give to Fred? 
+70,Fred,"Fred Mary, Mary, Fred, Mary, Fred, Mary, Fred, Mary, Fred, Mary",Who gave the apple? 
+71,Bill,"Bill, Bill, Bill, Bill, Bill, Bill, Bill, Bill, Bill, Bill,",Who received the milk? 
+72,Bill,"Mary, Bill, Bill, Mary, Bill, Mary, Bill, Mary, Bill, Mary,",Who gave the milk? 
+73,Bill,"Bill, Bill, Mary, Bill, Mary, Bill, Mary, Bill, Mary, Bill,",Who gave the milk to Mary? 
+74,Mary,"Bill, Bill, Mary, Bill, Mary, Bill, Mary, Bill, Mary, Bill,",Who gave the milk to Jeff? 
+75,Fred,"Jeff, Bill, Bill, Bill, Bill, Bill, Bill, Bill, Bill, Bill,",Who gave the football? 
+76,football,"football football, football football football football football football football football football football football football football football football football football",What did Jeff give to Bill? 
+77,football,"football, football, football, football, football, football, football, football, football, football,",What did Jeff give to Bill? 
+78,Jeff,"Jeff, Bill, Bill, Jeff, Bill, Mary, Jeff, Bill, Bill, Mary,",Who did Mary give the milk to? 
+79,milk,"football football, football football football football football football football football football football football football football football football football football",What did Mary give to Jeff? 
+80,Mary,"Jeff, Mary, Jeff, Bill, Mary, Bill, Mary, Jeff, Bill, Mary,",Who received the football? 
+81,milk,"milk, milk, milk, milk, football, football, football, football, football, football,",What did Fred give to Mary? 
+82,Fred,"Fred Mary, Mary, Fred, Mary, Fred, Mary, Fred, Mary, Fred, Mary",Who gave the milk? 
+83,Fred,"Fred Bill, Mary, Bill, Mary, Bill, Mary, Bill, Mary, Bill, Mary",Who gave the milk to Mary? 
+84,Fred,"Fred Mary, Fred Mary, Fred Mary, Fred Mary, Fred Mary, Fred Mary, Fred Mary",Who received the milk? 
+85,Fred,"Fred Mary Mary, Fred Mary Mary Mary Mary Mary Mary Mary Mary Mary Mary Mary Mary Mary Mary Mary",Who gave the milk? 
+86,Jeff,"Jeff, Jeff, Jeff, Jeff, Jeff, Jeff, Jeff, Jeff, Jeff, Jeff,",Who received the milk? 
+87,Fred,"Jeff Jeff, Bill, Jeff, Bill, Jeff, Bill, Jeff, Bill, Jeff, Bill",Who gave the milk? 
+88,Fred,"Bill Bill, Jeff, Bill Bill, Jeff, Bill Bill, Jeff, Bill Bill, Jeff,",Who gave the milk to Jeff? 
+89,Fred,"Fred Bill, Jeff, Bill, Jeff, Bill, Jeff, Bill, Jeff, Bill, Jeff",Who gave the milk? 
+90,Bill,"Bill, Bill, Mary, Bill, Bill, Mary, Bill, Bill, Mary, Bill,",Who received the milk? 
+91,apple,"apple, apple, apple, apple, Bill, apple, Bill, Fred, Bill, Fred,",What did Bill give to Fred? 
+92,Fred,"Fred Mary, Bill, Fred Fred Mary, Bill, Fred Mary, Fred Mary, Fred Mary,",Who did Bill give the apple to? 
+93,Bill,"Fred Bill, Mary, Bill, Fred Mary, Bill, Fred Mary, Bill, Mary, Bill",Who gave the apple? 
+94,football,"football football, football football, football football, football football, football football, football football, football football",What did Jeff give to Mary? 
+95,Jeff,"Jeff Bill, Bill, Mary, Jeff, Bill, Mary, Jeff, Bill, Mary, Jeff",Who gave the football to Mary? 
+96,Bill,"Bill Bill, Bill, Bill, Bill, Bill, Bill, Bill, Bill, Bill, Bill",Who received the football? 
+97,Fred,"Bill Bill, Bill, Bill, Bill, Bill, Bill, Bill, Bill, Bill, Bill",Who gave the football? 
+98,football,"football football, football football, football football football football football football football football football football football football football football",What did Mary give to Bill? 
+99,football,"football football, football football, football football, football football, football football, football football, football football",What did Mary give to Bill? 

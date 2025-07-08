@@ -1,0 +1,1000 @@
+,target,output,question
+0,bedroom,"bedroom, bathroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the bathroom east of?
+1,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is west of the kitchen?
+2,bathroom,"kitchen, bedroom,w,w,w,w,w,w,w,w,",What is north of the garden?
+3,bedroom,"bedroom,s,e,e,e,e,e,e,e,e,",What is south of the kitchen?
+4,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the kitchen?
+5,garden,"hallway, bathroom, garden,w,w,w,w,w,w,w,",What is the bathroom west of?
+6,kitchen,"kitchen,w,w,w,w,w,w,w,w,w,",What is east of the bedroom?
+7,bathroom,"kitchen,s,s,s,s,s,s,s,s,s,",What is the garden south of?
+8,kitchen,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the office?
+9,office,"garden,w,w,w,w,w,w,w,w,w,",What is east of the hallway?
+10,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the office?
+11,garden,"bedroom,s,e,e,e,e,e,e,e,e,",What is south of the kitchen?
+12,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is east of the kitchen?
+13,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the kitchen?
+14,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is north of the bedroom?
+15,garden,"office, kitchen, bathroom, bedroom,s,e,e,e,e,e,",What is east of the hallway?
+16,hallway,"kitchen,n,n,n,n,n,n,n,n,n,",What is east of the office?
+17,office,"hallway,s,w,w,w,w,w,w,w,w,",What is south of the bathroom?
+18,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom north of?
+19,garden,"hallway bathroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom",What is the kitchen west of?
+20,garden,"kitchen kitchen, office, bathroom, bedroom,n,n,n,n,n,n",What is the office east of?
+21,garden,"hallway bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",What is the bathroom south of?
+22,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is north of the bedroom?
+23,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+24,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+25,office,"hallway,w,w,w,w,w,w,w,w,w,",What is east of the bathroom?
+26,office,"office,w,n,n,n,n,n,n,n,n,",What is north of the bedroom?
+27,hallway,"bedroom,w,n,n,n,n,n,n,n,n,",What is west of the bathroom?
+28,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is the bathroom north of?
+29,garden,"kitchen, bathroom, bedroom,w,w,w,w,w,w,w,",What is north of the office?
+30,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is east of the kitchen?
+31,kitchen,"hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",What is the bathroom east of?
+32,bathroom,"kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom,",What is north of the garden?
+33,kitchen,"kitchen kitchen,w,w,w,w,w,w,w,w,w",What is the bedroom west of?
+34,bedroom,"hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",What is the kitchen south of?
+35,garden,"hallway, bathroom, garden, office, kitchen, bathroom, garden, office, kitchen, bathroom,",What is the bathroom east of?
+36,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is south of the hallway?
+37,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is north of the bathroom?
+38,bedroom,"bedroom,w,n,n,n,n,n,n,n,n,",What is the bathroom east of?
+39,office,"office,n,n,n,n,n,n,n,n,n,",What is north of the bedroom?
+40,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is south of the kitchen?
+41,bedroom,"kitchen kitchen, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom",What is west of the office?
+42,kitchen,"bedroom,w,w,w,w,w,w,w,w,w,",What is the garden south of?
+43,garden,"kitchen,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+44,garden,"kitchen,s,e,e,e,e,e,e,e,e,",What is the office south of?
+45,hallway,"garden, kitchen,n,n,n,n,n,n,n,n,",What is the office east of?
+46,garden,"hallway,s,s,s,s,s,s,s,s,s,",What is south of the office?
+47,garden,"office,n,n,n,n,n,n,n,n,n,",What is west of the bedroom?
+48,garden,"bathroom, bathroom, bedroom,w,w,w,w,w,w,w,",What is east of the hallway?
+49,garden,"garden,n,n,n,n,n,n,n,n,n,",What is the office south of?
+50,bedroom,"bathroom,w,w,w,w,w,w,w,w,w,",What is the hallway north of?
+51,garden,"hallway,s,e,e,e,e,e,e,e,e,",What is north of the bathroom?
+52,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom north of?
+53,bathroom,"kitchen kitchen, bathroom bathroom, bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",What is east of the garden?
+54,bathroom,"office,n,n,n,n,n,n,n,n,n,",What is west of the bedroom?
+55,garden,"bathroom,w,w,w,w,w,w,w,w,w,",What is east of the hallway?
+56,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+57,kitchen,"bathroom, bathroom, bedroom,n,n,n,n,n,n,n,",What is west of the hallway?
+58,hallway,"garden,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+59,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden north of?
+60,hallway,"office,n,n,n,n,n,n,n,n,n,",What is the bedroom north of?
+61,bedroom,"office, bathroom, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",What is south of the hallway?
+62,kitchen,"bathroom,w,w,w,w,w,w,w,w,w,",What is the hallway north of?
+63,hallway,"kitchen,n,n,n,n,n,n,n,n,n,",What is west of the bedroom?
+64,bedroom,"kitchen, bathroom, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",What is east of the garden?
+65,office,"hallway,n,n,n,n,n,n,n,n,n,",What is the bedroom north of?
+66,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom north of?
+67,office,"kitchen garden, kitchen garden,s,e,e,e,e,e,e,",What is the garden south of?
+68,kitchen,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom west of?
+69,garden,"bathroom bathroom, hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, bathroom bathroom",What is the hallway east of?
+70,bathroom,"hallway, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is south of the bedroom?
+71,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden south of?
+72,garden,"hallway,s,s,s,s,s,s,s,s,s,",What is the bedroom south of?
+73,bathroom,"kitchen kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom",What is north of the office?
+74,bathroom,"bathroom,n,n,n,n,n,n,n,n,n,",What is the hallway north of?
+75,bedroom,"bathroom,w,w,w,w,w,w,w,w,w,",What is south of the hallway?
+76,bedroom,"garden,w,w,w,w,w,w,w,w,w,",What is the hallway east of?
+77,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the office?
+78,kitchen,"kitchen,w,w,w,w,w,w,w,w,w,",What is east of the garden?
+79,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is the kitchen south of?
+80,garden,"garden, kitchen, kitchen, bathroom, bathroom, bedroom, bathroom, bedroom, bathroom, bathroom,",What is west of the office?
+81,office,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+82,kitchen,"bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom, garden,",What is the hallway south of?
+83,garden,"garden, kitchen, bathroom, bedroom,w,w,w,w,w,w,",What is the office west of?
+84,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the hallway?
+85,office,"kitchen,w,w,w,w,w,w,w,w,w,",What is west of the garden?
+86,office,"kitchen,n,n,n,n,n,n,n,n,n,",What is west of the garden?
+87,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the bathroom?
+88,bathroom,"garden, kitchen, bathroom, bathroom, bedroom,n,n,n,n,n,",What is north of the office?
+89,kitchen,"office,n,n,n,n,n,n,n,n,n,",What is the bedroom west of?
+90,office,"bedroom,n,n,n,n,n,n,n,n,n,",What is the bathroom south of?
+91,office,"kitchen,n,n,n,n,n,n,n,n,n,",What is east of the bedroom?
+92,bedroom,"kitchen,n,n,n,n,n,n,n,n,n,",What is south of the office?
+93,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden west of?
+94,garden,"kitchen,n,n,n,n,n,n,n,n,n,",What is the bedroom west of?
+95,hallway,"kitchen kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom",What is north of the garden?
+96,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen west of?
+97,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is west of the bedroom?
+98,bathroom,"hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",What is the kitchen north of?
+99,garden,"garden,n,n,n,n,n,n,n,n,n,",What is the office north of?
+100,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is east of the hallway?
+101,kitchen,"office,n,n,n,n,n,n,n,n,n,",What is south of the hallway?
+102,bedroom,"garden, office, kitchen,n,n,n,n,n,n,n,",What is the office west of?
+103,bathroom,"hallway, bathroom, bathroom, office, garden, kitchen, bathroom, garden, kitchen, bathroom,",What is the kitchen north of?
+104,hallway,"office,n,n,n,n,n,n,n,n,n,",What is west of the bedroom?
+105,bedroom,"bedroom, office, school, office, office, school, office, office, bedroom, office,",What is west of the kitchen?
+106,office,"hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",What is the kitchen south of?
+107,bathroom,"kitchen kitchen, bathroom, bedroom,w,w,w,w,w,w,w",What is west of the garden?
+108,bedroom,"bedroom,w,n,n,n,n,n,n,n,n,",What is the bathroom south of?
+109,bathroom,"hallway, bathroom, bathroom, bedroom, kitchen, bathroom, bedroom, kitchen, bathroom, bedroom,",What is the kitchen west of?
+110,garden,"office,n,n,n,n,n,n,n,n,n,",What is the hallway west of?
+111,hallway,"bedroom,w,n,n,n,n,n,n,n,n,",What is the kitchen south of?
+112,office,"bedroom,w,w,w,w,w,w,w,w,w,",What is south of the bathroom?
+113,hallway,"kitchen, bathroom, bedroom, office, bathroom, bedroom, office, kitchen, bathroom, bedroom,",What is the office west of?
+114,bedroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the kitchen north of?
+115,office,"kitchen garden,w,w,w,w,w,w,w,w,w",What is the garden east of?
+116,bedroom,"bathroom, bedroom,n,n,n,n,n,n,n,n,",What is the hallway south of?
+117,bedroom,"kitchen garden, kitchen garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden",What is the garden west of?
+118,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the office?
+119,office,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is west of the hallway?
+120,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom north of?
+121,kitchen,"bathroom,s,e,e,e,e,e,e,e,e,",What is the hallway north of?
+122,office,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the bathroom?
+123,bathroom,"bathroom, bathroom, bedroom,w,w,w,w,w,w,w,",What is north of the hallway?
+124,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom north of?
+125,kitchen,"kitchen,w,w,w,w,w,w,w,w,w,",What is west of the garden?
+126,bathroom,"bedroom,s,e,e,e,e,e,e,e,e,",What is north of the kitchen?
+127,hallway,"hallway, bathroom, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom,",What is the bedroom east of?
+128,garden,"kitchen, park,n,n,n,n,n,n,n,n,",What is the bedroom south of?
+129,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the bathroom?
+130,garden,"hallway bathroom, hallway bathroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom",What is the bedroom east of?
+131,kitchen,"bedroom, office, kitchen, hallway, office, kitchen, hallway, bathroom, bathroom, bathroom,",What is south of the bathroom?
+132,kitchen,"kitchen kitchen, office, bathroom, bathroom, bedroom, office, bathroom, bedroom, office, bathroom",What is east of the garden?
+133,bathroom,"bathroom, office, kitchen, bedroom,n,n,n,n,n,n,",What is the hallway east of?
+134,office,"garden,w,w,w,w,w,w,w,w,w,",What is the hallway east of?
+135,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden east of?
+136,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+137,hallway,"kitchen garden, kitchen garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden",What is the garden east of?
+138,kitchen,"bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom",What is south of the hallway?
+139,hallway,"bedroom,s,e,e,e,e,e,e,e,e,",What is west of the kitchen?
+140,kitchen,"kitchen,w,w,w,w,w,w,w,w,w,",What is north of the garden?
+141,office,"garden,w,w,w,w,w,w,w,w,w,",What is the kitchen west of?
+142,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is the kitchen north of?
+143,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is east of the kitchen?
+144,bathroom,"office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",What is east of the garden?
+145,kitchen,"bedroom,w,n,n,n,n,n,n,n,n,",What is the office south of?
+146,hallway,"hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",What is the kitchen north of?
+147,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+148,bathroom,"hallway, bathroom, bathroom, office, bathroom, hallway, bathroom, office, bathroom, hallway,",What is the office west of?
+149,hallway,"garden,n,n,n,n,n,n,n,n,n,",What is the office south of?
+150,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is north of the hallway?
+151,garden,"hallway, bathroom, office,n,n,n,n,n,n,n,",What is the bathroom east of?
+152,kitchen,"bedroom, office,n,n,n,n,n,n,n,n,",What is the bathroom east of?
+153,hallway,"hallway,s,e,e,e,e,e,e,e,e,",What is south of the kitchen?
+154,hallway,"kitchen,n,n,n,n,n,n,n,n,n,",What is south of the office?
+155,garden,"kitchen kitchen,w,w,w,w,w,w,w,w,w",What is the bedroom west of?
+156,office,"office,n,n,n,n,n,n,n,n,n,",What is south of the bedroom?
+157,bathroom,"office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",What is north of the garden?
+158,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+159,bedroom,"bedroom,s,e,e,e,e,e,e,e,e,",What is south of the kitchen?
+160,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the office south of?
+161,bathroom,"kitchen kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom",What is north of the garden?
+162,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is east of the bathroom?
+163,hallway,"kitchen kitchen, bathroom, bedroom, office, bathroom, bedroom, office, kitchen kitchen, bathroom,",What is the office east of?
+164,bathroom,"kitchen kitchen, bathroom, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen",What is the office west of?
+165,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is west of the bedroom?
+166,office,"bathroom, bathroom, bedroom,n,n,n,n,n,n,n,",What is north of the hallway?
+167,garden,"hallway, bathroom, bathroom, office, bathroom, hallway, bathroom, office, bathroom, hallway,",What is the office north of?
+168,kitchen,"bathroom bathroom, bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom",What is west of the hallway?
+169,bedroom,"kitchen garden,n,n,n,n,n,n,n,n,n",What is the garden south of?
+170,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom north of?
+171,bathroom,"bathroom, garden, office, kitchen, bathroom, garden, office, kitchen, bathroom, garden,",What is the hallway west of?
+172,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is north of the garden?
+173,hallway,"garden, bathroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the bathroom north of?
+174,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the office?
+175,office,"hallway,w,w,w,w,w,w,w,w,w,",What is east of the bathroom?
+176,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+177,hallway,"hallway, bathroom, office, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom,",What is the office south of?
+178,kitchen,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the office?
+179,bathroom,"kitchen garden, kitchen garden,n,n,n,n,n,n,n,",What is the garden south of?
+180,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom north of?
+181,bathroom,"bathroom, office, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, kitchen,",What is east of the hallway?
+182,bedroom,"bathroom,s,e,e,e,e,e,e,e,e,",What is the hallway west of?
+183,bathroom,"kitchen,n,n,n,n,n,n,n,n,n,",What is south of the garden?
+184,bedroom,"garden, kitchen,w,w,w,w,w,w,w,w,",What is the office west of?
+185,bathroom,"hallway,football,football,football,football,football,football,football,football,football,",What is west of the bedroom?
+186,garden,"hallway, bathroom, bathroom, office, bathroom, office, bathroom, office, bathroom, office,",What is the office west of?
+187,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+188,kitchen,"hallway,n,n,n,n,n,n,n,n,n,",What is south of the office?
+189,hallway,"bedroom,w,n,n,n,n,n,n,n,n,",What is east of the bathroom?
+190,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen east of?
+191,bathroom,"bathroom,w,w,w,w,w,w,w,w,w,",What is the office east of?
+192,bedroom,"garden, kitchen,n,n,n,n,n,n,n,n,",What is the office south of?
+193,office,"hallway,s,e,e,e,e,e,e,e,e,",What is the kitchen south of?
+194,bedroom,"kitchen kitchen, office, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom",What is east of the garden?
+195,office,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the bathroom?
+196,kitchen,"office, bathroom, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",What is north of the hallway?
+197,office,"office,n,n,n,n,n,n,n,n,n,",What is the kitchen south of?
+198,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is south of the hallway?
+199,kitchen,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom south of?
+200,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is the hallway south of?
+201,hallway,"office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",What is east of the garden?
+202,office,"garden, kitchen, bathroom, bedroom,n,n,n,n,n,n,",What is the bathroom north of?
+203,kitchen,"bathroom, bathroom, bedroom,w,w,w,w,w,w,w,",What is west of the hallway?
+204,office,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom east of?
+205,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+206,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is the office north of?
+207,garden,"hallway, bathroom, office, bathroom, hallway, bathroom, office, bathroom, hallway, bathroom,",What is the office north of?
+208,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the office?
+209,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is south of the kitchen?
+210,office,"office,n,n,n,n,n,n,n,n,n,",What is south of the bedroom?
+211,kitchen,"kitchen kitchen, bathroom, hallway, bathroom, hallway, bathroom, office, kitchen, bathroom, hallway",What is the office east of?
+212,office,"office,n,n,n,n,n,n,n,n,n,",What is west of the bedroom?
+213,hallway,"office,n,n,n,n,n,n,n,n,n,",What is the bedroom south of?
+214,hallway,"garden, kitchen,s,e,e,e,e,e,e,e,",What is the kitchen south of?
+215,bedroom,"bathroom, bathroom, bedroom,w,w,w,w,w,w,w,",What is west of the hallway?
+216,bedroom,"garden, kitchen,n,n,n,n,n,n,n,n,",What is west of the office?
+217,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is east of the bathroom?
+218,office,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden south of?
+219,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",What is east of the office?
+220,office,"kitchen,s,e,e,e,e,e,e,e,e,",What is south of the bedroom?
+221,kitchen,"kitchen,w,w,w,w,w,w,w,w,w,",What is west of the bedroom?
+222,kitchen,"kitchen, bathroom, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom,",What is west of the garden?
+223,bedroom,"bedroom, bathroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the bathroom west of?
+224,kitchen,"garden, kitchen,n,n,n,n,n,n,n,n,",What is the office west of?
+225,hallway,"kitchen garden, kitchen garden,n,n,n,n,n,n,n,",What is the garden east of?
+226,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the kitchen?
+227,kitchen,"kitchen,w,w,w,w,w,w,w,w,w,",What is the garden north of?
+228,hallway,"kitchen garden,w,w,w,w,w,w,w,w,w",What is the garden north of?
+229,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is west of the bedroom?
+230,garden,"bathroom,w,w,w,w,w,w,w,w,w,",What is north of the hallway?
+231,garden,"garden, bathroom, kitchen, bathroom, hallway, bathroom, garden, bathroom, garden, bathroom,",What is the hallway west of?
+232,hallway,"hallway, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom,",What is the bathroom east of?
+233,bedroom,"bedroom,s,e,e,e,e,e,e,e,e,",What is the kitchen south of?
+234,bathroom,"garden, kitchen,n,n,n,n,n,n,n,n,",What is the office west of?
+235,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is east of the bedroom?
+236,office,"office,n,n,n,n,n,n,n,n,n,",What is east of the bedroom?
+237,bathroom,"hallway,s,e,e,e,e,e,e,e,e,",What is east of the kitchen?
+238,bedroom,"bedroom,s,e,e,e,e,e,e,e,e,",What is west of the kitchen?
+239,office,"hallway,s,e,e,e,e,e,e,e,e,",What is the kitchen north of?
+240,garden,"hallway,s,e,e,e,e,e,e,e,e,",What is north of the bedroom?
+241,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the kitchen?
+242,office,"office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",What is north of the garden?
+243,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is the hallway south of?
+244,office,"hallway, bathroom, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the kitchen west of?
+245,garden,"kitchen,s,e,e,e,e,e,e,e,e,",What is south of the bedroom?
+246,garden,"kitchen,n,n,n,n,n,n,n,n,n,",What is west of the office?
+247,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden north of?
+248,office,"bedroom,w,w,w,w,w,w,w,w,w,",What is west of the kitchen?
+249,bedroom,"garden, kitchen, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway,",What is the hallway west of?
+250,office,"hallway,s,w,w,w,w,w,w,w,w,",What is south of the bathroom?
+251,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is west of the bedroom?
+252,office,"bathroom,n,n,n,n,n,n,n,n,n,",What is the hallway north of?
+253,bedroom,"office,w,w,w,w,w,w,w,w,w,",What is east of the hallway?
+254,office,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the bathroom?
+255,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom north of?
+256,bathroom,"kitchen garden, kitchen garden,w,w,w,w,w,w,w,",What is the garden east of?
+257,kitchen,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom north of?
+258,kitchen,"office,n,n,n,n,n,n,n,n,n,",What is west of the bedroom?
+259,garden,"bathroom,s,e,e,e,e,e,e,e,e,",What is the hallway east of?
+260,kitchen,"kitchen,n,n,n,n,n,n,n,n,n,",What is south of the garden?
+261,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+262,garden,"kitchen,n,n,n,n,n,n,n,n,n,",What is west of the office?
+263,office,"hallway,w,w,w,w,w,w,w,w,w,",What is north of the kitchen?
+264,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is the office north of?
+265,kitchen,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the office?
+266,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+267,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden north of?
+268,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+269,bedroom,"bathroom, bathroom, bedroom, bathroom, bedroom, bathroom, bathroom, bedroom, bathroom, bathroom,",What is west of the hallway?
+270,bathroom,"garden, kitchen,s,e,e,e,e,e,e,e,",What is east of the hallway?
+271,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+272,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",What is east of the garden?
+273,kitchen,"garden, kitchen, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom,",What is the hallway south of?
+274,office,"bedroom, bathroom, hallway,w,w,w,w,w,w,w,",What is the bathroom east of?
+275,bedroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden south of?
+276,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is the kitchen west of?
+277,bathroom,"office,n,n,n,n,n,n,n,n,n,",What is east of the garden?
+278,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the bathroom?
+279,office,"office,n,n,n,n,n,n,n,n,n,",What is the bedroom west of?
+280,hallway,"office, kitchen, bathroom, bedroom,n,n,n,n,n,n,",What is north of the garden?
+281,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the office?
+282,hallway,"hallway,s,e,e,e,e,e,e,e,e,",What is east of the bathroom?
+283,kitchen,"hallway,n,n,n,n,n,n,n,n,n,",What is west of the bedroom?
+284,garden,"kitchen,n,n,n,n,n,n,n,n,n,",What is north of the office?
+285,garden,"bathroom, bedroom,n,n,n,n,n,n,n,n,",What is the hallway south of?
+286,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden east of?
+287,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is east of the bedroom?
+288,garden,"garden, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",What is east of the office?
+289,office,"kitchen garden,w,w,w,w,w,w,w,w,w",What is the garden west of?
+290,garden,"office, garden, kitchen, hallway, bathroom, garden, kitchen, hallway, bathroom, garden,",What is east of the bathroom?
+291,garden,"office,n,n,n,n,n,n,n,n,n,",What is the bedroom west of?
+292,garden,"bedroom, office, park, office, cinema, park, cinema, office, cinema, office,",What is west of the kitchen?
+293,office,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the bathroom?
+294,bathroom,"office,n,n,n,n,n,n,n,n,n,",What is south of the bedroom?
+295,bathroom,"office,n,n,n,n,n,n,n,n,n,",What is south of the bedroom?
+296,bathroom,"hallway, bathroom, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the kitchen south of?
+297,office,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the kitchen?
+298,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is north of the kitchen?
+299,kitchen,"bedroom, office, kitchen,n,n,n,n,n,n,n,",What is the bathroom east of?
+300,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the bathroom?
+301,office,"bathroom, office, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, kitchen,",What is south of the hallway?
+302,bathroom,"garden, kitchen, bathroom, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway,",What is the hallway west of?
+303,bedroom,"bedroom, hallway, office, kitchen, office, kitchen, hallway, office, kitchen, bathroom,",What is east of the bathroom?
+304,garden,"garden, kitchen, bathroom, bathroom,w,w,w,w,w,w,",What is the office south of?
+305,bedroom,"kitchen,n,n,n,n,n,n,n,n,n,",What is east of the office?
+306,bedroom,"bathroom,w,w,w,w,w,w,w,w,w,",What is north of the hallway?
+307,garden,"garden, office, kitchen, bathroom, bathroom, office, bathroom, office, bathroom, office,",What is the office east of?
+308,kitchen,"bathroom,s,e,e,e,e,e,e,e,e,",What is the hallway west of?
+309,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the bathroom?
+310,garden,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen west of?
+311,bedroom,"garden,w,w,w,w,w,w,w,w,w,",What is the office west of?
+312,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",What is east of the garden?
+313,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the kitchen?
+314,kitchen,"kitchen,n,n,n,n,n,n,n,n,n,",What is the garden north of?
+315,kitchen,"bathroom, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, kitchen,",What is west of the hallway?
+316,office,"office, kitchen, bathroom, bedroom,w,w,w,w,w,w,",What is east of the garden?
+317,office,"office,n,n,n,n,n,n,n,n,n,",What is the hallway west of?
+318,bedroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is east of the garden?
+319,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden east of?
+320,bedroom,"garden, office, kitchen, bathroom, bathroom, bedroom, office, bathroom, bedroom, office,",What is the office west of?
+321,hallway,"office, kitchen, bathroom, bedroom,w,w,w,w,w,w,",What is the bathroom west of?
+322,bathroom,"office,n,n,n,n,n,n,n,n,n,",What is the bedroom north of?
+323,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+324,bathroom,"kitchen garden,w,w,w,w,w,w,w,w,w",What is the garden west of?
+325,hallway,"office,n,n,n,n,n,n,n,n,n,",What is south of the garden?
+326,hallway,"kitchen kitchen, bathroom, bedroom,n,n,n,n,n,n,n",What is south of the office?
+327,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden east of?
+328,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden west of?
+329,office,"garden,w,w,w,w,w,w,w,w,w,",What is the bathroom west of?
+330,hallway,"office, kitchen, bathroom, bedroom,n,n,n,n,n,n,",What is west of the garden?
+331,bathroom,"bathroom, bathroom, bedroom,w,w,w,w,w,w,w,",What is south of the hallway?
+332,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+333,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+334,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden south of?
+335,bathroom,"garden,n,n,n,n,n,n,n,n,n,",What is west of the office?
+336,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the bathroom?
+337,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is west of the garden?
+338,bathroom,"kitchen kitchen, bathroom, bedroom,w,w,w,w,w,w,w",What is north of the office?
+339,garden,"kitchen,n,n,n,n,n,n,n,n,n,",What is east of the office?
+340,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the kitchen?
+341,office,"kitchen garden,n,n,n,n,n,n,n,n,n",What is the garden south of?
+342,hallway,"hallway, office, office, kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is west of the bedroom?
+343,bedroom,"bathroom,w,w,w,w,w,w,w,w,w,",What is south of the hallway?
+344,garden,"bathroom, bedroom,n,n,n,n,n,n,n,n,",What is the hallway east of?
+345,hallway,"hallway, bathroom, bathroom, bedroom,n,n,n,n,n,n,",What is north of the kitchen?
+346,garden,"kitchen,n,n,n,n,n,n,n,n,n,",What is west of the office?
+347,bathroom,"bathroom,w,w,w,w,w,w,w,w,w,",What is the office west of?
+348,bathroom,"kitchen garden,n,n,n,n,n,n,n,n,n",What is the garden north of?
+349,garden,"kitchen, bathroom, bedroom,n,n,n,n,n,n,n,",What is the office south of?
+350,garden,"garden,n,n,n,n,n,n,n,n,n,",What is the hallway north of?
+351,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the kitchen west of?
+352,bathroom,"bathroom, bathroom, bedroom, bathroom, bedroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is north of the hallway?
+353,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is the kitchen north of?
+354,bathroom,"garden,n,n,n,n,n,n,n,n,n,",What is the kitchen south of?
+355,bedroom,"kitchen, bathroom, bedroom,w,w,w,w,w,w,w,",What is north of the office?
+356,hallway,"bedroom, kitchen,football,football,football,football,football,football,football,football,",What is east of the bathroom?
+357,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is south of the hallway?
+358,hallway,"kitchen kitchen, bathroom, bedroom,s,e,e,e,e,e,e",What is west of the office?
+359,bedroom,"garden, kitchen,n,n,n,n,n,n,n,n,",What is the office north of?
+360,kitchen,"kitchen,n,n,n,n,n,n,n,n,n,",What is north of the garden?
+361,hallway,"kitchen,w,w,w,w,w,w,w,w,w,",What is the garden east of?
+362,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen west of?
+363,garden,"bathroom bathroom, hallway, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom",What is the hallway east of?
+364,bedroom,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",What is south of the office?
+365,bathroom,"hallway, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom, office,",What is the office west of?
+366,hallway,"hallway,football,football,football,football,football,football,football,football,football,",What is east of the bedroom?
+367,garden,"garden,n,n,n,n,n,n,n,n,n,",What is west of the bedroom?
+368,kitchen,"kitchen kitchen, bathroom bathroom, bathroom bedroom, bathroom, bathroom bedroom, bathroom, bathroom bedroom, bathroom",What is the bathroom west of?
+369,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",What is north of the bedroom?
+370,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden south of?
+371,bathroom,"bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",What is the hallway west of?
+372,office,"bathroom, bedroom,w,w,w,w,w,w,w,w,",What is the hallway east of?
+373,office,"bedroom,s,e,e,e,e,e,e,e,e,",What is east of the kitchen?
+374,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is north of the kitchen?
+375,office,"bedroom, office, kitchen, office, kitchen, bathroom, bedroom, office, kitchen, bathroom,",What is west of the bathroom?
+376,kitchen,"bedroom,n,n,n,n,n,n,n,n,n,",What is the office west of?
+377,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+378,garden,"green, green, green, green, green, green, green, green, green, green,",What is north of the kitchen?
+379,office,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+380,kitchen,"garden, kitchen,w,w,w,w,w,w,w,w,",What is the office north of?
+381,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+382,bathroom,"kitchen, park, bedroom,n,n,n,n,n,n,n,",What is west of the office?
+383,bedroom,"kitchen, bathroom, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",What is the garden south of?
+384,office,"bedroom,w,n,n,n,n,n,n,n,n,",What is north of the bathroom?
+385,bedroom,"office, kitchen, bathroom, bedroom,w,w,w,w,w,w,",What is east of the garden?
+386,bathroom,"garden, kitchen,n,n,n,n,n,n,n,n,",What is the kitchen east of?
+387,bedroom,"kitchen,w,w,w,w,w,w,w,w,w,",What is the garden south of?
+388,bedroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the office south of?
+389,hallway,"kitchen,n,n,n,n,n,n,n,n,n,",What is south of the bedroom?
+390,kitchen,"bathroom, bedroom,w,w,w,w,w,w,w,w,",What is the hallway north of?
+391,bathroom,"kitchen kitchen,s,e,e,e,e,e,e,e,e",What is north of the garden?
+392,kitchen,"office, kitchen, bedroom, hallway, bathroom, office, kitchen, bedroom, hallway, bathroom,",What is west of the garden?
+393,garden,"bathroom,s,s,s,s,s,s,s,s,s,",What is south of the hallway?
+394,bedroom,"kitchen kitchen, bathroom, bedroom,w,w,w,w,w,w,w",What is the office east of?
+395,bathroom,"kitchen garden, kitchen garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden",What is the garden south of?
+396,bedroom,"garden, kitchen,w,w,w,w,w,w,w,w,",What is the office west of?
+397,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is west of the bathroom?
+398,kitchen,"kitchen,n,n,n,n,n,n,n,n,n,",What is west of the office?
+399,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is north of the garden?
+400,office,"bedroom,w,w,w,w,w,w,w,w,w,",What is south of the bathroom?
+401,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the office?
+402,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+403,bathroom,"bedroom,w,n,n,n,n,n,n,n,n,",What is the office west of?
+404,bedroom,"bathroom bathroom, hallway, bathroom bathroom, hallway, bathroom bathroom, bathroom bathroom, bathroom bathroom, bathroom",What is north of the garden?
+405,hallway,"hallway, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the bedroom north of?
+406,bathroom,"garden,w,w,w,w,w,w,w,w,w,",What is west of the hallway?
+407,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom east of?
+408,bedroom,"kitchen kitchen, office, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom",What is the office east of?
+409,garden,"garden, garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden,",What is south of the bathroom?
+410,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the office?
+411,hallway,"bedroom,s,e,e,e,e,e,e,e,e,",What is north of the kitchen?
+412,office,"bedroom,n,n,n,n,n,n,n,n,n,",What is the bathroom south of?
+413,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom north of?
+414,kitchen,"hallway, bathroom, office, garden, kitchen, bathroom, garden, kitchen, bathroom, garden,",What is the bathroom west of?
+415,garden,"bathroom,w,w,w,w,w,w,w,w,w,",What is the hallway north of?
+416,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is south of the bathroom?
+417,bathroom,"garden, kitchen, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom,",What is the hallway north of?
+418,hallway,"garden, kitchen,s,e,e,e,e,e,e,e,",What is the office south of?
+419,office,"kitchen kitchen, bathroom, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom",What is the hallway east of?
+420,kitchen,"hallway,s,e,e,e,e,e,e,e,e,",What is east of the bathroom?
+421,hallway,"garden, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",What is north of the office?
+422,kitchen,"hallway,s,e,e,e,e,e,e,e,e,",What is the bedroom west of?
+423,office,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden west of?
+424,garden,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen east of?
+425,office,"office,n,n,n,n,n,n,n,n,n,",What is the bedroom south of?
+426,bathroom,"bathroom, bedroom, hallway, bathroom, bedroom, hallway, bathroom, bathroom, bathroom, bathroom,",What is the hallway south of?
+427,office,"bedroom,w,n,n,n,n,n,n,n,n,",What is north of the bathroom?
+428,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden north of?
+429,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen east of?
+430,kitchen,"kitchen,n,n,n,n,n,n,n,n,n,",What is east of the bedroom?
+431,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the bathroom?
+432,kitchen,"bathroom, bedroom,w,w,w,w,w,w,w,w,",What is the hallway south of?
+433,kitchen,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the office?
+434,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the kitchen?
+435,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+436,garden,"bedroom,w,w,w,w,w,w,w,w,w,",What is west of the kitchen?
+437,bathroom,"school, office, office, office, kitchen, kitchen, bathroom, bathroom, bathroom, bathroom,",What is the bedroom east of?
+438,bedroom,"hallway, bathroom, office, garden, kitchen, bathroom, garden, kitchen, bathroom, garden,",What is the bathroom west of?
+439,garden,"bathroom bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom",What is the office south of?
+440,bathroom,"bedroom, kitchen, bathroom, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway,",What is the kitchen east of?
+441,kitchen,"bathroom, bedroom,n,n,n,n,n,n,n,n,",What is the hallway east of?
+442,bedroom,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",What is south of the office?
+443,bedroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden south of?
+444,bathroom,"green,w,w,w,w,w,w,w,w,w,",What is south of the office?
+445,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the bathroom?
+446,office,"garden,w,w,w,w,w,w,w,w,w,",What is the kitchen east of?
+447,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen south of?
+448,garden,"bathroom, bathroom, bedroom,w,w,w,w,w,w,w,",What is west of the hallway?
+449,garden,"hallway, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the bathroom south of?
+450,hallway,"garden, kitchen,n,n,n,n,n,n,n,n,",What is north of the office?
+451,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is south of the bathroom?
+452,office,"hallway,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+453,garden,"bedroom, kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is east of the hallway?
+454,bedroom,"hallway, bathroom, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",What is the office south of?
+455,kitchen,"kitchen kitchen, bathroom bathroom, bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",What is west of the hallway?
+456,kitchen,"kitchen kitchen,s,e,e,e,e,e,e,e,e",What is south of the garden?
+457,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the hallway?
+458,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is south of the kitchen?
+459,kitchen,"bathroom, office, garden, kitchen, park, hallway, bathroom, garden, kitchen, bathroom,",What is the hallway west of?
+460,bedroom,"bathroom, bathroom, bedroom,n,n,n,n,n,n,n,",What is west of the hallway?
+461,kitchen,"kitchen,n,n,n,n,n,n,n,n,n,",What is the garden west of?
+462,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is east of the bathroom?
+463,office,"kitchen,n,n,n,n,n,n,n,n,n,",What is west of the garden?
+464,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the bathroom?
+465,office,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden north of?
+466,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the office?
+467,office,"hallway, bathroom, office, kitchen, bathroom, office, kitchen, bathroom, office, kitchen,",What is the bedroom east of?
+468,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+469,hallway,"bedroom, bathroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the bathroom north of?
+470,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the kitchen?
+471,office,"kitchen,w,w,w,w,w,w,w,w,w,",What is west of the garden?
+472,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is east of the hallway?
+473,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden west of?
+474,bedroom,"kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom,",What is east of the office?
+475,hallway,"bedroom, office, kitchen,n,n,n,n,n,n,n,",What is the office west of?
+476,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+477,kitchen,"bedroom,w,w,w,w,w,w,w,w,w,",What is west of the bathroom?
+478,office,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden north of?
+479,kitchen,"kitchen kitchen, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom",What is north of the garden?
+480,bedroom,"bedroom,s,e,e,e,e,e,e,e,e,",What is west of the kitchen?
+481,bathroom,"bathroom bathroom, bedroom,n,n,n,n,n,n,n,n",What is south of the hallway?
+482,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the kitchen?
+483,garden,"kitchen,football,football,football,football,football,football,football,football,football,",What is north of the office?
+484,bedroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the kitchen east of?
+485,garden,"office,football,football,football,football,football,football,football,football,football,",What is east of the hallway?
+486,bedroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is south of the hallway?
+487,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is east of the kitchen?
+488,bathroom,"garden, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",What is the office south of?
+489,hallway,"bedroom,w,n,n,n,n,n,n,n,n,",What is the bedroom south of?
+490,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is north of the bathroom?
+491,garden,"bedroom,w,w,w,w,w,w,w,w,w,",What is east of the bathroom?
+492,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the kitchen?
+493,office,"kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom,",What is south of the garden?
+494,bedroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the office west of?
+495,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is north of the bedroom?
+496,office,"hallway,w,w,w,w,w,w,w,w,w,",What is north of the bedroom?
+497,bedroom,"garden, kitchen, bathroom, bedroom,n,n,n,n,n,n,",What is the office north of?
+498,kitchen,"garden, kitchen,n,n,n,n,n,n,n,n,",What is the office east of?
+499,hallway,"hallway, bathroom, bedroom,w,w,w,w,w,w,w,",What is the bathroom south of?
+500,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the hallway?
+501,office,"bedroom, park, park,n,n,n,n,n,n,n,",What is east of the kitchen?
+502,bedroom,"kitchen,w,w,w,w,w,w,w,w,w,",What is north of the garden?
+503,hallway,"hallway bathroom, hallway bathroom, bathroom, hallway bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",What is the bathroom east of?
+504,bedroom,"bathroom,w,w,w,w,w,w,w,w,w,",What is the hallway west of?
+505,garden,"bedroom,w,w,w,w,w,w,w,w,w,",What is west of the bathroom?
+506,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the office?
+507,bedroom,"bathroom, bedroom,n,n,n,n,n,n,n,n,",What is the hallway north of?
+508,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden north of?
+509,office,"garden, office, kitchen, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",What is the hallway east of?
+510,kitchen,"office,n,n,n,n,n,n,n,n,n,",What is south of the bedroom?
+511,hallway,"garden,s,e,e,e,e,e,e,e,e,",What is the office east of?
+512,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden north of?
+513,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the office?
+514,garden,"bathroom,w,w,w,w,w,w,w,w,w,",What is the hallway north of?
+515,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is the office north of?
+516,garden,"kitchen,football,football,football,football,football,football,football,football,football,",What is west of the hallway?
+517,office,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom south of?
+518,office,"bathroom, bathroom, bedroom,w,w,w,w,w,w,w,",What is north of the hallway?
+519,hallway,"hallway,s,e,e,e,e,e,e,e,e,",What is east of the bathroom?
+520,bathroom,"office,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+521,hallway,"bedroom,s,e,e,e,e,e,e,e,e,",What is west of the bathroom?
+522,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+523,garden,"office, kitchen,n,n,n,n,n,n,n,n,",What is west of the bedroom?
+524,garden,"kitchen,s,e,e,e,e,e,e,e,e,",What is the office north of?
+525,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the bathroom?
+526,office,"kitchen,s,e,e,e,e,e,e,e,e,",What is south of the garden?
+527,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",What is west of the garden?
+528,garden,"hallway, bathroom, office, kitchen, bathroom, office, kitchen, bathroom, office, kitchen,",What is the bedroom east of?
+529,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the office?
+530,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden south of?
+531,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",What is west of the bedroom?
+532,office,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+533,kitchen,"kitchen kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bedroom, hallway, bathroom",What is the garden east of?
+534,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+535,kitchen,"bedroom,w,w,w,w,w,w,w,w,w,",What is the hallway east of?
+536,garden,"bathroom, bedroom,w,w,w,w,w,w,w,w,",What is the hallway east of?
+537,bedroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the garden south of?
+538,bedroom,"kitchen,w,w,w,w,w,w,w,w,w,",What is east of the garden?
+539,kitchen,"bedroom,n,n,n,n,n,n,n,n,n,",What is the hallway west of?
+540,hallway,"hallway, bathroom, office, garden, kitchen, bathroom, garden, kitchen, bathroom, garden,",What is the bedroom east of?
+541,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom south of?
+542,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the kitchen?
+543,garden,"bedroom,s,e,e,e,e,e,e,e,e,",What is east of the kitchen?
+544,office,"hallway,w,w,w,w,w,w,w,w,w,",What is the bathroom north of?
+545,hallway,"hallway, office, bathroom, bathroom, bedroom, office, bathroom, bedroom, office, bathroom,",What is the office east of?
+546,hallway,"kitchen,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+547,office,"bedroom,w,w,w,w,w,w,w,w,w,",What is north of the hallway?
+548,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the kitchen?
+549,hallway,"bedroom, park,n,n,n,n,n,n,n,n,",What is south of the bathroom?
+550,office,"office, bathroom, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",What is east of the hallway?
+551,bathroom,"bathroom,s,e,e,e,e,e,e,e,e,",What is the hallway east of?
+552,hallway,"office,n,n,n,n,n,n,n,n,n,",What is north of the bedroom?
+553,bedroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden south of?
+554,office,"office,n,n,n,n,n,n,n,n,n,",What is south of the bedroom?
+555,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",What is east of the garden?
+556,kitchen,"kitchen,w,w,w,w,w,w,w,w,w,",What is west of the garden?
+557,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+558,garden,"office, bathroom, garden, kitchen, garden, kitchen, bathroom, garden, kitchen, bathroom,",What is the bathroom south of?
+559,kitchen,"office,n,n,n,n,n,n,n,n,n,",What is the garden west of?
+560,bedroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the kitchen south of?
+561,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is east of the office?
+562,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is west of the bathroom?
+563,hallway,"kitchen kitchen,w,w,w,w,w,w,w,w,w",What is the garden west of?
+564,bedroom,"bedroom, office, kitchen, office, kitchen, bedroom, office, kitchen, bedroom, office,",What is the kitchen west of?
+565,kitchen,"garden, kitchen,n,n,n,n,n,n,n,n,",What is the office west of?
+566,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the bedroom west of?
+567,bathroom,"bathroom,w,w,w,w,w,w,w,w,w,",What is west of the hallway?
+568,bedroom,"office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",What is north of the garden?
+569,kitchen,"bedroom,w,w,w,w,w,w,w,w,w,",What is south of the bathroom?
+570,kitchen,"garden,n,n,n,n,n,n,n,n,n,",What is the office east of?
+571,bathroom,"kitchen,n,n,n,n,n,n,n,n,n,",What is north of the office?
+572,hallway,"kitchen,n,n,n,n,n,n,n,n,n,",What is north of the office?
+573,bedroom,"kitchen kitchen, bathroom, bathroom, bedroom, bathroom, bedroom, bathroom, bathroom, bedroom, bathroom",What is west of the garden?
+574,office,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen west of?
+575,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+576,office,"garden, kitchen, bathroom, bedroom,w,w,w,w,w,w,",What is the bathroom south of?
+577,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the bathroom?
+578,garden,"garden,w,w,w,w,w,w,w,w,w,",What is the kitchen south of?
+579,kitchen,"bathroom, bedroom,n,n,n,n,n,n,n,n,",What is the hallway south of?
+580,office,"garden,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+581,hallway,"bathroom, hallway, office, kitchen, bathroom, hallway, bathroom, office, bathroom, hallway,",What is the garden east of?
+582,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+583,office,"bathroom,w,w,w,w,w,w,w,w,w,",What is the hallway west of?
+584,hallway,"hallway, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the bedroom north of?
+585,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is west of the bedroom?
+586,hallway,"kitchen,n,n,n,n,n,n,n,n,n,",What is south of the office?
+587,kitchen,"kitchen,w,w,w,w,w,w,w,w,w,",What is south of the garden?
+588,office,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+589,office,"bedroom,w,w,w,w,w,w,w,w,w,",What is south of the kitchen?
+590,bathroom,"hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",What is the kitchen west of?
+591,hallway,"hallway, bathroom, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",What is the office north of?
+592,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the kitchen?
+593,office,"bathroom, bathroom, bedroom,w,w,w,w,w,w,w,",What is east of the hallway?
+594,kitchen,"office,n,n,n,n,n,n,n,n,n,",What is west of the bedroom?
+595,garden,"garden, kitchen kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen",What is the office west of?
+596,bedroom,"hallway, bathroom, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden,",What is east of the office?
+597,office,"bedroom,w,w,w,w,w,w,w,w,w,",What is west of the bathroom?
+598,bathroom,"bedroom, kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the kitchen west of?
+599,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden south of?
+600,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the office?
+601,kitchen,"hallway bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",What is the bathroom south of?
+602,hallway,"hallway,football,football,football,football,football,football,football,football,football,",What is north of the bedroom?
+603,garden,"kitchen kitchen, bathroom, bathroom, bedroom, bathroom, bedroom, bathroom, bathroom, bathroom, bathroom",What is north of the office?
+604,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the kitchen?
+605,hallway,"office, school, office, kitchen, bathroom, bathroom, bedroom, office, bathroom, bedroom,",What is west of the garden?
+606,office,"hallway, bathroom, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden,",What is the kitchen west of?
+607,kitchen,"hallway,n,n,n,n,n,n,n,n,n,",What is north of the bedroom?
+608,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+609,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is west of the kitchen?
+610,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom north of?
+611,office,"hallway,n,n,n,n,n,n,n,n,n,",What is the bedroom north of?
+612,hallway,"school,n,n,n,n,n,n,n,n,n,",What is east of the office?
+613,hallway,"garden,n,n,n,n,n,n,n,n,n,",What is the office north of?
+614,hallway,"office,n,n,n,n,n,n,n,n,n,",What is east of the bedroom?
+615,garden,"garden, kitchen, bathroom, office, bathroom, garden, kitchen, bathroom, garden, bathroom,",What is the office east of?
+616,office,"kitchen,w,w,w,w,w,w,w,w,w,",What is north of the bedroom?
+617,kitchen,"office,w,n,n,n,n,n,n,n,n,",What is north of the bedroom?
+618,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is south of the office?
+619,bathroom,"garden, kitchen,w,w,w,w,w,w,w,w,",What is the office west of?
+620,bedroom,"kitchen kitchen, park,w,w,w,w,w,w,w,w",What is the garden east of?
+621,office,"hallway,w,w,w,w,w,w,w,w,w,",What is the kitchen south of?
+622,kitchen,"kitchen,n,n,n,n,n,n,n,n,n,",What is the office south of?
+623,garden,"kitchen,n,n,n,n,n,n,n,n,n,",What is north of the office?
+624,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the kitchen?
+625,office,"garden,n,n,n,n,n,n,n,n,n,",What is east of the bedroom?
+626,office,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden north of?
+627,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",What is east of the bedroom?
+628,office,"hallway, bathroom, office, garden, kitchen, bathroom, garden, kitchen, bathroom, garden,",What is the bathroom south of?
+629,garden,"hallway,s,e,e,e,e,e,e,e,e,",What is east of the kitchen?
+630,bathroom,"bedroom,s,e,e,e,e,e,e,e,e,",What is east of the kitchen?
+631,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the office north of?
+632,bathroom,"office, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, kitchen,",What is west of the hallway?
+633,bedroom,"garden, kitchen,w,w,w,w,w,w,w,w,",What is the office east of?
+634,bedroom,"kitchen,n,n,n,n,n,n,n,n,n,",What is east of the office?
+635,bedroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the kitchen north of?
+636,bedroom,"hallway, bathroom, bathroom, bedroom, kitchen, bathroom, hallway, bathroom, bedroom, kitchen,",What is the kitchen west of?
+637,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden east of?
+638,kitchen,"bedroom,w,w,w,w,w,w,w,w,w,",What is the office east of?
+639,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is east of the bedroom?
+640,bedroom,"white, green, green, green, green, green, green, green, green, green,",What is the garden east of?
+641,office,"garden, kitchen, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom,",What is the hallway east of?
+642,office,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+643,garden,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is east of the hallway?
+644,garden,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom west of?
+645,office,"office, kitchen, bathroom,w,w,w,w,w,w,w,",What is west of the bedroom?
+646,bedroom,"bathroom,s,e,e,e,e,e,e,e,e,",What is the hallway east of?
+647,bathroom,"office,n,n,n,n,n,n,n,n,n,",What is east of the bedroom?
+648,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is north of the bedroom?
+649,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+650,office,"bathroom, bedroom,n,n,n,n,n,n,n,n,",What is the hallway north of?
+651,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is east of the bedroom?
+652,kitchen,"bathroom, bathroom, bedroom, bathroom, bedroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is south of the hallway?
+653,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",What is west of the garden?
+654,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the bathroom?
+655,office,"garden,n,n,n,n,n,n,n,n,n,",What is the kitchen west of?
+656,bedroom,"kitchen kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom",What is the garden north of?
+657,kitchen,"bedroom, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",What is east of the garden?
+658,garden,"bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom",What is south of the hallway?
+659,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the kitchen?
+660,kitchen,"kitchen,w,w,w,w,w,w,w,w,w,",What is the garden east of?
+661,office,"hallway hallway, office, garden, kitchen, bathroom, garden, office, kitchen, bathroom, garden",What is west of the bathroom?
+662,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the office?
+663,bathroom,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",What is east of the garden?
+664,office,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden south of?
+665,kitchen,"bathroom,s,e,e,e,e,e,e,e,e,",What is the hallway north of?
+666,garden,"hallway, bathroom, office, bathroom, hallway, bathroom, office, bathroom, hallway, bathroom,",What is the office north of?
+667,garden,"bathroom bathroom, office, kitchen, bedroom,w,w,w,w,w,w",What is the office east of?
+668,hallway,"kitchen kitchen, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom",What is the garden south of?
+669,hallway,"kitchen,w,w,w,w,w,w,w,w,w,",What is north of the garden?
+670,bathroom,"kitchen, bathroom, bedroom,w,w,w,w,w,w,w,",What is west of the garden?
+671,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is east of the bedroom?
+672,kitchen,"hallway, kitchen,s,e,e,e,e,e,e,e,",What is the garden north of?
+673,kitchen,"kitchen garden, kitchen garden,s,e,e,e,e,e,e,",What is the garden south of?
+674,kitchen,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",What is the bedroom west of?
+675,bedroom,"kitchen garden, kitchen garden,n,n,n,n,n,n,n,",What is the garden west of?
+676,garden,"bathroom,w,w,w,w,w,w,w,w,w,",What is north of the kitchen?
+677,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the bathroom?
+678,garden,"hallway, bathroom, office, kitchen, bathroom, office, kitchen, bathroom, office, kitchen,",What is the bedroom south of?
+679,office,"office,n,n,n,n,n,n,n,n,n,",What is south of the bedroom?
+680,hallway,"bedroom, kitchen,n,n,n,n,n,n,n,n,",What is east of the office?
+681,office,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the kitchen?
+682,garden,"bathroom, bedroom,w,w,w,w,w,w,w,w,",What is the hallway south of?
+683,office,"office,s,s,s,s,s,s,s,s,s,",What is north of the hallway?
+684,office,"bathroom, office, kitchen, bedroom,w,w,w,w,w,w,",What is the hallway east of?
+685,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the bathroom?
+686,hallway,"kitchen,football,football,football,football,football,football,football,football,football,",What is east of the office?
+687,office,"bedroom,w,w,w,w,w,w,w,w,w,",What is west of the bathroom?
+688,kitchen,"kitchen,w,w,w,w,w,w,w,w,w,",What is north of the garden?
+689,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is north of the bathroom?
+690,office,"office,n,n,n,n,n,n,n,n,n,",What is south of the garden?
+691,bathroom,"bedroom,s,e,e,e,e,e,e,e,e,",What is south of the kitchen?
+692,garden,"bedroom, hallway,w,w,w,w,w,w,w,w,",What is west of the bathroom?
+693,kitchen,"bathroom,w,w,w,w,w,w,w,w,w,",What is the hallway south of?
+694,office,"kitchen,s,e,e,e,e,e,e,e,e,",What is west of the bedroom?
+695,office,"bedroom, office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom,",What is the bathroom west of?
+696,kitchen,"bathroom, hallway, office, bathroom, hallway, bathroom, office, bathroom, hallway, bathroom,",What is the office north of?
+697,bedroom,"garden,w,w,w,w,w,w,w,w,w,",What is the hallway west of?
+698,office,"bedroom,w,n,n,n,n,n,n,n,n,",What is the bathroom north of?
+699,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+700,office,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the kitchen?
+701,office,"office,n,n,n,n,n,n,n,n,n,",What is east of the bedroom?
+702,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is north of the kitchen?
+703,bedroom,"kitchen, bathroom, bedroom,n,n,n,n,n,n,n,",What is south of the office?
+704,bedroom,"office, bathroom, bedroom,w,w,w,w,w,w,w,",What is east of the kitchen?
+705,hallway,"garden, kitchen, bathroom, bathroom, bedroom,w,w,w,w,w,",What is east of the office?
+706,kitchen,"kitchen,w,w,w,w,w,w,w,w,w,",What is north of the garden?
+707,hallway,"garden,w,w,w,w,w,w,w,w,w,",What is the office south of?
+708,garden,"garden, kitchen, bathroom, bedroom,w,w,w,w,w,w,",What is the hallway west of?
+709,office,"bathroom,n,n,n,n,n,n,n,n,n,",What is the hallway north of?
+710,bathroom,"bathroom,w,w,w,w,w,w,w,w,w,",What is north of the kitchen?
+711,bathroom,"garden, kitchen, bathroom, bedroom,w,w,w,w,w,w,",What is the office east of?
+712,garden,"office, kitchen, bedroom,n,n,n,n,n,n,n,",What is the bathroom south of?
+713,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom north of?
+714,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the office?
+715,bedroom,"kitchen,w,w,w,w,w,w,w,w,w,",What is the garden south of?
+716,bathroom,"bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom",What is north of the hallway?
+717,garden,"bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, bathroom bathroom, bathroom",What is the hallway east of?
+718,kitchen,"bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom",What is west of the hallway?
+719,garden,"garden, kitchen, hallway, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",What is west of the bathroom?
+720,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the bathroom?
+721,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the kitchen?
+722,kitchen,"bathroom, bathroom, bedroom,w,w,w,w,w,w,w,",What is south of the hallway?
+723,hallway,"kitchen garden,w,w,w,w,w,w,w,w,w",What is the garden west of?
+724,bedroom,"bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom",What is east of the hallway?
+725,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the kitchen south of?
+726,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is the hallway north of?
+727,kitchen,"hallway bathroom, bedroom, bathroom, hallway bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the bathroom west of?
+728,hallway,"kitchen kitchen, bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, bathroom",What is south of the garden?
+729,bedroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is east of the garden?
+730,bedroom,"kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom,",What is south of the office?
+731,bedroom,"bedroom, kitchen,football,football,football,football,football,football,football,football,",What is north of the bathroom?
+732,kitchen,"garden, kitchen,n,n,n,n,n,n,n,n,",What is the office west of?
+733,hallway,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",What is west of the garden?
+734,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+735,kitchen,"bathroom,n,n,n,n,n,n,n,n,n,",What is north of the hallway?
+736,garden,"bedroom,s,e,e,e,e,e,e,e,e,",What is west of the bathroom?
+737,bedroom,"bedroom,s,e,e,e,e,e,e,e,e,",What is west of the kitchen?
+738,kitchen,"hallway, bathroom, office, bathroom, bedroom, office, bathroom, bedroom, office, bathroom,",What is the office west of?
+739,garden,"kitchen kitchen, bathroom, bedroom, hallway, bathroom, bedroom, hallway, bathroom, bathroom, bathroom",What is the hallway south of?
+740,hallway,"kitchen garden, kitchen garden,n,n,n,n,n,n,n,",What is the garden east of?
+741,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+742,kitchen,"kitchen,n,n,n,n,n,n,n,n,n,",What is north of the bedroom?
+743,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is west of the bedroom?
+744,office,"bathroom,n,n,n,n,n,n,n,n,n,",What is the hallway south of?
+745,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is south of the kitchen?
+746,garden,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom east of?
+747,garden,"bedroom,s,e,e,e,e,e,e,e,e,",What is east of the kitchen?
+748,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the office?
+749,bedroom,"bedroom,w,n,n,n,n,n,n,n,n,",What is the hallway west of?
+750,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is east of the bathroom?
+751,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the office south of?
+752,office,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the kitchen?
+753,bedroom,"kitchen,n,n,n,n,n,n,n,n,n,",What is north of the garden?
+754,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is west of the bedroom?
+755,kitchen,"bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom",What is north of the hallway?
+756,kitchen,"office, bathroom, bedroom,n,n,n,n,n,n,n,",What is the hallway west of?
+757,kitchen,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the bathroom east of?
+758,bathroom,"garden, kitchen,n,n,n,n,n,n,n,n,",What is the office west of?
+759,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen east of?
+760,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is north of the bedroom?
+761,bedroom,"kitchen kitchen,w,w,w,w,w,w,w,w,w",What is the garden west of?
+762,kitchen,"bathroom, bathroom, bedroom, bathroom, bedroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is south of the hallway?
+763,office,"kitchen garden,s,e,e,e,e,e,e,e,e",What is the garden north of?
+764,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom north of?
+765,hallway,"kitchen,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+766,bedroom,"hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",What is the garden east of?
+767,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom north of?
+768,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",What is west of the garden?
+769,hallway,"garden, kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the kitchen east of?
+770,office,"bedroom,s,e,e,e,e,e,e,e,e,",What is west of the hallway?
+771,bathroom,"kitchen garden, bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, bathroom",What is the garden south of?
+772,garden,"bedroom, office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom,",What is the office north of?
+773,office,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom south of?
+774,bathroom,"kitchen kitchen,w,w,w,w,w,w,w,w,w",What is east of the garden?
+775,bathroom,"bedroom,s,s,s,s,s,s,s,s,s,",What is south of the kitchen?
+776,kitchen,"bedroom,w,w,w,w,w,w,w,w,w,",What is west of the bathroom?
+777,office,"hallway, bathroom, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden,",What is the garden north of?
+778,hallway,"garden, kitchen, bathroom, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",What is north of the office?
+779,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the bedroom south of?
+780,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the bathroom?
+781,kitchen,"bedroom,w,n,n,n,n,n,n,n,n,",What is the bathroom east of?
+782,hallway,"hallway, bathroom,s,e,e,e,e,e,e,e,",What is the bathroom west of?
+783,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is the bathroom north of?
+784,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen north of?
+785,hallway,"kitchen,w,w,w,w,w,w,w,w,w,",What is the garden north of?
+786,hallway,"office, kitchen, bathroom, bathroom, office, bathroom, office, bathroom, office, bathroom,",What is north of the garden?
+787,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is west of the bedroom?
+788,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom north of?
+789,office,"hallway, bathroom, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the bedroom north of?
+790,bedroom,"garden, kitchen,s,e,e,e,e,e,e,e,",What is the kitchen east of?
+791,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the bathroom?
+792,kitchen,"bedroom,s,e,e,e,e,e,e,e,e,",What is west of the hallway?
+793,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden north of?
+794,office,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the bathroom?
+795,bathroom,"hallway, bathroom, bathroom, office, bathroom, hallway, bathroom, office, bathroom, hallway,",What is the office north of?
+796,garden,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom east of?
+797,kitchen,"kitchen,w,w,w,w,w,w,w,w,w,",What is the garden west of?
+798,bedroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden north of?
+799,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden west of?
+800,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is the office north of?
+801,office,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the kitchen?
+802,kitchen,"bathroom,s,w,w,w,w,w,w,w,w,",What is the hallway west of?
+803,kitchen,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the office?
+804,office,"garden,w,w,w,w,w,w,w,w,w,",What is the hallway north of?
+805,garden,"bedroom,s,e,e,e,e,e,e,e,e,",What is east of the kitchen?
+806,hallway,"kitchen, bathroom, bedroom,w,w,w,w,w,w,w,",What is east of the garden?
+807,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+808,garden,"bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom",What is east of the hallway?
+809,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+810,hallway,"kitchen,n,n,n,n,n,n,n,n,n,",What is east of the office?
+811,bathroom,"hallway, bathroom, bathroom, office, bathroom, office, bathroom, office, bathroom, office,",What is the office north of?
+812,kitchen,"hallway, bathroom, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden,",What is the garden south of?
+813,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden north of?
+814,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the kitchen?
+815,office,"bedroom,n,n,n,n,n,n,n,n,n,",What is the kitchen west of?
+816,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the kitchen?
+817,garden,"bedroom,w,n,n,n,n,n,n,n,n,",What is north of the bathroom?
+818,bedroom,"bedroom,w,n,n,n,n,n,n,n,n,",What is the kitchen north of?
+819,bedroom,"bedroom,w,n,n,n,n,n,n,n,n,",What is south of the bathroom?
+820,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is west of the bedroom?
+821,garden,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the bathroom west of?
+822,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is the kitchen south of?
+823,garden,"bathroom, garden, kitchen, hallway, bathroom, garden, bathroom, garden, bathroom, garden,",What is the hallway west of?
+824,bathroom,"kitchen,n,n,n,n,n,n,n,n,n,",What is west of the garden?
+825,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the bathroom?
+826,office,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden west of?
+827,bathroom,"garden,s,e,e,e,e,e,e,e,e,",What is south of the bedroom?
+828,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is east of the bedroom?
+829,bedroom,"bedroom,w,n,n,n,n,n,n,n,n,",What is the bathroom north of?
+830,hallway,"kitchen,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+831,kitchen,"bedroom,w,w,w,w,w,w,w,w,w,",What is east of the hallway?
+832,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the office?
+833,office,"kitchen garden,w,w,w,w,w,w,w,w,w",What is the garden south of?
+834,kitchen,"kitchen garden, kitchen garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden",What is the garden east of?
+835,bathroom,"bathroom, hallway,w,w,w,w,w,w,w,w,",What is the kitchen west of?
+836,bathroom,"bathroom,n,n,n,n,n,n,n,n,n,",What is the hallway west of?
+837,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+838,office,"hallway,n,n,n,n,n,n,n,n,n,",What is the bedroom south of?
+839,bedroom,"bathroom,s,e,e,e,e,e,e,e,e,",What is north of the hallway?
+840,kitchen,"kitchen,n,n,n,n,n,n,n,n,n,",What is south of the office?
+841,bedroom,"garden, kitchen, bathroom, bedroom,w,w,w,w,w,w,",What is the bathroom east of?
+842,bedroom,"bedroom, office, kitchen,n,n,n,n,n,n,n,",What is the office south of?
+843,kitchen,"garden, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",What is the hallway west of?
+844,office,"kitchen kitchen, bathroom bathroom, bedroom, bathroom bathroom, bedroom, bathroom bathroom, bedroom, bathroom bathroom",What is east of the garden?
+845,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+846,bedroom,"kitchen,n,n,n,n,n,n,n,n,n,",What is east of the office?
+847,office,"garden,s,e,e,e,e,e,e,e,e,",What is north of the kitchen?
+848,bedroom,"office, bathroom, bedroom,n,n,n,n,n,n,n,",What is the bathroom north of?
+849,bathroom,"bathroom, bedroom,w,w,w,w,w,w,w,w,",What is the hallway north of?
+850,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen north of?
+851,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is the kitchen north of?
+852,garden,"garden, kitchen, bathroom, bedroom,s,w,w,w,w,w,",What is the hallway south of?
+853,bathroom,"kitchen, bathroom, bathroom, bedroom, bathroom, bedroom, bathroom, bathroom, bedroom, bathroom,",What is east of the garden?
+854,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden west of?
+855,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+856,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is east of the kitchen?
+857,kitchen,"garden,n,n,n,n,n,n,n,n,n,",What is east of the office?
+858,garden,"kitchen,n,n,n,n,n,n,n,n,n,",What is the office east of?
+859,bathroom,"kitchen kitchen, bathroom bathroom, bedroom, office, kitchen kitchen, bathroom bathroom, bedroom, office,",What is the office east of?
+860,bedroom,"bathroom, bathroom, bedroom,w,w,w,w,w,w,w,",What is west of the hallway?
+861,office,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the bathroom?
+862,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is north of the garden?
+863,bedroom,"kitchen,football,football,football,football,football,football,football,football,football,",What is north of the garden?
+864,kitchen,"kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",What is west of the office?
+865,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+866,hallway,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+867,garden,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen west of?
+868,garden,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen east of?
+869,office,"kitchen,w,w,w,w,w,w,w,w,w,",What is south of the garden?
+870,hallway,"school, office,n,n,n,n,n,n,n,n,",What is the office north of?
+871,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is south of the hallway?
+872,garden,"garden,w,w,w,w,w,w,w,w,w,",What is the hallway south of?
+873,kitchen,"bathroom, bathroom, bedroom,w,w,w,w,w,w,w,",What is west of the hallway?
+874,hallway,"kitchen,w,w,w,w,w,w,w,w,w,",What is east of the garden?
+875,garden,"office,w,n,n,n,n,n,n,n,n,",What is west of the bedroom?
+876,bathroom,"kitchen,n,n,n,n,n,n,n,n,n,",What is the office south of?
+877,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+878,bedroom,"bedroom,s,e,e,e,e,e,e,e,e,",What is west of the kitchen?
+879,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+880,hallway,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",What is north of the kitchen?
+881,bathroom,"bedroom,w,n,n,n,n,n,n,n,n,",What is east of the office?
+882,office,"kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom,",What is west of the garden?
+883,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is north of the garden?
+884,bedroom,"hallway, bathroom bathroom, bedroom, bathroom, hallway, bathroom bathroom, bathroom bedroom, bathroom bathroom,",What is the bathroom east of?
+885,bathroom,"bedroom,w,n,n,n,n,n,n,n,n,",What is west of the kitchen?
+886,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is the office west of?
+887,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the kitchen?
+888,kitchen,"bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, bathroom bathroom, bathroom",What is the hallway north of?
+889,hallway,"hallway, bathroom, bathroom, bedroom,w,w,w,w,w,w,",What is the kitchen south of?
+890,hallway,"office, kitchen,football,football,football,football,football,football,football,football,",What is east of the bedroom?
+891,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",What is north of the garden?
+892,office,"bedroom,w,w,w,w,w,w,w,w,w,",What is north of the bathroom?
+893,kitchen,"kitchen garden,w,w,w,w,w,w,w,w,w",What is the garden north of?
+894,kitchen,"bathroom,s,e,e,e,e,e,e,e,e,",What is west of the hallway?
+895,bathroom,"garden, kitchen,w,w,w,w,w,w,w,w,",What is the office east of?
+896,garden,"bathroom,s,e,e,e,e,e,e,e,e,",What is north of the hallway?
+897,kitchen,"hallway, office, kitchen, bathroom, hallway, office, kitchen, bathroom, bathroom, hallway,",What is east of the bathroom?
+898,kitchen,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is south of the hallway?
+899,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the office?
+900,bedroom,"kitchen kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom",What is the office north of?
+901,hallway,"bedroom,s,e,e,e,e,e,e,e,e,",What is west of the kitchen?
+902,office,"hallway, bathroom, office, garden, kitchen, bathroom, garden, office, kitchen, bathroom,",What is the bathroom west of?
+903,garden,"hallway,n,n,n,n,n,n,n,n,n,",What is the bedroom south of?
+904,kitchen,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom east of?
+905,office,"bedroom, kitchen, hallway, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom,",What is south of the bathroom?
+906,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom east of?
+907,office,"garden, kitchen, bathroom, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway,",What is the hallway west of?
+908,bedroom,"garden, kitchen, bathroom, office, bathroom, bedroom, office, bathroom, bedroom, office,",What is the office east of?
+909,bathroom,"kitchen,n,n,n,n,n,n,n,n,n,",What is south of the bedroom?
+910,bedroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the garden south of?
+911,hallway,"garden,n,n,n,n,n,n,n,n,n,",What is north of the office?
+912,kitchen,"kitchen,n,n,n,n,n,n,n,n,n,",What is west of the office?
+913,hallway,"kitchen, bathroom, bedroom,w,w,w,w,w,w,w,",What is east of the garden?
+914,garden,"bedroom,w,n,n,n,n,n,n,n,n,",What is the office north of?
+915,kitchen,"bedroom,w,n,n,n,n,n,n,n,n,",What is the garden south of?
+916,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the office?
+917,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+918,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is east of the hallway?
+919,kitchen,"kitchen,n,n,n,n,n,n,n,n,n,",What is west of the garden?
+920,office,"bathroom, office, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom,",What is the hallway north of?
+921,hallway,"kitchen,n,n,n,n,n,n,n,n,n,",What is north of the garden?
+922,office,"bedroom,s,e,e,e,e,e,e,e,e,",What is south of the kitchen?
+923,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the garden west of?
+924,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the kitchen east of?
+925,garden,"hallway,w,w,w,w,w,w,w,w,w,",What is the kitchen south of?
+926,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is the bathroom north of?
+927,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the bathroom?
+928,bathroom,"hallway,n,n,n,n,n,n,n,n,n,",What is the bedroom north of?
+929,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden north of?
+930,office,"office, kitchen,n,n,n,n,n,n,n,n,",What is the garden north of?
+931,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is south of the garden?
+932,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+933,hallway,"bedroom,w,w,w,w,w,w,w,w,w,",What is west of the kitchen?
+934,bedroom,"kitchen,w,w,w,w,w,w,w,w,w,",What is the garden east of?
+935,office,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen north of?
+936,kitchen,"bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom",What is north of the hallway?
+937,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is the kitchen north of?
+938,kitchen,"kitchen,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+939,bedroom,"office,n,n,n,n,n,n,n,n,n,",What is the garden east of?
+940,garden,"bathroom, bathroom, bedroom,w,w,w,w,w,w,w,",What is south of the hallway?
+941,kitchen,"bedroom,w,w,w,w,w,w,w,w,w,",What is the bathroom west of?
+942,office,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen east of?
+943,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",What is east of the garden?
+944,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden north of?
+945,office,"kitchen,n,n,n,n,n,n,n,n,n,",What is the garden north of?
+946,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is north of the hallway?
+947,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen north of?
+948,office,"bathroom,s,w,w,w,w,w,w,w,w,",What is the hallway north of?
+949,bedroom,"kitchen kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen",What is the office north of?
+950,bathroom,"bathroom, bedroom,w,w,w,w,w,w,w,w,",What is the hallway south of?
+951,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+952,garden,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",What is east of the bathroom?
+953,garden,"garden,w,w,w,w,w,w,w,w,w,",What is the office north of?
+954,kitchen,"kitchen, bathroom, bedroom,n,n,n,n,n,n,n,",What is north of the office?
+955,office,"bathroom, bathroom, bedroom, bathroom, bedroom, bathroom, bathroom, bedroom, bathroom, bathroom,",What is east of the hallway?
+956,hallway,"bedroom,s,e,e,e,e,e,e,e,e,",What is the office east of?
+957,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden east of?
+958,office,"kitchen,s,e,e,e,e,e,e,e,e,",What is north of the garden?
+959,office,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+960,garden,"bedroom,n,n,n,n,n,n,n,n,n,",What is north of the kitchen?
+961,bedroom,"kitchen,n,n,n,n,n,n,n,n,n,",What is the garden east of?
+962,kitchen,"bedroom,n,n,n,n,n,n,n,n,n,",What is east of the office?
+963,garden,"bedroom, kitchen,w,w,w,w,w,w,w,w,",What is the kitchen east of?
+964,bathroom,"bathroom,n,n,n,n,n,n,n,n,n,",What is the hallway south of?
+965,garden,"kitchen,n,n,n,n,n,n,n,n,n,",What is the bedroom south of?
+966,bathroom,"kitchen kitchen, bathroom bathroom, bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",What is west of the garden?
+967,kitchen,"kitchen,n,n,n,n,n,n,n,n,n,",What is east of the office?
+968,office,"kitchen,n,n,n,n,n,n,n,n,n,",What is the garden south of?
+969,office,"bathroom,s,w,w,w,w,w,w,w,w,",What is the hallway west of?
+970,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",What is east of the garden?
+971,garden,"garden,w,w,w,w,w,w,w,w,w,",What is the hallway east of?
+972,garden,"hallway, bathroom, bathroom, bedroom, kitchen, bathroom, bedroom, kitchen, bathroom, bathroom,",What is the kitchen east of?
+973,kitchen,"office,n,n,n,n,n,n,n,n,n,",What is north of the hallway?
+974,kitchen,"bathroom,w,w,w,w,w,w,w,w,w,",What is west of the hallway?
+975,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is south of the bedroom?
+976,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",What is the kitchen south of?
+977,bathroom,"office,n,n,n,n,n,n,n,n,n,",What is west of the bedroom?
+978,office,"bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom",What is west of the hallway?
+979,kitchen,"bedroom,w,w,w,w,w,w,w,w,w,",What is east of the hallway?
+980,garden,"kitchen, bedroom,w,w,w,w,w,w,w,w,",What is north of the office?
+981,bedroom,"kitchen,w,w,w,w,w,w,w,w,w,",What is north of the garden?
+982,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom south of?
+983,hallway,"garden, kitchen,n,n,n,n,n,n,n,n,",What is north of the office?
+984,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is south of the bathroom?
+985,office,"hallway,w,w,w,w,w,w,w,w,w,",What is the bedroom west of?
+986,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden south of?
+987,hallway,"kitchen garden, kitchen garden,w,w,w,w,w,w,w,",What is the garden west of?
+988,office,"office,n,n,n,n,n,n,n,n,n,",What is west of the hallway?
+989,hallway,"garden,n,n,n,n,n,n,n,n,n,",What is the office west of?
+990,bedroom,"garden,w,w,w,w,w,w,w,w,w,",What is the hallway east of?
+991,bedroom,"garden, office, kitchen, bathroom, bathroom, hallway, bathroom, office, bathroom, hallway,",What is the hallway south of?
+992,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",What is the garden east of?
+993,bedroom,"garden, kitchen, bathroom, bedroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom,",What is the hallway north of?
+994,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",What is east of the bedroom?
+995,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",What is west of the bathroom?
+996,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",What is north of the garden?
+997,kitchen,"office,w,n,n,n,n,n,n,n,n,",What is west of the bedroom?
+998,kitchen,"kitchen,n,n,n,n,n,n,n,n,n,",What is north of the bedroom?

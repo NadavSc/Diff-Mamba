@@ -1,0 +1,101 @@
+,target,output,question
+0,hallway,"kitchen hallway, kitchen hallway, bathroom bathroom, bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom hallway",What is west of the office?
+1,bedroom,"garden, bedroom, garden, office, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom,",What is the office north of?
+2,hallway,"hallway garden, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",What is west of the kitchen?
+3,office,"office office, bedroom, office, bedroom, office, bedroom, office, bedroom, office, bedroom",What is the bathroom west of?
+4,garden,"garden kitchen garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, kitchen garden",What is the bedroom south of?
+5,kitchen,"kitchen kitchen, bedroom, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen,",What is the bathroom east of?
+6,office,"garden garden, office, bathroom bathroom, garden, office, bathroom bathroom, garden, bathroom bathroom,",What is south of the bathroom?
+7,kitchen,"kitchen kitchen hallway, kitchen hallway, bathroom bathroom, bathroom bathroom bathroom hallway, bathroom bathroom bathroom bathroom hallway",What is the bedroom east of?
+8,office,"office, bedroom, office, bedroom, office, bedroom, office, bedroom, office, bedroom,",What is the hallway west of?
+9,bedroom,"bedroom, office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",What is the office east of?
+10,bathroom,"bathroom bathroom, bathroom hallway, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom",What is south of the bedroom?
+11,bedroom,"kitchen kitchen, bedroom, bedroom garden, kitchen garden, bedroom garden, kitchen garden, bedroom garden,",What is the garden south of?
+12,hallway,"hallway kitchen hallway, hallway bathroom, hallway bathroom, hallway bathroom, hallway bathroom, hallway bathroom, hallway",What is north of the office?
+13,kitchen,"kitchen kitchen kitchen kitchen garden, kitchen kitchen garden, kitchen kitchen garden, kitchen kitchen garden, kitchen kitchen",What is west of the office?
+14,hallway,"kitchen kitchen hallway, kitchen bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom",What is east of the garden?
+15,garden,"garden bedroom, garden, office, bedroom, garden, office, bedroom, garden, office, bedroom",What is the office north of?
+16,kitchen,"kitchen kitchen, garden, bathroom bathroom, bathroom bathroom, garden, bathroom bathroom, bathroom bathroom, bathroom",What is the garden south of?
+17,garden,"garden garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom",What is north of the office?
+18,bathroom,"bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom bathroom hallway, bathroom bathroom bathroom",What is south of the bedroom?
+19,bathroom,bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,What is east of the hallway?
+20,kitchen,"kitchen kitchen, kitchen bedroom, kitchen kitchen, kitchen garden, kitchen garden, kitchen garden, kitchen garden",What is west of the garden?
+21,office,"office, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",What is the hallway north of?
+22,hallway,"hallway hallway, bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",What is north of the garden?
+23,office,"office hallway, office garden, office garden, hallway garden, office garden, hallway garden, office garden",What is south of the kitchen?
+24,bathroom,"kitchen kitchen bathroom bathroom bathroom bathroom garden, bathroom bathroom bathroom garden, bathroom bathroom bathroom garden, bathroom bathroom",What is the garden west of?
+25,bathroom,"bathroom bathroom hallway, bathroom bathroom bathroom bathroom hallway, bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",What is the kitchen east of?
+26,garden,"garden, bathroom bathroom, bathroom bathroom, garden, bathroom bathroom, bathroom bathroom, bathroom bathroom, bathroom",What is the kitchen south of?
+27,hallway,"hallway bathroom, bathroom bedroom, bathroom hallway, bathroom bathroom, bathroom hallway, bathroom bathroom, bathroom hallway",What is the bathroom north of?
+28,bedroom,"bedroom bedroom garden, bedroom bedroom garden, bedroom bedroom garden, bedroom bedroom garden, bedroom bedroom garden,",What is south of the bathroom?
+29,bathroom,"bathroom bathroom, bathroom hallway, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom",What is the bedroom north of?
+30,kitchen,"kitchen garden, bathroom bathroom bathroom garden, kitchen garden, bathroom bathroom garden, kitchen garden, bathroom bathroom",What is the garden north of?
+31,office,"office bathroom bathroom, garden, office bathroom bathroom, garden, office bathroom bathroom, garden, office bathroom",What is the garden north of?
+32,bathroom,office office bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,What is south of the garden?
+33,bathroom,"bathroom bathroom bathroom garden, bathroom bathroom garden, bathroom bathroom garden, bathroom bathroom garden, bathroom bathroom garden",What is the bedroom west of?
+34,hallway,"hallway bedroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",What is west of the kitchen?
+35,bedroom,"hallway bedroom, garden, bedroom, hallway garden, bedroom, hallway garden, bedroom, hallway garden,",What is the garden east of?
+36,office,"bedroom office, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen",What is the kitchen north of?
+37,kitchen,kitchen kitchen kitchen bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,What is north of the hallway?
+38,garden,"garden, bedroom, kitchen, garden, bedroom, kitchen, garden, bedroom, kitchen, garden,",What is the kitchen north of?
+39,kitchen,"hallway kitchen, hallway kitchen, hallway bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",What is south of the bedroom?
+40,bedroom,"kitchen kitchen, bedroom, bedroom, kitchen garden, kitchen garden, bedroom, kitchen garden, kitchen garden",What is the garden east of?
+41,garden,"garden garden, office, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",What is south of the hallway?
+42,kitchen,"kitchen kitchen hallway bathroom, hallway bathroom, kitchen bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom,",What is the bathroom west of?
+43,office,"garden office, garden, office, kitchen garden, kitchen garden, office garden, kitchen garden, office",What is the kitchen east of?
+44,bathroom,"office bathroom bathroom bathroom, office bathroom bathroom, bathroom bathroom, office bathroom bathroom, bathroom bathroom, bathroom",What is east of the garden?
+45,bathroom,"bathroom bathroom bedroom, bathroom garden, bathroom bathroom garden, bathroom bathroom garden, bathroom bathroom garden, bathroom",What is the garden north of?
+46,office,"office, bedroom, office garden, office garden, office garden, office garden, office garden, office",What is the garden north of?
+47,bedroom,"bedroom garden, bedroom garden, bedroom garden, bedroom garden, bedroom garden, bedroom garden, bedroom garden",What is north of the hallway?
+48,bathroom,"bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom,",What is the kitchen north of?
+49,office,"office, bathroom bathroom, bathroom bathroom, bathroom hallway, bathroom bathroom, bathroom bathroom, bathroom bathroom,",What is the hallway north of?
+50,bedroom,"garden, bedroom, garden, office, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom,",What is the office north of?
+51,bathroom,"bathroom bathroom, office, bathroom bathroom, office hallway, bathroom bathroom, office hallway, bathroom bathroom,",What is the hallway south of?
+52,bathroom,"garden, bathroom bathroom, bathroom bedroom, bathroom bedroom, bathroom bedroom, bathroom bedroom, bathroom bedroom,",What is the bedroom west of?
+53,garden,"bedroom garden, garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden",What is east of the bathroom?
+54,garden,"garden hallway, garden, bathroom bathroom, bathroom bathroom, garden hallway, bathroom bathroom bathroom, garden hallway",What is the office north of?
+55,kitchen,"kitchen kitchen hallway, kitchen kitchen hallway, kitchen kitchen hallway, kitchen kitchen hallway, kitchen kitchen hallway,",What is north of the office?
+56,office,"garden office garden, office garden, office garden, garden, office garden, office garden, garden,",What is east of the hallway?
+57,hallway,"hallway hallway garden, bathroom bathroom, bathroom bathroom hallway garden, bathroom bathroom hallway garden, bathroom bathroom hallway",What is the office east of?
+58,kitchen,"kitchen hallway hallway bathroom, kitchen garden, bathroom bathroom bathroom garden, kitchen garden, bathroom bathroom bathroom garden",What is the garden east of?
+59,office,"office office, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom",What is north of the garden?
+60,office,"kitchen kitchen office, office, kitchen kitchen, office, kitchen kitchen, office, kitchen kitchen, office",What is the bedroom west of?
+61,garden,"garden, bedroom, garden, kitchen, garden, kitchen, garden, kitchen, garden, kitchen,",What is north of the kitchen?
+62,bedroom,"kitchen kitchen, bedroom, bedroom, kitchen garden, bedroom, kitchen garden, bedroom, kitchen garden,",What is the garden east of?
+63,kitchen,"garden kitchen garden kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden",What is east of the office?
+64,garden,"garden, office, office kitchen, garden, office kitchen, garden, office kitchen, garden, office",What is the kitchen east of?
+65,bathroom,"garden, bathroom bathroom, bathroom bathroom, bathroom hallway, bathroom bathroom hallway, bathroom bathroom bathroom hallway,",What is the hallway south of?
+66,garden,"garden kitchen kitchen garden, kitchen kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden",What is the bedroom south of?
+67,bathroom,bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,What is west of the garden?
+68,kitchen,"kitchen kitchen kitchen kitchen bedroom, kitchen kitchen kitchen kitchen bedroom, kitchen kitchen kitchen kitchen bedroom, kitchen kitchen",What is east of the office?
+69,office,"bedroom office, bedroom garden, office garden, bedroom garden, office garden, bedroom garden, office garden",What is the garden south of?
+70,office,"bedroom office, bedroom, office, bedroom, office, bedroom, office, bedroom, office, bedroom",What is the hallway west of?
+71,bathroom,"bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bedroom,",What is east of the garden?
+72,garden,"bathroom bathroom garden, garden, hallway bathroom bathroom garden, bathroom bathroom garden, bathroom bathroom garden, bathroom",What is the hallway east of?
+73,garden,"garden office, garden, office, kitchen garden, kitchen garden, office, kitchen garden, garden,",What is the kitchen east of?
+74,kitchen,"kitchen kitchen kitchen, bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",What is north of the hallway?
+75,kitchen,kitchen kitchen kitchen bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,What is west of the hallway?
+76,bathroom,"bathroom bathroom, bathroom garden, bathroom garden, bathroom bathroom garden, bathroom bathroom garden, bathroom bathroom garden",What is south of the bedroom?
+77,bedroom,"bedroom, kitchen kitchen, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom,",What is the kitchen south of?
+78,bathroom,"garden, bathroom bathroom, garden, bathroom bathroom, garden, bathroom bathroom, bathroom garden, bathroom bathroom",What is west of the bedroom?
+79,office,"office office garden, garden, office garden, office garden, office garden, garden, office garden,",What is west of the hallway?
+80,kitchen,kitchen kitchen bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,What is east of the hallway?
+81,garden,"garden garden hallway garden, garden hallway garden, garden hallway garden, garden hallway garden, garden hallway garden",What is north of the office?
+82,bedroom,"bedroom, hallway garden, bedroom garden, hallway garden, bedroom garden, hallway garden, bedroom garden,",What is north of the garden?
+83,bathroom,"kitchen kitchen, bathroom bathroom, bathroom bedroom, bathroom bedroom, bathroom bedroom, bathroom bedroom, bathroom bedroom",What is the bedroom south of?
+84,hallway,hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,What is north of the office?
+85,hallway,"bedroom hallway, bedroom, hallway, bathroom bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom, bathroom",What is south of the bathroom?
+86,office,"office office, bedroom, office, bedroom, office, bedroom, office, bedroom, office, bedroom",What is the bedroom west of?
+87,kitchen,"kitchen hallway hallway, kitchen garden, kitchen garden, hallway garden, kitchen garden, hallway garden, kitchen",What is the garden south of?
+88,hallway,"office office hallway, office garden, office garden, office garden, office garden, office garden, office",What is the garden west of?
+89,office,"office office, bedroom, office, bedroom, office, bedroom, office, bedroom, office, bedroom",What is west of the hallway?
+90,hallway,"hallway office, bedroom, office, hallway, office, bathroom, bathroom, bathroom, bathroom, bathroom",What is the office west of?
+91,bedroom,"kitchen kitchen, bedroom, bedroom hallway, kitchen kitchen, bedroom hallway, kitchen kitchen, bedroom hallway,",What is the hallway east of?
+92,bedroom,"kitchen kitchen, bedroom, bedroom, kitchen kitchen, bedroom, hallway, kitchen kitchen, bedroom, hallway",What is the hallway south of?
+93,hallway,"hallway hallway, bedroom, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",What is the garden east of?
+94,bedroom,"bathroom bathroom, bedroom, hallway, bathroom bathroom, bedroom, hallway, bathroom bathroom, bathroom bathroom,",What is the hallway north of?
+95,hallway,"kitchen kitchen hallway, kitchen kitchen hallway, kitchen kitchen hallway, kitchen kitchen hallway, kitchen kitchen hallway,",What is east of the bedroom?
+96,hallway,"hallway garden, garden, bathroom bathroom, hallway garden, bathroom bathroom, hallway garden, bathroom bathroom,",What is west of the bathroom?
+97,kitchen,"kitchen kitchen, bedroom, kitchen garden, bedroom, kitchen garden, kitchen garden, bedroom, kitchen garden",What is north of the garden?
+98,kitchen,"kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, kitchen garden, garden, kitchen",What is west of the bedroom?
+99,kitchen,"kitchen kitchen hallway, kitchen hallway, kitchen hallway, kitchen hallway, bathroom bathroom, bathroom bathroom hallway,",What is north of the bedroom?

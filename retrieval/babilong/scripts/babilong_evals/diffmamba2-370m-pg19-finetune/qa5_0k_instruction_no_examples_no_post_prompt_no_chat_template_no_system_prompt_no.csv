@@ -1,0 +1,395 @@
+,target,output,question
+0,Bill,"Answer: Mary.
+
+Question: Who went back to the bathroom?
+
+Answer",Who gave the football? 
+1,Jeff,"Answer: Jeff.
+
+Question: Who received the apple?
+
+Answer: Jeff",Who received the apple? 
+2,apple,"Answer: The apple.
+
+Question: What did Fred give to Jeff?",What did Fred give to Jeff? 
+3,Jeff,"Answer: Fred gave the apple to Jeff.
+
+Question: Who did Fred give the",Who did Fred give the apple to? 
+4,apple,"Answer: The apple.
+
+Question: What did Fred give to Jeff?",What did Fred give to Jeff? 
+5,Fred,"Answer: Fred.
+
+Question: Who received the apple?
+
+Answer: Fred",Who received the apple? 
+6,Bill,"Answer: Mary.
+
+Question: Who gave the milk to Fred?
+
+Answer",Who gave the milk to Fred? 
+7,milk,"Answer: The milk.
+
+Question: What did Bill give to Fred?",What did Fred give to Bill? 
+8,Fred,"Answer: Bill gave the milk to Fred.
+
+Question: Who did Fred give the",Who did Bill give the milk to? 
+9,Bill,"Answer: Mary.
+
+Question: Who gave the milk to Fred?
+
+Answer",Who gave the milk to Fred? 
+10,Fred,"Answer: Mary.
+
+Question: Who gave the milk to Fred?
+
+Answer",Who gave the milk? 
+11,milk,"Answer: The football.
+
+Q. What did Fred give to Jeff?",What did Fred give to Jeff? 
+12,Jeff,"Answer: Fred.
+
+Question: Who did Bill go to the office with?",Who did Fred give the milk to? 
+13,Mary,"Answer: Jeff.
+
+Explanation: The milk was sent to Jeff.",Who received the milk? 
+14,Jeff,"Answer: Bill.
+
+Explanation: The milk was given to Bill.",Who gave the milk? 
+15,milk,"Answer: The apple.
+
+Question: What did Mary give to Jeff?",What did Jeff give to Mary? 
+16,football,"Answer: The football.
+
+[Illustration: ""Fred gave the football to Mary""]",What did Fred give to Mary? 
+17,Mary,"Answer: Fred.
+
+Question: Who received the football?
+
+Answer: Jeff",Who received the football? 
+18,Mary,"Answer: Fred.
+
+Question: Who gave the ball?
+
+Answer: Mary",Who gave the football? 
+19,Mary,"Answer: Mary.
+
+Question: Who gave the ball?
+
+Answer: Mary",Who gave the football? 
+20,Fred,"Answer: Fred.
+
+Question: Who gave the football to Jeff?
+
+Answer",Who gave the football to Jeff? 
+21,Mary,"Answer: Mary.
+
+[Illustration: _The apple was picked up by Mary._",Who gave the apple to Fred? 
+22,Fred,"Answer: Mary gave the apple to Fred.
+
+[Illustration: _Mary gave the",Who did Mary give the apple to? 
+23,Fred,"Answer: Mary gave the apple to Fred.
+
+[Illustration: _Mary picked up",Who did Mary give the apple to? 
+24,Mary,"Answer: Mary.
+
+[Illustration: _Mary picked up the apple there._]",Who gave the apple? 
+25,football,"Answer: A piece of bread.
+
+[Illustration: _Mary picked up the apple",What did Jeff give to Mary? 
+26,Mary,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Fred",Who gave the milk? 
+27,Bill,"Answer: Fred handed the milk to Bill.
+
+[Illustration: _The Story of",Who did Fred give the milk to? 
+28,Fred,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Bill",Who gave the apple? 
+29,milk,"Answer: The milk.
+
+Q. What did Bill give to Fred?",What did Fred give to Bill? 
+30,apple,"Answer: The milk.
+
+Question: What did Fred give to Bill?",What did Bill give to Fred? 
+31,apple,"Answer: The apple.
+
+Q. What did Fred do with the apple?",What did Mary give to Fred? 
+32,Mary,"Answer: Fred.
+
+Question: Who gave the apple to Fred?
+
+Answer",Who gave the apple? 
+33,apple,"Answer: The apple.
+
+Q. What did Fred do with the apple?",What did Mary give to Fred? 
+34,Jeff,"Answer: Fred.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who gave the apple to Fred? 
+35,Jeff,"Answer: Fred.
+
+Question: Who gave the apple to Fred?
+
+Answer",Who gave the apple? 
+36,Fred,"Answer: Bill gave it to Fred.
+
+[Illustration: _Bill went to the",Who did Bill give the apple to? 
+37,Bill,"Answer: Bill.
+
+Explanation: The apple was given to Bill by Fred.",Who gave the apple? 
+38,apple,"Answer: The apple.
+
+Question: What did Bill give to Fred?",What did Fred give to Bill? 
+39,Bill,"Answer: Fred gave the apple to Bill.
+
+[Illustration: _The Story of",Who did Fred give the apple to? 
+40,Bill,"Answer: Bill.
+
+Question: Who took the apple?
+
+Answer: Fred",Who received the apple? 
+41,football,"Answer: The apple.
+
+[Illustration: The apple.]
+
+[Illustration:",What did Jeff give to Bill? 
+42,football,"Answer: The apple.
+
+Question: What did Bill give to Jeff?",What did Bill give to Jeff? 
+43,Bill,"Answer: Jeff travelled to the garden.
+
+Question: Who gave the apple to Jeff",Who gave the football to Jeff? 
+44,apple,"Answer: The apple.
+
+[Illustration: The apple]
+
+[Illustration:",What did Fred give to Mary? 
+45,Fred,"Answer: Mary gave the apple to Fred.
+
+Question: Who did Fred give the",Who did Mary give the apple to? 
+46,Bill,"Answer: Bill.
+
+Question: Who gave the milk to Jeff?
+
+Answer",Who gave the apple to Jeff? 
+47,Bill,"Answer: Bill.
+
+Explanation: The apple was given to Jeff by Bill.",Who did Jeff give the apple to? 
+48,Bill,"Answer: Bill.
+
+Question: Who received the milk?
+
+Answer: Mary",Who received the apple? 
+49,Bill,"Answer: Bill.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the apple? 
+50,Jeff,"Answer: Bill.
+
+Question: Who did Mary give the milk to?",Who did Bill give the apple to? 
+51,Fred,"Answer: Jeff gave the milk to Fred.
+
+Question: Who gave the milk to",Who gave the milk to Jeff? 
+52,Jeff,"Answer: Fred received the milk.
+
+Question: Who gave the milk to Jeff?",Who received the milk? 
+53,Fred,"Answer: Fred.
+
+Question: Who did Jeff give the milk to?",Who did Jeff give the milk to? 
+54,Jeff,"Answer: Fred gave the milk to Jeff.
+
+Question: Who did Jeff give the",Who did Fred give the milk to? 
+55,milk,"Answer: He gave him the milk.
+
+Question: What did Fred give to Bill",What did Jeff give to Fred? 
+56,milk,"Answer: She gave him a cup of milk.
+
+[Illustration: ""MARY G",What did Mary give to Bill? 
+57,Mary,"Answer: Bill gave the milk to Mary.
+
+[Illustration: _The following is",Who did Bill give the milk to? 
+58,Bill,"Answer: Mary.
+
+Question: Who gave the apple to Mary?
+
+Answer",Who gave the milk to Mary? 
+59,Mary,"Answer: Fred.
+
+Question: Who gave the ball?
+
+Answer: Fred",Who gave the football? 
+60,Mary,"Answer: Mary.
+
+Question: Who received the apple?
+
+Answer: Mary",Who received the football? 
+61,apple,"Answer: The apple.
+
+[Illustration: The apple]
+
+[Illustration:",What did Fred give to Jeff? 
+62,Jeff,"Answer: Fred gave it to Jeff.
+
+Question: Who did Fred give the apple",Who did Fred give the apple to? 
+63,Fred,"Answer: Mary.
+
+Question: Who went back to the kitchen?
+
+Answer",Who gave the apple to Jeff? 
+64,Fred,"Answer: Mary.
+
+Question: Who went back to the bathroom?
+
+Answer",Who gave the apple? 
+65,Fred,"Answer: Mary.
+
+Question: Who went back to the bathroom?
+
+Answer",Who gave the apple? 
+66,Fred,"Answer: Mary.
+
+Question: Who went to the kitchen?
+
+Answer:",Who received the apple? 
+67,Mary,"Answer: Mary.
+
+Question: Who went back to the garden?
+
+Answer",Who gave the apple to Fred? 
+68,Fred,"Answer: Mary.
+
+Question: Who did Mary give the apple to?",Who did Mary give the apple to? 
+69,apple,"Answer: Mary gave the apple to Fred.
+
+Question: What did Mary travel to",What did Mary give to Fred? 
+70,Fred,"Answer: Mary.
+
+Question: Who went back to the garden?
+
+Answer",Who gave the apple? 
+71,Bill,"Answer: Mary.
+
+Question: Who took the milk?
+
+Answer: Mary",Who received the milk? 
+72,Bill,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the milk? 
+73,Bill,"Answer: Mary went to the kitchen.
+
+Question: Who gave the milk to Mary",Who gave the milk to Mary? 
+74,Mary,"Answer: Mary.
+
+Question: Who gave the milk to Jeff?
+
+Answer",Who gave the milk to Jeff? 
+75,Fred,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the football? 
+76,football,"Answer: The milk.
+
+[Illustration: The milk]
+
+[Illustration:",What did Jeff give to Bill? 
+77,football,"Answer: The milk.
+
+[Illustration: The milk]
+
+[Illustration:",What did Jeff give to Bill? 
+78,Jeff,"Answer: Mary gave the milk to Jeff.
+
+[Illustration: The milk was given",Who did Mary give the milk to? 
+79,milk,"Answer: Mary gave the milk to Jeff.
+
+Question: What did Mary give to",What did Mary give to Jeff? 
+80,Mary,"Answer: Bill.
+
+Question: Who received the milk?
+
+Answer: Fred",Who received the football? 
+81,milk,"Answer: He gave her the milk.
+
+Question: What did Mary give to Fred",What did Fred give to Mary? 
+82,Fred,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the milk? 
+83,Fred,"Answer: Mary.
+
+Question: Who gave the milk to Fred?
+
+Answer",Who gave the milk to Mary? 
+84,Fred,"Answer: Mary.
+
+Question: Who took the milk?
+
+Answer: Mary",Who received the milk? 
+85,Fred,"Answer: Mary.
+
+Question: Who gave the milk?
+
+Answer: Mary",Who gave the milk? 
+86,Jeff,"Answer: Fred.
+
+[Illustration: The milk was sent to the kitchen.]",Who received the milk? 
+87,Fred,"Answer: Fred gave the milk.
+
+[Illustration: The milk was given to Fred",Who gave the milk? 
+88,Fred,"Answer: Fred.
+
+Question: Who gave the milk to Jeff?
+
+Answer",Who gave the milk to Jeff? 
+89,Fred,"Answer: Fred.
+
+Question: Who went to the bathroom?
+
+Answer:",Who gave the milk? 
+90,Bill,"Answer: Fred.
+
+Question: Who went to the bathroom?
+
+Answer:",Who received the milk? 
+91,apple,"Answer: A piece of apple.
+
+[Illustration: The apple was given to Fred",What did Bill give to Fred? 
+92,Fred,"Answer: Bill went to the kitchen.
+
+Question: Who did Bill give the apple",Who did Bill give the apple to? 
+93,Bill,"Answer: Mary went to the kitchen.
+
+Question: Who gave the apple?",Who gave the apple? 
+94,football,"Answer: The apple.
+
+[Illustration: The apple.]
+
+[Illustration:",What did Jeff give to Mary? 
+95,Jeff,Answer: Mary went to the kitchen. Mary went to the kitchen. Mary went to the,Who gave the football to Mary? 
+96,Bill,"Answer: Fred.
+
+Question: Who received the ball?
+
+Answer: Bill",Who received the football? 
+97,Fred,"Answer: Fred.
+
+Question: Who gave the ball?
+
+Answer: Bill",Who gave the football? 
+98,football,"Answer: The apple.
+
+Question: What did Mary give to Bill?",What did Mary give to Bill? 
+99,football,"Answer: She gave him the football.
+
+Question: What did Bill give to Mary",What did Mary give to Bill? 

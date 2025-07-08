@@ -1,0 +1,1000 @@
+,target,output,question
+0,hallway,"football,football,w,w,w,w,w,w,w,w,",Where is the milk? 
+1,hallway,"bedroom,w,n,n,n,n,n,n,n,n,",Where is the football? 
+2,hallway,"no bedroom, no garden, no kitchen, no garden, no kitchen, no bedroom, no garden",Where is the football? 
+3,hallway,"kitchen kitchen, office, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office",Where is the football? 
+4,garden,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+5,garden,"n,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+6,bedroom,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+7,bedroom,"football,football,n,n,n,n,n,n,n,n,",Where is the milk? 
+8,kitchen,"kitchen kitchen, bathroom bathroom, hallway bathroom, garden, bathroom bathroom bathroom garden, hallway bathroom bathroom garden",Where is the football? 
+9,kitchen,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+10,bedroom,"kitchen,s,s,s,s,s,s,s,s,s,",Where is the football? 
+11,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+12,garden,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+13,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+14,bathroom,"hallway, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom,",Where is the apple? 
+15,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+16,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+17,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+18,kitchen,"kitchen kitchen, bathroom bathroom, bedroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom",Where is the apple? 
+19,kitchen,"hallway, bathroom, bathroom, bedroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+20,bedroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is the apple? 
+21,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+22,bathroom,"kitchen kitchen, bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom bathroom",Where is the football? 
+23,bathroom,"kitchen kitchen, bathroom bathroom, bathroom bedroom, kitchen kitchen, bathroom bathroom bedroom, kitchen kitchen, bathroom",Where is the football? 
+24,bedroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+25,kitchen,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+26,kitchen,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+27,bathroom,"no office, no garden, no kitchen, no bedroom, no kitchen, no bedroom, no kitchen",Where is the apple? 
+28,bathroom,"hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, kitchen,",Where is the apple? 
+29,kitchen,"football,football,n,n,n,n,n,n,n,n,",Where is the milk? 
+30,garden,"garden, kitchen,w,w,w,w,w,w,w,w,",Where is the apple? 
+31,garden,"hallway hallway, bathroom bathroom, garden, kitchen garden, bathroom bathroom garden, hallway bathroom bathroom garden,",Where is the apple? 
+32,kitchen,"kitchen kitchen, hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway",Where is the football? 
+33,kitchen,"hallway,s,e,e,e,e,e,e,e,e,",Where is the apple? 
+34,kitchen,"kitchen, bathroom, bedroom, bathroom, bedroom, bathroom, kitchen, bathroom, bedroom, bathroom,",Where is the apple? 
+35,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+36,kitchen,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+37,kitchen,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom",Where is the football? 
+38,kitchen,"kitchen kitchen, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom",Where is the football? 
+39,bedroom,"football,football,football,n,n,n,n,n,n,n,",Where is the milk? 
+40,bedroom,"football,football,n,n,n,n,n,n,n,n,",Where is the milk? 
+41,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+42,office,"s,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+43,office,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+44,kitchen,"no garden, kitchen, bedroom, kitchen, bathroom, bedroom, kitchen, bathroom, bedroom, kitchen",Where is the apple? 
+45,bedroom,"football,football,football,n,n,n,n,n,n,n,",Where is the milk? 
+46,office,"office, catacombs, catacombs, office, cat, cat, office,",Where is the football? 
+47,bathroom,"no kitchen kitchen, no bedroom, no kitchen, no bedroom, no kitchen, no bedroom, no",Where is the football? 
+48,bathroom,"s,s,e,e,e,e,e,e,e,e,",Where is the football? 
+49,bedroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+50,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+51,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is the apple? 
+52,kitchen,"office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office,",Where is the football? 
+53,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+54,kitchen,"school, office, office, kitchen, bathroom, bedroom, office, kitchen, bedroom, office,",Where is the football? 
+55,bathroom,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",Where is the apple? 
+56,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+57,kitchen,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+58,kitchen,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+59,bedroom,"no, no, no, no, no, no, no, no, no, no,",Where is the apple? 
+60,garden,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+61,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+62,kitchen,"kitchen kitchen, bedroom, park, park, kitchen kitchen, park, bedroom, kitchen kitchen, park",Where is the football? 
+63,kitchen,"kitchen kitchen, bathroom bathroom, hallway bathroom, hallway bathroom bathroom, hallway bathroom bathroom bathroom bathroom bathroom hallway",Where is the football? 
+64,kitchen,"office, kitchen, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is the football? 
+65,kitchen,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+66,kitchen,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+67,bedroom,"football,football,n,n,n,n,n,n,n,n,",Where is the milk? 
+68,bedroom,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+69,bedroom,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+70,garden,"hallway,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+71,garden,"bedroom,n,n,n,n,n,n,n,n,n,",Where is the apple? 
+72,bathroom,"kitchen,football,football,football,n,n,n,n,n,n,",Where is the apple? 
+73,bathroom,"garden, kitchen garden, kitchen garden, bathroom garden, bathroom garden, bathroom garden, garden, bathroom",Where is the apple? 
+74,bathroom,"kitchen kitchen, hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway",Where is the apple? 
+75,office,"kitchen,football,football,football,football,football,football,football,football,football,",Where is the apple? 
+76,hallway,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+77,hallway,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+78,hallway,"s,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+79,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+80,bathroom,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+81,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+82,kitchen,"kitchen kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen",Where is the football? 
+83,kitchen,"s,e,e,e,e,e,e,e,e,",Where is the football? 
+84,kitchen,"no office,n,n,n,n,n,n,n,n,n",Where is the football? 
+85,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+86,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is the apple? 
+87,bathroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+88,bedroom,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+89,kitchen,"bedroom,n,n,n,n,n,n,n,n,n,",Where is the apple? 
+90,kitchen,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+91,kitchen,"football,football, kitchen garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden",Where is the milk? 
+92,kitchen,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+93,kitchen,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+94,kitchen,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+95,bathroom,"kitchen, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway,",Where is the football? 
+96,bathroom,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the football? 
+97,bathroom,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the football? 
+98,bathroom,"no hallway, no garden, no kitchen, no bathroom, no garden, no bathroom, no hallway",Where is the football? 
+99,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+100,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+101,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+102,kitchen,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+103,kitchen,"football,football,football,n,n,n,n,n,n,n,",Where is the milk? 
+104,bedroom,"no bedroom, park, park, cinema, cinema, cinema, cinema, park, cinema, cinema",Where is the football? 
+105,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+106,bedroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+107,bathroom,"kitchen bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom",Where is the apple? 
+108,bedroom,"football,football, kitchen kitchen, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, hallway bathroom bathroom",Where is the milk? 
+109,bathroom,"garden, kitchen,s,e,e,e,e,e,e,e,",Where is the apple? 
+110,bedroom,"no office, no kitchen, no bedroom, no office, no kitchen, no bedroom, no office",Where is the football? 
+111,bedroom,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+112,bedroom,"office,n,n,n,n,n,n,n,n,n,",Where is the football? 
+113,bedroom,"no hallway, bathroom, garden, kitchen garden, bathroom bathroom, garden, bathroom bathroom garden, bathroom",Where is the football? 
+114,office,"hallway garden, kitchen garden, kitchen garden, bathroom garden, bathroom garden, hallway garden, bathroom garden",Where is the apple? 
+115,office,"kitchen kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom",Where is the football? 
+116,hallway,"kitchen kitchen kitchen garden, bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is the football? 
+117,office,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+118,bedroom,"football,football,w,w,w,w,w,w,w,w,",Where is the milk? 
+119,bathroom,"hallway, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom,",Where is the apple? 
+120,hallway,"kitchen kitchen, hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom bathroom bathroom bathroom bathroom hallway",Where is the apple? 
+121,bedroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+122,garden,"kitchen,football,football,football,football,football,football,football,football,football,",Where is the apple? 
+123,garden,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+124,garden,"no kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+125,kitchen,"no office, no kitchen, no bedroom, no office, no kitchen, no bedroom, no office",Where is the football? 
+126,kitchen,"office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway bathroom, bathroom",Where is the football? 
+127,kitchen,"no office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office",Where is the football? 
+128,bedroom,"kitchen kitchen, bedroom,n,n,n,n,n,n,n,n",Where is the football? 
+129,bedroom,"kitchen kitchen, bathroom, bedroom, bathroom, bedroom, bathroom, bathroom, bedroom, bathroom, bathroom",Where is the football? 
+130,kitchen,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+131,kitchen,"kitchen garden, kitchen garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden",Where is the football? 
+132,kitchen,"football,football,n,n,n,n,n,n,n,n,",Where is the milk? 
+133,hallway,"kitchen kitchen kitchen, bedroom, bathroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom",Where is the football? 
+134,hallway,"kitchen kitchen, bathroom bathroom, hallway bathroom, hallway bathroom bathroom, hallway bathroom bathroom bathroom, hallway bathroom",Where is the football? 
+135,office,"kitchen kitchen, bedroom, office, kitchen kitchen, bedroom, office, kitchen kitchen, bedroom, office",Where is the football? 
+136,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+137,office,"kitchen kitchen, park, bedroom, park, bedroom, kitchen, park, bedroom, kitchen, park",Where is the football? 
+138,kitchen,"kitchen kitchen, hallway hallway, bathroom bathroom, hallway bathroom bathroom, hallway bathroom bathroom bathroom bathroom hallway bathroom",Where is the football? 
+139,bathroom,"no garden, kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway",Where is the football? 
+140,bedroom,"kitchen kitchen kitchen, bathroom bathroom, bedroom, kitchen kitchen kitchen, bathroom bathroom bedroom, kitchen kitchen kitchen",Where is the football? 
+141,bedroom,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the football? 
+142,bedroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is the football? 
+143,bedroom,"office,n,n,n,n,n,n,n,n,n,",Where is the football? 
+144,garden,"office,n,n,n,n,n,n,n,n,n,",Where is the football? 
+145,kitchen,hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+146,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+147,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+148,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is the apple? 
+149,kitchen,"kitchen kitchen, bathroom bathroom, bedroom, hallway bathroom, hallway bathroom bathroom, bathroom bathroom bathroom bedroom,",Where is the apple? 
+150,bedroom,"kitchen kitchen, bedroom, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom",Where is the apple? 
+151,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+152,bedroom,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the apple? 
+153,kitchen,"kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom,",Where is the football? 
+154,kitchen,"kitchen kitchen, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom, bathroom",Where is the football? 
+155,hallway,"hallway, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where is the football? 
+156,hallway,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom",Where is the football? 
+157,bedroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+158,bedroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+159,hallway,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+160,garden,"hallway hallway, bathroom bathroom, garden, kitchen garden, bathroom bathroom garden, bathroom bathroom garden, bathroom",Where is the apple? 
+161,garden,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the apple? 
+162,garden,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",Where is the apple? 
+163,garden,"bedroom,n,n,n,n,n,n,n,n,n,",Where is the apple? 
+164,bedroom,"kitchen kitchen,s,s,s,s,s,s,s,s,s",Where is the football? 
+165,garden,"kitchen kitchen, bedroom, hallway, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom",Where is the football? 
+166,garden,"no, kitchen kitchen, bathroom, bedroom, hallway, bathroom, hallway bathroom, bathroom bathroom, hallway",Where is the football? 
+167,hallway,"green, green, green, green, green, green, green, green, green, green,",Where is the apple? 
+168,hallway,"kitchen kitchen, bathroom, bedroom, bathroom, bedroom, bathroom, kitchen, bathroom, bedroom, kitchen",Where is the apple? 
+169,office,"kitchen, bathroom, bathroom, office, bathroom, office, bathroom, office, bathroom, office,",Where is the football? 
+170,bedroom,"hallway garden, kitchen garden, kitchen garden, hallway garden, kitchen garden, garden, kitchen garden,",Where is the apple? 
+171,bathroom,"hallway, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden,",Where is the apple? 
+172,hallway,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+173,hallway,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+174,bathroom,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway bathroom bathroom",Where is the apple? 
+175,kitchen,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+176,hallway,"kitchen kitchen, bedroom, park, park, kitchen kitchen, park, bedroom, kitchen kitchen, park",Where is the apple? 
+177,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+178,office,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+179,office,"n,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+180,garden,"n,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+181,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+182,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+183,kitchen,"garden,n,n,n,n,n,n,n,n,n,",Where is the apple? 
+184,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+185,office,"bedroom,n,n,n,n,n,n,n,n,n,",Where is the apple? 
+186,office,"garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden",Where is the apple? 
+187,kitchen,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+188,office,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+189,kitchen,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+190,garden,"hallway, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden,",Where is the apple? 
+191,garden,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+192,garden,"kitchen kitchen, bedroom, hallway, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom",Where is the apple? 
+193,bedroom,"football,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+194,bedroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+195,bathroom,"hallway, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden,",Where is the apple? 
+196,bathroom,"hallway,n,n,n,n,n,n,n,n,n,",Where is the apple? 
+197,garden,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+198,kitchen,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+199,kitchen,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+200,office,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+201,office,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+202,hallway,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+203,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+204,garden,"s,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+205,office,"s,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+206,office,"football,football,football,n,n,n,n,n,n,n,",Where is the milk? 
+207,garden,"bedroom,n,n,n,n,n,n,n,n,n,",Where is the apple? 
+208,bathroom,"n,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+209,bathroom,"s,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+210,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+211,kitchen,"kitchen,s,s,s,s,s,s,s,s,s,",Where is the football? 
+212,kitchen,"kitchen kitchen, bedroom,w,n,w,n,w,n,w,n",Where is the football? 
+213,kitchen,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+214,garden,"park, kitchen, park, kitchen, bedroom, park, kitchen, bedroom, park, kitchen,",Where is the football? 
+215,office,"no garden, kitchen,n,n,n,n,n,n,n,n",Where is the apple? 
+216,office,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is the apple? 
+217,office,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+218,bathroom,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+219,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+220,office,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",Where is the apple? 
+221,office,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",Where is the apple? 
+222,office,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is the apple? 
+223,bedroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+224,bedroom,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is the apple? 
+225,bedroom,"hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom,",Where is the apple? 
+226,kitchen,"hallway, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden,",Where is the apple? 
+227,garden,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+228,bathroom,"n,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+229,garden,"kitchen kitchen,football,football,football,football,football,football,football,football,football",Where is the football? 
+230,bathroom,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+231,bathroom,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is the football? 
+232,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+233,garden,"hallway, office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office,",Where is the apple? 
+234,bathroom,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the football? 
+235,bedroom,"green,football,football,football,football,football,football,football,football,football,",Where is the apple? 
+236,bedroom,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is the apple? 
+237,kitchen,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the football? 
+238,office,"no, no, no, no, no, no, no, no, no, no,",Where is the apple? 
+239,garden,"football,football,w,w,w,w,w,w,w,w,",Where is the milk? 
+240,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the apple? 
+241,hallway,"kitchen kitchen, bedroom, park, park, kitchen, park, bedroom, kitchen, park, kitchen",Where is the apple? 
+242,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+243,bathroom,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is the apple? 
+244,bathroom,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+245,hallway,"football,football, office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom,",Where is the milk? 
+246,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+247,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+248,garden,"no office, kitchen, park, cinema, park, cinema, office, cinema, office, cinema",Where is the football? 
+249,garden,"kitchen kitchen, bedroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom",Where is the football? 
+250,bathroom,hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+251,hallway,"hallway,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+252,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the apple? 
+253,hallway,"kitchen,football,football,football,football,football,football,football,football,football,",Where is the apple? 
+254,hallway,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+255,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+256,kitchen,"hallway, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where is the apple? 
+257,hallway,"no hallway, no garden, no kitchen, no bedroom, no garden, no kitchen, no bedroom",Where is the apple? 
+258,hallway,"kitchen kitchen, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway bathroom, bathroom,",Where is the apple? 
+259,hallway,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom, bedroom, bathroom bathroom, hallway",Where is the apple? 
+260,garden,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+261,garden,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+262,garden,"hallway, bathroom, bedroom, office, bathroom, hallway, bathroom, bedroom, office, bathroom,",Where is the football? 
+263,bathroom,"kitchen kitchen, bedroom,n,n,n,n,n,n,n,n",Where is the apple? 
+264,hallway,"hallway hallway, bathroom bathroom, garden, kitchen garden, bathroom bathroom garden, hallway bathroom bathroom garden,",Where is the apple? 
+265,garden,"hallway, bathroom, bedroom,w,w,w,w,w,w,w,",Where is the apple? 
+266,garden,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is the apple? 
+267,bathroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is the apple? 
+268,bathroom,"hallway, bathroom, office, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is the apple? 
+269,garden,"garden, kitchen, bathroom, bedroom, kitchen, bathroom, bedroom, bathroom, garden, kitchen,",Where is the apple? 
+270,kitchen,"no, kitchen,w,w,w,w,w,w,w,w,",Where is the football? 
+271,office,"hallway hallway, office, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom",Where is the apple? 
+272,office,"kitchen kitchen,n,n,n,n,n,n,n,n,n",Where is the apple? 
+273,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+274,office,"school, office, office, office, school, office, office, school, office, office,",Where is the apple? 
+275,hallway,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+276,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+277,hallway,"s,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+278,kitchen,"school, office, office, kitchen, office, kitchen, bedroom, office, kitchen, bedroom,",Where is the apple? 
+279,kitchen,"kitchen,football,football,football,football,football,football,football,football,football,",Where is the apple? 
+280,bathroom,"no kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+281,bathroom,"office,n,n,n,n,n,n,n,n,n,",Where is the football? 
+282,office,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+283,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+284,office,"s,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+285,bedroom,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the football? 
+286,bedroom,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+287,bedroom,"w,w,w,w,w,w,w,w,w,w,",Where is the football? 
+288,bedroom,"kitchen kitchen, park, bedroom, park, bedroom, kitchen kitchen, park, bedroom, kitchen kitchen",Where is the football? 
+289,bedroom,hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom,Where is the football? 
+290,office,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+291,office,"garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden",Where is the apple? 
+292,office,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the apple? 
+293,office,"kitchen kitchen, bathroom bathroom bathroom, bedroom, kitchen kitchen, bathroom bathroom bedroom, bathroom bathroom bedroom,",Where is the apple? 
+294,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+295,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+296,hallway,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the football? 
+297,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+298,bathroom,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is the apple? 
+299,bathroom,"hallway hallway, bathroom bathroom, garden, bathroom bathroom, garden, bathroom bathroom garden, bathroom bathroom garden",Where is the apple? 
+300,bedroom,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+301,bedroom,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+302,office,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",Where is the football? 
+303,bedroom,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+304,bedroom,"hallway, bathroom, bedroom, office, bathroom, hallway, bathroom, bedroom, office, bathroom,",Where is the football? 
+305,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+306,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+307,bathroom,"s,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+308,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+309,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+310,kitchen,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+311,kitchen,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+312,kitchen,"football,football,n,n,n,n,n,n,n,n,",Where is the milk? 
+313,kitchen,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+314,kitchen,"w,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+315,bathroom,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+316,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+317,bathroom,"kitchen, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom,",Where is the football? 
+318,office,"football,football,s,e,e,e,e,e,e,e,",Where is the milk? 
+319,kitchen,"kitchen kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where is the football? 
+320,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+321,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+322,bathroom,"kitchen kitchen, bedroom, hallway, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom",Where is the football? 
+323,bathroom,"kitchen kitchen, hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom",Where is the football? 
+324,bathroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 
+325,bathroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",Where is the apple? 
+326,bathroom,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the apple? 
+327,garden,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+328,garden,"bedroom,n,n,n,n,n,n,n,n,n,",Where is the football? 
+329,garden,"hallway, bathroom, garden, office, kitchen, bathroom, garden, office, kitchen, bathroom,",Where is the football? 
+330,garden,"office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office,",Where is the football? 
+331,bathroom,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is the apple? 
+332,bathroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+333,hallway,"no hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom",Where is the football? 
+334,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+335,hallway,"kitchen kitchen hallway, bathroom bathroom, bedroom, kitchen hallway, bathroom bathroom, hallway bathroom bathroom, bathroom",Where is the football? 
+336,hallway,"kitchen kitchen, bedroom, office, kitchen, office, kitchen, bedroom, office, kitchen, bedroom",Where is the football? 
+337,hallway,"kitchen kitchen, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom, bathroom",Where is the football? 
+338,hallway,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the football? 
+339,bedroom,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+340,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+341,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+342,hallway,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is the football? 
+343,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is the football? 
+344,hallway,"s,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+345,garden,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+346,garden,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",Where is the football? 
+347,garden,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+348,garden,"kitchen kitchen, hallway bathroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom",Where is the apple? 
+349,garden,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+350,bedroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+351,office,"football,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+352,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+353,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+354,kitchen,"no kitchen, no bedroom, no hallway, no bathroom, no garden, no kitchen, no garden",Where is the football? 
+355,hallway,"office,n,n,n,n,n,n,n,n,n,",Where is the football? 
+356,hallway,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+357,office,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+358,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+359,hallway,"s,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+360,bedroom,"kitchen kitchen, bedroom, hallway, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom",Where is the football? 
+361,bedroom,"kitchen kitchen, hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom",Where is the football? 
+362,bedroom,"kitchen kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom",Where is the apple? 
+363,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+364,bedroom,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+365,kitchen,"no, no, no, no, no, no, no, no, no, no,",Where is the apple? 
+366,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+367,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+368,bedroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is the apple? 
+369,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+370,kitchen,"kitchen kitchen, bathroom bathroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom",Where is the football? 
+371,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is the apple? 
+372,kitchen,"hallway hallway, bathroom bathroom, garden, kitchen garden, bathroom bathroom garden, hallway bathroom bathroom garden,",Where is the apple? 
+373,kitchen,"hallway hallway, bathroom bathroom, office, bathroom bathroom, hallway bathroom bathroom, office bathroom bathroom, hallway",Where is the apple? 
+374,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+375,kitchen,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+376,kitchen,"football,football,w,w,w,w,w,w,w,w,",Where is the milk? 
+377,kitchen,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+378,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is the apple? 
+379,office,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+380,bathroom,"no office,n,n,n,n,n,n,n,n,n",Where is the football? 
+381,bathroom,"kitchen kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom",Where is the football? 
+382,bathroom,"kitchen kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom",Where is the football? 
+383,bedroom,"football,football,n,n,n,n,n,n,n,n,",Where is the milk? 
+384,bedroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+385,bathroom,"s,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+386,bathroom,"no kitchen, no bedroom, no hallway, no bathroom, no garden, no kitchen, no bedroom",Where is the football? 
+387,bathroom,"school, office, office, office, office, school, office, office, office, school,",Where is the football? 
+388,hallway,"no, no, no, no, no, no, no, no, no, no,",Where is the apple? 
+389,hallway,"hallway bathroom bathroom, hallway bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom",Where is the apple? 
+390,hallway,"s,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+391,garden,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+392,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+393,garden,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+394,kitchen,"kitchen kitchen, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway",Where is the football? 
+395,bedroom,"hallway hallway, bathroom bathroom, bedroom, office, bathroom bathroom, hallway bathroom bathroom, office bathroom bathroom",Where is the apple? 
+396,bedroom,"hallway,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+397,bedroom,"garden,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+398,garden,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+399,garden,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+400,bathroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+401,bathroom,"football,football,n,n,n,n,n,n,n,n,",Where is the milk? 
+402,garden,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+403,garden,"kitchen kitchen, park, park, cinema, cinema, cinema, cinema, cinema, cinema, cinema",Where is the football? 
+404,garden,"n,n,n,n,n,n,n,n,n,n",Where is the football? 
+405,hallway,"kitchen kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom",Where is the football? 
+406,bathroom,"hallway hallway, bathroom bathroom, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom",Where is the football? 
+407,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+408,bathroom,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the football? 
+409,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+410,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+411,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+412,bedroom,"hallway,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+413,bedroom,"hallway, bathroom, bedroom, kitchen, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",Where is the apple? 
+414,bedroom,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",Where is the apple? 
+415,bedroom,"no, kitchen,s,e,e,e,e,e,e,e,",Where is the football? 
+416,bedroom,"kitchen kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom",Where is the football? 
+417,hallway,"hallway, bathroom, office, garden, kitchen, bathroom, garden, kitchen, bathroom, garden,",Where is the apple? 
+418,hallway,"bedroom,w,n,n,n,n,n,n,n,n,",Where is the apple? 
+419,office,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+420,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+421,kitchen,"hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom,",Where is the apple? 
+422,kitchen,"no hallway, no garden, no kitchen, no bedroom, no hallway, no garden, no kitchen",Where is the apple? 
+423,kitchen,"hallway garden, kitchen garden, bathroom garden, bathroom garden, garden, bathroom garden, garden, bathroom",Where is the apple? 
+424,kitchen,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+425,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+426,bathroom,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+427,kitchen,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+428,kitchen,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+429,kitchen,"n,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+430,bedroom,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom",Where is the football? 
+431,bedroom,"no office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office",Where is the football? 
+432,office,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is the apple? 
+433,hallway,"garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden",Where is the apple? 
+434,bedroom,"kitchen kitchen, bedroom, office, bathroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom",Where is the apple? 
+435,kitchen,"kitchen,football,football,football,football,football,football,football,football,football,",Where is the apple? 
+436,kitchen,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the football? 
+437,kitchen,"w,w,w,w,w,w,w,w,w,w",Where is the football? 
+438,hallway,"n,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+439,hallway,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+440,bathroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+441,hallway,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+442,hallway,"football,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+443,garden,"garden, kitchen,w,w,w,w,w,w,w,w,",Where is the apple? 
+444,garden,"garden, kitchen, kitchen, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where is the apple? 
+445,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+446,hallway,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+447,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+448,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+449,kitchen,"kitchen kitchen, hallway bathroom, hallway bathroom, office, bathroom bathroom, hallway bathroom bathroom, office bathroom",Where is the apple? 
+450,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+451,hallway,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+452,hallway,"office,n,n,n,n,n,n,n,n,n,",Where is the football? 
+453,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+454,garden,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+455,bedroom,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+456,bedroom,"football,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+457,hallway,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+458,office,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+459,office,"n,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+460,bathroom,"hallway, bathroom, bedroom, kitchen, bathroom, hallway, bathroom, bedroom, bathroom, hallway,",Where is the apple? 
+461,bathroom,"hallway, bathroom, office, kitchen, bathroom, office, kitchen, bathroom, office, kitchen,",Where is the apple? 
+462,bathroom,"no, kitchen,w,w,w,w,w,w,w,w,",Where is the football? 
+463,bedroom,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the football? 
+464,hallway,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+465,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+466,garden,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+467,hallway,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+468,hallway,"office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office,",Where is the football? 
+469,hallway,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+470,garden,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+471,garden,"office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",Where is the football? 
+472,garden,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+473,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+474,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+475,hallway,"kitchen kitchen, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway",Where is the football? 
+476,hallway,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+477,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is the football? 
+478,hallway,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+479,kitchen,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+480,office,"kitchen kitchen, hallway bathroom, hallway bathroom, hallway bathroom bathroom, hallway bathroom bathroom bathroom bathroom bathroom hallway",Where is the football? 
+481,office,"kitchen kitchen, bedroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom",Where is the football? 
+482,kitchen,"kitchen kitchen, bathroom bathroom, bathroom bedroom, bathroom bedroom, bathroom bedroom, bathroom bedroom, bathroom bedroom",Where is the football? 
+483,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the apple? 
+484,kitchen,"hallway, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom,",Where is the apple? 
+485,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+486,bathroom,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+487,bathroom,"football,football,football,n,n,n,n,n,n,n,",Where is the milk? 
+488,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+489,bathroom,"no office, no kitchen, no bedroom, no office, no kitchen, no bedroom, no office",Where is the football? 
+490,bathroom,"hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, kitchen,",Where is the apple? 
+491,bathroom,"kitchen kitchen,n,n,n,n,n,n,n,n,n",Where is the apple? 
+492,office,"hallway, office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office,",Where is the apple? 
+493,bedroom,"garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden",Where is the apple? 
+494,bedroom,"kitchen kitchen,n,n,n,n,n,n,n,n,n",Where is the apple? 
+495,office,"no office, kitchen, bathroom, bedroom, hallway, office, bathroom, hallway, bathroom, bedroom",Where is the football? 
+496,hallway,"hallway,s,e,e,e,e,e,e,e,e,",Where is the apple? 
+497,bedroom,"office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, office, bathroom, hallway,",Where is the football? 
+498,hallway,"football,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+499,hallway,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+500,office,"kitchen kitchen, bathroom bathroom, bedroom, kitchen kitchen, bathroom bathroom bedroom, kitchen kitchen, bathroom bathroom",Where is the apple? 
+501,office,"hallway bathroom bathroom, hallway bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom",Where is the apple? 
+502,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+503,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+504,bedroom,"football,football,n,n,n,n,n,n,n,n,",Where is the milk? 
+505,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+506,bedroom,"hallway,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+507,kitchen,"no hallway, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden",Where is the football? 
+508,kitchen,"kitchen kitchen, bedroom, park, park, kitchen kitchen, park, bedroom, kitchen kitchen, park",Where is the milk? 
+509,kitchen,"football,n,e,e,e,e,e,e,e,e,",Where is the milk? 
+510,office,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+511,office,"no office, no kitchen, no garden, no kitchen, no garden, no office, no kitchen",Where is the football? 
+512,office,"hallway, bathroom, bedroom, office, bathroom, hallway, bathroom, bedroom, office, bathroom,",Where is the football? 
+513,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+514,office,"kitchen kitchen, bedroom, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom",Where is the football? 
+515,office,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the apple? 
+516,office,"hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom,",Where is the apple? 
+517,office,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+518,hallway,"hallway, bathroom, bedroom, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom,",Where is the apple? 
+519,bathroom,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+520,office,"bedroom,w,n,n,n,n,n,n,n,n,",Where is the apple? 
+521,office,"white,n,n,n,n,n,n,n,n,n,",Where is the apple? 
+522,office,"bedroom,n,n,n,n,n,n,n,n,n,",Where is the apple? 
+523,hallway,"hallway hallway, bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is the football? 
+524,garden,"hallway garden, bathroom bathroom, hallway garden, bathroom bathroom bathroom garden, bathroom bathroom garden, bathroom bathroom",Where is the football? 
+525,hallway,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+526,hallway,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+527,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+528,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is the apple? 
+529,office,"hallway, bathroom, bedroom, office, garden, kitchen, bathroom, garden, office, garden,",Where is the apple? 
+530,bedroom,"hallway hallway, bathroom bathroom, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom",Where is the football? 
+531,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+532,hallway,"hallway, bathroom, bathroom, office, garden, office, garden, bathroom, garden, office,",Where is the football? 
+533,hallway,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+534,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+535,kitchen,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the apple? 
+536,kitchen,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",Where is the apple? 
+537,kitchen,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+538,kitchen,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+539,garden,"office,n,n,n,n,n,n,n,n,n,",Where is the football? 
+540,office,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+541,office,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is the football? 
+542,garden,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+543,bathroom,hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+544,bedroom,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+545,office,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+546,bathroom,"s,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+547,bathroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+548,bathroom,"football,football,n,n,n,n,n,n,n,n,",Where is the milk? 
+549,hallway,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+550,bathroom,"no kitchen, no bedroom, no kitchen, no bedroom, no kitchen, no bedroom, no kitchen",Where is the apple? 
+551,bathroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is the football? 
+552,hallway,"bedroom,w,n,n,n,n,n,n,n,n,",Where is the apple? 
+553,hallway,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+554,bathroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+555,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+556,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+557,office,"football,football,n,n,n,n,n,n,n,n,",Where is the milk? 
+558,bathroom,"football,football,n,n,n,n,n,n,n,n,",Where is the milk? 
+559,office,"bedroom,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+560,bedroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+561,bathroom,"garden, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the apple? 
+562,bathroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+563,bathroom,"hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom,",Where is the apple? 
+564,garden,"kitchen kitchen, bathroom bathroom, bedroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom",Where is the football? 
+565,office,"no bedroom,n,n,n,n,n,n,n,n,n",Where is the football? 
+566,bedroom,"s,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+567,hallway,"hallway garden, kitchen garden, bathroom bathroom, hallway garden, bathroom bathroom garden, bathroom bathroom garden,",Where is the apple? 
+568,office,"kitchen kitchen, office, kitchen kitchen, office, kitchen kitchen, bathroom, bathroom, office, kitchen",Where is the apple? 
+569,bedroom,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+570,bedroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+571,bedroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+572,bathroom,hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+573,office,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+574,office,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+575,bathroom,"football,football, kitchen kitchen, bathroom bathroom, bedroom, kitchen kitchen, bathroom bathroom bedroom, kitchen",Where is the milk? 
+576,bedroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+577,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+578,bathroom,"football, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen,",Where is the milk? 
+579,bathroom,"football,football,w,w,w,w,w,w,w,w,",Where is the milk? 
+580,hallway,"kitchen kitchen, hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway",Where is the football? 
+581,office,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+582,office,"hallway, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom,",Where is the football? 
+583,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+584,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+585,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+586,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+587,garden,"football,football,n,n,n,n,n,n,n,n,",Where is the milk? 
+588,garden,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+589,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+590,bedroom,"hallway, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom,",Where is the apple? 
+591,kitchen,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+592,bedroom,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+593,bedroom,"no, no, no, no, no, no, no, no, no, no,",Where is the apple? 
+594,bedroom,"hallway hallway, office, bathroom, bathroom, hallway bathroom, office, bathroom, hallway bathroom, bathroom",Where is the apple? 
+595,hallway,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+596,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+597,hallway,"football,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+598,kitchen,"kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom,",Where is the football? 
+599,garden,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom bathroom",Where is the apple? 
+600,kitchen,"kitchen kitchen, bedroom, park, park, kitchen kitchen, park, kitchen kitchen, bedroom, park",Where is the apple? 
+601,kitchen,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+602,hallway,"bedroom,football,football,football,football,football,football,football,football,football,",Where is the football? 
+603,garden,"hallway, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden,",Where is the apple? 
+604,hallway,"hallway,s,e,e,e,e,e,e,e,e,",Where is the football? 
+605,bedroom,"no hallway, bathroom, bathroom, bedroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom",Where is the football? 
+606,bedroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+607,bedroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+608,bathroom,"football,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+609,hallway,"hallway,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+610,garden,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+611,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+612,garden,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the apple? 
+613,garden,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the apple? 
+614,garden,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is the apple? 
+615,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+616,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the apple? 
+617,hallway,"kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden, garden",Where is the apple? 
+618,garden,"kitchen,football,football,football,football,football,football,football,football,football,",Where is the football? 
+619,kitchen,"football,football, kitchen kitchen kitchen, bathroom bathroom, bathroom bedroom, kitchen kitchen kitchen, bathroom bathroom",Where is the milk? 
+620,bedroom,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+621,bedroom,"no, kitchen,s,e,e,e,e,e,e,e,",Where is the football? 
+622,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",Where is the football? 
+623,bathroom,"garden, kitchen, bathroom, bedroom, bathroom, garden, kitchen, bathroom, bedroom, garden,",Where is the apple? 
+624,garden,"hallway garden, office, kitchen garden, bathroom bathroom, hallway garden, bathroom bathroom bathroom garden, bathroom",Where is the apple? 
+625,kitchen,"kitchen kitchen hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom,",Where is the football? 
+626,kitchen,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+627,kitchen,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+628,bathroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+629,bathroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+630,bathroom,"hallway, bathroom, office, bathroom, bedroom, office, bathroom, bedroom, office, bathroom,",Where is the football? 
+631,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+632,kitchen,"hallway office, bathroom bathroom, hallway bathroom bathroom, hallway bathroom bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom",Where is the apple? 
+633,kitchen,"hallway hallway, bathroom bathroom, garden, office, kitchen garden, bathroom bathroom garden, office garden,",Where is the apple? 
+634,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+635,garden,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+636,garden,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+637,garden,"kitchen kitchen kitchen, bedroom, hallway hallway, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom,",Where is the milk? 
+638,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+639,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+640,office,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+641,office,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+642,bathroom,"s,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+643,bathroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+644,office,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+645,garden,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",Where is the football? 
+646,office,"s,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+647,office,"football,football,w,w,w,w,w,w,w,w,",Where is the milk? 
+648,garden,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom",Where is the football? 
+649,garden,"office,n,n,n,n,n,n,n,n,n,",Where is the football? 
+650,office,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+651,office,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+652,garden,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+653,garden,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+654,garden,"garden, kitchen kitchen, bedroom, kitchen kitchen, bedroom, garden, kitchen kitchen, bedroom, garden",Where is the football? 
+655,garden,"kitchen kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen kitchen,",Where is the football? 
+656,garden,"bedroom,w,n,n,n,n,n,n,n,n,",Where is the apple? 
+657,bathroom,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+658,garden,"no hallway, no garden, no kitchen, no bedroom, no garden, no kitchen, no bedroom",Where is the apple? 
+659,garden,"no hallway, no garden, no kitchen, no bathroom, no garden, no bathroom, no garden",Where is the apple? 
+660,office,"no office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom",Where is the football? 
+661,office,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+662,hallway,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom",Where is the apple? 
+663,hallway,"kitchen kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, kitchen, bedroom",Where is the apple? 
+664,hallway,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is the apple? 
+665,kitchen,"kitchen,football,football,football,football,football,football,football,football,football,",Where is the apple? 
+666,garden,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+667,garden,"football,football,w,w,w,w,w,w,w,w,",Where is the milk? 
+668,hallway,"office, kitchen, bedroom,w,w,w,w,w,w,w,",Where is the apple? 
+669,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is the apple? 
+670,bathroom,"no bedroom, no kitchen, no hallway, no bathroom, no bedroom, no hallway, no bathroom",Where is the football? 
+671,bathroom,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+672,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+673,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+674,bathroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+675,garden,"no office, kitchen, park, bedroom,n,n,n,n,n,n",Where is the football? 
+676,garden,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+677,garden,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+678,bathroom,"s,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+679,bathroom,"football,football, kitchen kitchen, bedroom,football, kitchen kitchen, bedroom, kitchen kitchen, bedroom",Where is the milk? 
+680,bedroom,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+681,bedroom,"no, kitchen,n,n,n,n,n,n,n,n,",Where is the football? 
+682,bedroom,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+683,bathroom,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+684,office,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+685,kitchen,"hallway, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden,",Where is the apple? 
+686,garden,"no kitchen kitchen, bedroom,n,n,n,n,n,n,n,",Where is the football? 
+687,garden,"kitchen kitchen, bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom",Where is the football? 
+688,bathroom,"no kitchen, no bedroom, no hallway, no bathroom, no garden, no kitchen, no bathroom",Where is the football? 
+689,bathroom,"kitchen kitchen, bedroom, office, office, kitchen kitchen, bedroom, office, kitchen kitchen, bedroom",Where is the football? 
+690,bedroom,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+691,bedroom,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is the apple? 
+692,bedroom,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is the apple? 
+693,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+694,office,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+695,bathroom,"hallway, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom,",Where is the apple? 
+696,bathroom,"hallway, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden,",Where is the apple? 
+697,kitchen,"kitchen kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom",Where is the football? 
+698,kitchen,"hallway, bathroom, office, garden, kitchen, bathroom, garden, office, garden, kitchen,",Where is the football? 
+699,garden,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+700,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+701,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+702,bathroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+703,bathroom,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+704,office,"hallway, office, bathroom, garden, kitchen, bathroom, garden, office, bathroom, garden,",Where is the apple? 
+705,bedroom,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+706,bedroom,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+707,bedroom,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+708,bedroom,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+709,bedroom,"s,s,w,w,w,w,w,w,w,w,",Where is the football? 
+710,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+711,garden,"hallway, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where is the apple? 
+712,garden,"kitchen kitchen,football,football,football,football,football,football,football,football,football",Where is the apple? 
+713,garden,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is the apple? 
+714,garden,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+715,office,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+716,office,"football,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+717,kitchen,"office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, office, bathroom, hallway,",Where is the football? 
+718,kitchen,"no office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen",Where is the football? 
+719,office,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+720,garden,"hallway,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+721,garden,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom",Where is the apple? 
+722,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",Where is the football? 
+723,hallway,"office, kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway,",Where is the football? 
+724,office,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+725,office,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+726,office,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the football? 
+727,kitchen,"kitchen,s,s,s,s,s,s,s,s,s,",Where is the football? 
+728,kitchen,"kitchen kitchen, bathroom bathroom, hallway bathroom, hallway bathroom bathroom, hallway bathroom bathroom bathroom bathroom bathroom hallway",Where is the apple? 
+729,kitchen,"no kitchen kitchen, no bedroom, no hallway, no bathroom, no garden, no kitchen, no",Where is the football? 
+730,bedroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+731,bathroom,"hallway garden, kitchen garden, bathroom bathroom, hallway garden, bathroom bathroom bathroom garden, bathroom bathroom garden",Where is the apple? 
+732,bathroom,"no bedroom,w,n,w,n,w,n,w,n,w",Where is the football? 
+733,bathroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+734,bathroom,"no kitchen kitchen, no bedroom, no hallway, no bathroom, no garden, no kitchen, no",Where is the football? 
+735,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+736,bathroom,"bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is the football? 
+737,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+738,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+739,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+740,garden,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, bathroom bathroom",Where is the apple? 
+741,garden,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is the apple? 
+742,bedroom,"kitchen,football,football, kitchen,football,football,football,football,football,football,",Where is the football? 
+743,bathroom,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+744,bathroom,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+745,hallway,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+746,hallway,"s,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+747,hallway,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+748,kitchen,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+749,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+750,office,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the football? 
+751,hallway,"kitchen kitchen, bedroom, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom",Where is the football? 
+752,garden,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+753,garden,"hallway, bathroom, office, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is the football? 
+754,garden,"office, kitchen, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is the football? 
+755,kitchen,"hallway, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden,",Where is the apple? 
+756,kitchen,"no kitchen,w,w,w,w,w,w,w,w,w",Where is the apple? 
+757,bedroom,"kitchen kitchen,n,n,n,n,n,n,n,n,n",Where is the football? 
+758,bedroom,"hallway, office, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom,",Where is the football? 
+759,bedroom,"bedroom,football,football,football,football,football,football,football,football,football,",Where is the football? 
+760,kitchen,"bedroom,w,n,n,n,n,n,n,n,n,",Where is the apple? 
+761,office,"football,football,football,n,n,n,n,n,n,n,",Where is the milk? 
+762,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+763,kitchen,"hallway, bathroom, office, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is the apple? 
+764,bathroom,"garden, kitchen, kitchen, bedroom, park, kitchen, park, bedroom, kitchen, park,",Where is the apple? 
+765,kitchen,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+766,kitchen,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+767,bathroom,"kitchen kitchen,n,n,n,n,n,n,n,n,n",Where is the apple? 
+768,bathroom,"cat, kitchen, bedroom,w,w,w,w,w,w,w,",Where is the apple? 
+769,kitchen,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+770,garden,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the football? 
+771,garden,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom",Where is the football? 
+772,garden,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+773,garden,"bathroom bathroom, hallway, bathroom bathroom, hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is the football? 
+774,garden,"kitchen garden, kitchen garden, bathroom garden, bathroom garden, kitchen garden, bathroom garden, bathroom garden",Where is the football? 
+775,kitchen,"s,s,e,e,e,e,e,e,e,e,",Where is the football? 
+776,office,"hallway, bathroom, office, kitchen, bathroom, hallway, bathroom, office, kitchen, bathroom,",Where is the football? 
+777,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+778,office,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+779,office,"hallway, office, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden,",Where is the apple? 
+780,bathroom,"kitchen kitchen, hallway bathroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom",Where is the apple? 
+781,garden,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+782,bathroom,"garden, kitchen, park, office, kitchen, park, office, kitchen, park, kitchen,",Where is the apple? 
+783,garden,"kitchen kitchen, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden",Where is the football? 
+784,kitchen,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+785,office,"hallway, bathroom, office, bathroom, hallway, bathroom, office, bathroom, hallway, bathroom,",Where is the football? 
+786,office,"bedroom,s,s,s,s,s,s,s,s,s,",Where is the football? 
+787,hallway,"kitchen kitchen, park, bedroom, park, bedroom, park, kitchen, bedroom, park, kitchen",Where is the apple? 
+788,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+789,bathroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+790,bedroom,"kitchen kitchen, bathroom bathroom, hallway bathroom, hallway bathroom bathroom, hallway bathroom bathroom bathroom bathroom bathroom hallway",Where is the football? 
+791,bedroom,"office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, office, bathroom, hallway,",Where is the football? 
+792,bathroom,"bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is the apple? 
+793,bathroom,"kitchen kitchen, bedroom,n,n,n,n,n,n,n,n",Where is the apple? 
+794,office,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+795,hallway,"hallway,s,e,e,e,e,e,e,e,e,",Where is the apple? 
+796,office,"kitchen kitchen, hallway, bathroom, bedroom, office, hallway, bathroom, office, bathroom, bedroom",Where is the football? 
+797,hallway,"kitchen kitchen, bathroom bathroom, bedroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom",Where is the football? 
+798,hallway,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+799,hallway,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+800,office,"hallway,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+801,office,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is the apple? 
+802,kitchen,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is the apple? 
+803,kitchen,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+804,kitchen,"football,football,football, kitchen,football, kitchen,football,football, kitchen,football,",Where is the milk? 
+805,bedroom,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+806,garden,"no kitchen, no bedroom, no hallway, no bathroom, no garden, no kitchen, no bedroom",Where is the apple? 
+807,office,"hallway hallway, office, bathroom, garden, office, garden, bathroom, garden, bathroom, garden",Where is the apple? 
+808,office,"hallway, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom, office,",Where is the apple? 
+809,office,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+810,bathroom,"kitchen kitchen kitchen, bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom",Where is the football? 
+811,hallway,"no kitchen,n,n,n,n,n,n,n,n,n",Where is the football? 
+812,hallway,"kitchen kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, bathroom",Where is the football? 
+813,hallway,"office, kitchen kitchen, bedroom, office, kitchen kitchen, bedroom, office, kitchen kitchen, bedroom",Where is the football? 
+814,kitchen,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+815,garden,"hallway garden, bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is the apple? 
+816,garden,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway, bathroom bathroom",Where is the apple? 
+817,office,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+818,garden,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+819,garden,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+820,office,"no, kitchen,s,e,e,e,e,e,e,e,",Where is the football? 
+821,office,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+822,bedroom,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is the apple? 
+823,bedroom,"bedroom,w,n,n,n,n,n,n,n,n,",Where is the apple? 
+824,bedroom,"hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom,",Where is the apple? 
+825,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+826,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+827,kitchen,"hallway,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+828,kitchen,"kitchen kitchen,football,football,football,football,football,football,football,football,football",Where is the apple? 
+829,kitchen,"hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom,",Where is the apple? 
+830,hallway,"no, kitchen,s,e,e,e,e,e,e,e,",Where is the football? 
+831,garden,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+832,bedroom,"kitchen kitchen, park, park, kitchen kitchen, park, kitchen kitchen, park, kitchen kitchen,",Where is the football? 
+833,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",Where is the football? 
+834,bedroom,"kitchen kitchen, bathroom bathroom, hallway bathroom, hallway bathroom bathroom, hallway bathroom bathroom bathroom bathroom bathroom hallway",Where is the football? 
+835,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+836,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+837,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+838,kitchen,"no office, kitchen, bedroom, kitchen, bedroom, office, kitchen, bedroom, office, kitchen",Where is the football? 
+839,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+840,bedroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+841,bedroom,"office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, hallway bathroom, bathroom bathroom,",Where is the football? 
+842,bedroom,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+843,office,"hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, kitchen,",Where is the apple? 
+844,office,"garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden",Where is the apple? 
+845,office,"garden,n,n,n,n,n,n,n,n,n,",Where is the football? 
+846,office,"no bedroom,n,n,n,n,n,n,n,n,n",Where is the football? 
+847,kitchen,"hallway, bathroom, bedroom, kitchen, bathroom, hallway, bathroom, bedroom, hallway, bathroom,",Where is the apple? 
+848,office,"kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom,",Where is the football? 
+849,bedroom,"garden, kitchen garden, kitchen garden, bathroom garden, bathroom garden, garden, bathroom garden, garden",Where is the milk? 
+850,kitchen,"no kitchen kitchen, no bedroom, no hallway, no bathroom, no garden, no kitchen, no",Where is the football? 
+851,bathroom,"bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",Where is the football? 
+852,office,"no hallway, office, bathroom, bedroom, office, bathroom, bedroom, hallway, bathroom, bedroom",Where is the football? 
+853,office,"kitchen kitchen kitchen,s,s,s,s,s,s,s,s,",Where is the football? 
+854,bedroom,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+855,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+856,office,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the apple? 
+857,hallway,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+858,bedroom,"kitchen kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bedroom, hallway, bathroom",Where is the football? 
+859,bedroom,"kitchen kitchen, bedroom, hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom,",Where is the apple? 
+860,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+861,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+862,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+863,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+864,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+865,hallway,"kitchen garden, kitchen garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden",Where is the football? 
+866,hallway,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+867,hallway,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+868,bathroom,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",Where is the football? 
+869,office,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is the apple? 
+870,kitchen,"football,football,w,w,w,w,w,w,w,w,",Where is the milk? 
+871,garden,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is the football? 
+872,garden,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+873,garden,"bedroom,w,n,w,n,w,n,w,n,w,",Where is the football? 
+874,garden,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+875,garden,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+876,bathroom,hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 
+877,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+878,bathroom,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+879,bathroom,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+880,office,"hallway, kitchen, bathroom, bedroom, hallway, bathroom, bedroom, hallway, bathroom, bathroom,",Where is the apple? 
+881,office,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the apple? 
+882,kitchen,"garden,s,e,e,e,e,e,e,e,e,",Where is the football? 
+883,bathroom,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+884,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the apple? 
+885,bedroom,"football,football,n,n,n,n,n,n,n,n,",Where is the milk? 
+886,bedroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+887,bedroom,"s,s,e,e,e,e,e,e,e,e,",Where is the milk? 
+888,bedroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+889,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+890,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+891,hallway,"no hallway, no garden, no kitchen, no bedroom, no hallway, no garden, no kitchen",Where is the apple? 
+892,hallway,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+893,hallway,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+894,garden,"hallway garden, kitchen garden, kitchen garden, hallway garden, kitchen garden, hallway garden, kitchen garden",Where is the apple? 
+895,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+896,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+897,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+898,garden,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+899,garden,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+900,bedroom,"football,football, kitchen kitchen, bathroom, bathroom, bedroom, bathroom, bedroom, kitchen kitchen,",Where is the milk? 
+901,bedroom,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+902,bedroom,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+903,bedroom,"football, kitchen kitchen kitchen, bathroom bathroom, bathroom bedroom, kitchen kitchen kitchen, bathroom bathroom bedroom,",Where is the milk? 
+904,bedroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+905,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is the apple? 
+906,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+907,kitchen,"kitchen kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom",Where is the football? 
+908,hallway,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+909,garden,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the football? 
+910,office,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+911,office,"n,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+912,bathroom,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+913,bathroom,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+914,garden,"hallway hallway, bathroom bathroom, garden, bathroom bathroom garden, bathroom bathroom garden, bathroom bathroom garden,",Where is the apple? 
+915,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+916,hallway,"n,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+917,hallway,"kitchen kitchen, bedroom,football,football,football,football,football,football,football,football",Where is the apple? 
+918,hallway,"no, kitchen,s,e,e,e,e,e,e,e,",Where is the football? 
+919,hallway,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+920,kitchen,"football,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+921,kitchen,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+922,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+923,bathroom,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+924,bathroom,"football,football,football,n,n,n,n,n,n,n,",Where is the milk? 
+925,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",Where is the football? 
+926,bedroom,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+927,garden,"garden, kitchen, kitchen, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where is the apple? 
+928,garden,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",Where is the apple? 
+929,garden,"football,football, kitchen garden, kitchen garden, bathroom bathroom, bathroom bathroom, garden, bathroom bathroom",Where is the milk? 
+930,hallway,"football, kitchen, office, kitchen, office, kitchen, bedroom, office, kitchen, bedroom,",Where is the milk? 
+931,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+932,bedroom,"garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden",Where is the apple? 
+933,bedroom,"hallway hallway, bathroom bathroom, garden, bathroom bathroom garden, bathroom bathroom garden, bathroom bathroom garden,",Where is the apple? 
+934,garden,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+935,garden,"bedroom,n,n,n,n,n,n,n,n,n,",Where is the apple? 
+936,garden,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the apple? 
+937,garden,"kitchen,football,football,football,football,football,football,football,football,football,",Where is the apple? 
+938,bathroom,"kitchen,w,w,w,w,w,w,w,w,w,",Where is the football? 
+939,hallway,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the football? 
+940,bedroom,"hallway,w,w,w,w,w,w,w,w,w,",Where is the apple? 
+941,bedroom,"kitchen,n,n,n,n,n,n,n,n,n,",Where is the apple? 
+942,office,"no, no, no, no, no, no, no, no, no, no,",Where is the football? 
+943,office,"no, kitchen,s,e,e,e,e,e,e,e,",Where is the football? 
+944,office,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the apple? 
+945,bedroom,"hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, kitchen,",Where is the apple? 
+946,bedroom,"hallway, bathroom, bedroom, office, kitchen, bathroom, hallway, bathroom, office, kitchen,",Where is the apple? 
+947,kitchen,"football,football,football,w,w,w,w,w,w,w,",Where is the milk? 
+948,garden,"no kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+949,bathroom,"w,w,w,w,w,w,w,w,w,w",Where is the football? 
+950,hallway,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+951,hallway,"kitchen kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom",Where is the football? 
+952,hallway,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+953,garden,"w,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+954,garden,"football,football, bedroom, office, kitchen, office, kitchen, bedroom, office, kitchen,",Where is the milk? 
+955,bedroom,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is the football? 
+956,bedroom,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+957,bedroom,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+958,bedroom,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom",Where is the football? 
+959,bedroom,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is the football? 
+960,hallway,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+961,hallway,"kitchen kitchen kitchen, bathroom bathroom, bedroom, hallway bathroom, hallway bathroom bathroom, bathroom bathroom bathroom bedroom",Where is the football? 
+962,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+963,hallway,"no garden, kitchen,n,n,n,n,n,n,n,n",Where is the apple? 
+964,hallway,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+965,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",Where is the football? 
+966,kitchen,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+967,kitchen,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+968,bedroom,"kitchen kitchen kitchen garden, bedroom, kitchen kitchen garden, bedroom, kitchen kitchen garden, kitchen kitchen garden",Where is the football? 
+969,bedroom,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway",Where is the football? 
+970,office,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+971,kitchen,"hallway, bathroom, bedroom, office, kitchen, bathroom, hallway, bathroom, bedroom, office,",Where is the apple? 
+972,kitchen,"hallway bedroom, kitchen kitchen, hallway bedroom, kitchen kitchen, hallway bedroom, bathroom bedroom, hallway bathroom",Where is the apple? 
+973,kitchen,"bedroom, office, kitchen, kitchen, office, kitchen, bedroom, office, kitchen, bedroom,",Where is the apple? 
+974,office,"hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom,",Where is the apple? 
+975,garden,"kitchen kitchen, bedroom, park, park, kitchen kitchen, bedroom, park, kitchen kitchen, bedroom",Where is the football? 
+976,garden,"kitchen,s,e,e,e,e,e,e,e,e,",Where is the football? 
+977,kitchen,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+978,bathroom,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+979,bathroom,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+980,hallway,"garden, kitchen,w,w,w,w,w,w,w,w,",Where is the apple? 
+981,office,"kitchen kitchen, bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom bathroom",Where is the football? 
+982,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is the apple? 
+983,bedroom,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is the apple? 
+984,bedroom,"no, no, no, no, no, no, no, no, no, no,",Where is the apple? 
+985,kitchen,"no, kitchen,w,w,w,w,w,w,w,w,",Where is the football? 
+986,kitchen,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is the football? 
+987,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+988,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is the milk? 
+989,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+990,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+991,garden,"w,w,w,w,w,w,w,w,w,w,",Where is the milk? 
+992,office,"football,football,football,football,football,football,football,football,football,football,",Where is the milk? 
+993,office,"n,n,n,n,n,n,n,n,n,n,",Where is the milk? 
+994,bedroom,"w,s,w,w,w,w,w,w,w,w,",Where is the milk? 
+995,kitchen,"kitchen kitchen kitchen, office, kitchen kitchen, office, kitchen kitchen, office, kitchen kitchen, office",Where is the apple? 
+996,kitchen,"bedroom,football,football,football,football,football,football,football,football,football,",Where is the apple? 
+997,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+998,hallway,"no bedroom,n,n,n,n,n,n,n,n,n",Where is the football? 

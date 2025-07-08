@@ -1,0 +1,1001 @@
+,target,output,question
+0,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+1,bathroom,"Bill, Fred, Bill, hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom",Where is Mary? 
+2,kitchen,"kitchen kitchen, office, bathroom, hallway bathroom, hallway bathroom, office bathroom, hallway bathroom, bathroom",Where is Sandra? 
+3,hallway,"office, kitchen, bathroom, bedroom, hallway, office, bathroom, hallway, bathroom, bedroom,",Where is Sandra? 
+4,kitchen,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is Sandra? 
+5,hallway,"no, office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office,",Where is Sandra? 
+6,garden,"one,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+7,hallway,"no office, kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom",Where is Daniel? 
+8,office,hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+9,office,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+10,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+11,garden,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+12,office,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+13,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+14,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+15,kitchen,"no hallway, no garden, no bathroom, no bedroom, no garden, no bathroom, no bedroom",Where is John? 
+16,garden,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+17,kitchen,"office,n,n,n,n,n,n,n,n,n,",Where is John? 
+18,office,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+19,kitchen,"s office, garden, kitchen, bathroom, bedroom, bathroom, garden, kitchen, bathroom, bedroom",Where is John? 
+20,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+21,office,"no garden, kitchen kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom,",Where is John? 
+22,office,"garden, kitchen garden, kitchen garden, bathroom garden, bathroom garden, kitchen garden, bathroom garden,",Where is John? 
+23,hallway,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom",Where is Sandra? 
+24,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+25,bedroom,"hallway, bathroom, garden, kitchen garden, bathroom bathroom, garden, bathroom bathroom garden, bathroom bathroom",Where is Sandra? 
+26,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+27,kitchen,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is Daniel? 
+28,kitchen,"hallway,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+29,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Daniel? 
+30,hallway,"hallway bathroom bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bedroom, bathroom bathroom",Where is Sandra? 
+31,office,"s, office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office,",Where is John? 
+32,kitchen,"bedroom, school office, office, office, school, office, kitchen, bathroom, bedroom, office",Where is Sandra? 
+33,kitchen,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is Sandra? 
+34,bathroom,"bathroom, bathroom, bedroom,w,w,w,w,w,w,w,",Where is Sandra? 
+35,office,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Mary? 
+36,bathroom,"no green, no white, no green, no white, no green, no white, no green",Where is Mary? 
+37,garden,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Mary? 
+38,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+39,bedroom,"hallway,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+40,bathroom,"hallway hallway, office, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden",Where is Sandra? 
+41,garden,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is Daniel? 
+42,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+43,hallway,"hallway,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+44,garden,"garden,w,w,w,w,w,w,w,w,w,",Where is Daniel? 
+45,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+46,hallway,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is Daniel? 
+47,bathroom,"hallway, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom,",Where is Sandra? 
+48,office,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is John? 
+49,bedroom,"bedroom,s,e,e,e,e,e,e,e,e,",Where is John? 
+50,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+51,office,"office, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom,",Where is John? 
+52,garden,"office, bedroom, office, hallway, bathroom, bedroom, office, hallway, bathroom, bathroom,",Where is John? 
+53,garden,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is John? 
+54,kitchen,"garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden",Where is Daniel? 
+55,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+56,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+57,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Mary? 
+58,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+59,hallway,"hallway office, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway",Where is Sandra? 
+60,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+61,office,"no bedroom, no kitchen, no garden, no kitchen, no garden, no bedroom, no kitchen",Where is Daniel? 
+62,bathroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+63,garden,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+64,garden,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is Daniel? 
+65,kitchen,"no, no, no, no, no, no, no, no, no, no,",Where is John? 
+66,kitchen,"hallway,s,e,e,e,e,e,e,e,e,",Where is John? 
+67,bathroom,"hallway,w,w,w,w,w,w,w,w,w,",Where is Daniel? 
+68,office,"office, office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom,",Where is Daniel? 
+69,office,"hallway hallway, bathroom bathroom, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom",Where is Daniel? 
+70,garden,"hallway, bathroom, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden,",Where is Mary? 
+71,hallway,"office,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+72,garden,"no garden, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen",Where is Mary? 
+73,bedroom,"no kitchen kitchen, no bedroom, no kitchen, no bedroom, no kitchen, no bedroom, no",Where is Mary? 
+74,bathroom,"bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is Mary? 
+75,kitchen,"kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden, garden",Where is Daniel? 
+76,kitchen,hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+77,kitchen,"s,e,e,e,e,e,e,e,e,e,",Where is Daniel? 
+78,hallway,"hallway office, office, bathroom, hallway office, bathroom, bathroom, hallway office, bathroom bathroom,",Where is Daniel? 
+79,office,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+80,garden,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+81,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+82,bedroom,"bedroom,s,e,e,e,e,e,e,e,e,",Where is Sandra? 
+83,garden,"office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office,",Where is Mary? 
+84,office,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+85,garden,"garden garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen",Where is Sandra? 
+86,garden,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is Mary? 
+87,hallway,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is John? 
+88,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway, bathroom bathroom",Where is Sandra? 
+89,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+90,bathroom,"hallway, bathroom, bedroom, office, kitchen, bathroom, hallway, bathroom, office, kitchen,",Where is Sandra? 
+91,bathroom,"office, kitchen, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is John? 
+92,hallway,"office, kitchen kitchen, bedroom, office, kitchen kitchen, bedroom, office, kitchen kitchen, bedroom",Where is Sandra? 
+93,bathroom,"bathroom bathroom, hallway hallway, bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom",Where is Sandra? 
+94,bathroom,"no garden, kitchen, bathroom, bedroom,w,w,w,w,w,w",Where is Sandra? 
+95,kitchen,"office, kitchen, bedroom,w,w,w,w,w,w,w,",Where is John? 
+96,kitchen,"no bedroom, park, kitchen, park, kitchen, park, kitchen, park, kitchen, park",Where is Sandra? 
+97,kitchen,"kitchen kitchen, bathroom bathroom, bathroom bedroom, bathroom bedroom, bathroom bedroom, bathroom bedroom, bathroom bedroom",Where is Mary? 
+98,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+99,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+100,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+101,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is Sandra? 
+102,office,"Bill, Fred, Bill, Fred, hallway hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is Mary? 
+103,garden,"hallway, bathroom, bathroom, bedroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is Daniel? 
+104,garden,"hallway hallway, bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is Daniel? 
+105,hallway,"no, no, no, no, no, no, no, no, no, no,",Where is Mary? 
+106,bedroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway bathroom bathroom bathroom",Where is Daniel? 
+107,bathroom,"s,e,e,e,e,e,e,e,e,e,",Where is Daniel? 
+108,office,"hallway, bathroom, garden, office, kitchen, bathroom, garden, office, kitchen, bathroom,",Where is Daniel? 
+109,bedroom,"bedroom,s,e,e,e,e,e,e,e,e,",Where is John? 
+110,bathroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+111,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+112,kitchen,"office, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom,",Where is John? 
+113,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+114,kitchen,"office, kitchen kitchen, bathroom, bathroom, hallway, bathroom, hallway, bathroom bathroom, bathroom bathroom",Where is Mary? 
+115,garden,"office, kitchen, bedroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is Sandra? 
+116,office,hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+117,kitchen,"Bill,w,n,n,n,n,n,n,n,n,",Where is Mary? 
+118,bathroom,"no hallway,w,w,w,w,w,w,w,w,w",Where is Daniel? 
+119,office,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+120,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Daniel? 
+121,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+122,bedroom,"no,w,w,w,w,w,w,w,w,w,",Where is Daniel? 
+123,hallway,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+124,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+125,office,"office,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+126,garden,"office, kitchen, garden, bathroom, bedroom, office, garden, bathroom, bedroom, office,",Where is John? 
+127,garden,"no hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom",Where is Daniel? 
+128,garden,"garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden",Where is Sandra? 
+129,bathroom,"garden, bathroom, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden,",Where is Sandra? 
+130,garden,"no bedroom, no kitchen, no garden, no office, no garden, no kitchen, no garden",Where is Sandra? 
+131,hallway,"kitchen kitchen, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway",Where is Mary? 
+132,bathroom,"no hallway,w,w,w,w,w,w,w,w,w",Where is Sandra? 
+133,garden,"bedroom,w,n,w,n,w,n,w,n,w,",Where is Sandra? 
+134,kitchen,"bedroom bedroom,s,s,s,s,s,s,s,s,s",Where is John? 
+135,bathroom,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+136,office,"hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",Where is Sandra? 
+137,kitchen,"kitchen kitchen kitchen, bedroom, hallway, bathroom, hallway bathroom, bathroom, hallway bathroom, bathroom bathroom",Where is John? 
+138,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Sandra? 
+139,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+140,office,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway,",Where is Mary? 
+141,hallway,"nothing, nothing, nothing, nothing, nothing, nothing, nothing, nothing, nothing, nothing,",Where is Mary? 
+142,hallway,"office, office, kitchen, bathroom, bathroom, bedroom, office, bathroom, bedroom, office,",Where is Mary? 
+143,office,hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+144,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+145,kitchen,"no hallway, bathroom, bedroom, office, garden, kitchen, bathroom, garden, office, garden",Where is Sandra? 
+146,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is Sandra? 
+147,kitchen,"hallway, office, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom,",Where is Daniel? 
+148,kitchen,"s,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+149,kitchen,"s,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+150,garden,"hallway office, bathroom, garden, kitchen garden, bathroom bathroom, garden, kitchen garden, bathroom bathroom",Where is Daniel? 
+151,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+152,bathroom,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, bathroom bathroom",Where is Daniel? 
+153,office,"s,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+154,bedroom,"hallway bathroom bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bathroom bedroom, bathroom bathroom",Where is John? 
+155,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+156,garden,"s office,n,n,n,n,n,n,n,n,n",Where is Daniel? 
+157,bedroom,"office,n,n,n,n,n,n,n,n,n,",Where is John? 
+158,office,"office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office,",Where is John? 
+159,hallway,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is Mary? 
+160,bedroom,hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+161,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+162,bedroom,"no bedroom, no hallway, no garden, no kitchen, no garden, no kitchen, no garden",Where is Mary? 
+163,garden,"kitchen kitchen kitchen kitchen hallway, bathroom bathroom, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Mary? 
+164,bathroom,"bedroom, hallway, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, bathroom",Where is Daniel? 
+165,garden,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is Sandra? 
+166,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+167,garden,"hallway, bathroom, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is Daniel? 
+168,kitchen,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+169,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is Mary? 
+170,office,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+171,office,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is Daniel? 
+172,garden,"hallway, bathroom, bathroom, bedroom, hallway, bathroom, bedroom, hallway, bathroom, bathroom,",Where is John? 
+173,bathroom,"bathroom, bedroom,n,n,n,n,n,n,n,n,",Where is Sandra? 
+174,bathroom,"office, kitchen, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is Sandra? 
+175,office,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is Sandra? 
+176,kitchen,"kitchen kitchen, hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom,",Where is Sandra? 
+177,bedroom,"hallway hallway, bathroom, bathroom, hallway bathroom, bathroom, hallway bathroom, bathroom, bathroom, hallway",Where is Sandra? 
+178,office,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is Sandra? 
+179,office,"green,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+180,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is Mary? 
+181,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+182,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom hallway, bathroom bathroom",Where is Daniel? 
+183,hallway,"bored,n,n,n,n,n,n,n,n,n,",Where is Mary? 
+184,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+185,bathroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is John? 
+186,office,"hallway hallway, bathroom bathroom, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom",Where is Daniel? 
+187,garden,"garden,s,s,s,s,s,s,s,s,s,",Where is Mary? 
+188,kitchen,"no, no, no, no, no, no, no, no, no, no,",Where is Sandra? 
+189,office,"no one, no one, no one, no one, no one, no one, no one",Where is Sandra? 
+190,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Mary? 
+191,kitchen,"hallway, bathroom, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden,",Where is Sandra? 
+192,garden,"no garden, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom",Where is Sandra? 
+193,hallway,"no office, no garden, no kitchen, no bedroom, no office, no garden, no kitchen",Where is Sandra? 
+194,hallway,"office office, kitchen kitchen, bedroom, office, kitchen kitchen, bedroom, office, kitchen kitchen,",Where is Sandra? 
+195,garden,"no garden, no kitchen, no bedroom, no kitchen, no bedroom, no kitchen, no bedroom",Where is Mary? 
+196,office,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+197,kitchen,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is Daniel? 
+198,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+199,bedroom,"bedroom,s,e,e,e,e,e,e,e,e,",Where is John? 
+200,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+201,office,"office,w,n,n,n,n,n,n,n,n,",Where is John? 
+202,office,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+203,bedroom,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, bathroom",Where is Sandra? 
+204,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+205,bathroom,"office, kitchen, bedroom,n,n,n,n,n,n,n,",Where is Sandra? 
+206,kitchen,"hallway,s,s,s,s,s,s,s,s,s,",Where is Mary? 
+207,hallway,"s,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+208,bathroom,bathroom bathroom bathroom hallway hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+209,hallway,hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+210,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+211,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+212,hallway,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is Daniel? 
+213,bedroom,"no bedroom,w,w,w,w,w,w,w,w,w",Where is Mary? 
+214,bathroom,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is Sandra? 
+215,bedroom,"kitchen kitchen,football,football,football,football,football,football,football,football,football",Where is Mary? 
+216,bathroom,hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+217,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",Where is John? 
+218,hallway,"hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom,",Where is Sandra? 
+219,bathroom,"bedroom,w,w,w,w,w,w,w,w,w,",Where is John? 
+220,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+221,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Daniel? 
+222,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+223,hallway,"bedroom bedroom, office, office, kitchen, garden, kitchen, garden, office, kitchen garden,",Where is Sandra? 
+224,bedroom,"bedroom bedroom,n,n,n,n,n,n,n,n,n",Where is John? 
+225,office,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is John? 
+226,hallway,"hallway, bathroom, office, garden, kitchen, bathroom, garden, office, garden, kitchen,",Where is Daniel? 
+227,garden,"no garden, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom",Where is Sandra? 
+228,bathroom,"bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom",Where is John? 
+229,bathroom,"no office, kitchen, bedroom,n,n,n,n,n,n,n",Where is John? 
+230,office,"office, office, kitchen, bathroom, bathroom, bedroom, office, bathroom, bedroom, office,",Where is Daniel? 
+231,garden,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is Mary? 
+232,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+233,office,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+234,hallway,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is John? 
+235,bedroom,"kitchen kitchen,s,s,s,s,s,s,s,s,s",Where is Mary? 
+236,bedroom,"office,n,n,n,n,n,n,n,n,n,",Where is Mary? 
+237,bedroom,"kitchen kitchen kitchen, hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom bathroom bathroom bathroom hallway",Where is Mary? 
+238,bedroom,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is Daniel? 
+239,office,"office, kitchen, bedroom,n,n,n,n,n,n,n,",Where is Sandra? 
+240,hallway,"s,e,e,e,e,e,e,e,e,e,",Where is Daniel? 
+241,kitchen,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is Mary? 
+242,garden,"hallway garden, kitchen garden, bathroom bathroom garden, bathroom bathroom garden, hallway garden, bathroom bathroom garden",Where is Mary? 
+243,garden,"no hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom",Where is Mary? 
+244,kitchen,"Bill, Bill, Fred, Fred, Bill, Fred, Fred, Bill, Fred, Fred,",Where is Mary? 
+245,kitchen,"office, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden,",Where is John? 
+246,garden,"garden,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+247,garden,"no garden, no kitchen, no bedroom, no hallway, no bathroom, no garden, no kitchen",Where is Sandra? 
+248,garden,"kitchen kitchen, hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom",Where is Sandra? 
+249,garden,"hallway, office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office,",Where is Daniel? 
+250,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Daniel? 
+251,office,"kitchen,football,football,football,football,football,football,football,football,football,",Where is Mary? 
+252,bathroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Daniel? 
+253,bathroom,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is Daniel? 
+254,bedroom,"hallway bathroom bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bedroom, bathroom bathroom",Where is John? 
+255,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+256,office,"office, kitchen, bedroom, hallway, bathroom, office, bathroom, hallway bathroom, bathroom bathroom,",Where is Sandra? 
+257,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Sandra? 
+258,kitchen,"hallway,s,s,s,s,s,s,s,s,s,",Where is Mary? 
+259,garden,"garden,w,w,w,w,w,w,w,w,w,",Where is Mary? 
+260,garden,"kitchen,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+261,office,"office, kitchen, bathroom, garden, office, garden, kitchen, bathroom, garden, bathroom,",Where is Mary? 
+262,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway, bathroom bathroom",Where is Sandra? 
+263,office,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+264,office,"no, no, no, no, no, no, no, no, no, no,",Where is John? 
+265,bathroom,"garden, kitchen, bathroom, bedroom, bathroom, garden, kitchen, bathroom, bedroom, garden,",Where is Sandra? 
+266,garden,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is Sandra? 
+267,bedroom,"no bedroom,w,w,w,w,w,w,w,w,w",Where is Sandra? 
+268,bathroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is John? 
+269,bedroom,"bedroom bedroom, hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, bathroom",Where is Daniel? 
+270,kitchen,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+271,office,"bathroom, office, garden, kitchen, garden, kitchen, bathroom, garden, bathroom, garden,",Where is Sandra? 
+272,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway bathroom bathroom bathroom",Where is Sandra? 
+273,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Daniel? 
+274,bathroom,"office, kitchen, garden, kitchen garden, garden, kitchen garden, garden, kitchen garden, garden",Where is Daniel? 
+275,office,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is Sandra? 
+276,kitchen,"bedroom,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+277,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+278,office,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+279,bathroom,"bathroom bathroom, bathroom bedroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom",Where is John? 
+280,bathroom,"hallway bathroom, hallway bathroom, bathroom bedroom, hallway bathroom, bathroom bedroom, hallway bathroom, bathroom bedroom",Where is Sandra? 
+281,garden,"no, no, no, no, no, no, no, no, no, no,",Where is Daniel? 
+282,office,"no one, no one, no one, no one, no one, no one, no one",Where is Sandra? 
+283,office,"no kitchen kitchen, no bedroom, no hallway, no garden, no kitchen, no garden, no",Where is Sandra? 
+284,garden,"garden, office, bathroom, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where is John? 
+285,office,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+286,bathroom,"garden, kitchen, office, bathroom, bedroom, office, bathroom, bedroom, office, bathroom,",Where is Sandra? 
+287,office,"garden, kitchen, office, bathroom, garden, office, bathroom, garden, bathroom, garden,",Where is John? 
+288,garden,"garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden",Where is Daniel? 
+289,bathroom,"hallway, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom,",Where is Sandra? 
+290,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Mary? 
+291,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway hallway, bathroom bathroom bathroom, hallway hallway, bathroom",Where is John? 
+292,bedroom,"bedroom,s,s,s,s,s,s,s,s,s,",Where is John? 
+293,kitchen,"one, one, one, one, one, one, one, one, one, one,",Where is Mary? 
+294,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom",Where is John? 
+295,garden,"garden,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+296,garden,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is Daniel? 
+297,hallway,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+298,hallway,"hallway,n,n,n,n,n,n,n,n,n,",Where is Mary? 
+299,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+300,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+301,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+302,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+303,office,"sheep,n,n,n,n,n,n,n,n,n,",Where is John? 
+304,hallway,"office, kitchen, office, kitchen, office, kitchen, office, kitchen, office, kitchen,",Where is Mary? 
+305,garden,"hallway, bathroom, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is Daniel? 
+306,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+307,office,"hallway hallway, bathroom bathroom, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom",Where is Daniel? 
+308,office,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is Daniel? 
+309,kitchen,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+310,garden,"hallway,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+311,garden,"kitchen kitchen, bathroom bathroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom",Where is Sandra? 
+312,office,"no, no, no, no, no, no, no, no, no, no,",Where is Daniel? 
+313,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+314,garden,"office,n,n,n,n,n,n,n,n,n,",Where is John? 
+315,office,"office,n,n,n,n,n,n,n,n,n,",Where is Mary? 
+316,bedroom,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is Daniel? 
+317,office,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+318,office,"Bill,s,s,s,s,s,s,s,s,s,",Where is Mary? 
+319,garden,"hallway,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+320,garden,"garden garden, kitchen garden, kitchen garden, bathroom garden, bathroom garden, garden kitchen garden, bathroom",Where is John? 
+321,kitchen,"no hallway, no garden, no kitchen, no garden, no kitchen, no garden, no hallway",Where is Sandra? 
+322,kitchen,"hallway hallway, bathroom bathroom, bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is Sandra? 
+323,garden,"s,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+324,garden,"hallway hallway, office, garden, kitchen garden, bathroom bathroom, garden, bathroom bathroom, garden,",Where is Daniel? 
+325,bathroom,"hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom,",Where is Sandra? 
+326,bedroom,hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+327,garden,"garden, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen,",Where is Sandra? 
+328,garden,"hallway, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden,",Where is Sandra? 
+329,bedroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway bathroom bathroom bathroom",Where is Daniel? 
+330,kitchen,hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+331,office,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+332,kitchen,"no hallway, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom",Where is Sandra? 
+333,bedroom,"no office, kitchen, bedroom,n,n,n,n,n,n,n",Where is Daniel? 
+334,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+335,office,"office, school, office, kitchen, office, kitchen, bedroom, office, kitchen, bedroom,",Where is John? 
+336,hallway,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bedroom, bathroom bathroom,",Where is Daniel? 
+337,office,"no kitchen, no bedroom, no hallway, no bathroom, no hallway, no bathroom, no bathroom",Where is Sandra? 
+338,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+339,hallway,"office, bedroom,w,w,w,w,w,w,w,w,",Where is Sandra? 
+340,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+341,garden,"garden,w,w,w,w,w,w,w,w,w,",Where is Mary? 
+342,office,"hallway, bathroom, garden, office, kitchen, bathroom, garden, office, kitchen, bathroom,",Where is Daniel? 
+343,kitchen,"kitchen kitchen, bathroom bathroom, bedroom, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom,",Where is Sandra? 
+344,garden,"no hallway, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom",Where is Sandra? 
+345,office,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+346,hallway,"hallway, bathroom, bedroom, office, office, bathroom, bedroom, office, bathroom, bedroom,",Where is Daniel? 
+347,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+348,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+349,kitchen,"kitchen kitchen, hallway bathroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom",Where is John? 
+350,bedroom,"hallway bathroom bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bedroom, bathroom bathroom",Where is Sandra? 
+351,garden,"no hallway, bathroom, garden, office, garden, office, garden, bathroom, garden, bathroom",Where is John? 
+352,garden,"hallway bathroom bathroom, hallway bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom",Where is Sandra? 
+353,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+354,bedroom,"bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is Sandra? 
+355,bathroom,"office,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+356,office,"no bedroom,n,n,n,n,n,n,n,n,n",Where is John? 
+357,hallway,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is Mary? 
+358,garden,"hallway hallway, bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is Mary? 
+359,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom",Where is Mary? 
+360,garden,"bedroom,w,n,w,n,w,n,w,n,w,",Where is Daniel? 
+361,bathroom,"s,s,w,w,w,w,w,w,w,w,",Where is Daniel? 
+362,garden,"garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden",Where is Mary? 
+363,garden,"garden garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen",Where is John? 
+364,garden,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+365,garden,"no, no, no, no, no, no, no, no, no, no,",Where is Sandra? 
+366,garden,"no hallway, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom",Where is Sandra? 
+367,hallway,"hallway hallway, bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is Daniel? 
+368,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+369,hallway,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+370,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom",Where is Daniel? 
+371,hallway,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom",Where is Daniel? 
+372,garden,"garden, kitchen, bathroom, bedroom, hallway, bathroom, garden, kitchen, bathroom, garden,",Where is Mary? 
+373,garden,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",Where is Mary? 
+374,office,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+375,bedroom,"hallway garden, kitchen garden, kitchen garden, hallway garden, bathroom garden, bathroom garden, garden,",Where is Mary? 
+376,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway, bathroom bathroom",Where is Sandra? 
+377,bathroom,"bathroom bathroom, office office, garden, kitchen garden, bathroom bathroom, garden, office garden, bathroom",Where is Sandra? 
+378,bathroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is Sandra? 
+379,bedroom,"office, kitchen, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden,",Where is John? 
+380,bathroom,"office, kitchen, office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen,",Where is Mary? 
+381,bedroom,"office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office,",Where is John? 
+382,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+383,office,"s,s,s,s,s,s,s,s,s,s,",Where is Sandra? 
+384,office,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway,",Where is Mary? 
+385,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+386,office,"hallway, office, bathroom, garden, kitchen, bathroom, hallway, bathroom, garden, bathroom,",Where is Mary? 
+387,office,"hallway bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, bathroom bathroom",Where is John? 
+388,office,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+389,kitchen,"hallway hallway, bathroom bathroom, garden, bathroom bathroom bathroom garden, bathroom bathroom garden, bathroom bathroom garden",Where is Sandra? 
+390,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+391,hallway,"s,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+392,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+393,bedroom,"one, one, one, one, one, one, one, one, one, one,",Where is Mary? 
+394,office,"bedroom,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+395,office,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+396,bedroom,"garden, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen,",Where is Daniel? 
+397,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom",Where is Daniel? 
+398,bathroom,"bedroom, bathroom, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",Where is Sandra? 
+399,garden,"hallway hallway, bathroom bathroom, garden, bathroom bathroom, garden, bathroom bathroom garden, bathroom bathroom garden",Where is Sandra? 
+400,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+401,garden,"no garden, kitchen,s,e,e,e,e,e,e,e",Where is John? 
+402,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+403,kitchen,"kitchen kitchen kitchen, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom",Where is Sandra? 
+404,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is Sandra? 
+405,kitchen,"hallway,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+406,hallway,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is Daniel? 
+407,bedroom,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is Sandra? 
+408,garden,"office office, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen",Where is Mary? 
+409,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is Sandra? 
+410,bedroom,"hallway, bathroom, office, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is John? 
+411,garden,"s,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+412,bathroom,"office,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+413,hallway,"s,w,w,w,w,w,w,w,w,w,",Where is Daniel? 
+414,office,"office,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+415,bedroom,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+416,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+417,kitchen,"garden, kitchen,w,w,w,w,w,w,w,w,",Where is John? 
+418,hallway,"s,s,e,e,e,e,e,e,e,e,",Where is Sandra? 
+419,bathroom,"office office, bathroom, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom",Where is Sandra? 
+420,hallway,"no garden,n,n,n,n,n,n,n,n,n",Where is Sandra? 
+421,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Sandra? 
+422,bathroom,"office,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+423,hallway,"hallway,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+424,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Mary? 
+425,kitchen,"office, kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway,",Where is John? 
+426,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+427,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is John? 
+428,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+429,bedroom,"hallway bathroom bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bedroom, bathroom bathroom",Where is Sandra? 
+430,office,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+431,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+432,kitchen,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Mary? 
+433,kitchen,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway,",Where is Mary? 
+434,office,"hallway,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+435,garden,"hallway, bathroom, garden, office, kitchen, bathroom, garden, office, kitchen, bathroom,",Where is Sandra? 
+436,kitchen,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Mary? 
+437,bathroom,"bedroom,w,n,w,n,w,n,w,n,w,",Where is John? 
+438,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+439,garden,"no garden, kitchen,n,n,n,n,n,n,n,n",Where is John? 
+440,bedroom,"hallway,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+441,hallway,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+442,bathroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+443,garden,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+444,bedroom,"no bedroom,n,n,n,n,n,n,n,n,n",Where is Daniel? 
+445,garden,"hallway, bathroom, office, kitchen, bathroom, office, kitchen, bathroom, office, kitchen,",Where is Daniel? 
+446,bedroom,"office, kitchen, bedroom, park, office, kitchen, bedroom, office, kitchen, bedroom,",Where is Sandra? 
+447,hallway,"hallway, bathroom, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is Daniel? 
+448,garden,"hallway hallway, bathroom bathroom, garden, bathroom bathroom, garden, bathroom bathroom, garden, bathroom bathroom",Where is Daniel? 
+449,kitchen,"kitchen kitchen, hallway hallway, bathroom, bathroom, bathroom, hallway bathroom, bathroom, bathroom, bathroom",Where is Sandra? 
+450,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+451,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+452,kitchen,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+453,garden,"no, no, no, no, no, no, no, no, no, no,",Where is Sandra? 
+454,bathroom,"office,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+455,kitchen,"kitchen,s,e,e,e,e,e,e,e,e,",Where is Sandra? 
+456,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Mary? 
+457,hallway,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is John? 
+458,garden,"garden, kitchen garden, kitchen garden, hallway garden, bathroom garden, bathroom garden, garden, bathroom",Where is John? 
+459,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+460,bathroom,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is Sandra? 
+461,garden,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is Sandra? 
+462,bedroom,"office, garden, kitchen garden, kitchen garden, kitchen garden, bathroom garden, bathroom garden, bathroom",Where is John? 
+463,office,"office,n,n,n,n,n,n,n,n,n,",Where is John? 
+464,garden,"no garden, office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office",Where is John? 
+465,garden,"garden,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+466,bedroom,"bedroom,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+467,bedroom,"bedroom,w,n,n,n,n,n,n,n,n,",Where is Daniel? 
+468,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+469,office,"no office, no kitchen, no bedroom, no kitchen, no bedroom, no kitchen, no bedroom",Where is John? 
+470,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+471,office,"office, office, kitchen, kitchen, office, kitchen, office, kitchen, office, kitchen,",Where is Mary? 
+472,office,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom",Where is Mary? 
+473,bathroom,"bedroom, bathroom, garden, garden, bathroom, garden, bathroom, garden, bathroom, garden,",Where is John? 
+474,kitchen,"no hallway, office, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden",Where is John? 
+475,garden,"Fred, Fred, office, office, office, office, office, office, office, office,",Where is John? 
+476,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+477,kitchen,"hallway, bathroom, garden, kitchen garden, kitchen garden, bathroom garden, hallway garden, bathroom garden",Where is Sandra? 
+478,garden,"bedroom,w,w,w,w,w,w,w,w,w,",Where is John? 
+479,bathroom,"green, bedroom,w,w,w,w,w,w,w,w,",Where is John? 
+480,bedroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom",Where is Sandra? 
+481,bedroom,"hallway, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where is Sandra? 
+482,hallway,"hallway,w,w,w,w,w,w,w,w,w,",Where is Daniel? 
+483,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+484,garden,"no garden, kitchen kitchen, bathroom, bathroom, bedroom, bathroom, bedroom, bathroom, bathroom,",Where is John? 
+485,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+486,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Sandra? 
+487,hallway,"hallway,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+488,bedroom,"hallway, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where is John? 
+489,bathroom,"hallway,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+490,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is Daniel? 
+491,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+492,bedroom,"office, kitchen, bedroom, hallway, bathroom, office, bathroom, hallway, bathroom, bathroom,",Where is John? 
+493,garden,"bedroom, office, office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom,",Where is John? 
+494,garden,"kitchen kitchen kitchen, bedroom, bathroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom",Where is John? 
+495,kitchen,"office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office,",Where is Mary? 
+496,kitchen,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is Mary? 
+497,bedroom,"no bedroom,n,n,n,n,n,n,n,n,n",Where is Sandra? 
+498,hallway,"no hallway bathroom bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom,",Where is John? 
+499,hallway,"hallway garden, kitchen garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden",Where is John? 
+500,kitchen,"no bedroom,w,n,n,n,n,n,n,n,n",Where is Daniel? 
+501,garden,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom",Where is Daniel? 
+502,bathroom,"hallway hallway, bathroom bathroom bathroom bathroom bathroom hallway, bathroom bathroom bathroom bathroom hallway, bathroom bathroom bathroom bathroom",Where is Daniel? 
+503,hallway,"no bedroom, no hallway, no office, no garden, no kitchen, no bathroom, no garden",Where is John? 
+504,bathroom,"no bedroom,n,n,n,n,n,n,n,n,n",Where is Daniel? 
+505,kitchen,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is Mary? 
+506,bedroom,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is Sandra? 
+507,office,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+508,office,"hallway, office, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom,",Where is Daniel? 
+509,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+510,bedroom,"office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office,",Where is John? 
+511,office,"kitchen kitchen, bedroom,w,w,w,w,w,w,w,w",Where is Mary? 
+512,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+513,bedroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Mary? 
+514,office,"hallway,w,w,w,w,w,w,w,w,w,",Where is Daniel? 
+515,bathroom,"Bill, Bill, Bill, kitchen kitchen, kitchen kitchen, bathroom bathroom, bathroom bathroom, bathroom bathroom",Where is Mary? 
+516,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+517,bedroom,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is Sandra? 
+518,hallway,"hallway,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+519,garden,"garden,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+520,office,"office office, hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom",Where is Sandra? 
+521,office,"s office,s,s,s,s,s,s,s,s,s",Where is Daniel? 
+522,hallway,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+523,hallway,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is Daniel? 
+524,garden,"garden, kitchen garden, kitchen garden, kitchen garden, bathroom garden, bathroom garden, bathroom garden,",Where is Sandra? 
+525,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+526,office,"no one, no one, no one, no one, no one, no one, no one",Where is Daniel? 
+527,garden,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+528,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+529,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway, bathroom bathroom",Where is Mary? 
+530,garden,"office, kitchen, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is John? 
+531,garden,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+532,garden,"no garden,w,w,w,w,w,w,w,w,w",Where is John? 
+533,office,"bedroom,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+534,bathroom,"garden,w,w,w,w,w,w,w,w,w,",Where is Daniel? 
+535,garden,"garden, kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway,",Where is Sandra? 
+536,bedroom,"bedroom,w,n,w,n,w,n,w,n,w,",Where is Sandra? 
+537,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom",Where is Sandra? 
+538,hallway,"no office, kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway",Where is Sandra? 
+539,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+540,garden,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is John? 
+541,office,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+542,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Daniel? 
+543,hallway,"office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",Where is John? 
+544,kitchen,"kitchen kitchen kitchen, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen",Where is Daniel? 
+545,garden,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is Sandra? 
+546,kitchen,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is Mary? 
+547,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+548,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+549,bedroom,"bedroom,w,n,n,n,n,n,n,n,n,",Where is Daniel? 
+550,bedroom,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is John? 
+551,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+552,office,"office, kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom,",Where is John? 
+553,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+554,kitchen,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+555,hallway,"no hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom",Where is Sandra? 
+556,kitchen,"hallway bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, bathroom bathroom",Where is Mary? 
+557,bedroom,"hallway,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+558,bedroom,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is Daniel? 
+559,bedroom,"no office, no kitchen, no garden, no kitchen, no garden, no office, no kitchen",Where is Mary? 
+560,garden,"garden,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+561,bedroom,hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+562,garden,"garden, kitchen garden, kitchen garden, kitchen garden, bedroom, kitchen garden, bedroom, kitchen garden",Where is Sandra? 
+563,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Daniel? 
+564,bedroom,"hallway bathroom bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bedroom, bathroom bathroom",Where is Sandra? 
+565,bathroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is John? 
+566,bathroom,"no office, kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway",Where is John? 
+567,kitchen,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, bathroom",Where is Daniel? 
+568,bedroom,"office,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+569,bedroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is Sandra? 
+570,bedroom,"no office, no kitchen, no bedroom, no office, no kitchen, no bedroom, no office",Where is Daniel? 
+571,bedroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Daniel? 
+572,kitchen,"office, kitchen, bathroom, hallway, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is Sandra? 
+573,kitchen,"office, kitchen, bathroom, bedroom, hallway, office, bathroom, hallway, bathroom, bedroom,",Where is John? 
+574,office,"kitchen kitchen, bathroom bathroom, bathroom bedroom, bathroom bedroom, bathroom bedroom, bathroom bedroom, bathroom bedroom",Where is Sandra? 
+575,bathroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+576,bedroom,"no hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom",Where is John? 
+577,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+578,bedroom,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway",Where is Daniel? 
+579,bedroom,"s,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+580,hallway,"no hallway, no garden, no bathroom, no garden, no bathroom, no garden, no bathroom",Where is John? 
+581,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+582,garden,"garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden",Where is Daniel? 
+583,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+584,bedroom,"no hallway, no bathroom, no garden, no bathroom, no garden, no bathroom, no garden",Where is Mary? 
+585,bedroom,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is Sandra? 
+586,garden,"hallway hallway, garden, garden, bathroom, bathroom, garden, bathroom, bathroom, garden, bathroom",Where is Sandra? 
+587,hallway,"hallway,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+588,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+589,bedroom,"garden, kitchen garden, kitchen garden, kitchen garden, bathroom garden, bathroom garden, kitchen garden,",Where is Mary? 
+590,office,"office office, kitchen kitchen, bedroom, office, kitchen kitchen, bedroom, office, kitchen kitchen,",Where is Sandra? 
+591,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+592,office,"hallway bathroom bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, bathroom",Where is John? 
+593,garden,"hallway hallway, bathroom bathroom bathroom bathroom bathroom hallway, bathroom bathroom bathroom bathroom hallway, bathroom bathroom bathroom bathroom",Where is John? 
+594,bathroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is John? 
+595,bathroom,"no,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+596,office,"hallway, bathroom, office, garden, kitchen, bathroom, garden, office, garden, kitchen,",Where is Sandra? 
+597,office,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+598,garden,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+599,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+600,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+601,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+602,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+603,kitchen,"no garden, kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom",Where is Sandra? 
+604,office,"office office, kitchen kitchen, bedroom, office, kitchen kitchen, bedroom, office, kitchen kitchen,",Where is John? 
+605,garden,"one, one, one, one, one, one, one, one, one, one,",Where is Mary? 
+606,kitchen,"hallway, bathroom, office, garden, kitchen, bathroom, garden, office, garden, kitchen,",Where is John? 
+607,hallway,"no garden, kitchen kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office,",Where is John? 
+608,garden,"bedroom bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen",Where is Sandra? 
+609,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+610,kitchen,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+611,office,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is Sandra? 
+612,bathroom,"hallway,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+613,garden,"white, green, green, green, green, green, green, green, green, green,",Where is John? 
+614,bathroom,"bathroom bathroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom",Where is Sandra? 
+615,office,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is Daniel? 
+616,kitchen,"office, kitchen, bedroom,n,n,n,n,n,n,n,",Where is Sandra? 
+617,hallway,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+618,kitchen,"white,n,n,n,n,n,n,n,n,n,",Where is Mary? 
+619,office,"hallway hallway, bathroom, bathroom, bathroom, hallway bathroom, bathroom, bathroom, bathroom, bathroom,",Where is Sandra? 
+620,garden,"office,w,w,w,w,w,w,w,w,w,",Where is John? 
+621,office,"office office, garden, office garden, office garden, office garden, office garden, office garden,",Where is Mary? 
+622,office,"no, no, no, no, no, no, no, no, no, no,",Where is Mary? 
+623,kitchen,"hallway hallway, office, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden",Where is Sandra? 
+624,bathroom,"bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom,",Where is John? 
+625,bedroom,"hallway,w,w,w,w,w,w,w,w,w,",Where is Daniel? 
+626,bathroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is John? 
+627,bathroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is John? 
+628,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+629,bedroom,"office, garden, kitchen garden, kitchen garden, bathroom garden, bathroom garden, bathroom garden, bathroom",Where is John? 
+630,bathroom,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is John? 
+631,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",Where is Mary? 
+632,bedroom,"kitchen kitchen,s,e,e,e,e,e,e,e,e",Where is Mary? 
+633,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+634,garden,"no, no, no, no, no, no, no, no, no, no,",Where is John? 
+635,garden,"bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is John? 
+636,garden,"hallway,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+637,kitchen,"hallway, bathroom, bathroom, bedroom, hallway, bathroom, bedroom, hallway, bathroom, bathroom,",Where is John? 
+638,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+639,bathroom,"bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is Sandra? 
+640,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+641,garden,"hallway, office, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is Daniel? 
+642,bedroom,"office, kitchen, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is Daniel? 
+643,office,hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom,Where is John? 
+644,garden,"no garden, kitchen,w,w,w,w,w,w,w,w",Where is Sandra? 
+645,garden,"kitchen kitchen kitchen, bathroom bathroom, bedroom, kitchen kitchen, bathroom bathroom bedroom, kitchen kitchen kitchen,",Where is Mary? 
+646,hallway,"no hallway, no garden, no office, no kitchen, no garden, no office, no kitchen",Where is Sandra? 
+647,office,"s,s,e,e,e,e,e,e,e,e,",Where is Sandra? 
+648,kitchen,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is Sandra? 
+649,kitchen,"hallway garden, bathroom bathroom, hallway garden, bathroom bathroom bathroom garden, bathroom bathroom garden, bathroom bathroom",Where is Sandra? 
+650,bathroom,"hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom,",Where is Daniel? 
+651,garden,"no, no, no, no, no, no, no, no, no, no,",Where is Sandra? 
+652,kitchen,"kitchen kitchen, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen",Where is Daniel? 
+653,kitchen,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is Mary? 
+654,garden,"hallway garden, kitchen garden, kitchen garden, hallway garden, kitchen garden, hallway garden, kitchen garden",Where is Mary? 
+655,bathroom,"kitchen kitchen kitchen, bedroom, office, office, kitchen kitchen, bedroom, office, kitchen kitchen kitchen",Where is Mary? 
+656,kitchen,"bedroom,w,n,w,n,w,n,w,n,w,",Where is John? 
+657,kitchen,"no hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom",Where is John? 
+658,garden,"garden, office, kitchen, bathroom, bedroom, office, bathroom, bedroom, office, bathroom,",Where is Daniel? 
+659,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+660,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+661,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Sandra? 
+662,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+663,bedroom,"no hallway office, kitchen kitchen, bathroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom",Where is Mary? 
+664,bedroom,"kitchen kitchen, bathroom bathroom, bathroom bedroom, bathroom bedroom, bathroom bedroom, bathroom bedroom, bathroom bedroom",Where is Mary? 
+665,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+666,office,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is Daniel? 
+667,office,"no bedroom,n,n,n,n,n,n,n,n,n",Where is John? 
+668,office,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+669,office,"hallway, bathroom, bedroom, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom,",Where is John? 
+670,bedroom,"kitchen kitchen kitchen, bedroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is John? 
+671,bedroom,"bedroom,w,n,n,n,n,n,n,n,n,",Where is John? 
+672,office,"bedroom bedroom, bedroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom",Where is Daniel? 
+673,bathroom,"hallway garden, bathroom, hallway garden, bathroom bathroom, garden, bathroom bathroom garden, bathroom bathroom garden",Where is Daniel? 
+674,kitchen,"Bill, Bill, Bill, Bill, Bill, Bill, Bill, Bill, Bill, Bill,",Where is Mary? 
+675,bathroom,"no, no, no, no, no, no, no, no, no, no,",Where is Mary? 
+676,office,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+677,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Sandra? 
+678,hallway,"office, kitchen, bedroom,n,n,n,n,n,n,n,",Where is Sandra? 
+679,hallway,"hallway bathroom bathroom, hallway bathroom bathroom, garden, bathroom bathroom garden, bathroom bathroom garden, bathroom bathroom",Where is Sandra? 
+680,kitchen,"hallway, office, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is Daniel? 
+681,kitchen,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is Daniel? 
+682,kitchen,"kitchen kitchen, bathroom bathroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom",Where is Mary? 
+683,office,"office, office, kitchen kitchen, bathroom, bedroom, office, kitchen kitchen, bathroom bathroom, bedroom",Where is Mary? 
+684,bathroom,"no office, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden, garden",Where is Daniel? 
+685,garden,hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+686,bathroom,"bathroom bathroom, bathroom bedroom, bathroom, bathroom bedroom, bathroom bedroom, bathroom bedroom, bathroom bedroom,",Where is Mary? 
+687,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Daniel? 
+688,bathroom,"bedroom,s,e,e,e,e,e,e,e,e,",Where is John? 
+689,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is John? 
+690,garden,"no hallway,w,w,w,w,w,w,w,w,w",Where is Sandra? 
+691,bathroom,"hallway, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where is Sandra? 
+692,bathroom,"one,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+693,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is Sandra? 
+694,garden,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+695,garden,"hallway, bathroom, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden,",Where is Mary? 
+696,garden,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+697,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is Sandra? 
+698,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+699,bedroom,"hallway, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom,",Where is Daniel? 
+700,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+701,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+702,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+703,bathroom,"garden, bathroom bathroom, garden, bathroom bathroom, garden, bathroom bathroom, garden, bathroom bathroom,",Where is John? 
+704,office,"office,n,n,n,n,n,n,n,n,n,",Where is John? 
+705,hallway,"one,s,e,e,e,e,e,e,e,e,",Where is Mary? 
+706,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Mary? 
+707,bathroom,"no office, kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, bathroom",Where is Daniel? 
+708,office,"s,s,s,s,s,s,s,s,s,s,",Where is Sandra? 
+709,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+710,garden,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway, bathroom bathroom",Where is John? 
+711,garden,"garden, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom,",Where is Sandra? 
+712,kitchen,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+713,kitchen,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is Sandra? 
+714,hallway,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+715,garden,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is Sandra? 
+716,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Mary? 
+717,office,"Bill,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+718,hallway,"no kitchen kitchen, no bedroom, no kitchen, no bedroom, no kitchen, no bedroom, no",Where is Mary? 
+719,office,"office, kitchen kitchen, bathroom, bedroom, office, kitchen kitchen, bathroom, bedroom, office,",Where is Sandra? 
+720,garden,"hallway, office, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is Daniel? 
+721,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway, bathroom bathroom",Where is Sandra? 
+722,garden,"hallway hallway, office, bathroom, bathroom, office, bathroom, bathroom, office, bathroom, bathroom",Where is Daniel? 
+723,office,"office,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+724,office,"no garden, kitchen, bathroom, bedroom, bathroom, hallway, bathroom, hallway, bathroom, bathroom",Where is Sandra? 
+725,garden,"s,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+726,office,"no, no, no, no, no, no, no, no, no, no,",Where is John? 
+727,bathroom,bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Mary? 
+728,garden,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+729,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+730,bedroom,"kitchen kitchen kitchen, bathroom bathroom, bedroom, bathroom bathroom, bedroom, bathroom bathroom, bathroom bedroom,",Where is John? 
+731,bedroom,"no, no, no, no, no, no, no, no, no, no,",Where is John? 
+732,hallway,"kitchen kitchen,w,w,w,w,w,w,w,w,w",Where is Sandra? 
+733,office,"kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom,",Where is Mary? 
+734,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+735,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is John? 
+736,bathroom,"no, no, no, no, no, no, no, no, no, no,",Where is Sandra? 
+737,bathroom,"bathroom bathroom bathroom, bathroom bedroom, bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom",Where is John? 
+738,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+739,kitchen,"s,s,e,e,e,e,e,e,e,e,",Where is John? 
+740,garden,"kitchen kitchen kitchen, bedroom, hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom",Where is John? 
+741,garden,"hallway bathroom bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bedroom, bathroom bathroom",Where is John? 
+742,kitchen,"hallway,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+743,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway bathroom bathroom bathroom",Where is Sandra? 
+744,bathroom,"no hallway, no bathroom, no garden, no office, no garden, no office, no garden",Where is Daniel? 
+745,bedroom,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+746,bathroom,"hallway, bathroom, bathroom, bedroom, bathroom, bedroom, bathroom, bathroom, bathroom, bathroom,",Where is John? 
+747,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is John? 
+748,office,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is John? 
+749,kitchen,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is John? 
+750,office,"no hallway, office, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom",Where is Sandra? 
+751,office,"bedroom bedroom, bedroom, garden, garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden",Where is Sandra? 
+752,hallway,"hallway garden, office garden, office garden, garden, office garden, garden, office garden, garden",Where is Daniel? 
+753,bedroom,"bedroom, kitchen garden, kitchen garden, kitchen garden, bedroom, kitchen garden, kitchen garden, bedroom",Where is Mary? 
+754,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Daniel? 
+755,garden,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+756,garden,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Daniel? 
+757,office,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+758,kitchen,"office,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+759,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+760,office,"s,s,e,e,e,e,e,e,e,e,",Where is Sandra? 
+761,bedroom,"hallway,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+762,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+763,garden,"hallway hallway, office, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom",Where is Daniel? 
+764,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway, bathroom bathroom",Where is Daniel? 
+765,kitchen,"hallway hallway bathroom bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom,",Where is Sandra? 
+766,bathroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Daniel? 
+767,kitchen,"hallway office, bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway",Where is John? 
+768,hallway,"hallway, bathroom, bedroom, bathroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is Daniel? 
+769,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+770,bathroom,"garden,apple,football,football,football,football,football,football,football,football,",Where is Daniel? 
+771,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+772,office,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is John? 
+773,office,hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+774,kitchen,"Bill,n,n,n,n,n,n,n,n,n,",Where is Mary? 
+775,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+776,bathroom,"bedroom,s,e,e,e,e,e,e,e,e,",Where is John? 
+777,bathroom,"no garden, kitchen,w,w,w,w,w,w,w,w",Where is John? 
+778,bathroom,"office,n,n,n,n,n,n,n,n,n,",Where is John? 
+779,office,"hallway, office, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden,",Where is Daniel? 
+780,bedroom,"hallway bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, bathroom bathroom",Where is John? 
+781,office,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+782,office,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+783,bathroom,"bathroom bathroom, office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom",Where is John? 
+784,hallway,"hallway, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where is Sandra? 
+785,office,"kitchen kitchen kitchen kitchen hallway, bathroom bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom bathroom hallway,",Where is John? 
+786,office,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+787,hallway,"Bill,e,s,e,e,e,e,e,e,e,",Where is Mary? 
+788,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+789,garden,"hallway, bathroom, bedroom, office, kitchen, bathroom, hallway, bathroom, bedroom, office,",Where is Sandra? 
+790,garden,"no one, no one, no one, no one, no one, no one, no one",Where is Sandra? 
+791,garden,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bedroom",Where is Sandra? 
+792,garden,"no kitchen, no bedroom, no hallway, no garden, no office, no kitchen, no garden",Where is Sandra? 
+793,office,"no hallway, no garden, no kitchen, no bathroom, no bedroom, no hallway, no bathroom",Where is John? 
+794,garden,"garden,n,n,n,n,n,n,n,n,n,",Where is Mary? 
+795,office,"office,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+796,office,"bathroom bathroom bathroom, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom,",Where is Sandra? 
+797,office,"no office, no garden, no kitchen, no garden, no kitchen, no garden, no kitchen",Where is Mary? 
+798,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Sandra? 
+799,office,"office, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom,",Where is Sandra? 
+800,hallway,"kitchen kitchen, bedroom,w,n,w,n,w,n,w,n",Where is Sandra? 
+801,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+802,office,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+803,bedroom,"hallway, garden, kitchen, bathroom, garden, bathroom, hallway, bathroom, garden, bathroom,",Where is Sandra? 
+804,office,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is Mary? 
+805,garden,"bedroom,w,w,w,w,w,w,w,w,w,",Where is John? 
+806,bedroom,"bedroom,w,w,w,w,w,w,w,w,w,",Where is John? 
+807,bedroom,"no hallway, office, kitchen, bathroom, garden, bathroom, garden, bathroom, garden, bathroom",Where is John? 
+808,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Daniel? 
+809,hallway,"Fred,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+810,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+811,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+812,office,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+813,hallway,"hallway,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+814,hallway,"no kitchen, no hallway, no garden, no garden, no garden, no hallway, no garden",Where is Mary? 
+815,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, bathroom bathroom hallway bathroom",Where is Daniel? 
+816,office,"Bill, Bill, Bill, bedroom,n,n,n,n,n,n,",Where is Mary? 
+817,kitchen,"hallway, bathroom, office, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is Daniel? 
+818,garden,"hallway, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden,",Where is John? 
+819,office,"hallway, bathroom, bedroom, office, office, bathroom, bedroom, office, bathroom, bedroom,",Where is Daniel? 
+820,garden,"garden, kitchen garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden",Where is Sandra? 
+821,garden,"kitchen,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+822,bathroom,"white,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+823,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is John? 
+824,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+825,office,"no hallway, no bathroom, no garden, no bedroom, no garden, no bathroom, no garden",Where is Sandra? 
+826,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+827,bedroom,"bedroom, office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway,",Where is Mary? 
+828,bathroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway hallway, bathroom bathroom bathroom bathroom hallway, bathroom bathroom",Where is Mary? 
+829,kitchen,"hallway, office, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is Daniel? 
+830,garden,"hallway garden, kitchen garden, kitchen garden, hallway garden, kitchen garden, hallway garden, kitchen garden",Where is Mary? 
+831,bathroom,"hallway hallway, bathroom bathroom, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom",Where is Sandra? 
+832,garden,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Mary? 
+833,kitchen,"bathroom bathroom bathroom bedroom,w,w,w,w,w,w,w,w",Where is Sandra? 
+834,bedroom,"Bill, Bill, no, no, no, no, no, no, no, no,",Where is Mary? 
+835,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+836,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+837,bathroom,"hallway, office, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where is Daniel? 
+838,office,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+839,hallway,"bedroom bedroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom, bathroom",Where is Sandra? 
+840,garden,"hallway,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+841,garden,"hallway,w,w,w,w,w,w,w,w,w,",Where is Sandra? 
+842,office,"hallway, bathroom, office, bathroom, office, bathroom, hallway, bathroom, office, bathroom,",Where is Daniel? 
+843,kitchen,"kitchen, bathroom, bedroom, bathroom, bedroom, kitchen, bathroom, bedroom, kitchen, bathroom,",Where is John? 
+844,kitchen,"office, kitchen, bathroom, bedroom, hallway, bathroom, hallway, bathroom, bathroom, hallway bathroom",Where is John? 
+845,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+846,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+847,garden,"office,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+848,garden,"office,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+849,office,"hallway garden, office, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden",Where is John? 
+850,bedroom,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+851,hallway,"no hallway, no garden, no office, no kitchen, no garden, no office, no kitchen",Where is Daniel? 
+852,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+853,bedroom,"bedroom, office, office, office, office, office, office, office, office, office,",Where is Daniel? 
+854,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+855,bedroom,"s,w,w,w,w,w,w,w,w,w,",Where is Daniel? 
+856,bedroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+857,bedroom,"bedroom bedroom, bedroom,n,n,n,n,n,n,n,n",Where is John? 
+858,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+859,office,"office, office, kitchen, bathroom, hallway, bathroom, hallway, bathroom, bathroom, hallway,",Where is Mary? 
+860,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+861,garden,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+862,office,"bathroom bathroom, bedroom, bathroom, bedroom, bathroom, bathroom, bedroom, bathroom, bathroom, bedroom",Where is Mary? 
+863,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+864,hallway,"Bill, Fred, Bill, Fred, Fred, Bill, Fred, Fred, Bill, Fred,",Where is Mary? 
+865,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+866,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+867,bedroom,"bedroom,n,n,n,n,n,n,n,n,n,",Where is Mary? 
+868,kitchen,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+869,hallway,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+870,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+871,garden,"office,n,n,n,n,n,n,n,n,n,",Where is John? 
+872,hallway,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+873,hallway,"no hallway, no garden, no kitchen, no bathroom, no garden, no bathroom, no garden",Where is John? 
+874,garden,"kitchen,s,e,e,e,e,e,e,e,e,",Where is Mary? 
+875,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+876,garden,"hallway bathroom bathroom bathroom bathroom hallway, bathroom bathroom bathroom hallway, bathroom bathroom bathroom bathroom hallway, bathroom bathroom",Where is John? 
+877,kitchen,"office, hallway, bathroom, bathroom, garden, office, garden, bathroom, garden, bathroom,",Where is Daniel? 
+878,hallway,"s,s,e,e,e,e,e,e,e,e,",Where is Sandra? 
+879,office,"s,s,s,s,s,s,s,s,s,s,",Where is Sandra? 
+880,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+881,hallway,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+882,office,"white,n,n,n,n,n,n,n,n,n,",Where is Mary? 
+883,office,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+884,hallway,"kitchen kitchen, hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, bathroom",Where is John? 
+885,bedroom,"no, no, no, no, no, no, no, no, no, no,",Where is John? 
+886,bedroom,"Fred, Bill, Fred, Bill, kitchen kitchen, hallway bathroom, hallway bathroom, bathroom bathroom,",Where is Daniel? 
+887,hallway,"hallway, office, bathroom, garden, bathroom, garden, bathroom, garden, bathroom, garden,",Where is Daniel? 
+888,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Sandra? 
+889,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+890,garden,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+891,office,"hallway hallway, bathroom bathroom, bedroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is John? 
+892,garden,"no bedroom, no kitchen, no hallway, no garden, no garden, no kitchen, no garden",Where is John? 
+893,hallway,"hallway,s,e,e,e,e,e,e,e,e,",Where is Mary? 
+894,office,"white, green, green, green, white, green, white, green, white, green,",Where is John? 
+895,office,"office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office,",Where is John? 
+896,garden,"office,n,n,n,n,n,n,n,n,n,",Where is Sandra? 
+897,hallway,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is Sandra? 
+898,garden,"office,s,s,s,s,s,s,s,s,s,",Where is John? 
+899,office,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+900,bathroom,"hallway, bathroom, bathroom, bedroom, hallway, bathroom, bedroom, bathroom, hallway, bathroom,",Where is Daniel? 
+901,bathroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+902,garden,"no one, no one, no one, no one, no one, no one, no one",Where is John? 
+903,office,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+904,garden,hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+905,garden,"garden, kitchen kitchen, bathroom bathroom, bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom",Where is Sandra? 
+906,kitchen,"kitchen kitchen kitchen, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom,",Where is Sandra? 
+907,kitchen,"no office, kitchen, bedroom,n,n,n,n,n,n,n",Where is Sandra? 
+908,office,"hallway, bathroom, bathroom, bedroom, bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom",Where is Daniel? 
+909,office,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is Mary? 
+910,bedroom,"bedroom, kitchen, hallway, bathroom, hallway bathroom, bathroom, hallway bathroom, bathroom bathroom, bathroom",Where is Daniel? 
+911,bedroom,"kitchen,s,e,e,e,e,e,e,e,e,",Where is Mary? 
+912,office,"no, no, no, no, no, no, no, no, no, no,",Where is John? 
+913,hallway,"office, kitchen, bathroom, bedroom, kitchen, bathroom, bedroom, office, kitchen, bathroom,",Where is Daniel? 
+914,garden,"garden, office, kitchen, bathroom, bathroom, garden, office, bathroom, garden, kitchen,",Where is Mary? 
+915,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+916,hallway,"no, no, no, no, no, no, no, no, no, no,",Where is Sandra? 
+917,garden,"garden, kitchen, bathroom, bedroom, kitchen, bathroom, bedroom, bathroom, bedroom, bathroom,",Where is Mary? 
+918,garden,"hallway,s,e,e,e,e,e,e,e,e,",Where is Mary? 
+919,bedroom,"hallway,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+920,bathroom,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+921,hallway,"kitchen kitchen kitchen kitchen kitchen hallway, bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is Mary? 
+922,hallway,"s office,n,n,n,n,n,n,n,n,n",Where is Daniel? 
+923,kitchen,"kitchen kitchen,n,n,n,n,n,n,n,n,n",Where is Mary? 
+924,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+925,bathroom,"office, office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom,",Where is Mary? 
+926,office,"hallway,s,e,e,e,e,e,e,e,e,",Where is Daniel? 
+927,kitchen,"white,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+928,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom, hallway bathroom bathroom,",Where is Daniel? 
+929,bathroom,"no, no, no, no, no, no, no, no, no, no,",Where is Mary? 
+930,office,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is Sandra? 
+931,office,"hallway, office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office,",Where is Daniel? 
+932,bedroom,"office, garden, kitchen garden, kitchen garden, garden, kitchen garden, garden, kitchen garden,",Where is John? 
+933,office,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Sandra? 
+934,kitchen,"kitchen kitchen kitchen, hallway bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom",Where is Sandra? 
+935,hallway,"no hallway, bathroom, garden, kitchen, bathroom, garden, kitchen, bathroom, garden, bathroom",Where is John? 
+936,hallway,"office, kitchen, bathroom, bedroom, office, bathroom, bedroom, office, bathroom, bedroom,",Where is John? 
+937,garden,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+938,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is Sandra? 
+939,bedroom,"hallway, bathroom, garden, kitchen, bathroom, garden, bathroom, garden, bathroom, garden,",Where is Sandra? 
+940,bedroom,"no bedroom, no kitchen, no garden, no office, no garden, no kitchen, no garden",Where is John? 
+941,office,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+942,office,"office office, bathroom bathroom, bathroom bedroom, office, bathroom bedroom, office, bathroom bedroom, office",Where is Daniel? 
+943,kitchen,"office, kitchen, bedroom, kitchen, bedroom, office, kitchen, bedroom, office, kitchen,",Where is John? 
+944,hallway,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+945,office,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is Sandra? 
+946,bathroom,"bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",Where is Mary? 
+947,bathroom,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is Sandra? 
+948,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+949,bedroom,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom hallway, bathroom bathroom bathroom",Where is Daniel? 
+950,hallway,"garden, kitchen, bathroom, hallway, bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom",Where is John? 
+951,kitchen,"bedroom,w,w,w,w,w,w,w,w,w,",Where is John? 
+952,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+953,kitchen,"office, office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office,",Where is Mary? 
+954,office,"hallway garden, bathroom bathroom, hallway garden, bathroom bathroom bathroom garden, hallway garden, bathroom bathroom bathroom",Where is Sandra? 
+955,office,"no bedroom,s,e,e,e,e,e,e,e,e",Where is John? 
+956,kitchen,"no garden, kitchen, office, kitchen, office, kitchen, office, garden, kitchen, garden",Where is John? 
+957,garden,"no, no, no, no, no, no, no, no, no, no,",Where is Sandra? 
+958,kitchen,"no one, no one, no one, no one, no one, no one, no one",Where is Sandra? 
+959,bedroom,"s,s,s,s,s,s,s,s,s,s,",Where is John? 
+960,hallway,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is Mary? 
+961,bathroom,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+962,bathroom,"office, kitchen, bedroom, office, kitchen, bedroom, office, kitchen, bedroom, office,",Where is John? 
+963,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+964,garden,"garden, office, kitchen garden, kitchen garden, office garden, kitchen garden, garden, kitchen garden",Where is Mary? 
+965,garden,"s office,s,s,s,s,s,s,s,s,s",Where is Daniel? 
+966,bathroom,"bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom, bathroom bedroom, bathroom bathroom",Where is Mary? 
+967,bathroom,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+968,hallway,"hallway hallway, bathroom bathroom, bathroom bedroom, bathroom bedroom, hallway bathroom bedroom, bathroom bedroom, bathroom",Where is Mary? 
+969,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+970,bathroom,"hallway,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+971,kitchen,"s,s,s,s,s,s,s,s,s,s,",Where is Daniel? 
+972,bathroom,"office, kitchen, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen,",Where is Sandra? 
+973,hallway,"office,n,n,n,n,n,n,n,n,n,",Where is Daniel? 
+974,hallway,"hallway garden, bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is Daniel? 
+975,bedroom,"hallway, bathroom, bathroom, bedroom, bathroom, hallway, bathroom, bathroom, bathroom, bathroom,",Where is Daniel? 
+976,office,"hallway bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, hallway bathroom bathroom bathroom bedroom, bathroom bathroom",Where is John? 
+977,office,"office,n,n,n,n,n,n,n,n,n,",Where is John? 
+978,bedroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+979,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+980,kitchen,"no, no, no, no, no, no, no, no, no, no,",Where is Mary? 
+981,bathroom,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+982,bedroom,"bedroom,s,s,s,s,s,s,s,s,s,",Where is Sandra? 
+983,office,"no one, no one, no one, no one, no one, no one, no one",Where is Sandra? 
+984,garden,"gray, green, green, green, green, green, green, green, green, green,",Where is Mary? 
+985,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+986,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+987,office,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+988,bathroom,"bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is John? 
+989,bathroom,"bathroom bathroom bathroom bedroom, office, bathroom bathroom bedroom, office, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is John? 
+990,garden,"s,s,e,e,e,e,e,e,e,e,",Where is Sandra? 
+991,kitchen,"hallway hallway, bathroom bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bathroom hallway bathroom bathroom bathroom",Where is Sandra? 
+992,garden,"bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is John? 
+993,garden,"hallway, bathroom, bathroom, hallway bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom, bathroom bathroom",Where is Daniel? 
+994,garden,"no one, no one, no one, no one, no one, no one, no one",Where is Mary? 
+995,kitchen,"no park,n,n,n,n,n,n,n,n,n",Where is John? 
+996,hallway,"hallway, bathroom, bathroom, hallway, bathroom, bathroom, hallway, bathroom, bathroom, bathroom,",Where is Sandra? 
+997,office,"no hallway, bathroom, bedroom, office, kitchen, bathroom, bedroom, office, kitchen, bathroom",Where is Sandra? 
+998,bathroom,"bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is Sandra? 
+999,bedroom,"s garden,s,s,s,s,s,s,s,s,s",Where is John? 

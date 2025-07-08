@@ -1,0 +1,125 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tuned-lens"
+description = "Tools for understanding how transformer predictions are built layer-by-layer"
+readme = "README.md"
+requires-python = ">=3.9"
+keywords = ["nlp", "interpretability", "language-models", "explainable-ai"]
+license = {text = "MIT License"}
+dependencies = [
+    "accelerate>=0.27.0",
+    "datasets>=2.17.1",
+    "plotly>=5.13.1",
+    "torchdata>=0.6.0",
+    "torch>=2.0,!=2.3.0",
+    "transformers>=4.38.1",
+    "huggingface_hub>=0.16.4",
+    "simple-parsing>=0.1.4",
+    "flatten-dict>=0.4.1",
+    "wandb>=0.15.0",
+]
+version = "0.2.0"
+
+[project.optional-dependencies]
+dev = [
+    "pre-commit",
+    "bump2version",
+    "pytest-skip-slow",
+    "pytest",
+]
+docs = [
+    "furo",
+    "myst-parser",
+    "sphinx",
+    "sphinx-autodoc-typehints",
+    "sphinx-rtd-theme",
+    "nbsphinx",
+]
+test = [
+    "sentencepiece>=0.1.99",
+    "transformer-lens>=1.2.2",
+    "pytest-skip-slow",
+    "pytest-cov",
+    "nbmake",
+    "pytest",
+    "mock",
+]
+transformer_lens = [
+    "transformer-lens>=1.2.2"
+]
+slow_tokenizers = [
+    "sentencepiece>=0.1.99"
+]
+notebooks = [
+    "ipywidgets",
+]
+8bit = [
+    "bitsandbytes",
+]
+
+[project.scripts]
+tuned-lens = "tuned_lens.__main__:main"
+
+[tool.setuptools.packages.find]
+namespaces = false
+
+[tool.ruff]
+select = ["E", "F", "D", "I"]
+ignore = []
+
+# Allow autofix for all enabled rules (when `--fix`) is provided.
+fixable = ["A", "B", "C", "D", "E", "F", "I"]
+unfixable = []
+
+# Exclude a variety of commonly ignored directories.
+exclude = [
+    ".bzr",
+    ".direnv",
+    ".eggs",
+    ".git",
+    ".hg",
+    ".mypy_cache",
+    ".nox",
+    ".pants.d",
+    ".pytype",
+    ".ruff_cache",
+    ".svn",
+    ".tox",
+    ".venv",
+    "__pypackages__",
+    "_build",
+    "buck-out",
+    "build",
+    "dist",
+    "node_modules",
+    "venv",
+]
+
+# Same as Black.
+line-length = 88
+
+# Allow unused variables when underscore-prefixed.
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+
+# Assume Python 3.10.
+target-version = "py310"
+
+[tool.ruff.mccabe]
+# Unlike Flake8, default to a complexity level of 10.
+max-complexity = 10
+
+[tool.ruff.pydocstyle]
+convention = "google"
+
+[tool.ruff.per-file-ignores]
+"__init__.py" = ["F401"]
+"docs/**.py" = ["D"]
+"tests/**.py" = ["D"]
+"tuned_lens/causal/**.py" = ["D"]
+
+[tool.pytest.ini_options]
+log_cli = true
+log_cli_level = "DEBUG"

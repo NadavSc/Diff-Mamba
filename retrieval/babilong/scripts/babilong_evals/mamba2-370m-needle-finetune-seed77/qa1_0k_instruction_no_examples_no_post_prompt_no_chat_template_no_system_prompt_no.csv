@@ -1,0 +1,101 @@
+,target,output,question
+0,bathroom,"bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is Daniel? 
+1,bathroom,bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+2,garden,garden garden garden office kitchen garden office kitchen garden garden office kitchen garden garden garden office kitchen garden garden garden,Where is John? 
+3,office,office garden garden hallway bathroom bathroom bathroom hallway garden garden garden hallway bathroom bathroom bathroom bathroom hallway garden garden garden,Where is Mary? 
+4,garden,garden bathroom bathroom bathroom hallway garden bathroom bathroom hallway garden bathroom bathroom bathroom hallway garden bathroom bathroom bathroom hallway garden,Where is Sandra? 
+5,garden,"garden garden garden, bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is Sandra? 
+6,kitchen,kitchen kitchen bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+7,kitchen,"bathroom bathroom bathroom garden garden garden kitchen garden, bathroom bathroom garden garden garden kitchen garden, bathroom bathroom garden",Where is Sandra? 
+8,office,bathroom bathroom bathroom hallway bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+9,office,office office office bathroom bathroom bathroom garden garden garden bathroom bathroom bathroom garden garden garden bathroom bathroom bathroom garden garden,Where is Mary? 
+10,bedroom,"hallway hallway bedroom, hallway hallway bathroom, bathroom bathroom, hallway bathroom bathroom, bathroom bathroom bedroom, bathroom",Where is Daniel? 
+11,bedroom,"bedroom bedroom office hallway office, hallway office, bedroom bedroom office hallway office, bedroom bedroom office hallway office",Where is Mary? 
+12,office,office bathroom bathroom bathroom hallway hallway hallway bathroom bathroom bathroom bathroom hallway hallway bathroom bathroom bathroom bathroom hallway hallway bathroom,Where is John? 
+13,hallway,garden garden garden bathroom bathroom bathroom hallway garden bathroom bathroom bathroom hallway garden bathroom bathroom bathroom hallway garden bathroom bathroom,Where is Daniel? 
+14,garden,garden garden garden office bathroom bathroom bathroom garden garden garden bathroom bathroom bathroom garden garden garden bathroom bathroom bathroom garden,Where is Mary? 
+15,kitchen,"kitchen kitchen kitchen garden, garden, kitchen kitchen garden, kitchen garden, kitchen garden, kitchen garden,",Where is Mary? 
+16,hallway,"hallway hallway kitchen kitchen kitchen garden, hallway garden, kitchen garden, hallway garden, kitchen garden, hallway",Where is Sandra? 
+17,garden,garden garden kitchen garden kitchen garden hallway garden garden kitchen garden hallway garden garden kitchen garden garden hallway garden garden,Where is Mary? 
+18,garden,kitchen garden garden garden office bathroom bathroom bathroom garden garden garden office bathroom bathroom bathroom garden garden garden garden bathroom,Where is Mary? 
+19,bedroom,"office office bedroom bedroom bedroom office office garden, bathroom bedroom bedroom garden, bathroom bathroom bedroom bedroom garden,",Where is Daniel? 
+20,bathroom,bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+21,hallway,garden garden hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Mary? 
+22,hallway,office office office hallway hallway bathroom bathroom bathroom bathroom bathroom hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+23,kitchen,kitchen kitchen kitchen hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Mary? 
+24,bedroom,bedroom bedroom bedroom hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+25,bathroom,"bathroom bathroom bathroom garden bathroom garden garden, bathroom bathroom garden garden, bathroom bathroom garden garden, bathroom bathroom",Where is Mary? 
+26,office,"office office office bathroom bathroom bathroom bedroom, office office bathroom bathroom bedroom, office bathroom bathroom bedroom, office",Where is Daniel? 
+27,kitchen,kitchen kitchen office bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+28,office,"office office office garden kitchen garden, bathroom bathroom bathroom garden kitchen garden, bathroom bathroom garden kitchen garden,",Where is Daniel? 
+29,bathroom,bathroom bathroom bathroom bedroom bedroom office bathroom bathroom bathroom bedroom bedroom office bathroom bathroom bathroom bedroom bedroom office bathroom bathroom,Where is Mary? 
+30,office,"bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is Sandra? 
+31,office,"bedroom bedroom office office, bedroom bedroom office, bedroom bedroom office, bedroom bedroom office, bedroom bedroom office",Where is Daniel? 
+32,bedroom,"bedroom bedroom office office garden kitchen garden kitchen garden, bedroom bedroom office garden kitchen garden, bedroom bedroom garden",Where is John? 
+33,office,"office office garden kitchen garden, kitchen garden, bathroom garden, bathroom garden, bathroom garden, bathroom garden",Where is Sandra? 
+34,kitchen,"kitchen kitchen garden, office kitchen garden, kitchen garden, office kitchen garden, kitchen garden, office kitchen",Where is Sandra? 
+35,hallway,hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+36,hallway,hallway hallway garden garden garden bathroom bathroom bathroom bathroom hallway garden garden bathroom bathroom bathroom bathroom hallway garden garden bathroom,Where is John? 
+37,garden,garden hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+38,bedroom,bedroom bedroom hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+39,bedroom,bedroom bedroom hallway bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom,Where is Sandra? 
+40,bedroom,"bedroom bedroom, kitchen kitchen kitchen, bedroom bedroom, kitchen kitchen, bedroom bedroom, kitchen kitchen, bedroom",Where is John? 
+41,office,"office office kitchen kitchen kitchen kitchen bedroom, office kitchen kitchen kitchen kitchen bedroom, office kitchen kitchen kitchen kitchen",Where is Daniel? 
+42,office,"office office office bathroom bathroom bathroom bedroom, office office bathroom bathroom bathroom bedroom, office bathroom bathroom bathroom bedroom",Where is Daniel? 
+43,kitchen,kitchen garden kitchen garden garden office bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+44,hallway,bathroom bathroom bathroom hallway bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom,Where is Daniel? 
+45,office,office kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen,Where is Sandra? 
+46,bathroom,bathroom bathroom bathroom bedroom bedroom kitchen kitchen kitchen kitchen kitchen kitchen hallway bathroom bathroom bathroom bedroom bedroom kitchen kitchen kitchen,Where is Mary? 
+47,bathroom,"kitchen kitchen bathroom bathroom bathroom bedroom bedroom, kitchen kitchen bathroom bathroom bathroom bedroom bedroom, kitchen kitchen bathroom bathroom",Where is Sandra? 
+48,kitchen,kitchen kitchen bathroom bathroom bathroom garden garden office bathroom bathroom garden garden office bathroom bathroom garden garden office bathroom bathroom,Where is Mary? 
+49,bedroom,"kitchen kitchen bedroom bedroom bedroom garden bedroom, kitchen kitchen garden bedroom bedroom garden bedroom kitchen kitchen garden bedroom bedroom",Where is Daniel? 
+50,hallway,"hallway hallway, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom, hallway bathroom, bathroom bathroom",Where is John? 
+51,kitchen,"kitchen kitchen hallway hallway hallway bathroom, bathroom bathroom bathroom hallway hallway bathroom bathroom bathroom bathroom hallway hallway bathroom bathroom",Where is John? 
+52,kitchen,kitchen kitchen hallway garden garden hallway garden garden kitchen hallway garden garden garden kitchen hallway garden garden garden garden garden,Where is Sandra? 
+53,kitchen,office office kitchen hallway hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Mary? 
+54,office,office garden kitchen garden garden kitchen garden hallway garden garden kitchen garden hallway garden garden kitchen garden garden hallway garden,Where is Sandra? 
+55,office,"bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is John? 
+56,kitchen,bathroom bathroom bathroom kitchen kitchen kitchen bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is John? 
+57,garden,garden garden bathroom bathroom bathroom bedroom bedroom bedroom bathroom bathroom bathroom bathroom bedroom bedroom bedroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+58,kitchen,kitchen garden garden garden kitchen garden garden bedroom garden garden kitchen garden garden garden garden garden kitchen garden garden garden,Where is Sandra? 
+59,bedroom,"bedroom bedroom bedroom garden kitchen garden, kitchen garden, bathroom bathroom garden, bathroom bathroom garden, bathroom bathroom",Where is John? 
+60,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Mary? 
+61,bathroom,bathroom bathroom bathroom bedroom bedroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+62,bathroom,"bathroom bathroom bathroom bedroom bedroom, bathroom bathroom bathroom bedroom bedroom, bathroom bathroom bathroom bedroom bedroom, bathroom bathroom",Where is John? 
+63,bedroom,kitchen bedroom bedroom bedroom kitchen kitchen hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Mary? 
+64,garden,"office garden office office garden kitchen garden, bathroom bathroom bathroom garden kitchen garden, bathroom bathroom bathroom garden kitchen",Where is Mary? 
+65,garden,"office office, garden garden, garden kitchen garden, kitchen garden, garden kitchen garden, garden garden,",Where is Daniel? 
+66,bathroom,"bathroom bathroom bathroom bedroom bedroom office office office garden, bathroom bathroom bedroom bedroom garden, bathroom bathroom bedroom bedroom",Where is Mary? 
+67,bathroom,"bathroom bathroom bathroom bedroom bedroom, bathroom bathroom bathroom bedroom bedroom, bathroom bathroom bedroom bedroom, bathroom bathroom bedroom",Where is Daniel? 
+68,hallway,hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Mary? 
+69,kitchen,kitchen kitchen bathroom bathroom bathroom hallway bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom,Where is Sandra? 
+70,bathroom,"bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is Daniel? 
+71,kitchen,kitchen kitchen kitchen bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Daniel? 
+72,bathroom,bathroom bathroom bathroom kitchen kitchen kitchen kitchen bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+73,hallway,hallway hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom hallway bathroom,Where is Daniel? 
+74,hallway,garden garden garden hallway bathroom bathroom bathroom garden hallway bathroom bathroom bathroom garden hallway bathroom bathroom bathroom garden hallway bathroom,Where is Daniel? 
+75,bedroom,"bathroom bathroom bedroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is Daniel? 
+76,office,"bedroom bedroom, office bedroom, office, bedroom, office, bedroom, bedroom, office, bedroom,",Where is John? 
+77,office,"office office bedroom, office bedroom, bedroom bedroom, office bedroom, bedroom, office bedroom, bedroom,",Where is John? 
+78,bedroom,"bedroom bedroom kitchen kitchen kitchen garden, bathroom bathroom bathroom bedroom kitchen garden, bathroom bathroom bathroom bathroom bathroom bathroom",Where is Mary? 
+79,hallway,hallway bathroom bathroom bathroom bedroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+80,kitchen,"bedroom bedroom kitchen kitchen kitchen kitchen hallway,w,w,w,w,w,w,",Where is Mary? 
+81,bathroom,"bathroom bathroom bathroom bedroom bedroom, bathroom bathroom bathroom bedroom bedroom, bathroom bathroom bedroom bedroom, bathroom bathroom bedroom",Where is Mary? 
+82,bedroom,"bathroom bedroom bedroom garden garden, bathroom bedroom garden, bathroom bedroom garden, bathroom bedroom garden, bathroom bedroom",Where is Sandra? 
+83,office,office office bathroom bathroom bedroom garden garden garden bathroom bathroom bedroom garden garden garden bathroom bathroom bedroom garden garden garden,Where is Sandra? 
+84,garden,office garden kitchen garden garden kitchen garden garden garden kitchen garden garden garden garden kitchen garden garden garden garden garden,Where is Mary? 
+85,garden,"kitchen kitchen garden, garden kitchen kitchen garden, garden kitchen kitchen garden, garden kitchen kitchen garden, garden",Where is Sandra? 
+86,garden,"bedroom bedroom kitchen kitchen kitchen garden, bathroom bathroom bedroom garden, bathroom bathroom garden, bathroom bathroom garden,",Where is Sandra? 
+87,office,"office office bathroom bathroom bedroom bedroom, office office bathroom bathroom bathroom bedroom bedroom, bathroom bathroom bathroom bedroom bedroom",Where is Mary? 
+88,bathroom,"bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bedroom, bathroom bathroom bathroom bedroom,",Where is John? 
+89,bathroom,"bathroom bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom, bathroom bathroom bedroom",Where is John? 
+90,garden,garden hallway hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+91,kitchen,kitchen kitchen hallway hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+92,garden,garden garden garden kitchen garden garden garden kitchen garden garden garden garden garden garden garden garden garden garden garden garden,Where is John? 
+93,garden,garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden,Where is Daniel? 
+94,garden,garden garden garden office garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden,Where is Mary? 
+95,kitchen,"kitchen kitchen kitchen, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen",Where is John? 
+96,hallway,"hallway hallway, kitchen kitchen hallway, hallway bathroom, bathroom bathroom hallway, bathroom bathroom hallway, bathroom bathroom",Where is Sandra? 
+97,office,office hallway hallway bathroom bathroom bathroom bedroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is Sandra? 
+98,bathroom,bathroom bathroom bathroom bedroom bedroom hallway hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom,Where is Sandra? 
+99,bedroom,bedroom bedroom garden garden office office bathroom bathroom bathroom garden garden garden office bathroom bathroom bathroom garden garden garden garden,Where is John? 

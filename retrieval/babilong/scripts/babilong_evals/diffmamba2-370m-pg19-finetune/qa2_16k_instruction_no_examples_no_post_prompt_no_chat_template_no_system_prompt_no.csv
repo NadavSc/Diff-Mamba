@@ -1,0 +1,3152 @@
+,target,output,question
+0,hallway,"""I said, I will go and fetch it, and return presently. I went to",Where is the milk? 
+1,hallway,"Answer: In the field.
+
+Question: What is the name of the football?",Where is the football? 
+2,hallway,"Answer: In the field.
+
+""I'm going to have a little game with",Where is the football? 
+3,hallway,"Answer: In the Park.
+
+Q. What is the name of the football?",Where is the football? 
+4,garden,"Answer: The milk is in the house.
+
+K. was a little surprised,",Where is the milk? 
+5,garden,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+6,bedroom,"Answer: In the field.
+
+The question is, Where is the football?",Where is the football? 
+7,bedroom,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+8,kitchen,"Answer: In the British Museum.
+
+Question: What is the name of the game",Where is the football? 
+9,kitchen,"Answer: In the park.
+
+Question: What is the football?
+
+Answer",Where is the football? 
+10,bedroom,"Answer: In the field.
+
+Q. What is the name of the town?",Where is the football? 
+11,hallway,"Answer: In the gymnasium.
+
+""You'll find it a good place",Where is the football? 
+12,garden,"Answer: In the cellar.
+
+Q: Are you ready to go to the Castle",Where is the milk? 
+13,garden,"Answer: In the heart of the world.
+
+Question: Where is the milk?",Where is the milk? 
+14,bathroom,"Answer: In the apple-tree.
+
+Q. What is the apple?",Where is the apple? 
+15,garden,"Answer: In the King's closet.
+
+[Sidenote: LONDON]",Where is the milk? 
+16,garden,"Answer: In the King's closet, and the Queen's closet, and in the",Where is the milk? 
+17,garden,"Answer: In the cow's udder.
+
+Q. What is the name of",Where is the milk? 
+18,kitchen,"Answer: In the apple tree.
+
+Q. What is the apple?",Where is the apple? 
+19,kitchen,"Answer: In the apple-tree.
+
+[Illustration: The apple-tree.]",Where is the apple? 
+20,bedroom,Answer: I'm not sure. I'm not sure. I'm not sure. I,Where is the apple? 
+21,bedroom,"""I--I--I--I--I--I--I--I--I",Where is the apple? 
+22,bathroom,"Answer: In the pocket of the coat.
+
+""The next time you go to",Where is the football? 
+23,bathroom,"Answer: In the pantry.
+
+""What is the name of the man who",Where is the football? 
+24,bedroom,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+25,kitchen,"Answer: In the house.
+
+Question: Where is the milk?
+Answer: In",Where is the milk? 
+26,kitchen,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+27,bathroom,"Answer: In the King’s hand.
+
+The King’s hand is the",Where is the apple? 
+28,bathroom,"A: In the apple-tree.
+
+Q: What is the apple?",Where is the apple? 
+29,kitchen,"Answer: In the King’s own house.
+
+Question: What is the milk",Where is the milk? 
+30,garden,"Answer: In the apple-tree.
+
+Question: What is the apple? Answer: The",Where is the apple? 
+31,garden,"""I am very much obliged to you,"" said Gryce, ""for your attention",Where is the apple? 
+32,kitchen,"""You have been in the habit of telling me that you have never been
+acqu",Where is the football? 
+33,kitchen,"Answer: In the garden of the temple of Apollo at Delos.
+
+[Illustration",Where is the apple? 
+34,kitchen,"Answer: In the apple-tree.
+
+[Illustration: Fig. 1.",Where is the apple? 
+35,office,"Answer: The milk is in the house.
+
+Question: Where is the milk?",Where is the milk? 
+36,kitchen,"Answer: In the South West district.
+
+""The Blackfeet Confederacy is a",Where is the football? 
+37,kitchen,"Answer: In the yard.
+
+""I don't know what you-uns means",Where is the football? 
+38,kitchen,"Answer: In the old place.
+
+[Illustration: ""I am a stranger,",Where is the football? 
+39,bedroom,"Answer: In the cow.
+
+[Illustration: Fig. 1.
+
+A",Where is the milk? 
+40,bedroom,"Answer: In the cow.
+
+[Footnote 26: ""The milk of the cow",Where is the milk? 
+41,office,"Answer: In the cave of the rock.
+
+Q. What is the name of",Where is the milk? 
+42,office,"Answer: In the kitchen.
+
+Question: What is the milk?
+
+Answer",Where is the milk? 
+43,office,"Answer: In the _Laws_ of _France_ and _England_.
+
+Question",Where is the milk? 
+44,kitchen,"Answer: In the tree.
+
+[Illustration: The apple]
+
+[Illustration:",Where is the apple? 
+45,bedroom,"Answer: In the milk of the Church.
+
+[Illustration: Fig. 1.",Where is the milk? 
+46,office,"Answer: In the garden of the palace of the Emperor.
+
+
+
+
+CHAPTER III.",Where is the football? 
+47,bathroom,"Answer: The football is in the schoolroom.
+
+Question: What is the school",Where is the football? 
+48,bathroom,"Answer: In the _Lullies_ of the _Algebra_.
+
+Question:",Where is the football? 
+49,bedroom,"Where is the water? Where is the fire? Where
+is the air? Where is the earth",Where is the milk? 
+50,bathroom,"Answer: In the house.
+
+Question: What is the milk?
+Answer: The",Where is the milk? 
+51,hallway,"""I will go with you, and you will find the apple. I will go with",Where is the apple? 
+52,kitchen,"Answer: In the old church.
+
+Q. What is the name of the old",Where is the football? 
+53,kitchen,Answer: In the _Bible_ and in the _Book of Job_.,Where is the football? 
+54,kitchen,"Answer: In the library.
+
+""I'll go and see,"" said Mrs. She",Where is the football? 
+55,bathroom,"Answer: In the garden, where you will find it
+in the morning.
+
+Question:",Where is the apple? 
+56,bathroom,"Answer: In the milk-pail.
+
+""What is the name of this young",Where is the milk? 
+57,kitchen,"Answer: In the parlor.
+
+""What is the matter with the milk?""",Where is the milk? 
+58,kitchen,"Answer: In the house.
+
+""What is the name of the man who lives",Where is the milk? 
+59,bedroom,"Answer: In the mouth of the child.
+
+The question is, ""Where is",Where is the apple? 
+60,garden,"Answer: In the milk of the human body.
+
+[1] _The Church",Where is the milk? 
+61,garden,"Answer: In the milk-pail.
+
+Question: How did you get it",Where is the milk? 
+62,kitchen,"Answer: The football is in the field.
+
+Question: What is the name of",Where is the football? 
+63,kitchen,"Answer: In the ""Battle of the Bays,"" in the ""Battle of",Where is the football? 
+64,kitchen,"Answer: In the Piazzetta side of the palace.
+
+The question is",Where is the football? 
+65,kitchen,"Answer: In the field.
+
+[Illustration: Fig. I.]
+
+[",Where is the football? 
+66,kitchen,"[Illustration: The ball is a ball.]
+
+[Illustration: The ball is a",Where is the football? 
+67,bedroom,"Answer: In the milk-pail.
+
+Q. What is the milk?",Where is the milk? 
+68,bedroom,"Answer: In the Hospice.
+
+Inglis was a woman of great",Where is the milk? 
+69,bedroom,"Answer: Inglis and three other people of the unit were living in the
+vill",Where is the football? 
+70,garden,"Answer: In the apple tree.
+
+[Illustration: The apple tree.]",Where is the apple? 
+71,garden,"Answer: In the garden.
+
+Question: Where is the apple?
+
+Answer",Where is the apple? 
+72,bathroom,"Answer: In the apple-tree.
+
+[Illustration: Paine's ""Address",Where is the apple? 
+73,bathroom,"Answer: In the garden of the old mansion of the Paine family, near
+Fl",Where is the apple? 
+74,bathroom,"Answer: In the kitchen.
+
+[11]
+
+[12] The W",Where is the apple? 
+75,office,"[Footnote: The first part of the text is taken from the first edition,
+and",Where is the apple? 
+76,hallway,"Answer: In the house of the Sjuttan, or in the house of the",Where is the milk? 
+77,hallway,"Answer: In the barn.
+
+Question: What is the name of the cow?",Where is the milk? 
+78,hallway,"Answer: In the cellar.
+
+Question: What is the price of the milk?",Where is the milk? 
+79,hallway,"_Answer_: The milk is in the hands of the Government.
+
+_Lord Wol",Where is the milk? 
+80,bathroom,"Answer: In the field.
+
+Q. What is the name of the game?",Where is the football? 
+81,bathroom,"Answer: In the first place, the football is a very common game in
+England,",Where is the football? 
+82,kitchen,"Answer: In the garden.
+
+[Footnote 64: The word ""fence""",Where is the football? 
+83,kitchen,"Answer: In the football field.
+
+[Illustration]
+
+[Illustration]",Where is the football? 
+84,kitchen,"""Your Government will be left free to govern the country without
+interference, and to",Where is the football? 
+85,bathroom,"Answer: The milk is in the mountains.
+
+Question: What is the name of the",Where is the milk? 
+86,kitchen,"Paine: In the apple-tree.
+
+Paine: I have been a",Where is the apple? 
+87,bathroom,"Paine's answer was, ""I believe in the same principle of the
+Divine",Where is the milk? 
+88,bedroom,"Answer: In the field.
+
+Question: What is the football?
+
+Answer",Where is the football? 
+89,kitchen,"[15]
+
+[16] The first of these two is the one which is",Where is the apple? 
+90,kitchen,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+91,kitchen,"Answer: In the cellar.
+
+Question: Where is the butter?
+Answer: In",Where is the milk? 
+92,kitchen,"Answer: In the stable.
+
+SIR TRISTRAM. [_To the Doctor",Where is the milk? 
+93,kitchen,"Answer: In the ground.
+
+Q. What is the reason of the mule",Where is the milk? 
+94,kitchen,"Answer: In the house.
+
+Q. What is the name of the place?",Where is the milk? 
+95,bathroom,[Footnote 668: The fountains.--Ver. The fountains are the,Where is the football? 
+96,bathroom,"Answer: In the field.
+
+Question: What is the name of the football?",Where is the football? 
+97,bathroom,"Answer: The football is a game played in the United States, in which the players are",Where is the football? 
+98,bathroom,"Answer: In the field.
+
+Question: Where is the football?
+Answer: In",Where is the football? 
+99,hallway,"Answer: In the _Mesdames_ of the _Mesdames_
+of",Where is the milk? 
+100,office,Answer: In the _Mosque of the Holy Sepulchre_.,Where is the milk? 
+101,office,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+102,kitchen,"Answer: In the heart of the devil.
+
+""The Jesuit, who had",Where is the milk? 
+103,kitchen,"Answer: In the cow’s milk-pail.
+
+Question: What is",Where is the milk? 
+104,bedroom,"Answer: At Tandridge, where the Tandridge Shire Horse Society has",Where is the football? 
+105,bathroom,"Bath, use of, in chronic intestinal catarrh, 714
+
+B",Where is the football? 
+106,bedroom,"Answer: In the hand.
+
+[Illustration: P. L. P. P",Where is the milk? 
+107,bathroom,"[Illustration: ""Where is the apple?""]
+
+
+[Illustration: ""Where is",Where is the apple? 
+108,bedroom,"]
+
+[Footnote 51: “Briefe,” II, p. 9.]",Where is the milk? 
+109,bathroom,[Footnote 1: The first edition of the “Pilgrim’s Progress”,Where is the apple? 
+110,bedroom,"[Illustration: The football.]
+
+[Illustration: The football.]
+
+[Illustration",Where is the football? 
+111,bedroom,"(2) What is the meaning of the word “sport”?
+
+
+
+
+FOOT",Where is the football? 
+112,bedroom,"Answer: In the field of the King’s Bench.
+
+“Item in form",Where is the football? 
+113,bedroom,"Answer: In the field.
+
+""I am sorry to hear that you are not",Where is the football? 
+114,office,"Answer: In the cellar.
+
+Q. What is the apple?
+
+A",Where is the apple? 
+115,office,"Answer: In the cave.
+
+""Who are you?"" asked the leader.",Where is the football? 
+116,hallway,"Answer: In the field.
+
+Question: What is the name of the football?",Where is the football? 
+117,office,"Answer: The milk is in the milk-pail.
+
+""Life is a",Where is the milk? 
+118,bedroom,"Answer: In the milk-pail.
+
+A woman who has been a teacher",Where is the milk? 
+119,bathroom,"Answer: In the tree.
+
+""What is the apple?""
+
+""The",Where is the apple? 
+120,hallway,"Answer: In the apple-tree.
+
+The old woman said: ""I have",Where is the apple? 
+121,bedroom,"Answer: I don't know.
+
+[Illustration: ""I don't know.",Where is the milk? 
+122,garden,"Answer: In the tree.
+
+Q. What is the meaning of the word ""minister",Where is the apple? 
+123,garden,"The answer was: ""In the schoolroom.""
+
+""What's the matter with",Where is the football? 
+124,garden,"Answer: The football is in the garden.
+
+""What's the matter with the",Where is the football? 
+125,kitchen,"""I have no personal interest in any of these matters, nor in any party
+dis",Where is the football? 
+126,kitchen,"Answer: In the hands of the French Government.
+
+""I have the honor to",Where is the football? 
+127,kitchen,"Answer: In the garden of the Luxembourg.
+
+""Paine was not only",Where is the football? 
+128,bedroom,"[Footnote 1: The following is a translation of the passage in the
+""Philos",Where is the football? 
+129,bedroom,"[Illustration: PLATE X.
+
+_A._ The first of the three forms",Where is the football? 
+130,kitchen,"Answer: In the _Bodezeitung_, January 7, 1770.",Where is the football? 
+131,kitchen,[Footnote 2: The “Gegenwart” (Zeitschrift fuer deutsche,Where is the football? 
+132,kitchen,Answer: In the _Neue Bibliothek_ of the _Neue Bib,Where is the milk? 
+133,hallway,"Answer: In the gymnasium.
+
+_February._--We have had a",Where is the football? 
+134,hallway,"Answer: In the Park.
+
+_June_ 17.--The first day of the new",Where is the football? 
+135,office,"Answer: In the garden.
+
+Question: What is the matter with the garden?",Where is the football? 
+136,office,"Answer: In the cellar.
+
+Question: What is the price of the milk?",Where is the milk? 
+137,office,"Answer: In the room.
+
+[1] The _Patriotes_ were",Where is the football? 
+138,kitchen,"_Answer_: In the kitchen.
+
+_Question_: What is the meaning of the",Where is the football? 
+139,bathroom,"_Paine's Works_ (vol. ii. p. 6).
+
+_",Where is the football? 
+140,bedroom,"Answer: In the field.
+
+Question: What is the football?
+
+Answer",Where is the football? 
+141,bedroom,"Answer: In the South African Republic.
+
+Question: Where is the football?",Where is the football? 
+142,bedroom,"Answer: In the field.
+
+Question: What is the name of the football?",Where is the football? 
+143,bedroom,"Answer: In the United States.
+
+
+
+
+CHAPTER XIV
+
+THE BATTLE",Where is the football? 
+144,garden,"Answer: The football is in the hands of the people.
+
+Question: What is",Where is the football? 
+145,kitchen,"Answer: In the apple tree.
+
+“I’ll take the buckle off",Where is the apple? 
+146,bathroom,"Answer: In the milk-pail.
+
+Question: What is the milk? Answer:",Where is the milk? 
+147,garden,"Answer: In the cellar.
+
+""I'm going to have a little talk with",Where is the milk? 
+148,kitchen,"Answer: In the apple tree.
+
+Q: What is the apple?",Where is the apple? 
+149,kitchen,"Slyme: I don't know.
+
+Ruth: I don't know",Where is the apple? 
+150,bedroom,"Answer: In the apple-tree.
+
+Q. What is the apple?",Where is the apple? 
+151,bedroom,"Answer: In the apple-tree.
+
+""What's the matter with you?""",Where is the apple? 
+152,bedroom,"Answer: In the garden.
+
+[Illustration: THE APPLE.]
+
+[Illustration",Where is the apple? 
+153,kitchen,"Answer: In the Rue des Prouvaires.
+
+
+
+
+THE BALLO",Where is the football? 
+154,kitchen,"Answer: In the middle of the field.
+
+Question: What is the name of",Where is the football? 
+155,hallway,"Answer: In the play-ground.
+
+
+
+
+THE LITTLE LITTLE L",Where is the football? 
+156,hallway,"Answer: In the field.
+
+Q. What is the name of the football?",Where is the football? 
+157,bedroom,"Answer: In the cow-house.
+
+""Well, I'll be darn",Where is the milk? 
+158,bedroom,"Answer: In the mountain.
+
+""What is the name of the mountain?""",Where is the milk? 
+159,hallway,"Answer: The football is in the library.
+
+_Printed in the United States",Where is the football? 
+160,garden,"Answer: In the apple tree.
+
+Question: What is the apple?",Where is the apple? 
+161,garden,"Answer: In the apple-tree.
+
+[Illustration]
+
+[Illustration]",Where is the apple? 
+162,garden,"Answer: In the apple-tree.
+
+Question: Where is the apple?
+Answer",Where is the apple? 
+163,garden,"Answer: In the garden.
+
+Question: Where is the apple?
+
+Answer",Where is the apple? 
+164,bedroom,"Answer: In the football field.
+
+Question: What is the football?",Where is the football? 
+165,garden,"Answer: In the garden.
+
+Q: What is the name of the football?",Where is the football? 
+166,garden,"Answer: In the library.
+
+""I'm afraid I'm not a good match",Where is the football? 
+167,hallway,"Answer: In the apple.
+
+[Footnote 133: _The Physician's Manual",Where is the apple? 
+168,hallway,"[Footnote 150: The author of the above essay, in his article on the ""C",Where is the apple? 
+169,office,"Answer: In the bladder.
+
+[Illustration: Fig. 1.--A. A gall",Where is the football? 
+170,bedroom,"Answer: In the apple-tree.
+
+""The voice, in the same tone",Where is the apple? 
+171,bathroom,"Answer: Where is the apple?
+
+Question: Where is the apple?",Where is the apple? 
+172,hallway,"Answer: In the kitchen.
+
+
+[Illustration: THE KITCHEN.]
+
+
+[Illustration",Where is the milk? 
+173,hallway,"Answer: In the kitchen.
+
+Question: Where is the milk?
+
+Answer",Where is the milk? 
+174,bathroom,"Answer: In the apple-tree.
+
+Q. What is the apple?",Where is the apple? 
+175,kitchen,"Answer: In the milk-pail.
+
+Question: What is the name of",Where is the milk? 
+176,hallway,"Answer: In the apple tree.
+
+Q. What is the apple?",Where is the apple? 
+177,kitchen,"Answer: In the Garden of Eden.
+
+_Wednesday._--We went to the",Where is the apple? 
+178,office,"Answer: In the cellar.
+
+""But, Jinny,"" said the girl,",Where is the milk? 
+179,office,"Answer: The milk is in the house.
+
+""I don't know where the milk",Where is the milk? 
+180,garden,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+181,garden,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+182,garden,"Answer: In the cow's cow.
+
+""An' whar is the cow",Where is the milk? 
+183,kitchen,"Answer: In the garden of the castle of Campsie.
+
+Question: What",Where is the apple? 
+184,kitchen,"Answer: In the pocket of your coat.
+
+Question: What is the apple?",Where is the apple? 
+185,office,"Answer: In the garden.
+
+""I am sorry, my lord, but I",Where is the apple? 
+186,office,"Answer: In the garden.
+
+Question: What is the name of the apple?",Where is the apple? 
+187,kitchen,"GABRIEL: I have not seen it.
+
+DAGGOBET",Where is the milk? 
+188,office,"Answer: In the cradle.
+
+""I'm going to get it,"" said",Where is the apple? 
+189,kitchen,"Answer: In the milk-pail.
+
+Question: Where is the milk?",Where is the milk? 
+190,garden,"Answer: In the garden.
+
+ _Ham._ I'll go and see.
+
+ _Ham._",Where is the apple? 
+191,garden,"Answer: In the apple-tree.
+
+Question: What is the apple?",Where is the apple? 
+192,garden,"Answer: In the garden.
+
+Question: Where is the apple?
+
+Answer",Where is the apple? 
+193,bedroom,"Answer: In the house.
+
+Question: What is the price of the milk?",Where is the milk? 
+194,bedroom,"[Illustration: The question is answered in the text.]
+
+[Illustration: The question",Where is the milk? 
+195,bathroom,"Answer: In the apple-tree.
+
+Question: What is the apple?
+Answer",Where is the apple? 
+196,bathroom,"Answer: In the tree.
+
+Question: What is the name of the tree?",Where is the apple? 
+197,garden,"_April_ 1.--I have just received a letter from the Secretary of War
+stating",Where is the milk? 
+198,kitchen,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+199,kitchen,"Answer: In the milk-pail.
+
+[Illustration: The Glow-",Where is the milk? 
+200,office,"Answer: In the cellar.
+
+Norcross was a little surprised to find that the",Where is the milk? 
+201,office,"Answer: In the cow-boss's cow.
+
+""I'm glad you're",Where is the milk? 
+202,hallway,"Answer: I don't know.
+
+Question: What is the matter with the milk",Where is the milk? 
+203,garden,"Answer: In the sea.
+
+Q. What is the name of the place?",Where is the milk? 
+204,garden,"[Illustration: ""I am a good man, and I'll be a good man,",Where is the milk? 
+205,office,"Answer: In the desert.
+
+Question: What is the reason of the desert?",Where is the milk? 
+206,office,"Answer: In the milk-pail.
+
+""The answer to the question is,",Where is the milk? 
+207,garden,"Answer: In the apple-tree.
+
+[The following is a translation of the",Where is the apple? 
+208,bathroom,"Answer: In the boat.
+
+""What is the name of the girl?""",Where is the milk? 
+209,bathroom,"Answer: In the mouth of the man.
+
+""What is the name of the",Where is the milk? 
+210,kitchen,"Answer: In the old churchyard, where the old man's ghost is still
+preserved",Where is the football? 
+211,kitchen,"Answer: The football is in the coal-mines.
+
+[Illustration: THE",Where is the football? 
+212,kitchen,"P.S. I have a letter from my father, and he tells me that he",Where is the football? 
+213,kitchen,"Answer: In the kitchen.
+
+[Illustration]
+
+[Illustration]
+
+[",Where is the milk? 
+214,garden,"Answer: In the park.
+
+[Illustration]
+
+[Illustration]",Where is the football? 
+215,office,"Answer: In the apple-tree.
+
+
+
+
+THE BIRDS OF THE BUSH",Where is the apple? 
+216,office,"Answer: In the centre of the pyramid, and in the centre of the
+pyram",Where is the apple? 
+217,office,"Answer: In the apple-tree.
+
+[Illustration: The apple-tree.]",Where is the apple? 
+218,bathroom,"Answer: Where is the milk?
+
+""We were not satisfied with the answer.",Where is the milk? 
+219,bathroom,"Answer: In the kitchen.
+
+""What is the matter with the milk?",Where is the milk? 
+220,office,"""I will give you my opinion, sir,"" said I, ""and I think it",Where is the apple? 
+221,office,"Answer: In the apple-tree.
+
+Question: What is the apple? Answer: A",Where is the apple? 
+222,office,"Answer: In the apple-tree.
+
+Question: What is the apple?",Where is the apple? 
+223,bedroom,"Answer: In the cellar.
+
+""Ah!"" he says, ""I have forgotten",Where is the milk? 
+224,bedroom,"Answer: In the garden.
+
+Question: What is the name of the city? Answer:",Where is the apple? 
+225,bedroom,"Answer: In the apple-tree.
+
+[3] The following is a translation",Where is the apple? 
+226,kitchen,"Answer: In the apple-tree.
+
+[Footnote 1: The following is a",Where is the apple? 
+227,garden,"Answer: In the _Hur_ of the Maya, the _Hur_ of",Where is the football? 
+228,bathroom,"Answer: In the _Nile_.
+
+Question: What is the milk?",Where is the milk? 
+229,garden,Answer: The football is a game played with a ball. The ball is a piece of,Where is the football? 
+230,bathroom,"Answer: In the field of the game.
+
+[Illustration: Plate IX.]",Where is the football? 
+231,bathroom,"[Illustration: Fig. 1.
+
+_A._ The shaft of the football.",Where is the football? 
+232,bathroom,"Answer: In the first place, the football is a very old game, and has",Where is the football? 
+233,garden,"Answer: In the apple-tree.
+
+Question: What is the apple?",Where is the apple? 
+234,bathroom,"Answer: In the house of the old French-Canadian farmer, who has been
+t",Where is the football? 
+235,bedroom,"Answer: In the woods.
+
+[Illustration: ""The apple is in the woods",Where is the apple? 
+236,bedroom,"Answer: In the garden.
+
+Burt was not a man to be easily caught",Where is the apple? 
+237,kitchen,"Answer: In the field.
+
+Question: What is the name of the football?",Where is the football? 
+238,office,"Answer: In the sea.
+
+""The moon is a very good moon, and",Where is the apple? 
+239,garden,"Answer: In the milk-pail.
+
+[Illustration: THE LITTLE",Where is the milk? 
+240,hallway,"Answer: In the garden.
+
+""Well, then, I'll go and get it",Where is the apple? 
+241,hallway,"Answer: In the apple tree.
+
+""What is the apple?""
+
+""The",Where is the apple? 
+242,kitchen,"Answer: In the apple-tree.
+
+""I have been thinking, too,",Where is the apple? 
+243,bathroom,"Answer: In the apple tree.
+
+Question: What is the apple?
+Answer:",Where is the apple? 
+244,bathroom,"Answer: In the cave.
+
+Question: What is the name of the place?",Where is the apple? 
+245,hallway,"Answer: The milk is in the house.
+
+[Illustration: Poultry Notes.]",Where is the milk? 
+246,garden,"Answer: In the barn.
+
+Question: Where is the milk?
+
+Answer",Where is the milk? 
+247,garden,"Answer: In the house.
+
+Question: What is the name of the house?",Where is the milk? 
+248,garden,"Answer: In the pocket of the old man's old coat.
+
+
+
+
+THE BOOK",Where is the football? 
+249,garden,"""I'm sorry to bother you, but I'm afraid I've got to go.",Where is the football? 
+250,bathroom,"Answer: In the apple-tree.
+
+Question: What is the apple?",Where is the apple? 
+251,hallway,"Answer: In the apple tree.
+
+[Illustration: The apple tree.]",Where is the apple? 
+252,hallway,"Answer: In the stomach.
+
+[Footnote 22: _The Theory of Diseases of the",Where is the apple? 
+253,hallway,"]
+
+_Theory._--The theory of the gastric juice is that it is a fluid",Where is the apple? 
+254,hallway,"[Footnote 1: The following is a quotation from the _Medical Record_,
+London,",Where is the apple? 
+255,bathroom,"Answer: Where is the milk?
+
+Question: Where is the milk?",Where is the milk? 
+256,kitchen,"Answer: Where is the apple?
+
+The question is a question of the mind,",Where is the apple? 
+257,hallway,"A: In the garden.
+
+Q: What is the apple?
+
+A",Where is the apple? 
+258,hallway,"Answer: In the garden.
+
+""The letter is dated from the city of B",Where is the apple? 
+259,hallway,"Answer: In the apple-tree.
+
+[Illustration: ""The apple-tree",Where is the apple? 
+260,garden,"Answer: In the _Panache_.
+
+Question: What is the name of the",Where is the football? 
+261,garden,"Answer: In the palace of the Queen.
+
+Q. What is the meaning of",Where is the football? 
+262,garden,"Answer: In the house of the old man.
+
+[Illustration: The old man]",Where is the football? 
+263,bathroom,"Answer: In the garden.
+
+""And where is the apple?""
+
+""",Where is the apple? 
+264,hallway,"Answer: The apple is in the tree.
+
+Q. What is the apple?",Where is the apple? 
+265,garden,"Answer: In the garden of the house of the King of the Jews.
+
+Question",Where is the apple? 
+266,garden,"Answer: In the apple-tree.
+
+The apple-tree is the apple of",Where is the apple? 
+267,bathroom,"Answer: In the apple-tree.
+
+    Question: What is the apple?",Where is the apple? 
+268,bathroom,"Answer: In the apple tree.
+
+Question: What is the apple?",Where is the apple? 
+269,garden,"_Enter_ LICINIUS.
+
+ _Lic._ I have found it.",Where is the apple? 
+270,kitchen,"[Illustration: ""I'll show you what I dare!""]
+
+
+[Illustration:",Where is the football? 
+271,office,"Answer: In the apple-tree.
+
+Q. What is the apple?
+A",Where is the apple? 
+272,office,"Answer: In the apple-tree.
+
+The question was repeated, and the answer",Where is the apple? 
+273,kitchen,"Answer: In the garden.
+
+""I am not surprised,"" said the lady,",Where is the football? 
+274,office,"Answer: In the apple-tree.
+
+I was not allowed to remain in the",Where is the apple? 
+275,hallway,"Answer: In the _fille de chambre_, in the _fille de",Where is the milk? 
+276,hallway,"Answer: In the “Tobias Knaut” of Wezel.
+
+[",Where is the milk? 
+277,hallway,"Answer: The milk is in the cellar.
+
+Question: Where is the butter?",Where is the milk? 
+278,kitchen,"The answer: In the garden.
+
+The answer: The apple is in the garden",Where is the apple? 
+279,kitchen,"[Illustration: The apple]
+
+[Illustration: The apple]
+
+[Illustration",Where is the apple? 
+280,bathroom,"Answer: In the field.
+
+Question: What is the difference between the two poles of a",Where is the football? 
+281,bathroom,"Answer: In the field.
+
+Question: What is the name of the football?",Where is the football? 
+282,office,"Answer: In the milk-pail.
+
+[Illustration: The American's Return",Where is the milk? 
+283,office,"Answer: In the cupboard.
+
+Question: What is the name of the cup",Where is the milk? 
+284,office,"Answer: In the stable.
+
+Question: What is the name of the stable?",Where is the milk? 
+285,bedroom,"Answer: In the house of the chief MacIan.
+
+""The next day",Where is the football? 
+286,bedroom,"Answer: In the centre of the bridge.
+
+The buttress is a projection of",Where is the football? 
+287,bedroom,"[Illustration: Fig. 1.]
+
+[Illustration: Fig. 2.]",Where is the football? 
+288,bedroom,"Answer: At Parbar westward, four at the causeway and two at Parbar",Where is the football? 
+289,bedroom,"Answer: The football is in the hall.
+
+Question: Where is the football?",Where is the football? 
+290,office,"Answer: In the apple-tree.
+
+Question: What is the apple?
+Answer",Where is the apple? 
+291,office,"Answer: In the garden.
+
+Q. What is the apple?
+
+A",Where is the apple? 
+292,office,"Answer: In the apple tree.
+
+[Illustration: The Apple Tree.]
+
+[",Where is the apple? 
+293,office,"Answer: In the apple-tree.
+
+_Nisbett._ I'll",Where is the apple? 
+294,bedroom,"Answer: The milk is in the Jasmins.
+
+[Illustration: ""The",Where is the milk? 
+295,hallway,"THE LITTLE LOVER
+
+
+The little lover, who was so fond of the",Where is the milk? 
+296,hallway,Answer: In the garden of the palace of the king of the Chaldeans.,Where is the football? 
+297,hallway,"Answer: In the milk-pail.
+
+[Illustration: Fig. 1.",Where is the milk? 
+298,bathroom,"Answer: In the tree.
+
+Question: What is the tree?
+Answer: The",Where is the apple? 
+299,bathroom,"[The following is a translation of the original:
+
+""The apple is the most",Where is the apple? 
+300,bedroom,"Answer: In the field.
+
+Question: What is the football?
+
+Answer",Where is the football? 
+301,bedroom,"Answer: In the field.
+Question: What is the football?
+Answer: The football",Where is the football? 
+302,office,"Answer: In the library.
+
+
+
+
+[Illustration: The Story of the Greatest Boy",Where is the football? 
+303,bedroom,"Answer: In the hands of the enemy.
+
+""Question: Where is the football? Answer",Where is the football? 
+304,bedroom,"The boy was not very well pleased with the answer. He was not a good
+te",Where is the football? 
+305,bathroom,"Answer: The milk is in the cow.
+
+[Illustration: The cow is in the",Where is the milk? 
+306,bathroom,"Answer: In the cow-house.
+
+    Question: What is the cow-house",Where is the milk? 
+307,bathroom,"Answer: In the cow's milk-pail.
+
+    Q. What is the",Where is the milk? 
+308,bathroom,"Answer: In the house of the King of the
+Wales.
+
+Question: What is",Where is the milk? 
+309,bathroom,"The King's daughter, with the King's daughter,
+    They came together to the",Where is the milk? 
+310,kitchen,"Answer: In the garden.
+
+Question: What is the milk?
+
+Answer",Where is the milk? 
+311,kitchen,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+312,kitchen,"2, A Letter on the Use of the Milk of the Cow, and the Use of",Where is the milk? 
+313,kitchen,"Answer: In the milk-pail.
+
+Question: Where is the butter?",Where is the milk? 
+314,kitchen,"Answer: In the kitchen.
+
+Q. What is the meaning of the word “",Where is the milk? 
+315,bathroom,"The question of the football is one which has been discussed in the
+course of the last",Where is the football? 
+316,bathroom,"(38) See the account of the election of the Archbishop of Canterbury
+in the",Where is the football? 
+317,bathroom,"Answer: In the field.
+
+Question: Where is the football?
+
+Answer",Where is the football? 
+318,office,"Answer: In the cow.
+
+Q. What is the cow?
+
+A",Where is the milk? 
+319,kitchen,"Answer: In the United States.
+
+[Illustration: Fig. 1.]",Where is the football? 
+320,bathroom,"Cuddie: In the field, where he is always ready to play.",Where is the football? 
+321,bathroom,"Answer: In the Thames, where the
+               Bee-hive is.",Where is the football? 
+322,bathroom,"He answered:
+
+""I have it in my pocket.""
+
+""What is",Where is the football? 
+323,bathroom,"""I have not the slightest doubt,"" I replied, ""that the man who killed the",Where is the football? 
+324,bathroom,"Answer: In the hall.
+
+Question: What is the name of the house?",Where is the football? 
+325,bathroom,"[Illustration: The apple is here.]
+
+[Illustration: The apple is here.]",Where is the apple? 
+326,bathroom,"Answer: In the apple-tree.
+
+Question: What is the apple? Answer: The",Where is the apple? 
+327,garden,"Answer: In the British Museum.
+
+[Illustration]
+
+[Illustration]",Where is the football? 
+328,garden,"Answer: In the British Museum.
+
+[Illustration: Fig. 1.]",Where is the football? 
+329,garden,"Answer: In the field.
+
+Question: What is the name of the regiment?",Where is the football? 
+330,garden,"Answer: In the field.
+
+Question: What is the name of the place?",Where is the football? 
+331,bathroom,"Answer: In the garden.
+
+The Captain was a man of the world, and",Where is the apple? 
+332,bathroom,"Answer: In the garden.
+
+""The dog was a little one, and the",Where is the apple? 
+333,hallway,"Answer: In the kitchen.
+
+""I'm not jealous, either, but I",Where is the football? 
+334,hallway,"Answer: In the football field, where the football is.
+
+
+
+
+CHAPTER XIV.",Where is the football? 
+335,hallway,"Answer: In the football field.
+
+Question: What is the football?",Where is the football? 
+336,hallway,"Answer: In the field.
+
+Question: What is the football?
+
+Answer",Where is the football? 
+337,hallway,"Answer: In the field.
+
+Question: What is the football?
+Answer: The",Where is the football? 
+338,hallway,"Answer: In the field.
+
+Question: What is the football?
+
+Answer",Where is the football? 
+339,bedroom,"Answer: In the cow-house.
+
+Question: What is the cow-house",Where is the milk? 
+340,garden,"Answer: In the milk-pail.
+
+Q. What is the milk-",Where is the milk? 
+341,garden,"Answer: In the Russian provinces.
+
+[Illustration: Fig. 1.]",Where is the milk? 
+342,hallway,"Answer: In the British Museum.
+
+
+
+
+CHAPTER X.
+
+THE BALLO",Where is the football? 
+343,hallway,"Answer: The football is in the garden.
+
+[Illustration: [Greek: The",Where is the football? 
+344,hallway,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+345,garden,"Answer: In the play-ground.
+
+[Illustration: The play-ground.]",Where is the football? 
+346,garden,"[The following is a translation of the above:
+
+The most simple and most evident",Where is the football? 
+347,garden,"Answer: In the apple-tree.
+
+[Illustration: ""The apple-tree",Where is the apple? 
+348,garden,"Answer: In the apple-tree.
+
+Question: What is the apple?",Where is the apple? 
+349,garden,"_Licinius._ I have found it.
+
+_At._ Where?",Where is the apple? 
+350,bedroom,"Answer: Where is the milk?
+
+Question: Where is the milk?",Where is the milk? 
+351,office,"M. Merman: Where is the milk?
+
+M. M. (with",Where is the milk? 
+352,office,"Answer: In the house.
+
+Question: What is the milk?
+
+Answer",Where is the milk? 
+353,office,"A: I am not able to do so.
+
+Q: What is the matter",Where is the milk? 
+354,kitchen,"I was not a match for you, and I was not a match for you. I",Where is the football? 
+355,hallway,"(37) The law of the Crown of England is, and always will be, that",Where is the football? 
+356,hallway,"Answer: In the United States, where the Shire is the most popular
+animal.",Where is the football? 
+357,office,"Answer: In the milk-pail.
+
+Question: Where is the milk?",Where is the milk? 
+358,hallway,"Answer: In the milk-pail.
+
+""I'm going to get out",Where is the milk? 
+359,hallway,"Answer: In the cave.
+
+“What is the name of the cave?”",Where is the milk? 
+360,bedroom,"Answer: In the football field.
+
+Question: What is the football?",Where is the football? 
+361,bedroom,"Answer: In the field.
+
+Q. What is the football?
+
+A",Where is the football? 
+362,bedroom,"Answer: In the basket.
+
+Sidney, who had been watching the kitchen",Where is the apple? 
+363,bedroom,"Answer: In the garden.
+
+Q. What is the apple?
+
+A",Where is the apple? 
+364,bedroom,"""I'm not going to tell you that,"" he said, ""because I don't",Where is the football? 
+365,kitchen,"Answer: In the basket.
+
+""I'm not sure that I'm quite right in saying",Where is the apple? 
+366,kitchen,"Answer: In the garden.
+
+<context>
+
+She was surprised to find",Where is the apple? 
+367,garden,"Answer: In the heart of the beast.
+
+Question: Where is the milk?",Where is the milk? 
+368,bedroom,"Answer: In the tree of knowledge.
+
+Question: Where is the apple?",Where is the apple? 
+369,bedroom,"Answer: In the tree.
+
+“I’ve got a gun!” said Jim",Where is the apple? 
+370,kitchen,"Answer: In the field.
+
+“I’d like to go with you,",Where is the football? 
+371,kitchen,"Answer: In the apple-tree.
+
+Question: What is the apple?
+Answer",Where is the apple? 
+372,kitchen,"Answer: In the apple-tree.
+
+Question: Where is the apple?
+Answer",Where is the apple? 
+373,kitchen,"Answer: In the apple-tree.
+
+""I am sorry to say that I",Where is the apple? 
+374,hallway,"Answer: In the milk-pail.
+
+Question: What is the milk-",Where is the milk? 
+375,kitchen,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+376,kitchen,"Answer: In the cellar.
+
+Question: What is the name of the place?",Where is the milk? 
+377,kitchen,"Answer: The milk is in the house.
+
+Question: What is the milk?",Where is the milk? 
+378,office,"Answer: In the apple-tree.
+
+
+
+
+THE BIRD'S-EYE V",Where is the apple? 
+379,office,"The answer is, in the case of the apple, in the case of the apple,",Where is the apple? 
+380,bathroom,"Answer: In the field.
+
+[Illustration: “The ball was thrown by the player",Where is the football? 
+381,bathroom,"Answer: In the kitchen.
+
+[Illustration: ""I'll serve ye on me",Where is the football? 
+382,bathroom,"Toto: In the woods.
+
+Toto: I am the best of all",Where is the football? 
+383,bedroom,"Answer: In the house.
+
+Question: What was the name of the house?",Where is the milk? 
+384,bedroom,"Answer: In the Nile. Question: Where is the
+milk? Answer: In the Nile",Where is the milk? 
+385,bathroom,"Answer: In the valley of the Nile.
+
+The Chaldeans were a people of great",Where is the milk? 
+386,bathroom,"Answer: In the British Museum.
+
+[Illustration: Fig. 1.--The football",Where is the football? 
+387,bathroom,"Answer: In the field.
+
+Question: What is the name of the school?",Where is the football? 
+388,hallway,"Answer: In the garden.
+
+Question: What is the name of the apple?",Where is the apple? 
+389,hallway,"Answer: In the sky.
+
+""The boy then pointed to the sky, and",Where is the apple? 
+390,hallway,"Answer: In the milk.
+
+Question: Where is the milk?
+
+Answer",Where is the milk? 
+391,garden,"Answer: In the milk-pail.
+
+Question: Where is the milk?",Where is the milk? 
+392,garden,"[Illustration: _From a Photograph._]
+
+[Illustration: _From a Photograph",Where is the milk? 
+393,garden,"Answer: In the kitchen.
+
+""The gentleman, who was a very good-",Where is the milk? 
+394,kitchen,"Answer: In the field.
+
+Question: What is the name of the football?",Where is the football? 
+395,bedroom,"Answer: In the apple-tree.
+
+Question: What is the apple?",Where is the apple? 
+396,bedroom,"Answer: In the apple-tree.
+
+    Question: Where is the apple?",Where is the apple? 
+397,bedroom,"Answer: In the garden of Eden.
+
+Q. What is the name of the apple",Where is the apple? 
+398,garden,"Answer: The football is a game played in India, in which the players are called """,Where is the football? 
+399,garden,"[Illustration: ""I'VE GOT A BIRD IN MY HAND""]
+
+
+[",Where is the football? 
+400,bathroom,"Answer: In the milk-pail.
+
+Question: What is the name of the",Where is the milk? 
+401,bathroom,Answer: In the _cafes_ of the _cafes_ of the,Where is the milk? 
+402,garden,"Answer: In the British Museum.
+
+[Illustration: Fig. 1.]",Where is the football? 
+403,garden,"Answer: In the football field.
+
+[Illustration: The football.]
+
+[",Where is the football? 
+404,garden,"Answer: In the United States.
+
+Question: What is the average price of a",Where is the football? 
+405,hallway,"Answer: In the house of the old man, who is now dead.
+
+
+
+
+THE",Where is the football? 
+406,bathroom,"Answer: In the football field.
+
+""I am going to call for Cooley,""",Where is the football? 
+407,bathroom,"A: The football is in the field.
+
+Q: What is the name of",Where is the football? 
+408,bathroom,Why is a man's hair like a man's face? Why is a man's hair like a,Where is the football? 
+409,bathroom,"Answer: In the olden time, when the Indians were in the habit of
+playing",Where is the football? 
+410,garden,"Answer: In the milk-pail.
+
+""The milk-pail is",Where is the milk? 
+411,garden,"Answer: In the milk-pail.
+
+Question: Where is the milk?",Where is the milk? 
+412,bedroom,"Answer: In the apple-tree.
+
+Question: Where is the apple?
+Answer",Where is the apple? 
+413,bedroom,"Answer: In the apple-tree.
+
+""What's the matter?""",Where is the apple? 
+414,bedroom,"[Illustration:
+
+[Illustration:
+
+[Illustration:
+
+[Illustration:",Where is the apple? 
+415,bedroom,"[Illustration: “I’m going to try,” Jack says, with a smile.]",Where is the football? 
+416,bedroom,"Answer: In the field.
+
+[Illustration: _The Fool's Game._]",Where is the football? 
+417,hallway,"Answer: In the garden of Eden.
+
+
+[1] The reader must be careful",Where is the apple? 
+418,hallway,"Answer: In the apple-tree.
+
+Question: Where is the apple?",Where is the apple? 
+419,office,"Answer: In the field.
+
+Question: What is the football?
+
+Answer",Where is the football? 
+420,kitchen,"Answer: In the garden.
+
+[Illustration: THE BATTLE OF THE S",Where is the apple? 
+421,kitchen,"Answer: In the garden of the Temple.
+
+[Illustration: THE GARDEN OF",Where is the apple? 
+422,kitchen,"Answer: In the garden of the King's palace, where the King and Queen
+were",Where is the apple? 
+423,kitchen,HATCHAM. [_Pointing to the apple._] It's in the garden.,Where is the apple? 
+424,kitchen,"Answer: The milk is in the stable.
+
+""What is the matter with you",Where is the milk? 
+425,bathroom,"""I am not sure that I have the key,"" she said, ""but I have",Where is the milk? 
+426,bathroom,"Answer: In the ""Pilgrim's Progress"" (Book i. ch.",Where is the milk? 
+427,kitchen,"Answer: In the milk-pail.
+
+Question: Where is the milk?",Where is the milk? 
+428,kitchen,"Answer: In the milk-pail.
+
+“Well, I’m glad",Where is the milk? 
+429,kitchen,"Answer: In the kitchen.
+
+“Well, I’m going to get a",Where is the milk? 
+430,bedroom,"Answer: In the gymnasium.
+
+Question: What is the name of the",Where is the football? 
+431,bedroom,"Answer: In the field.
+
+“If the code is the same, why did",Where is the football? 
+432,office,"Answer: In the garden.
+
+Q. What is the name of the apple?",Where is the apple? 
+433,hallway,"Answer: In the garden.
+
+""I am going to the garden,"" said I,",Where is the apple? 
+434,bedroom,"Answer: In the apple-tree.
+
+[Illustration: The apple-tree.]",Where is the apple? 
+435,kitchen,"Answer: In the market.
+
+""The market is the place where the apple is",Where is the apple? 
+436,kitchen,"Answer: In the field.
+
+Q. What is the name of the game?",Where is the football? 
+437,kitchen,"Answer: In the garden.
+
+[Illustration: _The Ball._]",Where is the football? 
+438,hallway,"[75] See the note on the ""Dental Infillet.""
+
+  [",Where is the milk? 
+439,hallway,"Answer: In the kitchen.
+
+[Illustration: _A._]
+
+[",Where is the milk? 
+440,bathroom,"Answer: In the house.
+
+Question: What is the name of the house?",Where is the milk? 
+441,hallway,"Answer: In the cellar.
+
+Question: Where is the fire?
+Answer: In",Where is the milk? 
+442,hallway,"Answer: In the milk-pail.
+
+[Illustration: A.J. Ch",Where is the milk? 
+443,garden,"_Gentleman's Magazine._
+
+_Answer._ The apple is not in the",Where is the apple? 
+444,garden,"Answer: In the apple-tree.
+
+""The apple-tree is a tree",Where is the apple? 
+445,hallway,"[Illustration: The football.]
+
+[Illustration: The football.]
+
+[Illustration",Where is the football? 
+446,hallway,"Answer: In the United States, in the United States of America.
+
+Question:",Where is the football? 
+447,hallway,"Answer: The football is in the garden.
+
+Question: What is the name of",Where is the football? 
+448,bathroom,"[Illustration: ""I am the Water of Life""]
+
+
+[Illustration: ""I",Where is the milk? 
+449,kitchen,"[The question is a common one in the Middle Ages, and is often used to",Where is the apple? 
+450,garden,"_Answer:_ The milk is not in the market.
+
+_Question:_ What is",Where is the milk? 
+451,hallway,"Answer: In the south of China.
+
+Question: What is the name of the",Where is the football? 
+452,hallway,"""The answer was that the question was not to be settled by the
+Colonial Government",Where is the football? 
+453,garden,"Answer: In the kitchen.
+
+Question: What is the price of the milk?",Where is the milk? 
+454,garden,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+455,bedroom,"Answer: In the milk-pail.
+
+[Illustration: The milk-p",Where is the milk? 
+456,bedroom,"Answer: In the milk-pail.
+
+[Illustration: A BIRD'",Where is the milk? 
+457,hallway,"Answer: In the cellar.
+
+[Illustration: THE WOMAN OF THE W",Where is the milk? 
+458,office,"Answer: In the milk-pail.
+
+[Illustration:
+
+_From",Where is the milk? 
+459,office,"A. The milk is in the house.
+
+B. The house is in the",Where is the milk? 
+460,bathroom,"Answer: In the garden.
+
+Question: What is the apple?
+
+Answer",Where is the apple? 
+461,bathroom,"Answer: In the apple-tree.
+
+
+FOOTNOTES:
+
+[1] The",Where is the apple? 
+462,bathroom,"Answer: The football is a ball of the size of a football, and of the",Where is the football? 
+463,bedroom,Answer: In the _Nile_ or in the _Nile_ of the _,Where is the football? 
+464,hallway,"Answer: In the barn.
+
+[Illustration: A. M. D.",Where is the milk? 
+465,garden,"Answer: In the milk.
+
+Question: What is the milk?
+
+Answer",Where is the milk? 
+466,garden,"Answer: In the milk-pail.
+
+[Illustration: The milk-p",Where is the milk? 
+467,hallway,"Answer: In the field.
+
+Question: What is the name of the football?",Where is the football? 
+468,hallway,"Answer: In the Transvaal.
+
+The Transvaal is the home of",Where is the football? 
+469,hallway,"Answer: In the “football” field, which is a large open space in the",Where is the football? 
+470,garden,"Answer: In the football field.
+
+Question: What is the name of the football",Where is the football? 
+471,garden,"Answer: In the football field.
+
+[Illustration: Fig. 1.]",Where is the football? 
+472,garden,"Answer: In the field.
+
+[Illustration: FIG. 1.--The _Arg",Where is the football? 
+473,garden,"[The question is not a very difficult one, and I have not been able to",Where is the milk? 
+474,garden,"Answer: In the milk-pail.
+
+Question: How did you get it",Where is the milk? 
+475,hallway,"Answer: In the cave.
+
+Question: What is the name of the place?",Where is the football? 
+476,hallway,"_Answer_: In the _Times_ of March 3, 1839, the following paragraph",Where is the football? 
+477,hallway,"Answer: In the field.
+
+Question: What is the football?
+Answer: The",Where is the football? 
+478,hallway,"Answer: In the field.
+
+Question: What is the football?
+
+Answer",Where is the football? 
+479,kitchen,"Answer: In the cow-house.
+
+Question: What is the cow-house",Where is the milk? 
+480,office,"Answer: The football is a very old and very common animal. It is a
+m",Where is the football? 
+481,office,"Answer: In the great hall, where the great hall is.
+
+Q. What",Where is the football? 
+482,kitchen,"Answer: In the field.
+
+[Illustration: [Illustration:
+
+[Illustration",Where is the football? 
+483,kitchen,"Answer: In the tree.
+
+[Illustration: ""The apple is in the tree",Where is the apple? 
+484,kitchen,[Footnote 512: The first letter of the word 'A' is a letter of the,Where is the apple? 
+485,bedroom,"Answer: In the apple-tree.
+
+Question: What is the apple?",Where is the apple? 
+486,bathroom,"Answer: In the field.
+
+""What is the name of the place where the",Where is the football? 
+487,bathroom,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+488,bathroom,"Answer: In the desert.
+
+Q. What is the name of the place?",Where is the milk? 
+489,bathroom,"Answer: The football is a game played in England, and is played in
+England,",Where is the football? 
+490,bathroom,"[Illustration: The apple]
+
+[Illustration: The apple]
+
+[Illustration",Where is the apple? 
+491,bathroom,"Answer: In the apple-tree.
+
+[Illustration: The apple-tree.]",Where is the apple? 
+492,office,"Answer: In the garden.
+
+
+[Illustration: The Apple]
+
+
+[Illustration: The",Where is the apple? 
+493,bedroom,"Answer: In the garden.
+
+Q. What is the apple?
+
+A",Where is the apple? 
+494,bedroom,"_Answer._ The apple is in England.
+
+_Question._ What is the apple",Where is the apple? 
+495,office,"Answer: In the garden.
+
+""I am sorry,"" said the young man,",Where is the football? 
+496,hallway,"The apple, in the sense of the word, is a fruit of the apple-tree",Where is the apple? 
+497,bedroom,"Answer: In the case of the football, the question is not whether the
+law is",Where is the football? 
+498,hallway,Answer: In the _Tyrant_ of the _Tyrant_ of the _Ty,Where is the milk? 
+499,hallway,"The question of the two Chambers is not only a question of the
+constitution, but",Where is the milk? 
+500,office,"Answer: In the tree.
+
+[Illustration: A. B. C. D",Where is the apple? 
+501,office,"Answer: In the garden.
+
+Question: What is the name of the apple?",Where is the apple? 
+502,garden,"Answer: In the house of the Lord of the Manor.
+
+Question: Where is",Where is the milk? 
+503,garden,"Answer: In the cellar.
+
+Question: What is the price of milk?",Where is the milk? 
+504,bedroom,"Answer: In the house.
+
+Q. What is the name of the place?",Where is the milk? 
+505,bedroom,"Answer: In the cellar.
+
+Q. What is the name of the place?",Where is the milk? 
+506,bedroom,"Answer: In the apple-tree.
+
+""The doctor was a little bit surprised",Where is the apple? 
+507,kitchen,"Answer: In the garden.
+
+[Illustration: The football]
+
+[Illustration:",Where is the football? 
+508,kitchen,"Answer: In the house.
+
+""The question is, where is the milk?",Where is the milk? 
+509,kitchen,"Answer: The milk is in the mouth.
+
+[Illustration: Paine's Letter",Where is the milk? 
+510,office,"""The French have been victorious in the field, and the French have
+been vict",Where is the football? 
+511,office,"Answer: In the field.
+
+[Illustration: The Popes.]
+
+[",Where is the football? 
+512,office,"Answer: In the football field.
+
+Question: What is the football?",Where is the football? 
+513,office,"Answer: In the cellar.
+
+K. asked: What is the matter with the",Where is the milk? 
+514,office,"Answer: In the field.
+
+Q: What is the name of the football?",Where is the football? 
+515,office,"Answer: In the apple-tree.
+
+Question: What is the apple?",Where is the apple? 
+516,office,"Answer: In the apple-tree.
+
+""And the apple-tree is in",Where is the apple? 
+517,office,"Answer: In the apple-tree.
+
+Question: What is the apple?",Where is the apple? 
+518,hallway,"Answer: In the apple tree.
+
+Q. What is the apple?
+A.",Where is the apple? 
+519,bathroom,"Answer: In the apple-tree.
+
+""The apple-tree is a tree",Where is the apple? 
+520,office,"[Illustration: The apple]
+
+
+[Illustration: The apple]
+
+
+[Illustration",Where is the apple? 
+521,office,"Answer: In the tree.
+
+Question: What is the name of the tree?",Where is the apple? 
+522,office,"Answer: In the garden.
+
+Q. What is the name of the apple?",Where is the apple? 
+523,hallway,"Answer: In the hall.
+
+Q. What is the name of the man who played",Where is the football? 
+524,garden,"BLUMENFELD
+
+The football? _Blumenfeld is about to answer, but",Where is the football? 
+525,hallway,"Answer: In the field.
+
+Question: What is the name of the football?",Where is the football? 
+526,hallway,"Answer: In the milk-pail.
+
+[Illustration: The Necroph",Where is the milk? 
+527,garden,"Answer: The milk is not there.
+
+[Illustration: The Flesh-cloud",Where is the milk? 
+528,office,"Answer: In the apple-tree.
+
+""Well, I'm glad of that,""",Where is the apple? 
+529,office,"Answer: In the apple-tree.
+
+[Illustration: ""The apple-tree",Where is the apple? 
+530,bedroom,"Answer: In the garden.
+
+Question: Where is the football?
+
+Answer",Where is the football? 
+531,bedroom,"Answer: In the garden.
+
+Q. What is the apple?
+
+A",Where is the apple? 
+532,hallway,"Answer: In the hall.
+
+Q. What is the name of the football?",Where is the football? 
+533,hallway,"D.
+
+The milk is in the cellar.
+
+S.
+
+The",Where is the milk? 
+534,hallway,"Answer: In the milk-pail.
+
+[Illustration: The milk-p",Where is the milk? 
+535,kitchen,"Answer: In the apple-tree.
+
+""The apple-tree is the most beautiful",Where is the apple? 
+536,kitchen,"Answer: In the apple tree.
+
+""I was awakened by a clamor from",Where is the apple? 
+537,kitchen,"Answer: In the cow-house.
+
+""I am going to ask you to",Where is the milk? 
+538,kitchen,"Answer: In the kitchen.
+
+Question: What is the name of the milk?",Where is the milk? 
+539,garden,"Answer: In the British Museum.
+
+
+
+
+[Illustration: The Old South Church]",Where is the football? 
+540,office,"Answer: In the old man's pocket.
+
+Question: What is the old man",Where is the football? 
+541,office,"Answer: In the garden.
+
+Question: What is the matter?
+
+Answer",Where is the football? 
+542,garden,"Answer: In the Garden of Eden.
+
+[11]
+
+[12]",Where is the milk? 
+543,bathroom,"Answer: In the apple-tree.
+
+[6] See the _Bishop",Where is the apple? 
+544,bedroom,"Answer: In the garden of Eden.
+
+Question: Where is the apple?
+Answer",Where is the apple? 
+545,office,Answer: In the _vihuela_ of the thirteenth and fifteenth centuries,Where is the milk? 
+546,bathroom,Answer: In the _Bouquet_ of the _Bouquet_ of the,Where is the milk? 
+547,bathroom,"[Illustration:
+_Page 24_. _London, Published by J. Taylor High Hol",Where is the milk? 
+548,bathroom,"Answer: In the milk-pail.
+
+Question: Where is the milk?",Where is the milk? 
+549,hallway,"Answer: In the garden.
+
+Question: What is the name of the place?",Where is the football? 
+550,bathroom,"Answer: In the book-
+
+""The book-
+
+""The book-",Where is the apple? 
+551,bathroom,"Answer: In the hall.
+
+""What is the name of the boy who is",Where is the football? 
+552,hallway,"Answer: In the apple-tree.
+
+[Illustration: The apple-tree.]",Where is the apple? 
+553,hallway,"Answer: In the garden.
+
+Q. What is the apple?
+A. The",Where is the apple? 
+554,bathroom,"Answer: In the milk-pail.
+
+""I will not let him know",Where is the milk? 
+555,garden,"Answer: In the dairy.
+
+""I am glad to hear that you are getting",Where is the milk? 
+556,office,"Answer: In the milk-pail.
+
+[Illustration: The milk-p",Where is the milk? 
+557,office,"Answer: In the centre of the pyramid.
+
+Question: What is the name of the",Where is the milk? 
+558,bathroom,"Answer: In the wagon.
+
+Question: Where is the wagon?
+
+Answer",Where is the milk? 
+559,office,"Answer: In the apple-tree.
+
+""Well, I suppose you will have",Where is the apple? 
+560,bedroom,"Answer: In the kitchen, where the eggs are.
+
+Question: Where is the",Where is the milk? 
+561,bathroom,"Answer: In the apple-tree.
+
+[Illustration: The apple-tree.]",Where is the apple? 
+562,bathroom,"Answer: In the apple-tree.
+
+Q: What is the apple?",Where is the apple? 
+563,bathroom,"Answer: In the garden.
+
+Q. What is the name of the tree?",Where is the apple? 
+564,garden,"Answer: In the field.
+
+Question: What is the football?
+
+Answer",Where is the football? 
+565,office,"Answer: In the field.
+
+Question: Where is the football?
+
+Answer",Where is the football? 
+566,bedroom,"Answer: In the kitchen.
+
+Question: Where is the woman? Answer: In the kitchen",Where is the milk? 
+567,hallway,"Answer: In the garden.
+
+[Illustration: A PICNIC IN THE",Where is the apple? 
+568,office,"Answer: In the garden.
+
+[Illustration: The apple was in the garden.]",Where is the apple? 
+569,bedroom,"Answer: In the house of the man who is to be ruined.
+
+[Illustration",Where is the milk? 
+570,bedroom,[Footnote 512: The first letter of the word 'l' is not printed in the,Where is the milk? 
+571,bedroom,"Answer: In the house of the King.
+
+Question: What is the King's",Where is the milk? 
+572,bathroom,"Answer: In the apple-tree.
+
+[Illustration: _Enter_ LIC",Where is the apple? 
+573,office,"Answer: In the cellar, sir.
+
+Question: Where is the milk?",Where is the milk? 
+574,office,"Answer: The milk is in the house.
+
+Question: Where is the milk?",Where is the milk? 
+575,bathroom,"Answer: In the cave, where the poor old man is lying.
+
+""I",Where is the milk? 
+576,bedroom,"Answer: In the cupboard.
+
+Question: What is the milk?",Where is the milk? 
+577,bathroom,"Answer: In the tankard.
+
+Question: Where is the ginger-jars",Where is the milk? 
+578,bathroom,"Answer: In the kitchen.
+
+Question: How do you cook the milk?
+Answer",Where is the milk? 
+579,bathroom,"Answer: In the milk-pail.
+
+Question: How did you get it",Where is the milk? 
+580,hallway,"Answer: In the garden.
+
+Question: What is the game?
+
+Answer",Where is the football? 
+581,office,"A. (Pause.)
+
+Hitt: I think I have answered that question",Where is the football? 
+582,office,"Answer: In the palace of the Inquisition.
+
+Question: What is the name",Where is the football? 
+583,garden,"Answer: In the kitchen.
+
+Q. What is the name of the place?",Where is the milk? 
+584,garden,"Answer: The milk is in the cellar.
+
+“The Cossacks are very",Where is the milk? 
+585,garden,"Answer: In the dairy.
+
+Q. What is the milk?
+
+A",Where is the milk? 
+586,garden,"Answer: In the house of the Lord.
+
+Question: How many times did she",Where is the milk? 
+587,garden,"[Sidenote: LONDON]
+
+[Sidenote: The King's Speech",Where is the milk? 
+588,garden,"Answer: In the chamber of death.
+
+[Illustration: The child's death.]",Where is the milk? 
+589,garden,"Answer: In the wagon.
+
+Question: What is the name of the wagon? Answer:",Where is the milk? 
+590,bedroom,"""I am going to the garden,"" said he, ""and I hope I shall find",Where is the apple? 
+591,kitchen,"Answer: The milk is in the stable.
+
+Question: What is the name of",Where is the milk? 
+592,bedroom,"[Footnote 682: The word is used in the sense of a ""pillar of",Where is the apple? 
+593,bedroom,"Answer: In the house of the Doctor.
+
+Q. What is the name of",Where is the apple? 
+594,bedroom,"Answer: In the garden.
+
+Q. What is the name of the apple?",Where is the apple? 
+595,hallway,"Answer: In the _Euphrates_, where it is called _Euphr",Where is the milk? 
+596,hallway,"Answer: In the house of the King.
+
+Question: What is the King’s",Where is the milk? 
+597,hallway,HISTORY OF THE CATHEDRAL CHURCH OF WELLS:,Where is the milk? 
+598,kitchen,"Answer: In the field.
+
+Question: What is the game?
+Answer: The",Where is the football? 
+599,garden,"""I remember that you said, 'I have not yet found the apple.' I remember",Where is the apple? 
+600,kitchen,"Answer: In the apple-tree.
+
+“I am going to the apple-",Where is the apple? 
+601,kitchen,"Answer: In the apple-tree.
+
+Q. What is the apple?",Where is the apple? 
+602,hallway,"Answer: The football is a football, and a football is a football.
+
+
+
+
+THE",Where is the football? 
+603,garden,"Answer: In the apple-tree.
+
+Question: What is the apple?",Where is the apple? 
+604,hallway,"Answer: In the library.
+
+The question: What is the name of the book",Where is the football? 
+605,bedroom,"Answer: In the Boer's home.
+
+Question: What is the Boer",Where is the football? 
+606,bedroom,"Answer: In the South African Republic.
+
+[Illustration: THE SOUTH A",Where is the milk? 
+607,bedroom,"[Illustration: The King of the Bedouins]
+
+[Illustration: The King",Where is the milk? 
+608,bathroom,"_Answer_: In the garden.
+
+_Question_: How did you get the milk",Where is the milk? 
+609,hallway,"Answer: In the apple-tree.
+
+Question: What is the apple?",Where is the apple? 
+610,garden,"Answer: In the garden of Eden.
+
+[Illustration: Fig. 1.",Where is the apple? 
+611,garden,"Answer: In the apple tree.
+
+Question: What is the apple?",Where is the apple? 
+612,garden,"Answer: In the garden of the King of the Kings.
+
+[Illustration: THE G",Where is the apple? 
+613,garden,"Answer: In the garden.
+
+I asked him, ""What is the name of",Where is the apple? 
+614,garden,"Answer: In the basket.
+
+Question: Where is the apple?
+Answer: In",Where is the apple? 
+615,garden,"Answer: In the tree.
+
+Question: What is the name of the tree?",Where is the apple? 
+616,hallway,"Answer: In the apple-tree.
+
+Question: Where is the apple?
+Answer",Where is the apple? 
+617,hallway,"Answer: In the garden.
+
+[Illustration: THE GARDEN.]",Where is the apple? 
+618,garden,"Answer: In the _Times_ office.
+
+Question: What is the football?",Where is the football? 
+619,kitchen,"Answer: In the 'Priest's House.'
+
+[Illustration: The '",Where is the milk? 
+620,bedroom,"Answer: In the _Mekka_ mosque.
+
+[Illustration: Fig.",Where is the football? 
+621,bedroom,"Answer: In the British Museum, No. 1, No. 2, No. 3",Where is the football? 
+622,bedroom,"Answer: At the college.
+
+Question: What is the football?
+
+Answer",Where is the football? 
+623,bathroom,"[Illustration: THE GARDEN OF THE HOLY GHOST]
+
+
+[",Where is the apple? 
+624,garden,"Answer: In the apple-tree.
+
+Question: What is the apple? Answer: The",Where is the apple? 
+625,kitchen,"Anglo-Saxon, the football is the football.
+
+The old house",Where is the football? 
+626,kitchen,"Answer: The football is a game played by the players on the side of the
+side",Where is the football? 
+627,kitchen,"Answer: In the milk-pail.
+
+""Phoebe and Ernest,",Where is the milk? 
+628,bathroom,"Answer: In the milk-pail.
+
+[Illustration: The milk-p",Where is the milk? 
+629,bathroom,"Answer: In the kitchen.
+
+Question: Where is the milk?
+
+Answer",Where is the milk? 
+630,bathroom,"Answer: In the field.
+
+MATHILDE. I am not sure that",Where is the football? 
+631,kitchen,"Answer: In the tree.
+
+Question: What is the tree?
+
+Answer",Where is the apple? 
+632,kitchen,"Answer: In the apple-tree.
+
+""What is the name of the apple",Where is the apple? 
+633,kitchen,"Answer: In the apple-tree.
+
+Question: What is the apple?",Where is the apple? 
+634,office,"Answer: In the cow-house.
+
+Question: What is the cow-house",Where is the milk? 
+635,garden,"Answer: In the field.
+
+The American people are not the only people who have been",Where is the football? 
+636,garden,"Answer: The football is in the hands of the French.
+
+Question: What is",Where is the football? 
+637,garden,"Answer: In the house of the man who is sick.
+
+Question: What is the milk",Where is the milk? 
+638,garden,"Answer: In the house of the Lord of the Castle.
+
+Question: Is the",Where is the milk? 
+639,garden,"Answer: In the cow’s milk.
+
+Question: What is the cow’s",Where is the milk? 
+640,office,"Answer: In the basement.
+
+Question: What is the price of the milk?",Where is the milk? 
+641,office,"Answer: In the garden.
+
+Q. What is the name of the apple?",Where is the apple? 
+642,bathroom,"Answer: In the milk-pans.
+
+[Illustration: The King's Majesty",Where is the milk? 
+643,bathroom,"Answer: In the milk-pail.
+
+[Illustration: ""The milk-",Where is the milk? 
+644,office,"Answer: In the garden.
+
+[Illustration: The apple]
+
+[Illustration",Where is the apple? 
+645,garden,"Answer: In the field.
+
+Q: What is the football?
+
+A",Where is the football? 
+646,office,"Answer: In the cellar.
+
+Q. What is the name of the place?",Where is the milk? 
+647,office,"Answer: In the _Hukumdaria_ or Palace.
+
+The following",Where is the milk? 
+648,garden,"Answer: In the hall.
+
+Question: What is the football?
+
+Answer",Where is the football? 
+649,garden,"Answer: In the field.
+
+[Illustration: The Football.]
+
+
+
+
+[Illustration",Where is the football? 
+650,office,"Answer: In the apple-tree.
+
+""The apple-tree is in the",Where is the apple? 
+651,office,"The answer: In the garden.
+
+The question: What is the name of the",Where is the apple? 
+652,garden,"Answer: In the locker.
+
+Question: What is the name of the ship?",Where is the football? 
+653,garden,"Answer: The ball is in the hand.
+
+[Illustration: The ball is in",Where is the football? 
+654,garden,"[Illustration: The football]
+
+[Illustration: The football]
+
+[Illustration",Where is the football? 
+655,garden,"_Answer_: The football is in the Park.
+
+_Question_: Is the Park",Where is the football? 
+656,garden,"Answer: In the garden.
+
+Question: What is the apple?
+
+Answer",Where is the apple? 
+657,bathroom,"Answer: In the stomach.
+
+Question: What is the use of the stomach?",Where is the football? 
+658,garden,"Answer: In the centre of the crosslet shaft, and in the centre of the",Where is the apple? 
+659,garden,_Mr. P._ I have not the least doubt that the apple is in the apple,Where is the apple? 
+660,office,"Answer: In the field.
+
+[Illustration: Fig. 1.]
+
+[Illustration",Where is the football? 
+661,office,Answer: In the “Bull” at the “Bull” Club.,Where is the football? 
+662,hallway,"Answer: In the apple-tree.
+
+Q. What is the apple?",Where is the apple? 
+663,hallway,"Answer: In the basket.
+
+Question: What is the apple?
+
+Answer",Where is the apple? 
+664,hallway,"Answer: In the apple-tree.
+
+[The following is a translation of the original",Where is the apple? 
+665,kitchen,"Answer: In the apple-tree.
+
+[Illustration: The apple-tree.]",Where is the apple? 
+666,garden,"[Illustration: The football.]
+
+[Illustration: The football.]
+
+[Illustration",Where is the football? 
+667,garden,"Answer: The milk is in the King’s hands.
+
+Question: Where is",Where is the milk? 
+668,hallway,"Answer: In the King’s house.
+
+[Illustration: The King’s",Where is the apple? 
+669,hallway,"Answer: In the apple-tree.
+
+""Well, I was just going to take it",Where is the apple? 
+670,bathroom,"Answer: In the church.
+
+Question: What is the name of the church? Answer:",Where is the football? 
+671,bathroom,"Answer: In the church of Rome.
+
+""The church of Rome is the only place",Where is the football? 
+672,bathroom,"Answer: In the field.
+
+[Illustration: The following is a copy of the",Where is the football? 
+673,bathroom,"Answer: In the house.
+
+[Illustration: The Dove]
+
+[",Where is the milk? 
+674,bathroom,"Answer: In the heart of the man.
+
+Question: Where is the woman?",Where is the milk? 
+675,garden,"Answer: In the football field.
+
+Question: Where is the football?
+Answer:",Where is the football? 
+676,garden,"Answer: In the field.
+
+""I'm sorry,"" said Fleming, ""but",Where is the football? 
+677,garden,"Answer: In the box.
+
+Question: What is the name of the football?",Where is the football? 
+678,bathroom,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+679,bathroom,"Answer: In the kitchen.
+
+""I am very sorry,"" said the young man",Where is the milk? 
+680,bedroom,"Answer: In the desert.
+
+Question: Where is the milk?
+
+Answer",Where is the milk? 
+681,bedroom,"""I will go to the King, and tell him that the King of England is",Where is the football? 
+682,bedroom,"Answer: In the house of the chief.
+
+Question: Where is the milk?",Where is the milk? 
+683,bathroom,"""I will not answer, sir knight,"" said the man of science, ""but I",Where is the football? 
+684,office,"Answer: The football is a game played in England, in which the players
+are supposed",Where is the football? 
+685,kitchen,"""I have not,"" replied the provost. ""I have heard that the man was",Where is the apple? 
+686,garden,"Answer: In the pocket of the old man's dress.
+
+
+
+
+THE LITTLE",Where is the football? 
+687,garden,"Answer: In the woods.
+
+Question: What is the name of the place? Answer:",Where is the football? 
+688,bathroom,"Answer: In the cave.
+
+Question: What is the name of the cave?",Where is the football? 
+689,bathroom,“to be put in prison. It would be a terrible thing to do. I don,Where is the football? 
+690,bedroom,"""I'd rather be the
+
+""I'd rather be the
+
+""I",Where is the apple? 
+691,bedroom,"Answer: In the garden.
+
+""What is the name of the apple?""",Where is the apple? 
+692,bedroom,"Answer: In the garden.
+
+Question: What is the apple?
+
+Answer",Where is the apple? 
+693,office,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+694,office,"Answer: In the kitchen.
+
+Question: Where is the milk?
+
+Answer",Where is the milk? 
+695,bathroom,"The year was one of great excitement in the school. The new
+schoolmaster, Mr",Where is the apple? 
+696,bathroom,"Answer: In the garden.
+
+Question: What is the name of the apple?",Where is the apple? 
+697,kitchen,"Answer: In the football field.
+
+[Illustration: A. B. C.",Where is the football? 
+698,kitchen,"Answer: In the football field.
+
+Question: What is the name of the football",Where is the football? 
+699,garden,"Paine: In the room.
+
+Q: What room?
+
+Paine",Where is the football? 
+700,bathroom,"Answer: In the house of the American Minister.
+
+[Illustration: Paine's",Where is the milk? 
+701,bathroom,"and to find out the answer.
+
+The answer was in the milk.",Where is the milk? 
+702,bathroom,Answer: In the heart of the man who is to be the first man of the,Where is the milk? 
+703,bathroom,"Answer: In the house.
+
+""What is the name of the place?""",Where is the milk? 
+704,office,"Answer: In the garden of the house of the Lord Chancellor.
+
+[Sidenote",Where is the apple? 
+705,bedroom,"[Sidenote: _C. P._]
+
+[Sidenote: _C",Where is the football? 
+706,bedroom,"Answer: The football is the truth.
+
+[Illustration: The football is the truth",Where is the football? 
+707,bedroom,"_Answer_: In the _Pall Mall Gazette_, No. 6, No.",Where is the football? 
+708,bedroom,"Answer: In the field.
+
+Question: What is the name of the football?",Where is the football? 
+709,bedroom,"Answer: In the garden.
+
+Question: What is the game?
+
+Answer",Where is the football? 
+710,garden,"_Answer_: The milk is in the cup.
+
+_Question_: What is the",Where is the milk? 
+711,garden,"The answer is, that the question is not one of the question of
+_equality",Where is the apple? 
+712,garden,"Answer: In the apple-tree.
+
+Question: What is the name of the apple?",Where is the apple? 
+713,garden,"Answer: In the valley of the Mississippi.
+
+Q. Where is the apple?",Where is the apple? 
+714,garden,"Answer: In the mausoleum of the great man.
+
+[Illustration: _",Where is the milk? 
+715,office,"Answer: In the cellar.
+
+Question: Where is the milk?
+Answer: In",Where is the milk? 
+716,office,"Answer: In the milk-pail.
+
+[Illustration: The milk-p",Where is the milk? 
+717,kitchen,"Answer: In the field.
+
+[Illustration: The football.]
+
+[Illustration",Where is the football? 
+718,kitchen,"Answer: In the field.
+
+Q. What is the difference between a football and a",Where is the football? 
+719,office,"Answer: In the moon.
+
+Q. What is the moon? A: A planet.",Where is the milk? 
+720,garden,"Answer: In the tree.
+
+Question: What is the apple?
+
+Answer",Where is the apple? 
+721,garden,"A. (to the boy) Where is the apple?
+
+J. (to",Where is the apple? 
+722,bedroom,"Answer: In the hall.
+
+BOS. I'll go to the hall.",Where is the football? 
+723,hallway,"Answer: In the “Battle of the Bosphorus.”
+
+
+[Illustration:",Where is the football? 
+724,office,"Answer: In the garden.
+
+“I wish you could see our hospital now.",Where is the football? 
+725,office,"Answer: In the football-ground.
+
+Pepin has been a great deal in",Where is the football? 
+726,office,"Answer: In the field.
+
+Question: What is the football?
+
+Answer",Where is the football? 
+727,kitchen,"Answer: The football is in the park.
+
+Question: Where is the football?",Where is the football? 
+728,kitchen,"Answer: The apple is in the basket.
+
+""I'm sure I don't",Where is the apple? 
+729,kitchen,"Answer: In the basket.
+
+The following is a simple and effective method of turning the",Where is the football? 
+730,bedroom,"Answer: The milk is in the milk-pail.
+
+Question: What is",Where is the milk? 
+731,bathroom,"Answer: In the garden.
+
+Q. What is the price of the apple?",Where is the apple? 
+732,bathroom,"Answer: In the corner of the room.
+
+
+
+
+THE LITTLE GIRL",Where is the football? 
+733,bathroom,"""I have no doubt that the letter is written by the man who is now in the",Where is the milk? 
+734,bathroom,"I had been sitting in the library, and I had not seen the football.",Where is the football? 
+735,bathroom,"Answer: In the milk-pans.
+
+Question: What is the milk?",Where is the milk? 
+736,bathroom,"Answer: In the field.
+
+Question: What is the name of the place where",Where is the football? 
+737,bathroom,"Answer: In the house of Suleiman.
+
+Question: Where is the money?",Where is the milk? 
+738,bathroom,"Answer: In the barn.
+
+Question: What is the name of the place?",Where is the milk? 
+739,bathroom,"Answer: In the wagon.
+
+""I am glad to see you, Mr.",Where is the milk? 
+740,garden,"Answer: In the tree.
+
+Question: What is the name of the tree?",Where is the apple? 
+741,garden,"Answer: In the apple-tree.
+
+[Illustration: The apple-tree.]",Where is the apple? 
+742,bedroom,"Answer: In the football field.
+
+[Illustration: The football.]
+
+[",Where is the football? 
+743,bathroom,"Answer: In the fire.
+
+Question: What is the fire? Answer: The fire is",Where is the football? 
+744,bathroom,"Answer: In the hands of the enemy.
+
+""Question: Where is the football",Where is the football? 
+745,hallway,"Answer: In the barn.
+
+""Well, then, I will go and get it",Where is the milk? 
+746,hallway,"Answer: The milk is in the milk-pail.
+
+[Illustration: The",Where is the milk? 
+747,hallway,"Answer: In the milk-pans.
+
+Q: What is the milk? A:",Where is the milk? 
+748,kitchen,"Answer: In the locker of the ship.
+
+""The man was a stranger to",Where is the football? 
+749,hallway,"A: Where is the milk?
+
+Q: Where is the milk?",Where is the milk? 
+750,office,"Answer: In the football field.
+
+Question: What is the football?",Where is the football? 
+751,hallway,"Answer: In the Rue du Milieu-des-Ursins.
+
+""",Where is the football? 
+752,garden,"Answer: In the field.
+
+""What are you going to do with your hands",Where is the football? 
+753,garden,"Answer: In the Park.
+
+Question: What is the name of the football?",Where is the football? 
+754,garden,"Dr. Inglis: In the United States, where the football is the most",Where is the football? 
+755,kitchen,"Answer: In the garden of Eden.
+
+Question: Where is the apple?",Where is the apple? 
+756,kitchen,"Answer: Where is the apple?
+
+The consul would reply: Where is the",Where is the apple? 
+757,bedroom,"Answer: In the library.
+
+""I am glad to see you, Mr.",Where is the football? 
+758,bedroom,"The Judge: In the gym.
+
+The Colonel: I'll go in and get",Where is the football? 
+759,bedroom,"Answer: In the football-ground.
+
+
+[Illustration: _The following is a copy of",Where is the football? 
+760,kitchen,"Answer: In the apple-tree.
+
+""And what is the apple-tree",Where is the apple? 
+761,office,"Answer: In the milk.
+
+Q. What is the quantity of milk required for",Where is the milk? 
+762,office,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+763,kitchen,"A: In the tree.
+
+Q: Where is the apple?
+
+A",Where is the apple? 
+764,bathroom,"Answer: In the tree.
+
+[562]
+
+[563]",Where is the apple? 
+765,kitchen,Answer: In the _Bible_ (vol. ii. p. 7).,Where is the milk? 
+766,kitchen,"Answer: In the milk-pail. Answer: In the
+milk-pail.",Where is the milk? 
+767,bathroom,"Answer: In the apple-tree.
+
+""I don't know what to do",Where is the apple? 
+768,bathroom,"Answer: In the apple-tree.
+
+""He was so frightened that he could",Where is the apple? 
+769,kitchen,"Answer: In the cupboard.
+
+Question: What is the name of the cup",Where is the milk? 
+770,garden,"Answer: In the garden.
+
+Q. What is the name of the Midge",Where is the football? 
+771,garden,"Answer: In the field.
+
+Question: What is the name of the football?",Where is the football? 
+772,garden,"Answer: In the field.
+
+
+
+
+THE BATTLE OF THE BALLOON",Where is the football? 
+773,garden,"Answer: In the field.
+
+[Illustration: 1]
+
+[Illustration:",Where is the football? 
+774,garden,"Answer: In the South.
+
+[Illustration: THE FOLLOWING IS THE END OF",Where is the football? 
+775,kitchen,"Answer: In the field.
+
+[Illustration:
+
+[Illustration:
+
+[",Where is the football? 
+776,office,"Answer: In the field.
+
+[Illustration: A. B. C.",Where is the football? 
+777,bathroom,"[Illustration: A. B. B.
+
+_A. B. B._",Where is the apple? 
+778,office,"Answer: In the field.
+
+[Illustration: ""The football was captured by fever",Where is the football? 
+779,office,"Answer: In the apple-tree.
+
+[Illustration]
+
+[Illustration]",Where is the apple? 
+780,bathroom,"Answer: In the tree.
+
+Question: Where is the apple?
+Answer: In",Where is the apple? 
+781,garden,"Answer: In the house.
+
+""I am going to get some more of that",Where is the milk? 
+782,bathroom,"Answer: In the garden of the house of the late Earl of Essex, where the",Where is the apple? 
+783,garden,"Answer: In the garden.
+
+Q. What is the name of the place?",Where is the football? 
+784,kitchen,"Answer: In the ""Old English Ballads.""
+
+[Illustration: POCAH",Where is the football? 
+785,office,"A. M.
+
+[Illustration: A. M.
+
+_A.",Where is the football? 
+786,office,"Answer: In the “Battle of the Bosphorus,” where the Turks were defeated",Where is the football? 
+787,hallway,"Answer: In the apple-tree.
+
+[Illustration: ""The apple-tree",Where is the apple? 
+788,bathroom,"Answer: In the parlor.
+
+""I am sorry,"" said Puss,",Where is the milk? 
+789,bathroom,"Answer: In the kitchen.
+
+""Well, I'll be hanged!"" exclaimed",Where is the milk? 
+790,bedroom,"Answer: In the field.
+
+Question: What did he say to you?",Where is the football? 
+791,bedroom,"Answer: In the football field.
+
+Question: What is the football?
+Answer:",Where is the football? 
+792,bathroom,"Answer: In the boat.
+
+[Illustration: _From a photograph by the author",Where is the apple? 
+793,bathroom,"Answer: In the tree.
+
+Question: Where is the apple?
+
+Answer",Where is the apple? 
+794,office,"*       *       *       *       *
+
+[Illustration: ""I am sorry",Where is the milk? 
+795,hallway,"Answer: In the garden of Eden.
+
+Question: Where is the apple?",Where is the apple? 
+796,office,"Answer: In the field.
+
+[Illustration: A. B. B.]",Where is the football? 
+797,hallway,"Answer: In the field.
+
+Question: What is the name of the football?",Where is the football? 
+798,hallway,"Answer: In the football.
+
+Question: Where is the football?
+
+Answer",Where is the football? 
+799,hallway,Answer: In the “Gleawceastre” of the “Gleaw,Where is the football? 
+800,office,"Answer: In the apple tree.
+
+[Illustration: ""THE APPLE TREE",Where is the apple? 
+801,office,"Answer: In the cupboard.
+
+""What is the name of the apple?""",Where is the apple? 
+802,kitchen,"Answer: In the basket.
+
+""Where is the apple?""
+
+""In the",Where is the apple? 
+803,kitchen,"Answer: In the cave.
+
+Question: Where is the milk?
+
+Answer",Where is the milk? 
+804,kitchen,"Answer: In the cellar.
+
+_May_ 1.--We have had a very warm",Where is the milk? 
+805,bedroom,"Answer: In the United States, the football is the football of the United
+States.",Where is the football? 
+806,garden,"A: In the Church of England.
+
+Q: What is the Church of England",Where is the apple? 
+807,office,"The answer is: ""The Church gives it to the Church."" The Church gives it",Where is the apple? 
+808,office,"_Answer_: In the apple-tree.
+
+_Question_: What is the apple",Where is the apple? 
+809,office,"Answer: In the tree.
+
+Question: What is the apple?
+
+Answer",Where is the apple? 
+810,bathroom,"Answer: In the kitchen.
+
+Question: What is the meaning of the word """,Where is the football? 
+811,hallway,"Amy: In the grass.
+
+Q: What was the boy doing?",Where is the football? 
+812,hallway,"Answer: In the field.
+
+Lumley: I thought you were going to",Where is the football? 
+813,hallway,"Answer: In the field.
+
+Question: What is the football?
+
+Answer",Where is the football? 
+814,kitchen,"Answer: In the house.
+
+Question: Where is the butter?
+
+Answer",Where is the milk? 
+815,garden,"Answer: In the garden.
+
+_February_ 1.--We have had a very",Where is the apple? 
+816,garden,"""The apple is the apple of God, and the tree is the tree of the",Where is the apple? 
+817,office,"Answer: In the milk-pail.
+
+Question: What is the milk-",Where is the milk? 
+818,garden,"Answer: In the kitchen.
+
+Question: What is the milk?
+
+Answer",Where is the milk? 
+819,garden,"Ans: Where is the apple?
+
+Question: What is the apple?",Where is the apple? 
+820,office,"Answer: In the garden.
+
+Question: What is the name of the game?",Where is the football? 
+821,office,"Answer: In the garden.
+
+Question: What is the name of the new priest",Where is the football? 
+822,bedroom,"Answer: In the apple-tree.
+
+
+
+
+THE LITTLE GIRL",Where is the apple? 
+823,bedroom,"Answer: In the apple-tree.
+
+[Illustration: ""I must have a",Where is the apple? 
+824,bedroom,"Answer: In the tree of knowledge of good and evil.
+
+""I being then",Where is the apple? 
+825,office,"Answer: In the cow-house.
+
+Question: What is the cow-house?",Where is the milk? 
+826,office,"[A] The first letter of the following text is missing.
+
+    [B]",Where is the milk? 
+827,kitchen,"Answer: The apple is in the apple-tree.
+
+Q. What is the",Where is the apple? 
+828,kitchen,"Answer: In the garden.
+
+       *       *       *       *       *
+
+THE",Where is the apple? 
+829,kitchen,"Answer: In the apple-tree.
+
+Question: Where is the apple?",Where is the apple? 
+830,hallway,"Answer: In the field.
+
+Question: What is the football?
+
+Answer",Where is the football? 
+831,garden,"Answer: In the House.
+
+[Illustration: THE QUESTION.]",Where is the milk? 
+832,bedroom,"Answer: In the churchyard.
+
+[Illustration: THE BALLOON.]",Where is the football? 
+833,bedroom,"Answer: In the gymnasium.
+
+Question: What is the name of the town",Where is the football? 
+834,bedroom,"""I'm sorry, but I can't help it. I'm a little boy,",Where is the football? 
+835,garden,"Answer: In the house of the Lord.
+
+""The little man was very much",Where is the milk? 
+836,garden,"Answer: In the cow-house.
+
+Question: What is the cow doing?",Where is the milk? 
+837,garden,"Answer: In the milk-pail.
+
+Question: What is the name of the milk",Where is the milk? 
+838,kitchen,"Answer: In the room.
+
+""Oh, I'm so sorry, Aunt F",Where is the football? 
+839,bathroom,"Answer: In the garden.
+
+Question: What is the name of the place?",Where is the football? 
+840,bedroom,"Answer: In the cow's udder.
+
+[Illustration: A. B.",Where is the milk? 
+841,bedroom,"Answer: In the field.
+
+[Illustration: The football.]
+
+[Illustration",Where is the football? 
+842,bedroom,"Answer: In the field.
+
+The question is not a very difficult one. The",Where is the football? 
+843,office,"_Answer_: In the apple-tree.
+
+_Question_: What is the apple",Where is the apple? 
+844,office,"Answer: In the garden of the Temple, where it is said to have been planted by",Where is the apple? 
+845,office,"[Illustration: _From a Photograph by J. Reynolds._
+
+_From a Photograph",Where is the football? 
+846,office,"Answer: In the field.
+
+""Then Big Lazy-bones began to sing",Where is the football? 
+847,kitchen,"Answer: In the apple-tree.
+
+Question: What is the apple?
+Answer",Where is the apple? 
+848,office,"Answer: In the field.
+
+""I'm afraid you'll be tired, and",Where is the football? 
+849,bedroom,"Answer: In the garden.
+
+Cyril, who had been sitting in a chair",Where is the milk? 
+850,kitchen,"Answer: In the library.
+
+""I have been thinking,"" said Cyril",Where is the football? 
+851,bathroom,"Answer: In the hall.
+
+Question: What is the name of the game? Answer:",Where is the football? 
+852,office,"""I will not deny that I have been a little too much in the habit of",Where is the football? 
+853,office,"Answer: In the garden.
+
+“I’ll be waiting for you, Will",Where is the football? 
+854,bedroom,"He answers: The football is the Pope.
+
+He is not a little surprised to",Where is the football? 
+855,kitchen,"Answer: In the garden.
+
+Question: What is the name of the apple?",Where is the apple? 
+856,office,"A. (M. A.) The apple is in the garden.
+
+Q.",Where is the apple? 
+857,hallway,"Answer: In the apple-tree.
+
+[Illustration: THE APPLE-TREE",Where is the apple? 
+858,bedroom,"Answer: In the field.
+
+Q. What is the name of the place?",Where is the football? 
+859,bedroom,"Answer: In the apple-tree.
+
+[Illustration: I was stopped by one",Where is the apple? 
+860,bathroom,"Answer: In the house of the Mayor.
+
+Question: Where is the milk?",Where is the milk? 
+861,hallway,M. Desault: I have not the least doubt that you will be able to give,Where is the milk? 
+862,hallway,"Answer: In the cellar.
+
+[Illustration: THE SCHOOLS OF THE",Where is the milk? 
+863,hallway,"Answer: In the milk-pail.
+
+Q. What is the milk-p",Where is the milk? 
+864,hallway,"[Illustration:
+
+[Illustration:
+
+[Illustration:
+
+[Illustration:",Where is the milk? 
+865,hallway,"Answer: In the _Bull_ of the _London Gazette_, No. 1",Where is the football? 
+866,hallway,"Answer: In the _Lancet_ of the 1st of April, 1795",Where is the football? 
+867,hallway,"Answer: The Earth is a sphere, and the sphere is a sphere, and the sphere",Where is the football? 
+868,bathroom,"[Illustration: The football is still there.
+
+[Illustration: The football is still",Where is the football? 
+869,office,"Answer: In the tree.
+
+The same question is asked by the Indians of the",Where is the apple? 
+870,kitchen,"Answer: In the milk-pail.
+
+Question: What is the name of",Where is the milk? 
+871,garden,"Answer: The football is a football.
+
+[Illustration: THE BALLOON",Where is the football? 
+872,garden,"Answer: In the Wilderness.
+
+The question was answered by the following incident:",Where is the football? 
+873,garden,"Answer: In the garden.
+
+Question: What is the name of the garden?",Where is the football? 
+874,garden,"Answer: The football is a game played in the United States, in which the players",Where is the football? 
+875,garden,"Answer: In the field.
+
+""You're a good horse, too, and",Where is the football? 
+876,bathroom,"The answer: In the football field.
+
+The question: What is the football?",Where is the football? 
+877,office,"Answer: In the milk-pail.
+
+Question: What is the milk?",Where is the milk? 
+878,bathroom,"Answer: In the apple-tree. Why is the apple-tree like a
+pig?",Where is the apple? 
+879,bathroom,"Answer: In the _middle_ of the room.
+
+Question: What is the _name",Where is the football? 
+880,office,"Answer: In the apple-tree.
+
+Question: What is the apple?
+Answer",Where is the apple? 
+881,office,"Answer: In the apple-tree.
+
+[Illustration: The apple-tree.]",Where is the apple? 
+882,kitchen,"[Illustration: [The following is a copy of the original, printed in the
+_",Where is the football? 
+883,bathroom,"Answer: In the milk.
+
+
+[Illustration: Fig. 1.]
+
+[Illustration:",Where is the milk? 
+884,bathroom,"Answer: In the garden.
+
+[Illustration: The apple]
+
+[Illustration",Where is the apple? 
+885,bedroom,"Answer: In the milk.
+
+Question: Where is the bread?
+
+Answer",Where is the milk? 
+886,bedroom,"Answer: In the kitchen.
+
+""Is it possible that you have not heard the",Where is the milk? 
+887,bedroom,"Answer: In the cellar.
+
+""I was not aware that you had any objection",Where is the milk? 
+888,bedroom,"Answer: In the house.
+
+<context>
+
+The question was repeated.",Where is the milk? 
+889,bedroom,"Answer: In the apple-tree.
+
+Question: What is the apple?
+Answer",Where is the apple? 
+890,hallway,"Answer: In the kitchen.
+
+Hunter: I'm sorry, but I'm",Where is the milk? 
+891,hallway,"Answer: In the hand of the child.
+
+Question: Where is the apple?",Where is the apple? 
+892,hallway,"Answer: In the milk-pail.
+
+Question: Where is the milk?",Where is the milk? 
+893,hallway,"Answer: In the kitchen.
+
+Question: Where is the milk?
+Answer: In",Where is the milk? 
+894,garden,"Answer: In the garden.
+
+""But if you had done wrong, and had",Where is the apple? 
+895,garden,"Answer: In the house.
+
+Q. What is the name of the place?",Where is the milk? 
+896,garden,"Answer: In the sea.
+
+Question: What is the name of the sea?",Where is the milk? 
+897,garden,"Answer: In the stable.
+
+Q. What is the name of the horse?",Where is the milk? 
+898,garden,Answer: In the _cafes_ of the _cafes_ of the,Where is the milk? 
+899,garden,"Answer: In the Tafilett.
+
+[Illustration: Tafilett",Where is the milk? 
+900,bedroom,"Answer: In the cow.
+
+Q. What is the name of the cow?",Where is the milk? 
+901,bedroom,"[Illustration: [Illustration: [Illustration: [Illustration: [Illustration:
+
+[",Where is the milk? 
+902,bedroom,"Answer: In the cow's milk-pail.
+
+""The King was very",Where is the milk? 
+903,bedroom,"Answer: In the cupboard.
+
+""Well, I'm a-goin",Where is the milk? 
+904,bedroom,"Answer: In the cow-house.
+
+Question: Where is the cow?",Where is the milk? 
+905,hallway,"Answer: In the apple-tree.
+
+[Illustration: ""I'll do that",Where is the apple? 
+906,hallway,"Answer: In the garden.
+
+Q. What is the name of the apple?",Where is the apple? 
+907,kitchen,"Answer: In the field.
+
+[Illustration: ""I am going to the ball",Where is the football? 
+908,hallway,"Answer: In the apple-tree.
+
+[Illustration]
+
+[Illustration]",Where is the apple? 
+909,garden,"Answer: The Brownies are the football.
+
+[Illustration]
+
+[Illustration",Where is the football? 
+910,office,"Cissy: I don't know.
+
+""I don't know, either",Where is the milk? 
+911,office,"Answer: In the kitchen.
+
+""But the editor was right,"" said the fore",Where is the milk? 
+912,bathroom,"Answer: In the city of Washington.
+
+Question: What is the name of the football?",Where is the football? 
+913,bathroom,"Answer: In the football field.
+
+Question: What is the name of the football",Where is the football? 
+914,garden,"Answer: In the garden.
+
+Question: What is the apple?
+
+Answer",Where is the apple? 
+915,hallway,"Answer: In the apple-tree.
+
+Question: What is the apple?
+Answer",Where is the apple? 
+916,hallway,"Answer: In the milk-pail.
+
+
+CHAPTER I
+
+JOINTS AND B",Where is the milk? 
+917,hallway,"Answer: In the apple-tree.
+
+[Illustration: A tree of the apple",Where is the apple? 
+918,hallway,"Answer: In the room.
+
+""Oh, I wish I could be a football",Where is the football? 
+919,hallway,"Answer: In the cellar.
+
+""I have been informed that you have been in",Where is the milk? 
+920,kitchen,"Answer: In the milk-pail.
+
+Question: What is the name of",Where is the milk? 
+921,kitchen,"Answer: In the barn.
+
+Question: Where is the milk?
+
+Answer",Where is the milk? 
+922,bathroom,"Answer: In the cellar.
+
+[Illustration: THE BATTLE OF CHANC",Where is the milk? 
+923,bathroom,"Answer: In the garden.
+
+""I am going to the garden,"" said La",Where is the milk? 
+924,bathroom,"Answer: In the milk-pail.
+
+The question was put by the House",Where is the milk? 
+925,bedroom,"Answer: In the room.
+
+[1] The number of prisoners taken by the insurg",Where is the football? 
+926,bedroom,"[Illustration: THE BATTLE OF THE BIRDS]
+
+
+
+
+THE BATT",Where is the football? 
+927,garden,Answer: In the garden of the King of the Belgians. [3],Where is the apple? 
+928,garden,"Answer: In the apple-tree.
+
+Question: What is the apple?
+Answer",Where is the apple? 
+929,garden,"Answer: In the cellar.
+
+""And I want to build a new school, and",Where is the milk? 
+930,hallway,"Answer: In the cow's milk-pail.
+
+Question: What is the name",Where is the milk? 
+931,hallway,"Answer: In the milk-pans.
+
+Question: What is the milk?",Where is the milk? 
+932,bedroom,"Answer: In the garden.
+
+""I am going to the garden,"" said the",Where is the apple? 
+933,bedroom,"Answer: In the garden.
+
+""What is the name of the planet Bung",Where is the apple? 
+934,garden,"[Illustration: ""I am going to the milk-house.""]
+
+place,",Where is the milk? 
+935,garden,"Answer: In the garden of the Temple, and the garden is full of apples.",Where is the apple? 
+936,garden,"Answer: In the garden.
+
+Question: Where is the apple?
+
+Answer",Where is the apple? 
+937,garden,"Answer: In the apple-tree.
+
+[1] The following is a translation",Where is the apple? 
+938,bathroom,"Answer: In the field.
+
+Question: Where is the football?
+
+Answer",Where is the football? 
+939,hallway,"Answer: The football is a game played by the boys of the United States
+Army",Where is the football? 
+940,bedroom,"Answer: In the apple-tree.
+
+Question: What is the apple?",Where is the apple? 
+941,bedroom,"The answer is, ""In the apple-tree.""
+
+The following is a translation",Where is the apple? 
+942,office,"The answer: ""In the field, where he is a good shot.""
+
+""",Where is the football? 
+943,office,"Answer: In the garden.
+
+[Illustration: The Glow-worm]",Where is the football? 
+944,office,"Answer: In the garden of the King of the Kings.
+
+[Illustration: The",Where is the apple? 
+945,bedroom,"[Illustration:
+
+""The 'Gorgon' and the 'Gorgon",Where is the apple? 
+946,bedroom,"Second: Where is the heart?
+
+Third: Where is the heart?",Where is the apple? 
+947,kitchen,Answer: In the milk-pail. Question: How is the milk to be carried? Answer,Where is the milk? 
+948,garden,"Answer: In the Rocket.
+
+[Illustration: 1,000]",Where is the football? 
+949,bathroom,"Answer: In the garden of the Temple of the Sun, in the garden of the",Where is the football? 
+950,hallway,[The following letter from the late Mr. R. H. B. R. P,Where is the football? 
+951,hallway,"Answer: In the football room.
+
+""The football room,"" said Me, """,Where is the football? 
+952,hallway,"Answer: In the field.
+
+Question: What is the name of the game?",Where is the football? 
+953,garden,THE BALLAD OF THE BALLAD OF THE BALLAD OF THE BALL,Where is the milk? 
+954,garden,"Answer: In the pantry.
+
+Question: Where is the milk?",Where is the milk? 
+955,bedroom,"Answer: In the hall.
+
+Question: Where is the football?
+
+Answer",Where is the football? 
+956,bedroom,"Answer: In the football field.
+
+[Illustration: ""I'm not going to",Where is the football? 
+957,bedroom,"Answer: In the gym.
+
+Question: What is the name of the game?",Where is the football? 
+958,bedroom,"Answer: The ball is a ball of clay, and is used to represent the human body",Where is the football? 
+959,bedroom,"Answer: In the hall.
+
+Question: What is the name of the game?",Where is the football? 
+960,hallway,"Answer: In the milk-pail.
+
+“Then she said, “I",Where is the milk? 
+961,hallway,"Answer: In the garden.
+
+“I am sorry,” said the mother, “",Where is the football? 
+962,hallway,"Answer: In the house of the man who was the first to make the milk
+known",Where is the milk? 
+963,hallway,"Answer: In the apple-tree.
+
+
+_The Story of the Apple-Tree._",Where is the apple? 
+964,hallway,"Answer: In the dairy.
+
+Question: Where is the butter?
+Answer: In",Where is the milk? 
+965,hallway,"Answer: In the gymnasium.
+
+“What did the chief of police say",Where is the football? 
+966,kitchen,"Answer: In the cellar.
+
+“Well, I’m glad we’ve",Where is the milk? 
+967,kitchen,"Answer: In the milk-pail.
+
+Question: How do you know that",Where is the milk? 
+968,bedroom,"Answer: In the barn.
+
+Question: What is the fight?
+
+Answer",Where is the football? 
+969,bedroom,"Answer: In the hall.
+
+Question: What is the name of the football?",Where is the football? 
+970,office,"Answer: In the apple-tree.
+
+Question: What is the apple?",Where is the apple? 
+971,kitchen,"Answer: In the garden.
+
+Question: What is the apple?
+
+Answer",Where is the apple? 
+972,kitchen,"Answer: In the garden.
+
+Question: What is the apple? Answer: A little apple",Where is the apple? 
+973,kitchen,"Answer: In the kitchen.
+
+""What is the matter with you?""",Where is the apple? 
+974,office,"Answer: In the apple tree.
+
+[Illustration: The apple tree]",Where is the apple? 
+975,garden,"Answer: In the garden.
+
+Question: Where is the football?
+Answer: In",Where is the football? 
+976,garden,"""The following is the answer:
+
+""The first of the two prisoners, who",Where is the football? 
+977,kitchen,"Answer: In the park.
+
+Question: What is the name of the city?",Where is the football? 
+978,bathroom,Answer: In the _Bible_ (vol. ii. p. 7).,Where is the milk? 
+979,bathroom,"Answer: In the _milk-pond_.
+
+""The _milk",Where is the milk? 
+980,hallway,"Answer: In the garden.
+
+
+FOOTNOTES:
+
+[57] The following is",Where is the apple? 
+981,office,"Answer: In the field.
+
+“That’s a good one,” said the",Where is the football? 
+982,hallway,"“It’s in the corner,” said Carl. “I saw it move. I",Where is the apple? 
+983,bedroom,"Answer: In the apple-tree.
+
+
+_The Story of the Old Man and the Young",Where is the apple? 
+984,bedroom,"_Exeunt._
+
+_Exeunt._
+
+_Exeunt",Where is the apple? 
+985,kitchen,"[Footnote 515: The ""Elegies"" of the Elegiac Elegy",Where is the football? 
+986,kitchen,"Answer: He’s a football player.
+
+“Well, I’m glad",Where is the football? 
+987,bathroom,"Answer: In the _Ann’s_ cellar.
+
+“Well, I’m",Where is the milk? 
+988,bedroom,"Answer: In the milk-pail.
+
+Question: What is the name of",Where is the milk? 
+989,garden,"Answer: In the house.
+
+""I am afraid,"" said the hawk,",Where is the milk? 
+990,garden,"Answer: In the cow-house.
+
+Question: What is the cow-house",Where is the milk? 
+991,garden,"Answer: In the kitchen.
+
+Question: Where is the butter?
+
+Answer",Where is the milk? 
+992,office,"Answer: In the house of the little girl.
+
+""The boy was very angry",Where is the milk? 
+993,office,"Answer: In the cellar.
+
+Question: What is the matter with the milk?",Where is the milk? 
+994,bedroom,"Answer: In the kitchen.
+
+""I am sorry to hear that you are suffering",Where is the milk? 
+995,kitchen,"Answer: In the apple-tree.
+
+Q. What is the apple?",Where is the apple? 
+996,kitchen,"Answer: In the basket.
+
+Question: Where is the apple?
+
+Answer",Where is the apple? 
+997,hallway,"Answer: In the tree.
+
+""What is the name of the tree?""",Where is the apple? 
+998,hallway,"Answer: In the woods.
+
+[Illustration: The football is in the woods.]",Where is the football? 

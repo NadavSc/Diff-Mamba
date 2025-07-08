@@ -1,0 +1,101 @@
+,target,output,question
+0,garden,"kitchen kitchen, garden, kitchen garden, kitchen kitchen garden, kitchen kitchen garden, kitchen kitchen garden,",Where is the milk? 
+1,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is the milk? 
+2,bedroom,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is the milk? 
+3,bedroom,"kitchen kitchen, hallway, bedroom, kitchen kitchen, bedroom, kitchen kitchen, bedroom, kitchen kitchen,",Where is the milk? 
+4,bedroom,"kitchen, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is the milk? 
+5,bedroom,"kitchen, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where is the milk? 
+6,hallway,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is the apple? 
+7,hallway,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is the apple? 
+8,kitchen,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where is the football? 
+9,hallway,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where is the apple? 
+10,garden,"kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden",Where is the football? 
+11,office,"office, office, office, office, office, office, office, office, office, office,",Where is the milk? 
+12,office,"office, office, garden, garden, garden, garden, garden, garden, garden, garden,",Where is the milk? 
+13,bathroom,"bathroom, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where is the football? 
+14,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is the football? 
+15,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is the apple? 
+16,hallway,"hallway garden, bedroom, hallway garden, bedroom, hallway garden, bedroom, hallway garden, bedroom,",Where is the apple? 
+17,hallway,"garden, hallway, bedroom, bedroom, bedroom, garden, bedroom, bedroom, garden, bedroom,",Where is the milk? 
+18,hallway,"garden, hallway, bedroom, bedroom, garden, bedroom, garden, bedroom, bedroom, garden,",Where is the apple? 
+19,hallway,"garden, bedroom, bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden,",Where is the football? 
+20,hallway,"garden, garden, garden, garden, garden, garden, garden, garden, garden, garden,",Where is the milk? 
+21,kitchen,"kitchen, hallway, bedroom, bedroom, hallway, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is the milk? 
+22,kitchen,"kitchen kitchen, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom",Where is the milk? 
+23,bathroom,"bathroom, office, bathroom, office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is the milk? 
+24,bathroom,"office, bedroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is the milk? 
+25,bathroom,"hallway kitchen, hallway kitchen, hallway kitchen, hallway kitchen, hallway kitchen, hallway kitchen, hallway kitchen",Where is the milk? 
+26,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is the football? 
+27,bedroom,"bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen,",Where is the football? 
+28,garden,"garden, kitchen, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is the apple? 
+29,garden,"garden, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where is the apple? 
+30,garden,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is the milk? 
+31,hallway,"kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway,",Where is the milk? 
+32,hallway,"kitchen kitchen, hallway, hallway, kitchen kitchen, hallway, kitchen kitchen, hallway, kitchen kitchen,",Where is the milk? 
+33,bedroom,"garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden,",Where is the apple? 
+34,bedroom,"kitchen kitchen garden, kitchen kitchen garden, kitchen kitchen kitchen garden, kitchen kitchen kitchen garden, kitchen kitchen",Where is the apple? 
+35,garden,"kitchen kitchen garden, kitchen kitchen garden, kitchen kitchen garden, kitchen kitchen garden, kitchen kitchen garden,",Where is the milk? 
+36,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is the apple? 
+37,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is the apple? 
+38,garden,"garden, garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is the apple? 
+39,bathroom,"office garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom",Where is the football? 
+40,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is the football? 
+41,bedroom,"kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is the apple? 
+42,bedroom,"garden, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is the apple? 
+43,office,"hallway bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom",Where is the football? 
+44,office,"hallway office, bedroom, bedroom, hallway office, bedroom, bedroom, hallway office, bedroom, bedroom",Where is the football? 
+45,office,"hallway office, hallway bedroom, hallway bedroom, hallway bedroom, hallway bedroom, hallway bedroom, hallway bedroom",Where is the apple? 
+46,bedroom,"bathroom, office, garden, bathroom, garden, bathroom, garden, bathroom, garden, bathroom,",Where is the apple? 
+47,bedroom,"kitchen, kitchen, office, garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is the apple? 
+48,kitchen,"kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway, kitchen, hallway,",Where is the milk? 
+49,garden,"garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden,",Where is the football? 
+50,bathroom,kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen,Where is the football? 
+51,hallway,"hallway, bathroom, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where is the football? 
+52,hallway,"kitchen kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen",Where is the football? 
+53,hallway,"kitchen kitchen garden, kitchen kitchen garden, kitchen kitchen garden, kitchen kitchen garden, kitchen kitchen garden,",Where is the football? 
+54,garden,"kitchen, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where is the milk? 
+55,garden,"kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom, kitchen, bedroom,",Where is the milk? 
+56,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is the football? 
+57,bedroom,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is the football? 
+58,bedroom,"bedroom bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom",Where is the football? 
+59,bedroom,"bedroom bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom",Where is the football? 
+60,bedroom,"kitchen kitchen, office, kitchen, office, kitchen, office, kitchen, office, kitchen, office",Where is the football? 
+61,hallway,"bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is the milk? 
+62,hallway,"bathroom, hallway, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom,",Where is the football? 
+63,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is the milk? 
+64,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where is the apple? 
+65,hallway,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is the milk? 
+66,hallway,kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen,Where is the football? 
+67,kitchen,"hallway, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is the milk? 
+68,kitchen,"hallway, hallway, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is the milk? 
+69,bedroom,"bedroom, bedroom, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is the football? 
+70,bedroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where is the football? 
+71,office,"office, office, office, office, office, office, office, office, office, office,",Where is the apple? 
+72,kitchen,"kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden",Where is the apple? 
+73,kitchen,"kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden",Where is the apple? 
+74,kitchen,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where is the apple? 
+75,office,"office, office, office, office, office, office, office, office, office, office,",Where is the apple? 
+76,garden,"bedroom, bathroom, bedroom, bathroom, bedroom, bathroom, bedroom, bedroom, bedroom, bedroom,",Where is the football? 
+77,garden,"bedroom, garden, bedroom, bedroom, garden, bedroom, bedroom, garden, bedroom, bedroom,",Where is the football? 
+78,kitchen,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where is the football? 
+79,bathroom,"garden, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is the milk? 
+80,bathroom,"bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom, bathroom,",Where is the milk? 
+81,hallway,"hallway office, hallway bedroom, hallway bedroom, hallway bedroom, hallway bedroom, hallway bedroom, hallway bedroom",Where is the apple? 
+82,office,"office, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is the football? 
+83,hallway,"kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen, kitchen kitchen",Where is the apple? 
+84,bedroom,"kitchen kitchen, hallway, bedroom, kitchen kitchen, hallway, bedroom, kitchen kitchen, hallway, bedroom",Where is the apple? 
+85,bedroom,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where is the apple? 
+86,kitchen,"kitchen kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen",Where is the football? 
+87,kitchen,"office, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is the football? 
+88,bathroom,"bathroom, office, bathroom, office, bathroom, office, bathroom, office, bathroom, office,",Where is the milk? 
+89,bedroom,"bedroom, hallway, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom, bedroom,",Where is the milk? 
+90,garden,"garden, bedroom, bedroom, bedroom, garden, bedroom, bedroom, garden, bedroom, bedroom,",Where is the milk? 
+91,garden,"garden, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen, kitchen,",Where is the milk? 
+92,garden,"garden, kitchen, kitchen, garden, kitchen, kitchen, garden, kitchen, garden, kitchen,",Where is the milk? 
+93,office,"office garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom, garden, bedroom",Where is the milk? 
+94,office,"office garden, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom",Where is the milk? 
+95,bedroom,"office garden, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom",Where is the milk? 
+96,kitchen,"kitchen kitchen, bathroom, kitchen, bathroom, kitchen, bathroom, kitchen, bathroom, kitchen, bathroom",Where is the apple? 
+97,kitchen,"bathroom, kitchen, bathroom, kitchen, bathroom, kitchen, bathroom, kitchen, bathroom, kitchen,",Where is the apple? 
+98,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where is the apple? 
+99,hallway,"bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway, bathroom, hallway,",Where is the football? 

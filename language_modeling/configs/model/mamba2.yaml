@@ -1,0 +1,6 @@
+defaults:
+  - base
+  - override layer: mamba2
+
+transposed: false # Actually faster than "true"
+tie_dropout: true

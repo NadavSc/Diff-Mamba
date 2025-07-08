@@ -1,0 +1,23 @@
+Collecting causal-conv1d
+  Downloading causal_conv1d-1.4.0.tar.gz (9.3 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Requirement already satisfied: torch in /home/nadavsc/.conda/envs/ssm/lib/python3.9/site-packages (from causal-conv1d) (2.4.0)
+Requirement already satisfied: packaging in /home/nadavsc/.conda/envs/ssm/lib/python3.9/site-packages (from causal-conv1d) (24.1)
+Requirement already satisfied: ninja in /home/nadavsc/.conda/envs/ssm/lib/python3.9/site-packages (from causal-conv1d) (1.11.1.2)
+Requirement already satisfied: filelock in /home/nadavsc/.conda/envs/ssm/lib/python3.9/site-packages (from torch->causal-conv1d) (3.13.1)
+Requirement already satisfied: typing-extensions>=4.8.0 in /home/nadavsc/.conda/envs/ssm/lib/python3.9/site-packages (from torch->causal-conv1d) (4.11.0)
+Requirement already satisfied: sympy in /home/nadavsc/.conda/envs/ssm/lib/python3.9/site-packages (from torch->causal-conv1d) (1.13.2)
+Requirement already satisfied: networkx in /home/nadavsc/.conda/envs/ssm/lib/python3.9/site-packages (from torch->causal-conv1d) (3.2.1)
+Requirement already satisfied: jinja2 in /home/nadavsc/.conda/envs/ssm/lib/python3.9/site-packages (from torch->causal-conv1d) (3.1.4)
+Requirement already satisfied: fsspec in /home/nadavsc/.conda/envs/ssm/lib/python3.9/site-packages (from torch->causal-conv1d) (2024.6.1)
+Requirement already satisfied: MarkupSafe>=2.0 in /home/nadavsc/.conda/envs/ssm/lib/python3.9/site-packages (from jinja2->torch->causal-conv1d) (2.1.3)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in /home/nadavsc/.conda/envs/ssm/lib/python3.9/site-packages (from sympy->torch->causal-conv1d) (1.3.0)
+Building wheels for collected packages: causal-conv1d
+  Building wheel for causal-conv1d (setup.py): started
+  Building wheel for causal-conv1d (setup.py): finished with status 'done'
+  Created wheel for causal-conv1d: filename=causal_conv1d-1.4.0-cp39-cp39-linux_x86_64.whl size=104867701 sha256=d92b40e5f7ff2b7e67b346cf03bf8995ca179c7dfb9500b2aa027c52148caf23
+  Stored in directory: /home/nadavsc/.cache/pip/wheels/d0/b0/fe/69f6bcd4824f176cddd12ea6931adc793045c9d9bb204c16d8
+Successfully built causal-conv1d
+Installing collected packages: causal-conv1d
+Successfully installed causal-conv1d-1.4.0

@@ -1,0 +1,3086 @@
+,target,output,question
+0,hallway,"Answer: He is in the library.
+
+""I am so glad you are here",Where is John? 
+1,bathroom,"Answer: She is in the parlor.
+
+Q. What is the matter?",Where is Mary? 
+2,kitchen,"Answer: She is in the kitchen.
+
+[Illustration: The gentleman for whom the house",Where is Sandra? 
+3,hallway,"Answer: She is in the churchyard.
+
+Question: Where is the church?",Where is Sandra? 
+4,kitchen,"Answer: In the pocket of my coat.
+
+Question: Where is the pocket?",Where is Sandra? 
+5,hallway,"THE STORY OF THE BIRDS.
+
+
+The story of the birds is a",Where is Sandra? 
+6,garden,"Answer: She is in the house.
+
+
+
+
+THE STORY OF THE WAR.",Where is Sandra? 
+7,hallway,"Answer: He is in the tent.
+
+Question: What is he doing?",Where is Daniel? 
+8,office,"Answer: She is in the kitchen.
+
+""I am so glad you are here",Where is Sandra? 
+9,office,"Answer: He is in the house.
+
+Question: What is the matter with him",Where is Daniel? 
+10,kitchen,"Answer: In the house.
+
+Question: What is the matter?
+
+Answer",Where is Mary? 
+11,garden,"Answer: She is in the garden, and I am in the house.
+
+""",Where is Mary? 
+12,office,"""I have heard of a man who was a great man in his day, and yet",Where is Daniel? 
+13,bedroom,"Answer: She is in the church.
+
+Question: What is the matter?",Where is Mary? 
+14,bedroom,"""I'm sorry, Mrs. Boyd,"" Pauline said, ""but I've been",Where is Mary? 
+15,kitchen,"Answer: He's in the library.
+
+Question: What is he doing?",Where is John? 
+16,garden,_Sermon: The Church is the only home of the poor. The Church is,Where is John? 
+17,kitchen,"Answer: He is in the house.
+
+Question: What is the name of the",Where is John? 
+18,office,Answer: Daniel is a man of ther kind. He is a man of ther,Where is Daniel? 
+19,kitchen,"Answer: In the ""Life of Randolph,"" by Thomas Paine.
+
+
+
+
+[Illustration",Where is John? 
+20,hallway,"Answer: In the Bible.
+
+[Illustration: The Paine Memorial]",Where is Mary? 
+21,office,"Answer: In the New York _Times_ of March 15th, 1803.",Where is John? 
+22,office,"Answer: John is in the tunnel.
+
+The question was put by the chairman of",Where is John? 
+23,hallway,"Answer: In the United States.
+
+Question: What is the number of deaths in",Where is Sandra? 
+24,bedroom,"Answer: In the Bible.
+
+Question: Where is the Bible?
+
+Answer",Where is Daniel? 
+25,bedroom,"Answer: She is in the house of the King.
+
+Question: What is the",Where is Sandra? 
+26,bedroom,"Paine: In the house.
+
+Q: What is the name of the house",Where is Mary? 
+27,kitchen,"Answer: In the library of the University of Pennsylvania, Philadelphia,
+Pennsylvania.",Where is Daniel? 
+28,kitchen,"Answer: He is in the garden.
+
+Question: What is the matter?",Where is Daniel? 
+29,kitchen,"Answer: He is in the house.
+
+Question: What is the name of the",Where is Daniel? 
+30,hallway,"Answer: In the garden.
+
+""And what do you mean by it, sir",Where is Sandra? 
+31,office,"‘The question was put to the three directors, and they said, “We will",Where is John? 
+32,kitchen,"Answer: She is in the country.
+
+Question: How is she?",Where is Sandra? 
+33,kitchen,Answer: She is in the “Society” at the “Society” in London,Where is Sandra? 
+34,bathroom,"Answer: She is in the kitchen.
+
+""I'm going to get her a",Where is Sandra? 
+35,office,"Answer: She is in the house.
+
+""I'm going to the house,""",Where is Mary? 
+36,bathroom,"Answer: She is in the house.
+Question: What is the matter?
+Answer:",Where is Mary? 
+37,garden,"Answer: She is in the house.
+
+Question: How did you get here?",Where is Mary? 
+38,kitchen,"Answer: She is in the country.
+
+Question: Where is she?",Where is Sandra? 
+39,bedroom,Answer: He is at the farm. He is working hard. He is a good boy,Where is Daniel? 
+40,bathroom,"Answer: She is in the garden.
+
+Question: Where is she?",Where is Sandra? 
+41,garden,Cyril was awakened by the sound of a footstep on the stairs. He sprang,Where is Daniel? 
+42,bathroom,"Answer: In the south of Italy.
+
+[Illustration: S. Maria delle G",Where is Sandra? 
+43,hallway,"Answer: In the book of Daniel.
+
+
+
+
+CHAPTER X.
+
+THE HIST",Where is Daniel? 
+44,garden,"Answer: He is in the garden.
+
+Question: What is the meaning of the",Where is Daniel? 
+45,kitchen,"Answer: She is in the garden.
+
+""I am going to see her,""",Where is Mary? 
+46,hallway,"""I am glad to hear that you have a new idea, and that you are willing",Where is Daniel? 
+47,bathroom,"Answer: She is in the garden.
+
+[Illustration]
+
+[Illustration]",Where is Sandra? 
+48,office,"He had been sitting in the chair with his back to the fire, and now he",Where is John? 
+49,bedroom,"Answer: John is in the next room.
+
+Question: What is the matter with",Where is John? 
+50,bedroom,"Answer: He is in the house.
+
+Question: What is he doing?
+Answer",Where is John? 
+51,office,"Answer: In the grave, where he lies.
+
+Question: What is the name",Where is John? 
+52,garden,Answer: In the _Paradise_ of _Paradise Lost_.,Where is John? 
+53,garden,"Answer: In the Tower of London.
+
+Question: What is the name of the place",Where is John? 
+54,kitchen,"Answer: He's in the 'Bullier,' too.
+
+""Billy",Where is Daniel? 
+55,bedroom,"Answer: In the garden.
+
+Question: What is the meaning of the word """,Where is Mary? 
+56,kitchen,"Answer: In the room.
+
+Question: What is the matter?
+
+Answer",Where is Mary? 
+57,hallway,"Answer: In the room.
+
+Question: What is the name of the room?",Where is Mary? 
+58,garden,"“And you’ll be a millionaire, and a great man, and a great",Where is Daniel? 
+59,hallway,"Answer: She is in the library.
+
+“I am going to the library,”",Where is Sandra? 
+60,hallway,"Answer: In the garden.
+
+[Illustration: The Epeira, the ""S",Where is Sandra? 
+61,office,"[Illustration:
+
+""What do you do with the rest of your life?""",Where is Daniel? 
+62,bathroom,"Answer: She is in the garden.
+
+Question: What is the matter with her",Where is Sandra? 
+63,garden,"The answer: He is in the garden of Eden.
+
+The question: What is",Where is Daniel? 
+64,garden,"Answer: In the garden of the Temple.
+
+[Illustration: [The following is",Where is Daniel? 
+65,kitchen,"Answer: He is in the country.
+
+Q. What is the name of the",Where is John? 
+66,kitchen,"Answer: In the Tower.
+
+Question: How did he escape?
+
+Answer",Where is John? 
+67,bathroom,"Answer: He is in the hospital.
+
+Question: Where is the hospital?",Where is Daniel? 
+68,office,"Answer: He is in prison.
+
+Q. What was the cause of the death of",Where is Daniel? 
+69,office,"Answer: He is in the cave.
+
+Question: What is the name of the",Where is Daniel? 
+70,garden,Answer: She is in the hands of the King of Abyssinia.,Where is Mary? 
+71,hallway,"Answer: She is in the South African Colony.
+
+Question: Where is the",Where is Sandra? 
+72,garden,"Answer: She is in the house.
+
+Question: Where is the house?",Where is Mary? 
+73,bedroom,"Answer: She is in the next room.
+
+""The next room? What room",Where is Mary? 
+74,bathroom,"Answer: In the house of her father, the house of her father.
+
+""",Where is Mary? 
+75,kitchen,"[Illustration: The Rocket.]
+
+[Illustration: The Rocket.]",Where is Daniel? 
+76,kitchen,"Answer: John is in the city.
+
+Question: What is the name of the",Where is John? 
+77,kitchen,"Answer: He is in the garden.
+
+Question: What is the matter with him",Where is Daniel? 
+78,hallway,"Answer: He is in the garden.
+
+Question: What is the name of the",Where is Daniel? 
+79,office,"Answer: He is in the Abbey of the Gray Friars,
+    Where he was",Where is Daniel? 
+80,garden,"Answer: In the play.
+
+Q. What is John's character?",Where is John? 
+81,bathroom,"Answer: He is in the country.
+
+Q. What is his name?",Where is John? 
+82,bedroom,"Answer: She is in the library.
+
+Question: Where is the fire?",Where is Sandra? 
+83,garden,"Answer: In the house of God.
+
+The Goddess of Love
+
+The God",Where is Mary? 
+84,office,"Answer: In the house of the Lord.
+
+Question: What is Daniel?",Where is Daniel? 
+85,garden,"Answer: She is in the garden.
+
+Question: Where is Slyme?",Where is Sandra? 
+86,garden,"Slyme read the words:
+
+'I am in the employ of the firm",Where is Mary? 
+87,hallway,"[19]
+
+[20]
+
+[21]
+
+[22]",Where is John? 
+88,kitchen,_Answer:_ She is in the _Herrnhut_ at the _Herr,Where is Sandra? 
+89,kitchen,"Answer: In the book of Daniel.
+
+[Illustration: The Book of Daniel]",Where is Daniel? 
+90,bathroom,"The answer: She is in the house with her mother.
+
+The question: What",Where is Sandra? 
+91,bathroom,"Answer: He is in the garden.
+
+Lester, who had been looking at",Where is John? 
+92,hallway,"Answer: She is in the kitchen.
+
+Question: Where is the kitchen?
+Answer",Where is Sandra? 
+93,bathroom,"Answer: She is in the kitchen.
+
+Question: Where is the baby?",Where is Sandra? 
+94,bathroom,"Answer: She is in the garden.
+
+“I’ll go and see,”",Where is Sandra? 
+95,kitchen,"Answer: John is in the garden.
+
+Question: What is the matter?",Where is John? 
+96,kitchen,"Answer: She is in the house.
+
+""I am sorry,"" she said again",Where is Sandra? 
+97,kitchen,"Answer: She is in the house.
+
+Question: What is she doing?",Where is Mary? 
+98,bedroom,"Answer: In the house of the King.
+
+""I was not surprised to hear",Where is Mary? 
+99,bedroom,"A. M.
+
+
+[Illustration: The Painted Lady]
+
+
+
+
+[Illustration",Where is Mary? 
+100,bedroom,"Answer: She is in the Luxembourg Gardens.
+
+Question: What is the meaning",Where is Mary? 
+101,bathroom,"Answer: In the house.
+
+""What is the name of the house?""",Where is Sandra? 
+102,office,"Answer: In the house.
+
+""Oi don't believe it, but I",Where is Mary? 
+103,garden,"Answer: He is in the library.
+
+Question: What is he doing?",Where is Daniel? 
+104,garden,"Answer: In the house of the Lord.
+
+Question: Where is the Lord?",Where is Daniel? 
+105,hallway,"Answer: In the church.
+
+Question: What is the name of the church?",Where is Mary? 
+106,bedroom,"Answer: Daniel is a name of the prophet, and is the name of the son of",Where is Daniel? 
+107,bathroom,"Answer: In the old house at the corner of the street.
+
+[Illustration: Daniel",Where is Daniel? 
+108,office,"Answer: He is in the garden, and is waiting for you.
+
+
+
+
+THE END",Where is Daniel? 
+109,bedroom,"Answer: He is in the library.
+
+Question: What is the matter?",Where is John? 
+110,bathroom,"Answer: He is in the garden.
+
+Question: What is the matter?",Where is Daniel? 
+111,bathroom,"Answer: In the _first_ place, in the _first_ place, in the",Where is Daniel? 
+112,kitchen,"Answer: He was a Greek, and a Greek scholar.
+
+[Illustration: John",Where is John? 
+113,hallway,"[Illustration: John’s tomb, Cæcilia Metella, Cæcil",Where is John? 
+114,kitchen,"Answer: In the kitchen.
+
+""But I don't know what you mean.",Where is Mary? 
+115,garden,"Answer: She is in the library.
+
+""But, of course, I--I",Where is Sandra? 
+116,office,"Answer: In the house of the Lord.
+
+Question: What is the meaning of",Where is John? 
+117,kitchen,"[9] See the _History of the English Church_, vol. ii. p.",Where is Mary? 
+118,bathroom,"A: In the house of the Dessave.
+
+Q: What is the",Where is Daniel? 
+119,office,"[Footnote: The following letter is from the hand of the late Mr.
+W.",Where is Daniel? 
+120,bedroom,"Answer: He is in Washington, and will be there to-morrow.
+
+
+[",Where is Daniel? 
+121,bathroom,"Answer: Mary is in the North.
+
+[Illustration: THE WAR-TIME",Where is Mary? 
+122,bedroom,"Answer: He is in the city of the dead.
+
+Lester had been in",Where is Daniel? 
+123,hallway,"Answer: He is in the library.
+
+Question: What is the matter with you",Where is Daniel? 
+124,bedroom,"Answer: She is in the house of her father, who is a very good man,",Where is Mary? 
+125,office,"Answer: She is in the garden.
+
+Question: What is the meaning of the",Where is Sandra? 
+126,garden,"Answer: In the garden.
+
+Q: What is the garden like?",Where is John? 
+127,garden,"Answer: He is in the library.
+
+Q. What is the meaning of the",Where is Daniel? 
+128,garden,"Answer: In the garden of the Villa de Vergara, near the Villa de",Where is Sandra? 
+129,bathroom,Answer: She is in the garden. She is very busy. She is making a new,Where is Sandra? 
+130,garden,"Answer: She is in the garden.
+
+Question: What is the name of the garden",Where is Sandra? 
+131,hallway,"I have been called the living telescope,
+and I have been called the living telescope,",Where is Mary? 
+132,bathroom,"Oswald: In the house of the old lady.
+
+Oswald:",Where is Sandra? 
+133,garden,_Answer._ In the _Priestley_ of the _Priestley,Where is Sandra? 
+134,kitchen,"Answer: He is in the garden.
+
+    [Illustration: The garden.]
+
+    [Illustration",Where is John? 
+135,bathroom,"THE END.
+
+
+
+
+Transcriber’s Notes:
+
+Obvious punctuation",Where is Sandra? 
+136,office,"Answer: In the garden,
+with her little boy.
+
+""The garden is",Where is Sandra? 
+137,kitchen,"Answer: In the kitchen.
+
+[257] See the _History of the Church",Where is John? 
+138,bathroom,"[303] The following is a specimen of the style of the early Italian
+architecture",Where is Sandra? 
+139,bathroom,"Answer: John is in the city of New York.
+
+Question: What is John",Where is John? 
+140,office,"Answer: She is in the house.
+
+Question: What is the matter with her",Where is Mary? 
+141,hallway,"[The following is a translation of the above:
+
+""The first thing that we",Where is Mary? 
+142,hallway,"Answer: In the churchyard.
+
+The following is a specimen of the manner in which",Where is Mary? 
+143,office,"Answer: In the house of the housekeeper.
+
+[Illustration: The house of the",Where is Sandra? 
+144,bedroom,Answer: In the house of the late Mr. John H. H. H. H.,Where is Sandra? 
+145,kitchen,"""Sandra"" was a name that Lester had heard in the West, and he",Where is Sandra? 
+146,kitchen,"Answer: She is in the library.
+
+Q. What is the matter?",Where is Sandra? 
+147,kitchen,"Answer: He is in the house.
+
+""I am sorry to hear that,""",Where is Daniel? 
+148,kitchen,"Answer: She is here, and I am here.
+
+""And you, too",Where is Sandra? 
+149,kitchen,"Answer: He is in the city of Washington.
+
+Question: Where is Daniel?",Where is Daniel? 
+150,garden,"A.D. 1834.
+
+The question was put by the Duke of Wellington",Where is Daniel? 
+151,garden,Answer: In the garden of the palace of the King of Navarre.,Where is Sandra? 
+152,bathroom,"Answer: In the city of Pretoria.
+
+Question: What is the name of the",Where is Daniel? 
+153,office,"Answer: He is in the house.
+
+The Boer has been in the house",Where is Daniel? 
+154,bedroom,"Answer: He is in the world.
+
+[1] The following is a translation",Where is John? 
+155,bathroom,_Schnaken_ (Schnatz) (Schnatz) (Schn,Where is Mary? 
+156,garden,"Answer: He was a man of genius, and he was a man of courage. He",Where is Daniel? 
+157,bedroom,"Answer: In the Bible.
+
+Question: Where is John?
+
+Answer:",Where is John? 
+158,office,Answer: In the _Miscellanies_ of _John_ of _B,Where is John? 
+159,hallway,"[Footnote 28: The name of the first Queen of Great Britain.]
+
+    [Footnote",Where is Mary? 
+160,bedroom,"Answer: He was a very clever man, and he was a very clever man's son",Where is Daniel? 
+161,bedroom,"Answer: He is in the garden.
+
+Question: What is the meaning of the",Where is Daniel? 
+162,bedroom,"=The reader is requested to read the following extract from the
+_Times_ of the",Where is Mary? 
+163,garden,"Answer: In the centre of the circle.
+
+[Illustration]
+
+[Illustration",Where is Mary? 
+164,bathroom,"Answer: He is in the Tower.
+
+[Sidenote: The King's Speech.]",Where is Daniel? 
+165,garden,"Answer: In the garden.
+
+Question: Where is the garden?
+
+Answer",Where is Sandra? 
+166,garden,"Answer: In the garden.
+
+Q. What is the name of the garden?",Where is Sandra? 
+167,garden,"Answer: In the _Bible_ Book of Daniel.
+
+Question: What is",Where is Daniel? 
+168,kitchen,"Answer: In the ""Old Salt Mine,"" at Dudzeele, Belgium.",Where is Daniel? 
+169,bedroom,"Answer: She is in the garden.
+
+Q. Is she in the garden?",Where is Mary? 
+170,office,"Answer: He is in Danville.
+
+Question: Where is Daniel? Answer: He is",Where is Daniel? 
+171,office,"Answer: He is in the house.
+
+Question: What is the matter?",Where is Daniel? 
+172,garden,"Answer: In the room.
+
+[Footnote 147: See the article on ""The",Where is John? 
+173,bathroom,"[Illustration: [Illustration:
+
+[Illustration:
+
+[Illustration:",Where is Sandra? 
+174,bathroom,"Answer: In the garden.
+
+[Footnote 1: The following formula is used to",Where is Sandra? 
+175,office,"Answer: She is in the garden, and is waiting for you.
+
+""I",Where is Sandra? 
+176,kitchen,"""And merry, my liege, I know little of <context>
+
+""",Where is Sandra? 
+177,bedroom,"Answer: She is in the hospital.
+
+Question: What is the hospital?",Where is Sandra? 
+178,office,"Answer: She is in the city.
+
+Question: Where is she?",Where is Sandra? 
+179,office,"Answer: She's in the garden.
+
+Question: Where is she?",Where is Sandra? 
+180,hallway,"Answer: She is in the car.
+
+""What! You are not going to",Where is Mary? 
+181,hallway,"Answer: She is in the house of the Lord.
+
+
+
+
+THE END.",Where is Mary? 
+182,hallway,"Cous
+<context>
+
+Cæsar, the Indian, was a man",Where is Daniel? 
+183,hallway,"Answer: In the garden.
+
+[Illustration: GARDEN.]
+
+[",Where is Mary? 
+184,bedroom,"Answer: She is in the hall.
+
+“I’ll go and get her",Where is Sandra? 
+185,bathroom,"Cyril's heart sank. He had not thought of that.
+
+""I",Where is John? 
+186,office,"Answer: He is in the library.
+
+""I have been thinking of this matter",Where is Daniel? 
+187,garden,"Answer: She's in the garden.
+
+[The door opens and Meneer",Where is Mary? 
+188,kitchen,"Answer: She is in the country.
+
+Question: What is she doing?",Where is Sandra? 
+189,office,"Answer: She is in the library, reading.
+
+Question: What is the book",Where is Sandra? 
+190,hallway,"Answer: In the tomb.
+
+[Illustration: Mary, Queen of Scots.]",Where is Mary? 
+191,kitchen,"Answer: She is in New Orleans.
+
+
+
+
+[Illustration: ""SANDRA",Where is Sandra? 
+192,garden,"Answer: She is in the hospital at the head of the stairs.
+
+
+
+
+CHAPTER XX",Where is Sandra? 
+193,hallway,"Answer: She's in the library.
+
+Question: What is she doing?",Where is Sandra? 
+194,hallway,"Answer: She is in the library.
+
+Question: What is she doing?",Where is Sandra? 
+195,garden,"Answer: In the Temple of the Virgin, at Jerusalem.
+
+[Footnote 598",Where is Mary? 
+196,office,"Answer: In the valley below.
+
+""Well, I'll be darned!""",Where is John? 
+197,kitchen,"Answer: In the garden of the palace of the King of the Jews.
+
+
+
+
+THE",Where is Daniel? 
+198,bathroom,"Answer: She was a great, great woman, an' she had an owld,",Where is Mary? 
+199,bedroom,"Answer: He is in the country,
+with his father.
+
+""I'm",Where is John? 
+200,hallway,"[1] The following is a copy of the original, printed in the ""Seven L",Where is Mary? 
+201,office,"Answer: In the house.
+
+Q. Where is he?
+
+Answer:",Where is John? 
+202,office,"Answer: He was a man of the world, and a man of the world's",Where is Daniel? 
+203,bedroom,"Answer: In the garden, where she is seated on the grass, and looking
+down",Where is Sandra? 
+204,hallway,"Answer: She is in the house.
+
+Question: Where is she?",Where is Sandra? 
+205,bathroom,"Answer: In the house.
+
+Question: What is the matter?
+
+Answer",Where is Sandra? 
+206,kitchen,"Answer: In the Tower of London.
+
+[Illustration: THE HUNTINGTON",Where is Mary? 
+207,hallway,"Answer: She is in the house of the King.
+
+""The King is in",Where is Sandra? 
+208,bathroom,"_The door opens, and the doorkeeper enters._
+
+DANER",Where is Daniel? 
+209,hallway,"Answer: He is in the woods.
+
+""What is your name?""",Where is John? 
+210,bathroom,"Answer: He is in the city of Louisville, Kentucky.
+
+
+
+
+THE END.",Where is John? 
+211,bedroom,"Answer: He is in the world, and in the world he is in the world.",Where is John? 
+212,hallway,"Answer: He was a man of great courage and courageous spirit. He was
+a",Where is Daniel? 
+213,bedroom,"Answer: She is in the land of the living, and in the land of the dead",Where is Mary? 
+214,bathroom,"Answer: She is in the garden.
+
+Question: Where is the garden?",Where is Sandra? 
+215,bedroom,"Answer: In the desert of Sahara.
+
+[Illustration: THE DIOEC",Where is Mary? 
+216,bathroom,"Answer: In the _Pilgrim's Progress_.
+
+
+
+
+[Illustration: The",Where is John? 
+217,hallway,"Answer: In the prison of the United States.
+
+
+
+
+CHAPTER XIV
+
+THE",Where is John? 
+218,hallway,"Answer: She is in the hospital.
+
+Question: What is the name of the",Where is Sandra? 
+219,bathroom,"Answer: He is in the ship.
+
+Question: Where is the ship?",Where is John? 
+220,bathroom,"Answer: In the house of Mary.
+
+Q. What is the name of the",Where is Mary? 
+221,hallway,"Answer: In the house of the Lord.
+
+Question: What is Daniel?",Where is Daniel? 
+222,kitchen,"Professor--He is a very old man, and has been there for a long time.",Where is Daniel? 
+223,hallway,"Answer: In the north.
+
+Question: Where is the sun?
+Answer: In",Where is Sandra? 
+224,bedroom,"Answer: In the room.
+
+Q. What is the meaning of the word _h",Where is John? 
+225,office,"Answer: He is in the house of the Bishop of the diocese.
+
+
+
+
+THE",Where is John? 
+226,hallway,"Answer: He is in the garden.
+
+Question: What is the meaning of the",Where is Daniel? 
+227,garden,Answer: She’s in the house. She’s in the kitchen. She’,Where is Sandra? 
+228,bathroom,"Answer: John is in the field.
+
+Question: Where is the other man?",Where is John? 
+229,bathroom,"Answer: He’s in the machine.
+
+Question: What is the matter with",Where is John? 
+230,office,"Answer: He is in the garden, with his hands in his pockets, and his head",Where is Daniel? 
+231,garden,"Answer: She is in the house.
+
+Question: What is the name of the",Where is Mary? 
+232,hallway,"Answer: He is in the back room.
+
+
+
+
+CHAPTER XXVIII.",Where is Daniel? 
+233,office,"Answer: He is dead.
+
+Question: What is the meaning of this?",Where is Daniel? 
+234,hallway,"Answer: John is in the house.
+
+""Well, I'm off,"" said the",Where is John? 
+235,bedroom,"Answer: In the house of the King.
+
+""Then,"" said the Chief,",Where is Mary? 
+236,bedroom,"Answer: In the world of thought.
+
+""Now, let us consider the question",Where is Mary? 
+237,bedroom,"Answer: Where is Mary?
+
+Question: Where is Mary?
+
+Answer:",Where is Mary? 
+238,bedroom,"Answer: He is in the library.
+
+Q. What is he doing?",Where is Daniel? 
+239,office,"Answer: She is in the garden, near the house.
+
+Question: What is",Where is Sandra? 
+240,hallway,"Answer: In the garden of the great house of Daniel.
+
+The garden of Daniel",Where is Daniel? 
+241,kitchen,"Answer: In the world.
+
+Question: What is the name of the place?",Where is Mary? 
+242,garden,"Answer: In the Temple of the Sun, in the Temple of the Sun, in the",Where is Mary? 
+243,garden,"Answer: She's in the house.
+
+Question: How did you get her out",Where is Mary? 
+244,kitchen,"The answer: In the house of Mary, Queen of Scots.
+
+
+
+
+THE BOOK",Where is Mary? 
+245,kitchen,"Answer: In the Transvaal.
+
+""The South African Republic will
+<",Where is John? 
+246,garden,Answer: In the house of the Rev. Mr H. H. H. H.,Where is Sandra? 
+247,garden,"Answer: In the Tower, where she is confined, and is a prisoner of the",Where is Sandra? 
+248,garden,"Answer: In the Tower of London.
+
+Question: What is the name of the place",Where is Sandra? 
+249,garden,"Answer: In the book of Daniel.
+
+Question: What is Daniel?",Where is Daniel? 
+250,bedroom,"Answer: He is in the garden.
+
+""I'm sure he must be dead",Where is Daniel? 
+251,office,"""You know, I have always been a little afraid of you, and I have always",Where is Mary? 
+252,bathroom,"Answer: He is in the library, reading.
+
+""I'm glad you've",Where is Daniel? 
+253,bathroom,"Answer: In the house of Daniel, in the city of London, in the year of",Where is Daniel? 
+254,bedroom,"Answer: In the _Pilgrim's Progress_.
+
+
+
+
+CHAPTER XIV.",Where is John? 
+255,bedroom,"Answer: In the field.
+
+Question: What is the commandant-general's",Where is John? 
+256,office,"_M.._ She is in the drawing-room, Sir. [_Exit_ M",Where is Sandra? 
+257,office,"Answer: She is in the house.
+
+Question: What is the matter?",Where is Sandra? 
+258,kitchen,"Answer: In the church.
+
+""The sermon was very long, and the congregation",Where is Mary? 
+259,garden,"Answer: She is in the garden.
+
+
+
+
+THE END.
+
+
+
+
+Transcriber",Where is Mary? 
+260,garden,"Answer: She is in the hospital.
+
+Question: What is the name of the",Where is Sandra? 
+261,office,"Answer: She is in the drawing-room.
+
+""What is the matter?""",Where is Mary? 
+262,hallway,"Answer: She is in the city.
+
+Question: Where is she?",Where is Sandra? 
+263,office,"Answer: He is in the hospital.
+
+Question: What is the matter?",Where is John? 
+264,office,"Answer: He is in the boat.
+
+Question: What is he doing?",Where is John? 
+265,bathroom,"Answer: She is in the sea, and in the sea is the sea.",Where is Sandra? 
+266,garden,"Answer: She is in the churchyard, and the church is full of graves.",Where is Sandra? 
+267,bedroom,"The answer was, ""She is in the house.""
+
+The next day, the",Where is Sandra? 
+268,bathroom,"Answer: He is in the hospital.
+
+Question: What is the matter?
+Answer",Where is John? 
+269,bedroom,"Answer: He is in the earth.
+
+[Illustration: The Garden of Daniel]",Where is Daniel? 
+270,kitchen,"Answer: He is in the hands of the Government of England.
+
+
+
+
+THE END.",Where is Daniel? 
+271,office,"Answer: In the garden.
+
+Question: Where is she now?
+
+Answer",Where is Sandra? 
+272,office,"Answer: She is in the cave of the Great Bear.
+
+[Illustration: The Great",Where is Sandra? 
+273,kitchen,"Answer: He is in the Tower.
+
+Question: What is the reason why Daniel is",Where is Daniel? 
+274,bathroom,"""I think we'll have to go to the
+church, too,"" he said,",Where is Daniel? 
+275,office,"Answer: She is in the kitchen.
+
+Q. Where is the kitchen?",Where is Sandra? 
+276,kitchen,"Answer: He is in the garden.
+
+Question: What is he doing?",Where is Daniel? 
+277,hallway,"Answer: She is at home, and in the kitchen.
+
+Question: What is",Where is Mary? 
+278,office,"Answer: John is in the city.
+
+Question: What is the name of the city",Where is John? 
+279,bathroom,"Answer: He's in the kitchen.
+
+Question: What is he doing?",Where is John? 
+280,bathroom,"Bray: Where is she?
+
+Eugenia: Where is she?",Where is Sandra? 
+281,garden,"Answer: He is in the house.
+
+Question: What is the matter?",Where is Daniel? 
+282,office,"Answer: She is in the house.
+
+Question: Where is the letter written by Mr",Where is Sandra? 
+283,office,"Answer: In the garden.
+
+Question: What is the difference between the parts of a",Where is Sandra? 
+284,garden,"[Illustration]
+
+[Illustration]
+
+[Illustration]
+
+[Illustration]",Where is John? 
+285,office,"Answer: He is in the church.
+
+""And what is the meaning of the",Where is John? 
+286,bathroom,"Answer: She is in the house.
+
+Question: What is the matter with her",Where is Sandra? 
+287,office,"Answer: He is in the library.
+
+""I'm sorry,"" said Jimmy,",Where is John? 
+288,garden,"Answer: He is in the garden.
+
+Question: What is the matter with the garden",Where is Daniel? 
+289,bathroom,"Answer: She is in the house.
+
+Question: What is she doing?",Where is Sandra? 
+290,kitchen,"Answer: In the house.
+
+""What is it?""
+
+""I am",Where is Mary? 
+291,kitchen,"Answer: John is in the house.
+
+""Puss is in the house,""",Where is John? 
+292,bedroom,"Answer: He is in the Court House.
+
+
+
+
+THE LITTLE GIRL",Where is John? 
+293,kitchen,"Answer: In the kitchen.
+
+Q. What is the name of the lady?",Where is Mary? 
+294,kitchen,"Answer: In the Tower of London.
+
+Question: What is the name of the",Where is John? 
+295,garden,"Answer: In the shop.
+
+""I'm sorry,"" said Owen, ""but",Where is Sandra? 
+296,garden,"Answer: He is in the garden.
+
+Owen was sitting on the verand",Where is Daniel? 
+297,hallway,"Answer: He is in the army.
+
+Question: What is his name?",Where is John? 
+298,hallway,"Answer: She is in the hospital.
+
+[Illustration: ""I am a <",Where is Mary? 
+299,bathroom,"Answer: In the garden.
+
+Question: What is the meaning of the word """,Where is Mary? 
+300,bathroom,"Answer: She is in the house.
+
+""I have been thinking of you,",Where is Mary? 
+301,bathroom,"Answer: In the house.
+
+Question: What is the meaning of the word ""m",Where is Mary? 
+302,bathroom,"Answer: In the _Purgatory_, in the _Purgatory of the Virgin",Where is Mary? 
+303,office,"Answer: In the dark.
+
+[Illustration: _The figure is placed in front",Where is John? 
+304,hallway,"Answer: In the South African Republic.
+
+Question: Where is Mary?",Where is Mary? 
+305,garden,"Answer: He is in the country.
+
+Question: Where is he?",Where is Daniel? 
+306,bathroom,"Answer: In the United States.
+
+[Illustration: Daniel]
+
+[Illustration",Where is Daniel? 
+307,office,"""I don't know,"" said Aggie, ""but I'm going to find him",Where is Daniel? 
+308,office,"Answer: In the book of Daniel.
+
+[Illustration]
+
+[Illustration]",Where is Daniel? 
+309,kitchen,"“I’ll write to him, and tell him that I’m very sorry,",Where is John? 
+310,garden,Answer: He is in the _coolie_ in the bazaar.,Where is Daniel? 
+311,garden,"Answer: She is in the Luxembourg.
+
+[Illustration: The Princess of Orange",Where is Sandra? 
+312,office,"Answer: He is in the garden.
+
+Question: What is the meaning of the",Where is Daniel? 
+313,bedroom,"Answer: She is in the garden.
+
+Question: What is the matter with her",Where is Sandra? 
+314,garden,"Answer: John is in the country.
+
+Q. What is John doing?",Where is John? 
+315,office,"and had not been so much in the habit of giving out that she was
+married,",Where is Mary? 
+316,bedroom,"Answer: He is in the garden.
+
+Question: What is he doing?",Where is Daniel? 
+317,office,"Answer: Mary is sick.
+
+Question: What is the matter with her?",Where is Mary? 
+318,office,"_Answer._ Mary is a person who is in the habit of going to the
+hospital",Where is Mary? 
+319,garden,"[Footnote: The author of the above essay was a member of the
+""Society",Where is Daniel? 
+320,garden,"Answer: In the house.
+
+[Illustration: Fig. 1.--A. A",Where is John? 
+321,kitchen,"Answer: She is in the next room.
+
+
+
+
+[Illustration: The Poplar",Where is Sandra? 
+322,kitchen,"[Illustration: The first-born of the American
+mountain-side, the first",Where is Sandra? 
+323,garden,"Answer: He was in the temple.
+
+“Well, I’m glad you",Where is Daniel? 
+324,garden,"Answer: Daniel is a man of the world, and a man of the world's",Where is Daniel? 
+325,bathroom,"Answer: In the South.
+
+[Illustration: SANDERS'S HILL",Where is Sandra? 
+326,bedroom,"[Footnote 1: _The Literary World_, May, 1877.]
+
+[",Where is John? 
+327,garden,"Answer: She is in the next compartment.
+
+Question: Where is the other passenger",Where is Sandra? 
+328,garden,"""I'm afraid you've assumed too much, but I'm afraid you've assumed too",Where is Sandra? 
+329,bedroom,"Answer: He is in the garden.
+
+Question: What is the matter with him",Where is Daniel? 
+330,kitchen,"Answer: She is in the library.
+
+Question: What is the name of the book",Where is Sandra? 
+331,office,"Answer: In the Church.
+
+[8] The Apostles' Creed, in",Where is John? 
+332,kitchen,"Answer: She is in the _Ann_.”
+
+“And you were in the",Where is Sandra? 
+333,bedroom,"“We’ll have to get out of here as soon as possible,” said the boys",Where is Daniel? 
+334,bedroom,"Answer: In the “City of the Stars.”
+
+
+
+
+CHAPTER XIV.",Where is Daniel? 
+335,office,"Answer: In the garden.
+
+[Illustration: ""The garden.""]",Where is John? 
+336,hallway,"]
+
+Mellicent, with a sudden, almost hysterical, laugh. ""I",Where is Daniel? 
+337,office,"Answer: She is in the library.
+
+""I thought you were going to the",Where is Sandra? 
+338,hallway,"Answer: She is in the library.
+
+""I'm going to the library,"" said",Where is Sandra? 
+339,hallway,"Answer: She's in the library.
+
+""I'm going to ask her to",Where is Sandra? 
+340,hallway,"Answer: In the house.
+
+Question: What is the name of the house?",Where is Mary? 
+341,garden,"Answer: In the midst of the ruins of the world.
+
+
+
+
+THE END.",Where is Mary? 
+342,office,"Answer: In the book of Daniel, Book III., Chap. II.
+
+[",Where is Daniel? 
+343,kitchen,"THE END.
+
+
+
+
+Transcriber's Notes:
+
+Passages in italics",Where is Sandra? 
+344,garden,"Answer: In the South.
+
+[Illustration: _The American Raccoon._",Where is Sandra? 
+345,office,"Answer: In the house of the Virgin.
+
+""I'll go and see her,""",Where is Mary? 
+346,hallway,"Answer: He was a prophet.
+
+""But,"" the child continued, ""I",Where is Daniel? 
+347,hallway,"_Explanation: The reader is to be informed that the reader's name is
+John",Where is John? 
+348,kitchen,"Answer: In the South African Colonies.
+
+“The question is, however,",Where is Mary? 
+349,kitchen,"Answer: In the stable.
+
+Q. What is the disease?
+
+A",Where is John? 
+350,bedroom,"Uncle Jim--She's in the house, sir.
+
+Professor--And you",Where is Sandra? 
+351,garden,"Answer: In the house.
+
+""What is the matter with you?"" asked the",Where is John? 
+352,garden,"Answer: She is in the garden, and I am here.
+
+Question: Where",Where is Sandra? 
+353,bedroom,"Answer: She is in the kitchen.
+
+Question: What is the meaning of the",Where is Sandra? 
+354,bedroom,"Answer: She is in the garden.
+
+Question: What is she doing?",Where is Sandra? 
+355,bathroom,"Answer: In the south-west of the province of Algeria, near the mouth of",Where is Sandra? 
+356,office,"Answer: He is in the land of the living.
+
+Question: Where is John",Where is John? 
+357,hallway,"Answer: In the house of the Lord.
+
+Q. What is the meaning of",Where is Mary? 
+358,garden,"Answer: She is in the house.
+
+Question: Where is the house?",Where is Mary? 
+359,hallway,"Answer: She is in the library.
+
+Question: What is she doing?",Where is Mary? 
+360,garden,"Answer: In the garden.
+
+""Well, I'll tell you what I'll",Where is Daniel? 
+361,bathroom,"Answer: He is in the house.
+
+Question: What is the matter with you?",Where is Daniel? 
+362,garden,"_TARVER._ Where is Mary?
+
+_BLORE._ Where is Mary",Where is Mary? 
+363,garden,"Answer: In the Tower.
+
+""The story is a very interesting one, and",Where is John? 
+364,garden,"Answer: In the _History of the English People_, by Sir W. Temple.",Where is Daniel? 
+365,garden,"Answer: In the country of the Franks, in the time of the Emperor
+Constant",Where is Sandra? 
+366,garden,"Answer: In the garden.
+
+Question: What is the name of the garden?",Where is Sandra? 
+367,hallway,"Answer: In the house.
+
+Question: What is Daniel doing?
+
+Answer",Where is Daniel? 
+368,hallway,"A: In the house.
+
+Q: What is the meaning of the word """,Where is Mary? 
+369,hallway,"Answer: He is in the garden.
+
+Question: What is he doing?",Where is Daniel? 
+370,hallway,"Answer: He is in the library.
+
+Question: What is the matter with him",Where is Daniel? 
+371,hallway,"Answer: In the United States.
+
+Question: Where is Daniel?
+
+Answer",Where is Daniel? 
+372,garden,"Answer: In the Church.
+
+_The Church._
+
+The Church is the Church",Where is Mary? 
+373,garden,"Answer: In the body of the dead child.
+
+Q. What is the cause",Where is Mary? 
+374,office,"[Illustration: G. P. R. James, Esq.
+
+_From the",Where is Mary? 
+375,bedroom,"Lent, in the Psalm, ""Lenten"" in, ""Lent",Where is Mary? 
+376,kitchen,"""I should like to know,"" she said to herself, ""if I could be so",Where is Sandra? 
+377,bathroom,"Answer: She is in the garden.
+
+
+
+
+THE LITTLE GIRL OF",Where is Sandra? 
+378,bathroom,"Answer: In the garden.
+
+[Illustration: _The garden._]",Where is Sandra? 
+379,bedroom,"Answer: In the Old World.
+
+[Illustration: John’s House]",Where is John? 
+380,bathroom,"Answer: In the Bible.
+
+[Illustration]
+
+[Illustration:",Where is Mary? 
+381,bedroom,"Answer: He was born in the year of our Lord, 1540.
+
+Question",Where is John? 
+382,bedroom,"Answer: In the room.
+
+The question was put again, and this time the",Where is Mary? 
+383,office,"Answer: She is in the garden, with her book.
+
+Question: What is",Where is Sandra? 
+384,office,"Answer: In the Church.
+
+[Footnote: The following is a translation of the",Where is Mary? 
+385,kitchen,"Answer: She is in the city.
+
+The man who had been asleep for the last",Where is Sandra? 
+386,office,"Answer: In the garden.
+
+Question: Where is Mary?
+
+Answer:",Where is Mary? 
+387,office,"Answer: John is in the library.
+
+Question: What is the name of the book",Where is John? 
+388,office,"Answer: I am not a member of the party.
+
+""I am sorry,",Where is Mary? 
+389,kitchen,"The story is told in a way that will appeal to the young reader. The
+story",Where is Sandra? 
+390,kitchen,"[Illustration:
+
+_A._ Mary.
+
+_B._ Mary.",Where is Mary? 
+391,hallway,"[Illustration: Fig. 1.
+
+Fig. 2.
+
+Fig. 3",Where is Daniel? 
+392,bathroom,"Answer: In the house of the Lord.
+
+Question: What is the meaning of the",Where is Mary? 
+393,bedroom,"Answer: In the South of France.
+
+Question: What is the difference between a",Where is Mary? 
+394,office,"Answer: In the house.
+
+[Illustration: SANDERS'S HOUSE",Where is Sandra? 
+395,office,"Answer: In the city of Washington.
+
+
+
+
+[Illustration: The Battle of the C",Where is Daniel? 
+396,bedroom,"The answer: ""He's in the garden, and he's not hurt.""",Where is Daniel? 
+397,office,"Answer: He is in the garden.
+
+Question: What is the matter?
+Answer",Where is Daniel? 
+398,bathroom,"Answer: She is in the country.
+
+Question: Where is she?",Where is Sandra? 
+399,garden,"Answer: In the house of the widow of the man who was your father.
+
+Question",Where is Sandra? 
+400,bedroom,"Answer: In the library.
+
+""He was in the library, and he was",Where is John? 
+401,garden,Answer: John is a boy of about the age of Tom Temple. He is a,Where is John? 
+402,bedroom,"Answer: He is in the library.
+
+Question: What is the matter?",Where is John? 
+403,kitchen,"Answer: She is in the country, with her father, who is a lawyer.",Where is Sandra? 
+404,office,"Answer: In the garden.
+
+[Illustration: The ""Sandy"" of the",Where is Sandra? 
+405,kitchen,"Answer: In the Old Colony.
+
+[Illustration: The Old Colony]",Where is Daniel? 
+406,hallway,"Answer: In the _coup de grace_ to Turkey.
+
+""By the",Where is Daniel? 
+407,bedroom,"Answer: She is in the house of the Chief of the Bushmen.
+
+The following",Where is Sandra? 
+408,garden,"_Answer_: She is in the house of the Lord.
+
+_Question_: What",Where is Mary? 
+409,kitchen,"Answer: Where is the <DW64> boy?
+
+Question: Where is the",Where is Sandra? 
+410,bedroom,"Answer: He is in the land of the living.
+
+    Question: Where is John",Where is John? 
+411,garden,"Answer: She is in the garden, in the garden of the house of the
+pr",Where is Sandra? 
+412,bathroom,"Answer: In the _Pilgrim's Progress_.
+
+Question: Where is",Where is Sandra? 
+413,hallway,"Answer: In the _Dictionary of National Biography_.
+
+[Illustration: _The",Where is Daniel? 
+414,office,"Answer: In the garden of the Temple.
+
+Question: What is the name of",Where is Sandra? 
+415,bedroom,"Answer: In the city of Washington, D.C.
+
+[Illustration: Daniel",Where is Daniel? 
+416,bedroom,"Answer: In the Book of Daniel.
+
+Question: What is Daniel's office?",Where is Daniel? 
+417,kitchen,"Answer: He is in the next room.
+
+
+
+
+THE STORY OF THE STORM",Where is John? 
+418,hallway,"Answer: She is in the garden of Eden, and the sun is shining on her.",Where is Sandra? 
+419,bathroom,"Answer: She is in the city of Mexico,
+    And is the daughter of the King",Where is Sandra? 
+420,hallway,"Answer: In the garden of the Temple.
+
+[Illustration: _From a painting by",Where is Sandra? 
+421,hallway,Answer: In the _Bible_ (chap. xviii. 1).,Where is Sandra? 
+422,bathroom,"DOCTOR
+
+_Looking at the doctor._
+
+I don't know. I don't",Where is Sandra? 
+423,hallway,"Answer: In the cave of the rock.
+
+[Illustration: The cave of the",Where is Daniel? 
+424,bedroom,"[Illustration: The Fair Maid of Perth.]
+
+[Illustration: The Fair Ma",Where is Mary? 
+425,kitchen,"A. H.
+
+    _Answer._ John is in the city of Chicago, Illinois",Where is John? 
+426,kitchen,"Answer: John is in the woods.
+
+Question: What is John doing?",Where is John? 
+427,office,"Answer: He is in the barn.
+
+""John!""
+
+""Yes,",Where is John? 
+428,bedroom,"""I am going to the Court House to see the Judge. I have a letter from",Where is Sandra? 
+429,bedroom,"Answer: She is in the country.
+
+Question: Where is the country?",Where is Sandra? 
+430,office,"Answer: In the woods.
+
+Question: What is John doing?
+
+Answer",Where is John? 
+431,kitchen,"Answer: John is a man.
+
+[Illustration: A man.]
+
+[",Where is John? 
+432,kitchen,"_Answer._ Mary is in the country.
+
+_Question._ What is the country",Where is Mary? 
+433,kitchen,"He answered, ""Mary, the mother of Jesus, was a virgin, and a widow",Where is Mary? 
+434,office,"Answer: He is in the hospital.
+
+Q. What is the name of the",Where is Daniel? 
+435,garden,"What is the difference between a man and a woman? What is the difference between a
+man and",Where is Sandra? 
+436,kitchen,"Answer: She is in the next room.
+
+Question: What is the meaning of the word",Where is Mary? 
+437,bathroom,"""We are both of us in the same world, and yet we are separated by",Where is John? 
+438,bedroom,"Answer: In the book of Daniel.
+
+[Illustration: The Book of Daniel]",Where is Daniel? 
+439,garden,"Answer: In the hospital.
+
+Question: What is the hospital?
+Answer: The",Where is John? 
+440,bedroom,"Answer: She is in the garden, and will be here soon.
+
+""What",Where is Sandra? 
+441,hallway,"Answer: In the world.
+
+""But, madame, I have a mother",Where is Daniel? 
+442,bathroom,"Answer: In the house of Daniel, in the city of Babylon.
+
+Question:",Where is Daniel? 
+443,garden,"Answer: In the house of Mary.
+
+Question: Where is Mary?",Where is Mary? 
+444,bedroom,"Answer: Where is Daniel?
+
+Question: Where is Daniel?
+
+Answer:",Where is Daniel? 
+445,garden,"[Illustration: The question of the question.]
+
+[Illustration: The question of the",Where is Daniel? 
+446,bedroom,"Answer: She is in the house.
+
+Question: What is the matter with her",Where is Sandra? 
+447,hallway,Amy: I am not sure that I have told you the whole truth. I have,Where is Daniel? 
+448,garden,"Answer: He is in the library, reading.
+
+Question: What is he reading",Where is Daniel? 
+449,kitchen,"Answer: She is in the house of the priest.
+
+
+
+
+THE LITTLE G",Where is Sandra? 
+450,kitchen,"""I am going to be a priest, too,"" he said, ""and I shall",Where is John? 
+451,kitchen,"Answer: In the house.
+
+""He was a man of great energy, and",Where is John? 
+452,kitchen,"Answer: She is in the kitchen.
+
+Question: What is the matter with her",Where is Sandra? 
+453,garden,"Answer: She is in the cemetery.
+
+Question: Where is the grave of the man",Where is Sandra? 
+454,bathroom,"Answer: She is in the garden, and is looking out for you.
+
+
+
+
+THE",Where is Sandra? 
+455,kitchen,"Answer: She is in the next room.
+
+Question: Where is she?",Where is Sandra? 
+456,bedroom,"Answer: She is in the library.
+
+Question: Is she in the library now",Where is Mary? 
+457,hallway,"Answer: John is in the country.
+
+""John is in the country!""",Where is John? 
+458,garden,"Answer: John is in the picture.
+
+Q. What is the name of the",Where is John? 
+459,hallway,"Answer: She is in the rear of the line.
+
+<context>",Where is Sandra? 
+460,bathroom,"Answer: She is in the country.
+
+Question: What is the name of the",Where is Sandra? 
+461,garden,"Answer: She is in the garden, and the flowers are all in bloom.",Where is Sandra? 
+462,bedroom,"A: I don't know.
+
+The questioner: You don't know where",Where is John? 
+463,office,"Answer: He is in the country of the Bumwos.
+
+
+
+
+THE END",Where is John? 
+464,garden,"Answer: He is dead.
+
+""I'm sorry,"" said the girl, ""but",Where is John? 
+465,garden,"Answer: She is in the house.
+
+""I'll tell you how we got free.",Where is Sandra? 
+466,bedroom,"Answer: He is in the next room.
+
+
+
+
+[Transcriber's Note:",Where is Daniel? 
+467,bedroom,"Answer: In the garden of Eden.
+
+[Illustration: The Garden of Eden]",Where is Daniel? 
+468,bedroom,"Answer: She is in the house.
+
+Question: What is the matter with her",Where is Sandra? 
+469,office,"Answer: John is in the Castle of the King of the Wanni.
+
+Question",Where is John? 
+470,hallway,"[Illustration: The Lady of the Castle]
+
+[Illustration: The Lady of the",Where is Mary? 
+471,office,"Answer: In the house.
+
+Question: What did she say to you? Answer: """,Where is Mary? 
+472,office,"Answer: She is in the house.
+
+""What is the matter?"" asked the",Where is Mary? 
+473,bathroom,"Answer: He's in the library.
+
+Q. What is he doing?",Where is John? 
+474,kitchen,"Answer: He's in the 'Cricketers' Arms.'
+
+Q. What",Where is John? 
+475,garden,"Answer: In the House of the Lords.
+
+Question: Where is John?",Where is John? 
+476,bathroom,"Answer: In the house of the Lord.
+
+Question: What is the meaning of",Where is Mary? 
+477,kitchen,"Answer: She is in the house.
+
+Question: Where is she now?",Where is Sandra? 
+478,garden,"Answer: In the house of John.
+
+Q. What is the name of the",Where is John? 
+479,bathroom,"Answer: In the middle of the room.
+
+[Illustration: [Illustration: [",Where is John? 
+480,bedroom,"Answer: In the world.
+
+Question: What is the meaning of the word “",Where is Sandra? 
+481,bedroom,"Rosecrans: Where is the General?
+
+Q: Where is the General?",Where is Sandra? 
+482,hallway,"Answer: Daniel is a man of the world. He is a man of the world,",Where is Daniel? 
+483,hallway,"[Footnote 52: The following is a translation of the above:
+
+""The first",Where is John? 
+484,garden,"Answer: Where is John?
+
+[Footnote 45: The following is a translation of",Where is John? 
+485,bedroom,"Answer: He is in the garden.
+
+Q. What is Daniel doing?",Where is Daniel? 
+486,bathroom,"Answer: She is in the house.
+
+Question: What is the matter?",Where is Sandra? 
+487,hallway,"Answer: He is in the city.
+
+“I’ll go with you,” she said",Where is Daniel? 
+488,bedroom,"Answer: In the world.
+
+Question: What is John doing?
+
+Answer",Where is John? 
+489,bathroom,"The answer: He was a man of genius, a man of letters, a man of",Where is Daniel? 
+490,kitchen,"Answer: Daniel was a man of the people, and was not a prophet. He was",Where is Daniel? 
+491,bedroom,"Answer: John is in the Tower.
+
+
+
+
+FOOTNOTES:
+
+[1",Where is John? 
+492,bedroom,"Answer: In the Tower.
+
+Question: What is the reason?
+
+Answer",Where is John? 
+493,garden,"Answer: He is in the garden.
+
+""I want you to remember that I",Where is John? 
+494,garden,"Answer: John is in the garden.
+
+""I wish I could be a man",Where is John? 
+495,kitchen,"Answer: She is in the house.
+
+Question: What is the matter?",Where is Mary? 
+496,kitchen,"""The story is a very interesting one, and the author has been able to
+produ",Where is Mary? 
+497,bedroom,"Answer: She is in the garden.
+
+[Illustration: ""Sandy, where",Where is Sandra? 
+498,hallway,"Answer: In the Temple of Isis, at Memphis.
+
+[Footnote 310: The",Where is John? 
+499,hallway,"Answer: In the garden.
+
+[Illustration: The Buprestis-be",Where is John? 
+500,kitchen,"Answer: He is in the garden, in the house, in the garden.",Where is Daniel? 
+501,garden,"[Illustration: The Eumenes' Castle]
+
+[Illustration: The Eum",Where is Daniel? 
+502,bathroom,"Answer: In the house.
+
+""The captain was not in the house. He",Where is Daniel? 
+503,hallway,"Answer: He is in the army.
+
+Question: What is his name?",Where is John? 
+504,bathroom,"Answer: In the _Bible_!
+
+[Illustration]
+
+[Illustration",Where is Daniel? 
+505,kitchen,"Answer: She was in the house, and I was with her.
+
+Question:",Where is Mary? 
+506,bedroom,"Answers: She is in the garden.
+
+Question: What is she doing?",Where is Sandra? 
+507,office,"Answer: He is in the library.
+
+“I am sure that you are not",Where is Daniel? 
+508,office,"Answer: He is in the garden.
+
+Question: What is the meaning of the",Where is Daniel? 
+509,bedroom,"Answer: He is in the house.
+
+Question: What is he doing?",Where is Daniel? 
+510,bedroom,"Answer: John is a cowboy.
+
+[Illustration: A cowboy.]",Where is John? 
+511,office,"Answer: In the house of the Lord.
+
+[Illustration: The house of the",Where is Mary? 
+512,bedroom,"The answer is, that the Church has not yet been able to get her
+own way",Where is Mary? 
+513,bedroom,"Answer: Mary is at the bottom of the hill.
+
+""Mary is at the",Where is Mary? 
+514,office,"Answer: He is in the hospital at the hospital at the capital.
+
+
+
+
+THE END",Where is Daniel? 
+515,bathroom,"Answer: Mary is in heaven.
+
+Question: What is the meaning of the word """,Where is Mary? 
+516,bathroom,"Answer: In the city of Babylon.
+
+The following is a quotation from the """,Where is Daniel? 
+517,bedroom,"Answer: She is in Paris, and will be here to-day.
+
+""",Where is Sandra? 
+518,hallway,"Answer: He is in the stable.
+
+Question: What is he doing?",Where is Daniel? 
+519,garden,"Answer: He is in the house.
+
+Question: What is he doing?",Where is Daniel? 
+520,office,"Answer: She is in the hospital.
+
+
+
+
+THE LITTLE GIRL OF",Where is Sandra? 
+521,office,"Answer: He is in the house.
+
+Question: What is the matter?",Where is Daniel? 
+522,hallway,"Answer: He is in the garden.
+
+Question: What is he doing?",Where is Daniel? 
+523,hallway,"Answer: He is in the library.
+
+""The Professor then proceeded to the library",Where is Daniel? 
+524,garden,"Answer: In the garden.
+
+Question: What is the name of the child?",Where is Sandra? 
+525,hallway,"""I'm not going to be a Frenchman,"" Margaret said, ""but I'm",Where is Mary? 
+526,office,"Answer: He is in the library.
+
+Question: What is the meaning of the",Where is Daniel? 
+527,garden,"[Illustration: The Osmia, the Osmiae, the Osmiae,",Where is Daniel? 
+528,garden,[1] The first of the two great divisions of the first division of the first,Where is Daniel? 
+529,hallway,"[40] The number of shafts required to carry the weight of the weight
+A",Where is Mary? 
+530,garden,"Answer: In the church of St. John, Westminster.
+
+[Illustration: _",Where is John? 
+531,garden,"Answer: John is in the yard.
+
+[Illustration]
+
+[Illustration]",Where is John? 
+532,garden,"Answer: John is in the house.
+
+The man who had been watching the coach,",Where is John? 
+533,office,"Answer: She is in the library.
+
+Question: What is she doing?",Where is Sandra? 
+534,bathroom,"[Illustration:
+
+[Illustration:
+
+[Illustration:
+
+[Illustration:",Where is Daniel? 
+535,garden,"Answer: She is in the train.
+
+Question: Where is the train?",Where is Sandra? 
+536,bedroom,"Answer: She is in the garden.
+
+Q. Where is the garden?",Where is Sandra? 
+537,hallway,"Answer: She is in the house.
+
+Question: What is the meaning of the",Where is Sandra? 
+538,hallway,"Answer: In the garden of the Villa di San Rocco, at Pistoja.",Where is Sandra? 
+539,bedroom,"Answer: Where is the painter?
+
+Question: Where is the painter?",Where is Sandra? 
+540,garden,"Answer: In the _Mercator_ (vol. ).
+
+""Ii quod",Where is John? 
+541,office,"Answer: In the house of the Lord.
+
+Question: What is the meaning of the",Where is Mary? 
+542,hallway,"Answer: In the other compartment.
+
+Question: What is Daniel?
+Answer: Daniel",Where is Daniel? 
+543,hallway,"Answer: In the United States.
+
+Q. What is the United States?
+A",Where is John? 
+544,kitchen,"Answer: In the train.
+
+Question: What is Daniel doing?
+
+Answer",Where is Daniel? 
+545,garden,"Answer: She is in the castle of the King of Scotland, and is in the",Where is Sandra? 
+546,kitchen,"[Illustration: The following lines are taken from the first edition of the
+_Edinburgh",Where is Mary? 
+547,kitchen,"Answer: In the house of the Lord.
+
+Question: What is the name of the",Where is Mary? 
+548,hallway,"Answer: In the house.
+
+""I then went to the house, and found",Where is John? 
+549,bedroom,"""My father, who was a very good and honest man, and a very good",Where is Daniel? 
+550,bedroom,"Answer: He is in the house.
+
+Question: What is the matter with the bull?",Where is John? 
+551,bathroom,"Answer: He is in the Castle.
+
+Q: What is the name of the place",Where is John? 
+552,office,"The answer: John is at home.
+
+The question: Where is John?",Where is John? 
+553,bedroom,"[1] The word ""dread"" is used in the text to signify """,Where is Daniel? 
+554,kitchen,"Answer: In the book of Daniel.
+
+[Illustration: Daniel]
+
+
+
+
+[",Where is Daniel? 
+555,hallway,"Answer: She is in the house.
+
+Question: Where is she now?",Where is Sandra? 
+556,kitchen,"Answer: In the house.
+
+""Hugh, you are a fool. You",Where is Mary? 
+557,bedroom,"The answer: Daniel was a man of the old world, and he was a man of",Where is Daniel? 
+558,bedroom,"Answer: He was a prophet, and he was a prophet of the Old Testament.",Where is Daniel? 
+559,bedroom,"Answer: In the temple of the Chinese God.
+
+Question: What is the name",Where is Mary? 
+560,garden,"The answer was that he had been taken to the hospital, and that he was
+now",Where is Daniel? 
+561,bedroom,"Answer: She is in the house.
+
+Question: What is the matter with her?",Where is Sandra? 
+562,garden,"_Answer._ She is in the garden.
+
+_Question._ How is she?",Where is Sandra? 
+563,kitchen,"Answer: In the book of Daniel.
+
+[Footnote 46: The following is a",Where is Daniel? 
+564,bedroom,"Answer: In the mountains.
+
+Question: Where is the mountain?
+
+Answer",Where is Sandra? 
+565,bathroom,"Answer: He is in the library.
+
+""I wish you would go with us",Where is John? 
+566,bathroom,"Answer: He is in the garden, and I am in the house.
+
+""",Where is John? 
+567,kitchen,"Answer: In the city of New York.
+
+Question: What is the cause of",Where is Daniel? 
+568,bedroom,"Answer: In the garden.
+
+[Footnote 13: _The History of the English",Where is Sandra? 
+569,bedroom,"Answer: In the garden.
+
+Question: Where is she?
+
+Answer:",Where is Sandra? 
+570,bedroom,"Answer: He was a man of the world, and a man of the world's ways",Where is Daniel? 
+571,bedroom,"Answer: He is a man of the world, and a man of the world's ideas",Where is Daniel? 
+572,kitchen,"Answer: She is in the next room.
+
+
+
+
+THE STORY OF THE BAB",Where is Sandra? 
+573,kitchen,"""I'm not going to let you go,"" said the officer, ""I'm going",Where is John? 
+574,office,"Answer: She is in the house.
+
+""You are not in the house,",Where is Sandra? 
+575,bathroom,"Answer: He is in the house.
+
+Question: What is the matter?",Where is John? 
+576,bedroom,"Answer: He is in the woods.
+
+[Illustration]
+
+[Illustration]",Where is John? 
+577,hallway,"Answer: He is in the garden, and is enjoying the delicious fruit.
+
+
+
+
+THE",Where is Daniel? 
+578,bedroom,"Answer: In the book of Daniel.
+
+Question: What is Daniel?",Where is Daniel? 
+579,bedroom,"Answer: He is in the library.
+
+Question: What is the matter with him",Where is Daniel? 
+580,hallway,"Answer: He is in the city.
+
+Question: What is the name of the",Where is John? 
+581,hallway,"Answer: He is in the West.
+
+""What is the name of the place",Where is John? 
+582,garden,"Answer: He's in the library.
+
+""I'm going to have the pink",Where is Daniel? 
+583,kitchen,"Answer: In the city of Atlanta.
+
+
+
+
+THE END.
+
+
+
+
+Transcriber",Where is Daniel? 
+584,bedroom,"Answer: In the picture.
+
+
+
+
+[Illustration: THE SOUTH'S S",Where is Mary? 
+585,bedroom,"Answer: In the ""Seven Lamps.""
+
+Question: Where is the ""Seven",Where is Sandra? 
+586,garden,Answer: In the _Herald_ of the _Herald_ of the _H,Where is Sandra? 
+587,hallway,"Answer: In the _Bible_ in the _Book of Daniel_.
+
+Question",Where is Daniel? 
+588,bedroom,"[Illustration:
+
+_A._ The whole of the street, and the whole of",Where is John? 
+589,bedroom,"Answer: In the church of St. Mary, at Toulouse.
+
+[",Where is Mary? 
+590,office,"Answer: In the garden.
+
+Q. What is the use of the garden?",Where is Sandra? 
+591,hallway,"Answer: In the house.
+
+""The question was, ""Where is Mary?""",Where is Mary? 
+592,office,"Answer: In the house of the Lord.
+
+[Sidenote: LONDON",Where is John? 
+593,garden,Answer: He is in the _cabildo_ of the city of Palen,Where is John? 
+594,bathroom,"Answer: John is in the house.
+
+Question: What is John doing?
+Answer",Where is John? 
+595,bathroom,"Answer: In the middle of the body.
+
+[Illustration: _The Bending",Where is Sandra? 
+596,office,"Answer: In the garden.
+
+[Illustration:
+
+[Illustration:",Where is Sandra? 
+597,office,"Answer: She is in the house.
+
+Question: What is the matter?",Where is Sandra? 
+598,garden,"Answer: He is in the garden.
+
+Question: What is the meaning of the",Where is Daniel? 
+599,bedroom,"Answer: In the house of the _Patriotes_.
+
+Question: What was the",Where is Daniel? 
+600,bedroom,"Answer: John is in the United States.
+
+Question: What is John's name",Where is John? 
+601,bedroom,"Answer: She is in the world.
+
+Question: Where is she?",Where is Sandra? 
+602,kitchen,"Answer: In the church.
+
+Question: What is the meaning of the word ""damn",Where is Mary? 
+603,kitchen,"[Illustration: SIR JOHN COLBORNE]
+
+[Illustration: SIR",Where is Sandra? 
+604,office,"Answer: John is in the office.
+
+Q. What is the news?
+A",Where is John? 
+605,garden,"Answer: In the house.
+
+Question: What is the matter?
+
+Answer",Where is Mary? 
+606,kitchen,"""To have done so, would have been to commit a crime, and to have done",Where is John? 
+607,hallway,"""I told him that I was not at home, and that I had not seen him",Where is John? 
+608,garden,"Answer: She is in the kitchen.
+
+Question: What is the matter with her",Where is Sandra? 
+609,bedroom,"Answer: He is in the room below.
+
+Question: What is the matter?",Where is Daniel? 
+610,kitchen,"Answer: He is in the city.
+
+Question: What is his name?",Where is Daniel? 
+611,office,"Answer: She is in the house.
+
+Question: What is the matter with her?",Where is Sandra? 
+612,bathroom,"Answer: He is in the house.
+
+Question: What is the matter?",Where is Daniel? 
+613,garden,"Answer: In the Tower.
+
+Question: What is the meaning of the word ""conspir",Where is John? 
+614,bathroom,Answer: She is in the house of the King of Abyssinia.,Where is Sandra? 
+615,office,"Answer: In the Tower of London.
+
+The answer to this question was, """,Where is Daniel? 
+616,kitchen,"The answer was: She is in the garden.
+
+The question: Where is the",Where is Sandra? 
+617,hallway,"Answer: He was a member of the Confederate army, and was captured by the
+Federal",Where is Daniel? 
+618,kitchen,"Answer: Mary is dead.
+
+""General Jackson, in reply, said: '",Where is Mary? 
+619,office,"""I am, indeed, very much obliged to you, my lord, for the kindness",Where is Sandra? 
+620,garden,"The answer was, ""In the church of St. John, in the city of Perth",Where is John? 
+621,office,"Answer: She is in the hospital at the Russian front.
+
+
+
+
+THE END.",Where is Mary? 
+622,office,"Answer: She is in the bath.
+
+""What is the name of the pool",Where is Mary? 
+623,kitchen,"Answer: She is in the garden.
+
+""But she is not the one who",Where is Sandra? 
+624,bathroom,"Answer: He is in the house.
+
+Question: What is the name of the",Where is John? 
+625,bedroom,"Answer: In the Green Chamber.
+
+""What is the Green Chamber?""",Where is Daniel? 
+626,bathroom,"Answer: He is in the garden.
+
+""And what is the matter with you",Where is John? 
+627,bathroom,"Answer: He is in the library.
+
+Question: What is he doing?",Where is John? 
+628,bedroom,"Answer: John is in the city of New York.
+
+Question: What is the",Where is John? 
+629,bedroom,"Answer: He is in the hospital.
+
+Question: What is the name of the",Where is John? 
+630,bathroom,"Answer: He is in the garden.
+
+Question: What is the matter?",Where is John? 
+631,bedroom,"Answer: She is in the house of the Griffin, and is in the bed of her",Where is Mary? 
+632,bedroom,"Answer: She is in the house of the Lord.
+
+[Illustration: The Lord",Where is Mary? 
+633,kitchen,"Answer: She is in the house.
+
+Question: What is the name of the",Where is Mary? 
+634,garden,"Answer: In the _West_.
+
+In the original, the word ""the"" was",Where is John? 
+635,garden,"Answer: In the “bloomer” costume.
+
+Question: How did you",Where is John? 
+636,garden,"Answer: She is in the kitchen.
+
+Question: Where is the kitchen?",Where is Sandra? 
+637,kitchen,"Answer: He's in the library.
+
+Question: What is he doing?",Where is John? 
+638,hallway,"""I'll tell you, Mr. Fulton,"" she said, with a little",Where is Mary? 
+639,bathroom,"Answer: In the garden.
+
+[Illustration: The Garden]
+
+[Illustration",Where is Sandra? 
+640,garden,"Answer: In the land of the living.
+
+""The same man, after a",Where is Daniel? 
+641,garden,"Answer: In the garden of the Lord.
+
+
+
+
+THE LION AND THE LAM",Where is Daniel? 
+642,bedroom,"[Illustration: The Three-pronged Osmia, the first-born of",Where is Daniel? 
+643,office,"Answer: In the cave.
+
+Question: What is the matter with John?",Where is John? 
+644,garden,"Answer: In the _Pilgrimage of St. Peter_, which is the most",Where is Sandra? 
+645,garden,"Answer: She is in the church.
+
+Question: What is the name of the",Where is Mary? 
+646,hallway,"Answer: In the church.
+
+Question: What is the name of the church?",Where is Sandra? 
+647,office,"Answer: In the “Pilgrim’s Progress.”
+
+[Illustration:",Where is Sandra? 
+648,kitchen,"Answer: She is in the garden, and the sun is shining on her.",Where is Sandra? 
+649,kitchen,"Answer: She is in the library.
+
+Question: What is the matter with her",Where is Sandra? 
+650,bathroom,"Answer: In the house of the Prophet.
+
+[Illustration: The Ninety-",Where is Daniel? 
+651,garden,"Answer: She is in the land of the living.
+
+Question: What is the meaning",Where is Sandra? 
+652,kitchen,Answer: Daniel is a man of genius. He is a man of genius. He is,Where is Daniel? 
+653,kitchen,"Answer: In the kitchen.
+
+[Illustration: A. B.
+
+A",Where is Mary? 
+654,garden,"Answer: She is in the kitchen.
+
+Question: Where is Mary?",Where is Mary? 
+655,bathroom,"Answer: In the Tower.
+
+Question: What is the name of the King's",Where is Mary? 
+656,kitchen,"Answer: In the house.
+
+Q. What is the name of the house?",Where is John? 
+657,kitchen,"Answer: In the Tower.
+
+Question: Where is John?
+Answer: In the",Where is John? 
+658,garden,"Answer: He's in the garden.
+
+[Illustration: ""He's in the",Where is Daniel? 
+659,kitchen,"Answer: He is in the garden.
+
+[Illustration: ""He is in the",Where is Daniel? 
+660,kitchen,"A: In the world.
+
+Q: What is the world?
+
+A",Where is Sandra? 
+661,kitchen,"Answer: In the garden.
+
+Question: What is the garden?
+
+Answer",Where is Sandra? 
+662,garden,"Answer: In the United States.
+
+Q. What is the value of the Sh",Where is John? 
+663,bedroom,"Answer: She's in the kitchen, seh.
+
+Question: What is the",Where is Mary? 
+664,bedroom,"Answer: She is in the garden, with her father.
+
+""I'm going",Where is Mary? 
+665,bathroom,"Answer: In the garden.
+
+""I am a great man, and I am",Where is Mary? 
+666,office,"Answer: In the wilderness.
+
+[Illustration: The Kentucky River.]
+
+[",Where is Daniel? 
+667,office,"Answer: He is in the Punjab, and is in the hands of the enemy.",Where is John? 
+668,office,"Answer: John is in the other place.
+
+Q. What is John's name",Where is John? 
+669,office,"Answer: He's in the 'ouse.
+
+Question: What is he doing?",Where is John? 
+670,bedroom,"Slyme: I don't know.
+
+Sawkins: I don't",Where is John? 
+671,bedroom,"Answer: He's in the barn.
+Question: What is the matter?
+Answer:",Where is John? 
+672,office,"Answer: He is in the garden.
+
+Question: What is he doing?",Where is Daniel? 
+673,bathroom,"[7] See the _Liturgy of St. James_, p. 6.",Where is Daniel? 
+674,kitchen,"Answer: I don't know.
+
+Question: Where is Mary?
+
+Answer",Where is Mary? 
+675,bathroom,"Answer: In the Bible.
+
+Question: Where is Mary?
+
+Answer:",Where is Mary? 
+676,office,"THE DEAN. [_Giving a start._] Mary?
+
+SIR TRI",Where is Mary? 
+677,hallway,"Answer: She is in the house.
+
+Question: What is the matter?
+Answer",Where is Sandra? 
+678,hallway,"Answer: She is in the house.
+
+Question: What is she doing?
+Answer",Where is Sandra? 
+679,hallway,"Answer: She is in the garden.
+
+[Illustration: _The garden._]",Where is Sandra? 
+680,kitchen,"Answer: In the book of Daniel.
+
+
+
+
+FOOTNOTES:
+
+[Footnote",Where is Daniel? 
+681,kitchen,"Answer: He is in the garden.
+
+Q. What is Daniel doing?",Where is Daniel? 
+682,kitchen,"Answer: Where is Mary?
+
+Coningsby had been a little surprised at the",Where is Mary? 
+683,office,"Answer: She is in the library.
+
+Q. What is the matter?",Where is Mary? 
+684,bathroom,"Answer: Daniel is a man of the New England dialect, and a member of the",Where is Daniel? 
+685,garden,"Answer: He is in the house.
+
+Q. What is the meaning of the",Where is John? 
+686,bathroom,"Answer: She is in the cabin.
+
+Question: What is the matter?",Where is Mary? 
+687,office,"Answer: In the cave.
+
+Question: What is the meaning of the word ""d",Where is Daniel? 
+688,bathroom,"Answer: In the hospital.
+
+Question: What is the name of the hospital?",Where is John? 
+689,hallway,"A. A.
+
+Albuminoid degeneration of pancreas, 1124
+
+Album",Where is John? 
+690,garden,"G.
+
+G.
+
+G.
+
+G.
+
+G.",Where is Sandra? 
+691,bathroom,"Answer: She is in the garden.
+
+Question: What is the name of the",Where is Sandra? 
+692,bathroom,"SALOME. [_Sitting on the table._] I am here, sir.",Where is Sandra? 
+693,office,"Answer: In the garden.
+
+Question: What is the meaning of the word """,Where is Sandra? 
+694,garden,"Answer: In the world of the
+unreality.
+
+Question: What is the",Where is Mary? 
+695,garden,"[Illustration:
+
+[Illustration:
+
+[Illustration:
+
+[Illustration:",Where is Mary? 
+696,garden,"_The question is not a question of the future, but of the past._",Where is Mary? 
+697,bedroom,"Answer: In the United States.
+
+[Illustration: SANDER'S H",Where is Sandra? 
+698,kitchen,The following is a translation of the letter of the Duchesse d'Angoule,Where is Sandra? 
+699,bedroom,"Answer: He is in the garden of the palace of the King of the
+Wand",Where is Daniel? 
+700,hallway,"Answer: In the Garden of Eden.
+
+[Footnote 168: The 'piscis",Where is Mary? 
+701,hallway,"Answer: In the hospital.
+
+The question was put to the editor of the journal",Where is Mary? 
+702,bathroom,"Answer: In the _Bible_ (Book of Kings, chap. xviii",Where is John? 
+703,bathroom,"Answer: He is in the Residency.
+
+Q. What is the meaning of the",Where is John? 
+704,office,Answer: In the _Swan_ of the _Swan_ (the _Swan,Where is John? 
+705,hallway,"Answer: She is in the garden.
+
+The Camel was a very good-",Where is Mary? 
+706,hallway,"Answer: In the house.
+
+[Illustration: The ""Mary"" is a small",Where is Mary? 
+707,bathroom,"Answer: In the house of the Lord.
+
+Question: What is the meaning of the",Where is Daniel? 
+708,office,"Answer: She is in the garden.
+
+Question: Where is the garden?
+Answer",Where is Sandra? 
+709,hallway,"Answer: She is in the kitchen, washing the dishes.
+
+
+
+
+THE END.",Where is Mary? 
+710,garden,"Answer: In the cave.
+
+Q. What is the name of the cave?",Where is John? 
+711,garden,"Answer: She is in the garden.
+
+
+[Illustration: The picture was one I had fanc",Where is Sandra? 
+712,kitchen,"_Answer_: John is in the room.
+
+_Question_: What is John doing",Where is John? 
+713,kitchen,"[Illustration: ""SANDRA""]
+
+[Illustration: ""SAN",Where is Sandra? 
+714,hallway,"Answer: He is in the next room.
+
+Question: What is he doing?",Where is Daniel? 
+715,garden,"Answer: In the South.
+
+[Illustration:
+
+[Illustration:",Where is Sandra? 
+716,hallway,"Answer: In the hall.
+
+[Illustration: THE YUCCA.]",Where is Mary? 
+717,office,"Answer: He is in the library.
+
+""I'm going to have a little",Where is Daniel? 
+718,hallway,"""I say, you have no right to be so unkind to her. She is",Where is Mary? 
+719,office,"Answer: She is in the orchestra.
+
+Question: What is the name of the",Where is Sandra? 
+720,garden,"Answer: He is in the penitentiary.
+
+
+
+
+[Illustration: ""THE",Where is Daniel? 
+721,hallway,"Answer: She is in the garden.
+
+Question: Where is she?",Where is Sandra? 
+722,garden,"Answer: He is in the churchyard, with his mother.
+
+
+
+
+THE BATT",Where is Daniel? 
+723,office,"Answer: She is in the next room.
+
+Question: Where is the next room",Where is Sandra? 
+724,office,"Ames: Where is the _Cossack_?
+
+Ames: Where",Where is Sandra? 
+725,garden,"[The following is a translation of the original:
+
+""The first thing that we",Where is Sandra? 
+726,office,"Answer: In the church of St. John the Baptist, Westminster.
+
+
+
+
+[Illustration",Where is John? 
+727,bathroom,"Answer: At the station at Everett, in the state of Maine.
+
+[",Where is Mary? 
+728,garden,"Answer: In the house.
+
+Question: What is the name of the house?",Where is Mary? 
+729,bathroom,"Answer: He is in the library, reading.
+
+Question: What is the matter",Where is Daniel? 
+730,bedroom,"[35] The following is a specimen of the kind of wall which I have
+described",Where is John? 
+731,bedroom,"A. The cusp is the centre of the arch, and the centre of the c",Where is John? 
+732,hallway,"Answer: In the garden of the palace of the Kings, at Windsor.
+
+
+
+
+[",Where is Sandra? 
+733,office,"Answer: In the garden.
+
+Q. What is the name of the tree?",Where is Mary? 
+734,bedroom,Answer: Daniel is a great man. He is the greatest man in the world. He,Where is Daniel? 
+735,hallway,"Answer: In the Tower of London.
+
+Question: What is the reason of this",Where is John? 
+736,bathroom,"Answer: In the house of the Earl of Glengarry.
+
+[Illustration",Where is Sandra? 
+737,bathroom,"Answer: In the house of the Lord.
+
+Question: What is the house of",Where is John? 
+738,bathroom,Answer: John is in the _syce_ with the _sowars_.,Where is John? 
+739,kitchen,"Answer: He’s in the garden.
+
+Question: What is he doing?",Where is John? 
+740,garden,"Answer: John is in the city.
+
+Question: What is John doing?
+Answer",Where is John? 
+741,garden,"Answer: He is in the shop.
+
+Question: What is the matter?",Where is John? 
+742,kitchen,"Answer: In the Garden of Eden.
+
+Question: What is the meaning of the",Where is Daniel? 
+743,office,"Answer: She is in the drawing-room.
+
+""She is in the drawing",Where is Sandra? 
+744,bathroom,"Answer: Daniel is a very old man, and has been dead for a long time. He",Where is Daniel? 
+745,bedroom,"Answer: He is in the boat.
+
+Question: What is Daniel?",Where is Daniel? 
+746,bathroom,"Answer: He is in the woods.
+
+Question: What is the matter?",Where is John? 
+747,hallway,"Answer: He is in the garden.
+
+""But, my dear sir,"" said",Where is John? 
+748,office,"A reply: He is in the garden.
+
+Düntzer: Is",Where is John? 
+749,kitchen,"Answer: In the house of the “Doktor,” in the “Doktor",Where is John? 
+750,office,"[Footnote 1: The first line of the original is missing.]
+
+  [Footnote 2",Where is Sandra? 
+751,office,"Answer: She is in the garden.
+
+Question: What is the name of the garden",Where is Sandra? 
+752,hallway,"Answer: He is in the house of the priest.
+
+Question: What is the matter",Where is Daniel? 
+753,bedroom,"_Answer._ Mary was born in the year 1440, and died in 1498.",Where is Mary? 
+754,hallway,"Answer: He is in the garden.
+
+Question: What is he doing?",Where is Daniel? 
+755,garden,"Answer: He is in the garden.
+
+""And you, too, are in",Where is Daniel? 
+756,garden,"Answer: In the ""old place"" at the top of the hill.
+
+
+
+
+[",Where is Daniel? 
+757,office,"The answer was, ""John is in the North.""
+
+The question was, """,Where is John? 
+758,kitchen,"Answer: She is in the garden.
+
+Question: Where is she?",Where is Sandra? 
+759,bathroom,"Answer: She is in the country.
+
+Question: Where is Mary?",Where is Mary? 
+760,office,"Answer: She is in the country.
+
+Question: Where is she?",Where is Sandra? 
+761,bedroom,"Answer: She is in the house of the priest, and the priest is in the",Where is Sandra? 
+762,bathroom,"Answer: She is in the garden.
+
+[Illustration: The Boy's Head]",Where is Mary? 
+763,garden,"Answer: He is in the stable.
+
+Question: How many dogs are there in the stable",Where is Daniel? 
+764,hallway,"Answer: In the Bible.
+
+Question: Where is Daniel?
+
+Answer:",Where is Daniel? 
+765,kitchen,"Answer: She is in the house.
+
+
+[Illustration: A. B. C.",Where is Sandra? 
+766,bathroom,"Answer: In the garden.
+
+Question: What is the name of the place?",Where is Daniel? 
+767,kitchen,"Answer: In the library.
+
+Q. What is the name of the library?",Where is John? 
+768,hallway,"Answer: In the house of Daniel.
+
+Question: What is Daniel?",Where is Daniel? 
+769,bedroom,"Answer: In the Tower.
+
+[Sidenote: LONDON]",Where is John? 
+770,bathroom,"Answer: In the garden.
+
+[Sidenote: _D. S._]",Where is Daniel? 
+771,bedroom,"Answer: In the Tower.
+
+[Sidenote: The King's Speech.]",Where is John? 
+772,office,"Answer: He is in the next room.
+
+
+
+
+THE LITTLE GIRL",Where is John? 
+773,office,"Answer: He is in the library.
+
+""I'm going to see him,""",Where is John? 
+774,kitchen,"Answer: She is in the garden.
+
+Question: What is the matter with the",Where is Mary? 
+775,kitchen,"Answer: He's in the house, mum.
+
+Question: What is he doing",Where is Daniel? 
+776,bathroom,"Answer: He is in the country.
+
+“I’ve been thinking about you",Where is John? 
+777,bathroom,"Answer: He is in the woods.
+
+Question: What is he doing?
+Answer",Where is John? 
+778,bathroom,"Answer: John is in the kitchen.
+
+Q. What is the use of the",Where is John? 
+779,office,"Answer: ""In the _Bewcastle_,"" and the
+questioner was answered: """,Where is Daniel? 
+780,bedroom,Answer: In the _Balaam_ of the _Balaam_ of the _,Where is John? 
+781,office,"Answer: He is in the Bareilly prison.
+
+Q. What is his",Where is Daniel? 
+782,office,"Answer: He was born in Babylon, and died in Babylon.
+
+Question: What",Where is Daniel? 
+783,bathroom,"Answer: He is in the library.
+
+""I'm sorry,"" said Mr.",Where is John? 
+784,hallway,"Answer: She is in the library.
+
+Question: What is the matter with you",Where is Sandra? 
+785,office,"Answer: He is in the house.
+
+""How long will it take to get",Where is John? 
+786,office,"Answer: In the Blackfoot camp.
+
+""Then,"" said the Blackfoot Chief,",Where is John? 
+787,hallway,"Answer: She is in the house.
+
+""I am going to the house,",Where is Mary? 
+788,hallway,"Answer: She is in the garden.
+
+Question: What is the matter?",Where is Mary? 
+789,garden,"Answer: She is in the garden.
+
+Question: What is the meaning of the",Where is Sandra? 
+790,garden,"_Cura_: She is in the house of the Alcalde.
+
+_",Where is Sandra? 
+791,garden,"Answer: She is in the garden.
+
+Question: Where is the garden?",Where is Sandra? 
+792,garden,"Answer: She is in the library.
+
+Question: What is she doing?",Where is Sandra? 
+793,office,"Answer: In the ship.
+
+Q. What is John's name?
+A:",Where is John? 
+794,garden,"Answer: In the garden.
+
+The question is not a question of fact, but of",Where is Mary? 
+795,office,"Answer: In the Garden of Eden.
+
+Question: What is the meaning of the",Where is Daniel? 
+796,office,"Answer: In the garden of the Tuileries.
+
+
+
+
+THE STORY OF THE",Where is Sandra? 
+797,office,"Answer: In the house of the Lord.
+
+[Illustration: The Lord's Prayer",Where is Mary? 
+798,office,"""I will go to him, and tell him that I have been to the place where",Where is Sandra? 
+799,office,"Answer: In the United States.
+
+[Illustration: SANDERSFIELD.]",Where is Sandra? 
+800,hallway,"Answer: She is in the library.
+
+Q. What is the name of the",Where is Sandra? 
+801,bathroom,"Answer: He is in heaven.
+
+""The next day we were all in the",Where is Daniel? 
+802,office,"Answer: In the house.
+
+Question: What is the name of the town in",Where is Mary? 
+803,bedroom,"Answer: She is in the garden.
+
+Question: What is the matter with her",Where is Sandra? 
+804,office,"Answer: In the house of the Lord.
+
+Question: What is the meaning of",Where is Mary? 
+805,garden,"Answer: He is in the church.
+
+""I now wrote a letter to my",Where is John? 
+806,bedroom,"Answer: In the house of the Lord.
+
+[Footnote: The following is a",Where is John? 
+807,bedroom,"Answer: In the Tower.
+
+Q. What is the name of the place?",Where is John? 
+808,hallway,"Answer: In the Tower.
+
+[Illustration: _From a painting by Sir Joshua",Where is Daniel? 
+809,hallway,"[Illustration: Fig. 1.]
+
+[Illustration: Fig. 2.]",Where is Daniel? 
+810,garden,"Answer: In the garden of the palace of the Ducal Palace.
+
+Question:",Where is Sandra? 
+811,garden,"Answer: In the garden of the palace of the King of Spain, where she
+was",Where is Sandra? 
+812,office,"Answer: He is in the woods.
+
+Question: What is the matter with him",Where is Daniel? 
+813,hallway,"The answer: He is in the next room.
+
+
+
+
+THE END.
+
+
+
+
+FO",Where is Daniel? 
+814,hallway,"Answer: In the garden.
+
+[Illustration: The first-born of the American",Where is Mary? 
+815,office,"Answer: In the house of the old man, who was a prisoner.
+
+Question",Where is Daniel? 
+816,office,"Answer: She is in the garden, with her little dog, and her little dog's",Where is Mary? 
+817,kitchen,"Answer: He is in the house.
+
+Question: What is the matter?
+Answer",Where is Daniel? 
+818,garden,"Answer: In the house.
+
+The question is, Is John in the house?",Where is John? 
+819,office,"Answer: In the book of Daniel.
+
+[Illustration: Fig. 1.",Where is Daniel? 
+820,garden,"Answer: In the garden.
+
+[Illustration: The Garden]
+
+[Illustration",Where is Sandra? 
+821,garden,"The answer: She is in the village,
+    And is a little girl of nine",Where is Sandra? 
+822,bathroom,"Answer: He is in the house.
+
+Question: What is he doing?",Where is Daniel? 
+823,hallway,"Answer: John is in the woods.
+
+Question: What is John doing?",Where is John? 
+824,bathroom,"Answer: He is in the country.
+
+Q. What is the name of the",Where is Daniel? 
+825,office,"The answer: She is in the garden.
+
+The question: Where is she?",Where is Sandra? 
+826,bathroom,"Answer: In the house.
+
+Question: What is the matter?
+
+Answer",Where is Mary? 
+827,bedroom,"Answer: In the Tower of London.
+
+Question: What is the meaning of the",Where is Mary? 
+828,bathroom,"SALOME. [_Sitting on the table._] I am a poor, wretched",Where is Mary? 
+829,kitchen,"Answer: He is in the next room.
+
+
+
+
+THE STORY OF THE STONE",Where is Daniel? 
+830,garden,"Answer: She is in the city.
+
+“What is the matter with you,",Where is Mary? 
+831,bathroom,"A: She is in the ""Quat'z' Arts"" Ball.",Where is Sandra? 
+832,garden,"Answer: She's in the kitchen.
+
+Question: What is she doing?",Where is Mary? 
+833,kitchen,"""I'll find her and bring her back,"" he repeated. ""I'll find her",Where is Sandra? 
+834,bedroom,"Answer: Mary is in the next room.
+
+Question: Where is Mary?",Where is Mary? 
+835,bathroom,"Answer: In the house of John.
+
+The same question is applied to the case",Where is John? 
+836,bathroom,"_Answer._ John is in the country.
+
+_Question._ Where is John?",Where is John? 
+837,bathroom,"""I am not Daniel,"" said the Plunger, with a sudden change of tone.",Where is Daniel? 
+838,office,"Answer: He is in the garden of Eden.
+
+Question: What is the meaning",Where is Daniel? 
+839,hallway,"Answer: She is in the garden.
+
+Q. What is the meaning of the",Where is Sandra? 
+840,garden,"Answer: She is in the house of the King of the Franks, and is safe",Where is Sandra? 
+841,garden,"""The King's answer was, 'I will not hear it.' The King then said",Where is Sandra? 
+842,office,"Answer: He is in the library, reading.
+
+""He is a very good",Where is Daniel? 
+843,kitchen,"Answer: John is in the city of St. Paul, Minnesota.
+
+Question: Where",Where is John? 
+844,kitchen,"Answer: He is in the garden.
+
+[Illustration: ""He is in the garden",Where is John? 
+845,bedroom,"Answer: She's in the garden.
+
+Q. What is she doing?",Where is Sandra? 
+846,bedroom,"Answer: John is in the garden.
+
+[Illustration: ""John is in the",Where is John? 
+847,garden,"Answer: She is in the forest,
+    Where the wild deer are wont to ro",Where is Sandra? 
+848,garden,"Answer: In the garden of the palace of the Empress of Russia.
+
+Question",Where is Sandra? 
+849,office,"Answer: He is in the country.
+
+Question: What is his name?",Where is John? 
+850,bedroom,"Answer: He is in the house.
+
+""I am sorry to hear that you are",Where is Daniel? 
+851,hallway,"[1] The first of the three letters of the three letters of the
+following is",Where is Daniel? 
+852,bathroom,"Answer: He is in the garden.
+
+Question: What is the meaning of the",Where is Daniel? 
+853,bedroom,"Answer: He is in the bank.
+
+Question: What is he doing?",Where is Daniel? 
+854,bedroom,"Answer: She is in the country.
+
+Question: What is she doing?",Where is Mary? 
+855,bedroom,"Answer: He is in the city.
+
+“I am glad to hear it,”",Where is Daniel? 
+856,bedroom,"Answer: In the house of Daniel.
+
+Q. What is Daniel?
+A.",Where is Daniel? 
+857,bedroom,"Answer: In the Phæacian land.
+
+[Footnote 623: The Ph",Where is John? 
+858,kitchen,"Answer: She is in the house.
+
+Question: What is the matter with Mary?",Where is Mary? 
+859,office,"Answer: Mary is in the city of Washington, and is in the hands of the",Where is Mary? 
+860,bathroom,"Answer: She's in the house.
+
+""Mary is in the house, is",Where is Mary? 
+861,garden,"Answer: In the house.
+
+Question: What is the matter with Mary?",Where is Mary? 
+862,office,"Answer: In the house of the Lord.
+
+[Illustration: The Virgin Mary.]",Where is Mary? 
+863,kitchen,"Answer: In the house of the Lord.
+
+[Footnote 016: The Lord is",Where is Mary? 
+864,hallway,"Answer: In the tomb.
+
+[Footnote 615: The following is a translation of the",Where is Mary? 
+865,garden,"Answer: She is in the garden.
+
+Question: Where is she now?",Where is Sandra? 
+866,bedroom,"Answer: She is in the library.
+
+Question: What is the matter?",Where is Mary? 
+867,bedroom,[1] The following is a copy of the letter of the King of France to the,Where is Mary? 
+868,kitchen,"Answer: In the desert of Sahara.
+
+[Illustration: Fig. 1.]",Where is Daniel? 
+869,hallway,"Answer: In the boat.
+
+""Well, then, I'll tell you what",Where is John? 
+870,bedroom,"Answer: In the house of the Lord.
+
+[Illustration: The Lord is my",Where is Mary? 
+871,garden,"Answer: He is in the South.
+
+""But,"" said the Superintendent, """,Where is John? 
+872,hallway,"[Illustration: JOHN]
+
+[Illustration: JOHN]
+
+[Illustration: JOHN",Where is John? 
+873,hallway,"Answer: John is in the library.
+
+Question: What is John doing?",Where is John? 
+874,garden,"Answers:
+
+""She is in the country, and I am in the country",Where is Mary? 
+875,garden,"Answer: In the house of John.
+
+Q. What is the difference between the 18",Where is John? 
+876,garden,"_Answer._ John is a name of great antiquity, and is derived from the",Where is John? 
+877,kitchen,"Answer: In the _Praetorian Guard_, at Washington City.
+
+_",Where is Daniel? 
+878,hallway,"Answer: She is in the country.
+
+Question: Where is the man with the",Where is Sandra? 
+879,office,"Answer: She is in the woods, and you are in the house.
+
+""You",Where is Sandra? 
+880,bedroom,"""And then I'd say, 'I'm a little girl, and I'm going",Where is John? 
+881,hallway,"""I'd kick her out of the house. I'd kick her out of the house",Where is Daniel? 
+882,office,"Answer: In the book.
+
+Question: What is the name of the book?",Where is Mary? 
+883,office,"Answer: She is in the Tower, and the King is there.
+
+Question:",Where is Mary? 
+884,hallway,"Answer: John is the son of Mary, Queen of Scots, and the heir apparent to",Where is John? 
+885,bedroom,"Answer: In the room.
+
+[Illustration: [Illustration: [Illustration: [",Where is John? 
+886,bedroom,"[Illustration: The Great White Way]
+
+
+
+
+[Illustration: The Great White Way]",Where is Daniel? 
+887,hallway,"Answer: In the house of Daniel.
+
+Question: What is Daniel?",Where is Daniel? 
+888,office,"Answer: She is in the middle of the group.
+
+[Illustration: _A",Where is Sandra? 
+889,bedroom,"Answer: In the book of Daniel.
+
+[Illustration: The Book of Daniel]",Where is Daniel? 
+890,garden,"Answer: In the house of John.
+
+Acetate of lead, use of",Where is John? 
+891,office,"G.
+
+G.
+
+G.
+
+G.
+
+G.",Where is John? 
+892,garden,"Answer: In the store.
+
+""What is the matter with you?"" ""I don",Where is John? 
+893,hallway,"The story is a vivid and graphic picture of the life of the Bush
+     Indians",Where is Mary? 
+894,office,"[Illustration]
+
+The earliest known instrument of the kind known to us is a ly",Where is John? 
+895,office,"Answer: John is in the hospital.
+
+[Illustration: JOHN]
+
+[",Where is John? 
+896,garden,"Answer: She is in the house.
+
+[Illustration: “I am very glad",Where is Sandra? 
+897,hallway,"Answer: She is in the next room.
+
+""What did she say?""",Where is Sandra? 
+898,garden,"Answer: In the _Senotes_ of the ruins.
+
+Question: What is",Where is John? 
+899,office,Answer: In the _H-Mas_ of the _H-Mas_ of the,Where is Daniel? 
+900,bathroom,"Answer: In the New Testament.
+
+Question: What is the meaning of the word",Where is Daniel? 
+901,bathroom,"[Illustration: The King’s Speech]
+
+
+
+
+[Illustration: The King’s",Where is Daniel? 
+902,garden,"Answer: In the Tower.
+
+Question: What is the meaning of the word “",Where is John? 
+903,office,"[Illustration:
+
+[Illustration:
+
+[Illustration:
+
+[Illustration:",Where is Mary? 
+904,garden,"Answer: In the house of the King of the Amazons.
+
+""The following",Where is Sandra? 
+905,garden,"A: In the Hospice.
+
+Q: What was the Hospice",Where is Sandra? 
+906,kitchen,"Answer: She is in the hospital.
+
+Question: What is the name of the man",Where is Sandra? 
+907,kitchen,"Answer: She is in the garden.
+
+Question: What is the name of the",Where is Sandra? 
+908,office,"Answer: He is in the city.
+
+Question: What is the meaning of the",Where is Daniel? 
+909,office,"Answer: In the Holy Church.
+
+Question: What is the meaning of the word """,Where is Mary? 
+910,bedroom,"Answer: In the Tower of London.
+
+Question: What is the meaning of the",Where is Daniel? 
+911,bedroom,"_Answer._ She is in the church of the Holy Sepulchre, and the",Where is Mary? 
+912,office,"Answer: He is dead.
+
+
+
+
+THE STORY OF THE BATTLE OF THE",Where is John? 
+913,hallway,"Answer: He is in the Tower, and will be there to-night.
+
+Question",Where is Daniel? 
+914,garden,"The answer: She is in the garden.
+
+The question: Where is she?",Where is Mary? 
+915,kitchen,"Answer: In the garden.
+
+[Illustration: The Necrophori are the",Where is Mary? 
+916,hallway,"The answer: She is in the next room.
+
+
+
+
+THE END.
+
+
+
+
+FO",Where is Sandra? 
+917,garden,"The answer: The first-born of the first-born.
+
+The first-",Where is Mary? 
+918,garden,"Answer: In the world.
+
+[Illustration: The Poet's Wife]",Where is Mary? 
+919,bedroom,"""I have just received a letter from my dear friend, the painter, who has",Where is Daniel? 
+920,bathroom,"The Bishop's Examining Chaplain, or the Bishop himself, may, if he",Where is Daniel? 
+921,hallway,"(12) The question of the succession to the throne of England is one of
+the",Where is Mary? 
+922,hallway,"Answer: In the house of Daniel.
+
+_April_ 20.--The day appointed",Where is Daniel? 
+923,kitchen,"Answer: She's in the parlor.
+
+Question: Is she in the par",Where is Mary? 
+924,bedroom,"Answer: He is in the library.
+
+""He's a good boy, and",Where is Daniel? 
+925,bathroom,"Answer: In the kitchen.
+
+[Illustration: _The Tendons of the",Where is Mary? 
+926,office,"""And I want to build a church, and a school, and a hospital, and",Where is Daniel? 
+927,kitchen,"Answer: In the book of Daniel.
+
+The author of the book of Daniel,",Where is Daniel? 
+928,office,"Answer: He is in the city of New York, and is engaged in the business of",Where is Daniel? 
+929,bathroom,"Answer: In the house.
+
+[1] The vernier is a small instrument for",Where is Mary? 
+930,office,"Answer: In the garden of the palace of the Empress of Russia.
+
+[",Where is Sandra? 
+931,office,"Answer: In the garden of Eden.
+
+""I was not long in discovering that",Where is Daniel? 
+932,bedroom,"Answer: In the _auto da fe_.
+
+Question: Where is John?",Where is John? 
+933,office,Answer: In the house of the King of the Blue-eyed Sage.,Where is Sandra? 
+934,kitchen,"Answer: She is in the kitchen.
+
+Question: What is the matter with her",Where is Sandra? 
+935,hallway,"“I am not going to be imposed upon, and I am not going to be imposed",Where is John? 
+936,hallway,"Answer: He is dead.
+
+""Will you leave him to the vengeance of the",Where is John? 
+937,garden,"Answer: In the garden.
+
+Question: What is the meaning of the word '",Where is Daniel? 
+938,bedroom,"Answer: She is in the garden, with her mother.
+
+Question: Where is",Where is Sandra? 
+939,bedroom,"Answer: In the South.
+
+Question: What is the distance from the land to",Where is Sandra? 
+940,bedroom,"Answer: He is in the library, with his books.
+
+Question: What is",Where is John? 
+941,office,"Answer: In the house of Daniel, in the city of Babylon.
+
+[Illustration",Where is Daniel? 
+942,office,"Answer: He was a great favourite of the late King, and was sent to the",Where is Daniel? 
+943,kitchen,"""Yes, I am going to see them,"" said he, ""and I shall be",Where is John? 
+944,hallway,"Answer: In the house of Daniel.
+
+Question: What is Daniel?",Where is Daniel? 
+945,office,"Answer: She is in the house of the King of Denmark.
+
+
+
+
+THE LITT",Where is Sandra? 
+946,bathroom,"Answer: In the Tower.
+
+Question: Where is the King?
+
+Answer",Where is Mary? 
+947,bathroom,"[Sidenote: The question is answered in the text.]
+
+[Sidenote:",Where is Sandra? 
+948,kitchen,"Answer: In the house of Mary.
+
+Question: What is Mary?",Where is Mary? 
+949,bedroom,"]
+
+    [Footnote 18: The “Sorra” is a character in the “",Where is Daniel? 
+950,hallway,"Answer: In the house.
+
+Bilson was a man of a very peculiar",Where is John? 
+951,kitchen,"Answer: He is in the library.
+
+Question: What is the matter?",Where is John? 
+952,kitchen,"Answer: She is in the drawing-room.
+
+Cyril was about to",Where is Sandra? 
+953,kitchen,"I have found her, and I will not be denied.
+
+[The following is a translation",Where is Mary? 
+954,office,"Answer: She is in the garden, and I am in the garden too.",Where is Sandra? 
+955,office,"Answer: In the world of stone.
+
+[Illustration: THE LANDLORD'",Where is John? 
+956,kitchen,Answer: In the _Arabian Nights_ (Book I. ch. xi,Where is John? 
+957,garden,"Answer: She is in the garden.
+
+Question: Where is the garden?",Where is Sandra? 
+958,kitchen,"Answer: She is in the garden, and is busy with the flowers.
+
+
+
+
+THE",Where is Sandra? 
+959,bedroom,"Answer: In the garden.
+
+""I am going to take you to see the",Where is John? 
+960,hallway,"Answer: She is in the library.
+
+Q: What is the matter?",Where is Mary? 
+961,bathroom,"Answer: He is in the land of the living.
+
+
+
+
+THE END.",Where is Daniel? 
+962,bathroom,"Answer: He is in the church.
+
+Question: What is the matter with him",Where is John? 
+963,bedroom,"Answer: She is in the land of the living.
+
+""But, I say",Where is Mary? 
+964,garden,"Answer: She is in the garden.
+
+""What is the matter?"" asked the King",Where is Mary? 
+965,garden,"Answer: In the Tower of London.
+
+The following is a translation of the following",Where is Daniel? 
+966,bathroom,"The answer: In the _Briefe_, p. 1.
+
+[",Where is Mary? 
+967,bathroom,"Answer: In the book of Daniel.
+
+[Footnote 1: The first of the",Where is Daniel? 
+968,hallway,"Answer: In the house of the old man.
+
+Question: What is the name",Where is Mary? 
+969,kitchen,"“I’ve been thinking of it all the morning,” Mr. Havens continued,",Where is Sandra? 
+970,bathroom,"Answer: In the garden of the Temple, where he was born.
+
+Question:",Where is Daniel? 
+971,kitchen,"Answer: In the book of Daniel, which is the most ancient of all the
+prop",Where is Daniel? 
+972,bathroom,"Answer: In the _Pall Mall Gazette_, No. 6, July 1st",Where is Sandra? 
+973,hallway,"Answer: He is in the house.
+
+Question: What is he doing?",Where is Daniel? 
+974,hallway,"Answer: He is in the garden.
+
+Question: What is he doing?",Where is Daniel? 
+975,bedroom,"Answer: He is in the churchyard, sir.
+
+Question: What is his",Where is Daniel? 
+976,office,"Answer: John is in the kitchen.
+
+Question: What is the name of the",Where is John? 
+977,office,"Answer: In the _History of Painting_, by John, who was born in 15",Where is John? 
+978,bedroom,"[Illustration:
+
+[Illustration:
+
+[Illustration:
+
+[Illustration:",Where is Mary? 
+979,hallway,"[Illustration: ""Here is a little girl, and a little boy, and a little",Where is Sandra? 
+980,kitchen,"Answer: Mary is at home.
+
+Question: Is Mary at home?",Where is Mary? 
+981,bathroom,"""You'll find her in the parlor, waiting for you. She's just come",Where is Mary? 
+982,bedroom,"Answer: She is in the house.
+
+""She is safe, then?""",Where is Sandra? 
+983,office,"Answer: She is in the hospital.
+
+Question: Where is the hospital?",Where is Sandra? 
+984,garden,"Answer: In the house.
+
+[Illustration: ""I am a soldier, and",Where is Mary? 
+985,garden,"Answer: She is in the next room.
+
+
+
+
+THE LITTLE LADY",Where is Sandra? 
+986,garden,"Answer: In the _palace_ of Roxie.
+
+[Illustration:",Where is Sandra? 
+987,office,"Answer: In the house of the Lord.
+
+""And what is the matter?"" asked",Where is Mary? 
+988,bathroom,"Answer: He is in the church.
+
+Q. What is the meaning of the word",Where is John? 
+989,bathroom,"Answer: In the Tower of London.
+
+""I was not then a man of",Where is John? 
+990,garden,"Answer: In the house of the King.
+
+[Footnote 199: The King's",Where is Sandra? 
+991,kitchen,"Answer: In the South.
+
+[Illustration: SANDER.]
+
+[",Where is Sandra? 
+992,garden,"Answer: In the cellar.
+
+[Illustration: A Dairy Farmer's Daughter",Where is John? 
+993,garden,"THE END.
+
+
+
+
+Transcriber’s Notes:
+
+Obvious punctuation",Where is Daniel? 
+994,garden,"Answer: In the house.
+
+The machine is operated by a single hand, and the",Where is Mary? 
+995,kitchen,"Answer: In the latitude of the place of
+observation.
+
+
+[Illustration: Fig.",Where is John? 
+996,hallway,"Answer: She is in the house.
+
+""What is the matter?"" asked the",Where is Sandra? 
+997,office,"THE END.
+
+
+
+
+Transcriber's Notes:
+
+Passages in italics",Where is Sandra? 
+998,bathroom,"Answer: She is in the house with her mother.
+
+
+
+
+[Illustration: ""I am",Where is Sandra? 
+999,bedroom,"Answer: He is in the library.
+
+BELINDA. I am so",Where is John? 

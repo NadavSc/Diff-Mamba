@@ -1,0 +1,101 @@
+,target,output,question
+0,garden,kitchen kitchen garden garden garden garden kitchen garden garden garden garden kitchen garden garden garden garden garden garden garden garden,Where is the milk? 
+1,bedroom,"kitchen kitchen bedroom bedroom, kitchen kitchen bedroom, bedroom bedroom, kitchen kitchen bedroom, bedroom bedroom, kitchen",Where is the milk? 
+2,bedroom,kitchen kitchen kitchen bedroom bedroom bedroom kitchen kitchen kitchen kitchen bedroom bedroom bedroom kitchen kitchen kitchen kitchen bedroom bedroom bedroom,Where is the milk? 
+3,bedroom,kitchen hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+4,bedroom,kitchen kitchen garden garden garden hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+5,bedroom,bathroom bathroom garden garden garden bathroom bathroom garden garden garden bathroom bathroom garden garden garden bathroom bathroom garden garden bathroom,Where is the milk? 
+6,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+7,hallway,"football, hallway office office, bathroom bathroom bathroom bedroom hallway office bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is the apple? 
+8,kitchen,kitchen kitchen hallway hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 
+9,hallway,kitchen kitchen hallway hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+10,garden,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 
+11,office,"office office, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden",Where is the milk? 
+12,office,"office office, kitchen garden, kitchen garden, bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is the milk? 
+13,bathroom,garden garden garden office bathroom bathroom bathroom garden garden garden garden garden garden garden garden garden garden garden garden garden,Where is the football? 
+14,bathroom,bedroom bedroom hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 
+15,garden,bathroom garden garden garden garden bathroom bathroom garden garden garden garden bathroom bathroom garden garden garden garden garden bathroom bathroom,Where is the apple? 
+16,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+17,hallway,garden garden garden hallway garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden,Where is the milk? 
+18,hallway,"nothing, garden garden garden hallway garden garden garden garden garden garden garden garden garden garden garden garden garden garden",Where is the apple? 
+19,hallway,garden garden garden hallway garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden,Where is the football? 
+20,hallway,garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden,Where is the milk? 
+21,kitchen,bathroom bathroom hallway hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+22,kitchen,"football, kitchen kitchen hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is the milk? 
+23,bathroom,bathroom bathroom bathroom bedroom bedroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+24,bathroom,bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+25,bathroom,hallway bathroom bathroom bathroom hallway bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+26,bedroom,"bedroom bedroom, hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is the football? 
+27,bedroom,"bedroom bedroom, kitchen kitchen kitchen hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is the football? 
+28,garden,bathroom bathroom bedroom bedroom garden garden garden kitchen bathroom bathroom bathroom bedroom bedroom garden garden kitchen bathroom bathroom bathroom bedroom,Where is the apple? 
+29,garden,"football, bathroom bathroom hallway hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom",Where is the apple? 
+30,garden,bathroom bathroom garden garden garden hallway bathroom bathroom bathroom garden garden garden hallway bathroom bathroom bathroom garden garden garden hallway,Where is the milk? 
+31,hallway,bathroom hallway hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+32,hallway,bathroom hallway hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom hallway,Where is the milk? 
+33,bedroom,kitchen garden garden bedroom bedroom hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+34,bedroom,kitchen kitchen garden bedroom bedroom hallway garden kitchen garden bedroom hallway garden kitchen garden bedroom hallway garden kitchen garden bedroom,Where is the apple? 
+35,garden,"football, kitchen kitchen kitchen kitchen hallway bedroom bedroom bedroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is the milk? 
+36,garden,"nothing, nothing, nothing, nothing, nothing, nothing, nothing, nothing, nothing, nothing,",Where is the apple? 
+37,garden,"nothing to nothing, nothing to nothing, nothing to nothing, nothing to nothing, nothing to nothing,",Where is the apple? 
+38,garden,"nothing,football, bathroom bathroom bathroom bedroom, garden garden, bathroom bathroom bedroom garden, garden garden,",Where is the apple? 
+39,bathroom,bathroom bathroom bathroom bedroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 
+40,hallway,bathroom bathroom bathroom hallway bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 
+41,bedroom,"bathroom bedroom bedroom, kitchen kitchen kitchen garden, bathroom bedroom bedroom garden, kitchen kitchen garden, bathroom bedroom",Where is the apple? 
+42,bedroom,"bedroom bedroom kitchen garden, bedroom kitchen garden, bedroom bedroom kitchen garden, bedroom bedroom kitchen garden, bedroom",Where is the apple? 
+43,office,kitchen kitchen kitchen hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 
+44,office,hallway office bathroom bathroom bathroom bathroom hallway office bathroom bathroom bathroom bathroom hallway office bathroom bathroom bathroom bathroom hallway office,Where is the football? 
+45,office,hallway office garden hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+46,bedroom,"bathroom bathroom bedroom bedroom, bathroom bathroom bedroom bedroom, bathroom bathroom bedroom bedroom, bathroom bathroom bedroom bedroom,",Where is the apple? 
+47,bedroom,kitchen kitchen kitchen bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+48,kitchen,bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+49,garden,bathroom bathroom bathroom bedroom bedroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 
+50,bathroom,bathroom bathroom bathroom bedroom bedroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 
+51,hallway,bathroom bathroom hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 
+52,hallway,kitchen kitchen kitchen bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 
+53,hallway,kitchen kitchen garden garden garden kitchen kitchen garden garden garden kitchen garden garden garden kitchen garden garden garden kitchen garden,Where is the football? 
+54,garden,bathroom bathroom bedroom hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+55,garden,"football, bedroom bedroom hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is the milk? 
+56,bedroom,"bedroom bedroom,football,football,football,football,football,football,football,football,football",Where is the football? 
+57,bedroom,"bedroom bedroom,n,n,n,n,n,n,n,n,n",Where is the football? 
+58,bedroom,"bedroom bedroom,n,n,n,n,n,n,n,n,n",Where is the football? 
+59,bedroom,"bedroom bedroom no football, no nothing, no nothing, no nothing, no nothing, no nothing,",Where is the football? 
+60,bedroom,kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen,Where is the football? 
+61,hallway,hallway bathroom bathroom bedroom bedroom hallway bathroom bathroom bathroom bedroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+62,hallway,hallway garden garden garden garden hallway garden garden garden garden garden garden garden garden garden garden garden garden garden garden,Where is the football? 
+63,hallway,bathroom bathroom bathroom hallway garden garden garden garden hallway garden garden garden garden garden garden garden garden garden garden garden,Where is the milk? 
+64,hallway,bathroom bathroom bathroom hallway garden garden garden garden hallway bathroom bathroom bathroom bathroom hallway garden garden garden garden garden garden,Where is the apple? 
+65,hallway,bathroom bathroom bathroom bedroom bedroom hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+66,hallway,hallway hallway bathroom bathroom bathroom hallway hallway bathroom bathroom bathroom hallway hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom,Where is the football? 
+67,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+68,kitchen,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+69,bedroom,bedroom bedroom hallway hallway hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom,Where is the football? 
+70,bedroom,bathroom bathroom hallway hallway bathroom bathroom bathroom hallway hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom hallway bathroom bathroom,Where is the football? 
+71,office,"no office, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden, kitchen garden",Where is the apple? 
+72,kitchen,"kitchen kitchen kitchen kitchen garden, bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom",Where is the apple? 
+73,kitchen,"kitchen kitchen kitchen bedroom bedroom, kitchen kitchen kitchen bedroom, kitchen kitchen bedroom, kitchen kitchen bedroom, kitchen",Where is the apple? 
+74,kitchen,"kitchen kitchen kitchen kitchen bedroom bedroom, kitchen kitchen kitchen kitchen kitchen bedroom, kitchen kitchen kitchen bedroom, kitchen",Where is the apple? 
+75,office,"kitchen kitchen kitchen office office, kitchen kitchen office, bedroom bedroom, kitchen kitchen office, bedroom bedroom kitchen",Where is the apple? 
+76,garden,garden bathroom bathroom bathroom bedroom garden bathroom bathroom bathroom bedroom garden bathroom bathroom bathroom bedroom garden bathroom bathroom bathroom bedroom,Where is the football? 
+77,garden,garden garden bathroom bathroom bathroom bedroom garden garden bathroom bathroom bathroom bedroom garden garden bathroom bathroom bathroom bedroom garden garden,Where is the football? 
+78,kitchen,"kitchen kitchen bathroom bathroom bathroom bedroom bedroom, bathroom bathroom bathroom bedroom bedroom garden, bathroom bathroom bathroom bedroom garden",Where is the football? 
+79,bathroom,bathroom bathroom garden bathroom bathroom garden garden bathroom bathroom bathroom garden bathroom bathroom bathroom garden bathroom bathroom bathroom garden bathroom,Where is the milk? 
+80,bathroom,bathroom bathroom garden garden garden garden bathroom bathroom garden garden garden bathroom bathroom garden garden garden bathroom bathroom garden garden,Where is the milk? 
+81,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+82,office,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 
+83,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+84,bedroom,kitchen hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+85,bedroom,bathroom bathroom bathroom hallway hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+86,kitchen,kitchen kitchen kitchen bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 
+87,kitchen,"office office kitchen kitchen kitchen kitchen garden, office garden, kitchen kitchen garden, office kitchen kitchen garden,",Where is the football? 
+88,bathroom,"office bathroom bathroom bathroom bedroom, kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen",Where is the milk? 
+89,bedroom,office hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+90,garden,bedroom bedroom garden garden garden hallway bathroom bathroom bathroom bathroom garden garden hallway bathroom bathroom bathroom bathroom garden garden hallway,Where is the milk? 
+91,garden,garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden,Where is the milk? 
+92,garden,garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden,Where is the milk? 
+93,office,office garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden garden,Where is the milk? 
+94,office,hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+95,bedroom,bathroom bathroom bedroom bedroom hallway hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the milk? 
+96,kitchen,kitchen kitchen kitchen bathroom bathroom bedroom bedroom bedroom bathroom bathroom bathroom bedroom bedroom bedroom bathroom bathroom bathroom bedroom bedroom bedroom,Where is the apple? 
+97,kitchen,"kitchen kitchen kitchen bathroom bathroom bedroom bedroom, kitchen kitchen bathroom bathroom bedroom bedroom, kitchen kitchen bathroom bathroom bedroom",Where is the apple? 
+98,hallway,bathroom bathroom hallway hallway bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the apple? 
+99,hallway,hallway hallway bathroom bathroom bathroom bathroom bathroom hallway bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom,Where is the football? 

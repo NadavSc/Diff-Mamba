@@ -1,0 +1,2835 @@
+,target,output,question
+0,bedroom,"Answer: The bathroom is east of the house.
+
+Question: What is the bathroom",What is the bathroom east of?
+1,bedroom,"Answer: The kitchen is west of the kitchen.
+Question: What is east of the kitchen",What is west of the kitchen?
+2,bathroom,"Answer: The place where the sun is shining.
+
+Question: What is the name",What is north of the garden?
+3,bedroom,"Answer: The kitchen is the place where the cook is.
+
+Question: What is the",What is south of the kitchen?
+4,bedroom,"Answer: The kitchen.
+
+Question: What is west of the kitchen?
+Answer:",What is east of the kitchen?
+5,garden,"Answer: The one in the centre of the house.
+
+""The one in the",What is the bathroom west of?
+6,kitchen,"Answer: The west.
+
+Question: What is the difference between the two?",What is east of the bedroom?
+7,bathroom,"Answer: The garden south of the house.
+
+Question: What is the name of",What is the garden south of?
+8,kitchen,"Answer: The office of the secretary of the United States.
+
+Question: What is",What is south of the office?
+9,office,"Answer: The side of the house opposite the door.
+
+Question: What is the",What is east of the hallway?
+10,garden,"Answer: The office is to the right of the door.
+
+Question: What is the",What is north of the office?
+11,garden,"Answer: The kitchen is south of the house.
+
+Question: What is north of",What is south of the kitchen?
+12,bathroom,"Answer: The side of the house opposite the kitchen.
+
+Question: What is the",What is east of the kitchen?
+13,garden,"Answer: The west of the house.
+
+Question: What is the direction of the",What is west of the kitchen?
+14,garden,"Answer: The north of the bed.
+
+Question: What is the north of the",What is north of the bedroom?
+15,garden,"Answer: The side of the house opposite the door.
+
+Question: What is the",What is east of the hallway?
+16,hallway,"Answer: The city of the United States.
+
+Question: What is the city of",What is east of the office?
+17,office,"Answer: The people of the city of London.
+
+Question: What is the name",What is south of the bathroom?
+18,garden,"Answer: The room is the one in the centre of the house, and the
+d",What is the bedroom north of?
+19,garden,"Answer: The kitchen west of the house is the kitchen of the house.
+
+Question:",What is the kitchen west of?
+20,garden,"Answer: To be the guide of the people.
+
+Question: What is the office",What is the office east of?
+21,garden,"<context>
+
+<context>
+
+<context>
+
+<context>",What is the bathroom south of?
+22,bathroom,"Answer: The sea.
+
+Question: What is the sea?
+
+Answer:",What is north of the bedroom?
+23,bathroom,"Answer: The room in the house that is opposite the kitchen.
+
+Question: What",What is the bedroom south of?
+24,hallway,"Answer: The room in the bow.
+
+Question: What is the room in the",What is the bedroom west of?
+25,office,"Answer: The kitchen.
+
+Question: What is west of the kitchen?",What is east of the bathroom?
+26,office,"Answer: The direction of the sun's rays.
+
+Question: What is the difference",What is north of the bedroom?
+27,hallway,"Answer: The west is the west.
+
+Question: What is the west?
+Answer",What is west of the bathroom?
+28,garden,"Answer: The American <c>d</c>.
+
+<c>D</",What is the bathroom north of?
+29,garden,"Answer: The word is used in the sense of a place where a man is
+acc",What is north of the office?
+30,bedroom,"Answer: The west.
+
+Question: What is the difference between the two?",What is east of the kitchen?
+31,kitchen,"Answer: The bathroom is the room in the house where the water is
+supplied.",What is the bathroom east of?
+32,bathroom,"Answer: The American and the European.
+
+<c>The American and the European",What is north of the garden?
+33,kitchen,"Answer: The bedroom west of the hall.
+Question: What is the bedroom east of?",What is the bedroom west of?
+34,bedroom,"Answer: The kitchen is the place where the cook and the housekeeper
+are.",What is the kitchen south of?
+35,garden,"Answer: The one on the left.
+
+Question: What is the difference between the",What is the bathroom east of?
+36,office,"Answer: The room in the middle of the hall.
+
+Question: What is the",What is south of the hallway?
+37,bedroom,"Answer: The man who is not in the house.
+
+<p><p",What is north of the bathroom?
+38,bedroom,"Answer: The bathroom is the room in the house that is nearest to the
+carn",What is the bathroom east of?
+39,office,"Answer: The sea.
+
+Question: What is the difference between the sea and the",What is north of the bedroom?
+40,bathroom,"Answer: The kitchen is south of the kitchen.
+
+<context>
+
+<",What is south of the kitchen?
+41,bedroom,"Answer: The office is in the west of the building.
+
+Question: What is",What is west of the office?
+42,kitchen,"Answer: The garden south of the church.
+
+Question: What is the garden north",What is the garden south of?
+43,garden,"Answer: The place where the sun is not.
+
+<context>
+
+<",What is south of the bedroom?
+44,garden,"Answer: To make the world a little better.
+
+Question: What is the office",What is the office south of?
+45,hallway,"Answer: The office is on the left.
+
+Question: What is the name of",What is the office east of?
+46,garden,"Answer: The office is south of the house.
+Question: What is the name of the",What is south of the office?
+47,garden,"Answer: The west of the house is the place of the library, and the
+other",What is west of the bedroom?
+48,garden,"Answer: The side of the house opposite to the hall.
+
+Question: What is",What is east of the hallway?
+49,garden,"Answer: The office south of the town is the office of the
+<context>",What is the office south of?
+50,bedroom,"Answer: The hall is the place where the people live.
+
+Question: What is",What is the hallway north of?
+51,garden,"Answer: The north of the globe.
+
+Question: What is the difference between a",What is north of the bathroom?
+52,hallway,"Answer: The bedroom north of the
+bedroom south.
+
+Question: What is the bedroom",What is the bedroom north of?
+53,bathroom,Answer: The east is the part of the garden which is not in the garden.,What is east of the garden?
+54,bathroom,"Answer: The place where the sun is shining.
+
+Question: What is the sun",What is west of the bedroom?
+55,garden,"Answer: The east is the side of the house opposite the kitchen.
+
+Question:",What is east of the hallway?
+56,hallway,"Answer: The room in the house.
+
+Question: What is the room in the",What is the bedroom east of?
+57,kitchen,"Answer: The south.
+
+Question: What is east of the hall?",What is west of the hallway?
+58,hallway,"Answer: The south-ward, or the westward, or the westward, or",What is south of the bedroom?
+59,kitchen,"Answer: The garden of the heart.
+
+Question: What is the garden of the",What is the garden north of?
+60,hallway,"Answer: The bedroom north of the kitchen.
+Question: What is the bedroom south of?",What is the bedroom north of?
+61,bedroom,"Answer: The dining-room.
+
+Question: What is the dining-room?",What is south of the hallway?
+62,kitchen,"Answer: The hall is the place where the people go to get their
+supper.",What is the hallway north of?
+63,hallway,"Answer: The room is on the left of the bed.
+Question: What is the window",What is west of the bedroom?
+64,bedroom,"Answer: The east is the east, and the west is the west.
+
+<",What is east of the garden?
+65,office,"Answer: The room is on the left of the hall, and is about twenty-five",What is the bedroom north of?
+66,bathroom,"Answer: The room in the middle of the house, which is the place of
+the",What is the bedroom north of?
+67,office,"Answer: The garden of the house of the Count of the
+Morningskyle",What is the garden south of?
+68,kitchen,"<context>
+
+<context>
+
+<context>
+
+<context>",What is the bathroom west of?
+69,garden,"<context>
+
+<context>
+
+<context>
+
+<context>",What is the hallway east of?
+70,bathroom,"Answer: The <guide>s of the <guide>s.
+
+Question:",What is south of the bedroom?
+71,kitchen,"Answer: The garden south of the palace.
+
+Question: What is the garden north",What is the garden south of?
+72,garden,"Answer: The bedroom is the room in the back of the house.
+
+Question:",What is the bedroom south of?
+73,bathroom,"Answer: The office is north of the house.
+
+Question: What is south of",What is north of the office?
+74,bathroom,"Answer: The first two are the two ends of the great American
+dight-d",What is the hallway north of?
+75,bedroom,"Answer: The room.
+
+Question: What is the difference between the two?",What is south of the hallway?
+76,bedroom,"Answer: The hall is east of the
+house. Question: What is the hall west of?",What is the hallway east of?
+77,bathroom,"Answer: The office is the place where the people are.
+
+Question: What is",What is north of the office?
+78,kitchen,"Answer: The garden is east of the city.
+
+Question: What is west of",What is east of the garden?
+79,hallway,"Answer: The kitchen is the place where the cook is.
+
+“I’d",What is the kitchen south of?
+80,garden,"Answer: The side of the house opposite the one in which the
+carnions are",What is west of the office?
+81,office,"Answer: The room in the side of the house.
+
+""I have a little",What is the bedroom west of?
+82,kitchen,"Answer: The
+""L"" in the name of the
+""L""",What is the hallway south of?
+83,garden,"Answer: The office of the <garn-garn> or ""garn-",What is the office west of?
+84,bathroom,"Answer: The north is the place where the sun is.
+
+Question: What is",What is north of the hallway?
+85,office,"Answer: The west is the land of the orange.
+
+Question: What is the east",What is west of the garden?
+86,office,"Answer: The garden is the place where the people of the house live.
+
+Question",What is west of the garden?
+87,garden,"Answer: The side of the house opposite the kitchen.
+
+Question: What is the",What is east of the bathroom?
+88,bathroom,"Answer: The North is the place where the sun is.
+
+Question: What is",What is north of the office?
+89,kitchen,"Answer: The room in the side of the house opposite the
+dinner-room.",What is the bedroom west of?
+90,office,"Answer: The first one is the one in the centre of the room, and the",What is the bathroom south of?
+91,office,"Answer: The place where the sun is not.
+
+Question: What is the difference",What is east of the bedroom?
+92,bedroom,"Answer: The library.
+
+Question: What is the library?
+
+Answer:",What is south of the office?
+93,bathroom,"<context>
+
+Answer: The garden is the earth, and the earth is the sun.",What is the garden west of?
+94,garden,"Annless: The room in which the house is.
+
+<painless",What is the bedroom west of?
+95,hallway,"Answer: The sun.
+
+Question: What is the name of the great water?",What is north of the garden?
+96,bedroom,"Answer: The right of the house to the kitchen.
+
+Question: What is the",What is the kitchen west of?
+97,kitchen,"Answer: The west of the house.
+
+Question: What is the difference between the",What is west of the bedroom?
+98,bathroom,"Answer: The kitchen is the place where the people live.
+
+<c>The",What is the kitchen north of?
+99,garden,"Answer: The American and the European.
+
+Question: What is the American?",What is the office north of?
+100,bedroom,"Answer: The side of the house opposite to the east.
+
+Question: What is",What is east of the hallway?
+101,kitchen,"Answer: The man who is not a little of the truth.
+
+Question: What",What is south of the hallway?
+102,bedroom,"Answer: The office of the Secretary of State for the Colums of
+the United States",What is the office west of?
+103,bathroom,"Answer: The kitchen is the place where the servants eat their meals.
+
+Question:",What is the kitchen north of?
+104,hallway,"Answer: The bedroom.
+
+Question: What is east of the bedroom?",What is west of the bedroom?
+105,bedroom,"Answer: The kitchen.
+
+Question: What is east of the kitchen?",What is west of the kitchen?
+106,office,"Answer: The kitchen is the place where the servants live.
+
+Question: What is the",What is the kitchen south of?
+107,bathroom,"Answer: The west of the city.
+
+Question: What is the river?",What is west of the garden?
+108,bedroom,"Answer: The bathroom is the room in the rear of the house.
+
+Question:",What is the bathroom south of?
+109,bathroom,"Answer: The kitchen west of the house.
+
+Question: What is the room in",What is the kitchen west of?
+110,garden,"Answer: The hall is the one that leads to the kitchen.
+
+Question: What",What is the hallway west of?
+111,hallway,"Answer: The kitchen is the place where the water is boiled.
+
+Question: What",What is the kitchen south of?
+112,office,"Answer: The south side of the bathroom.
+
+Question: What is the south side of",What is south of the bathroom?
+113,hallway,"Answer: The office is the place where the men are employed.
+
+Question: What",What is the office west of?
+114,bedroom,"Answer: The kitchen is the place where the cook and the housekeeper
+meet.",What is the kitchen north of?
+115,office,"Answer: The garden east of the house.
+
+Question: What is the garden west",What is the garden east of?
+116,bedroom,"Answer: The hall is the one on the side of the house opposite the
+sitting",What is the hallway south of?
+117,bedroom,"Answer: The
+garden is the
+right side of the
+house.",What is the garden west of?
+118,hallway,"Answer: The office is on the side of the creek.
+
+Question: What is",What is north of the office?
+119,office,"Answer: The west is the side of the house opposite the kitchen.
+
+Question: What",What is west of the hallway?
+120,bedroom,"Answer: The bathroom is the room in which the water is turned on to
+the house",What is the bathroom north of?
+121,kitchen,"Answer: The hall is the place where the people go to get their
+supper.",What is the hallway north of?
+122,office,"Answer: The bathroom.
+
+SLEUCH. [_Reading._] ""Deb",What is east of the bathroom?
+123,bathroom,"<context>
+
+I have been thinking of this for a long time, and I",What is north of the hallway?
+124,bathroom,"Answer: The room in the side of the house opposite the
+carn-vaw",What is the bedroom north of?
+125,kitchen,"Ans: The land that is west of the garden is the land of the
+<",What is west of the garden?
+126,bathroom,"Answer: The north is the direction of the sun.
+
+Question: What is the",What is north of the kitchen?
+127,hallway,"<context>
+
+""I am not sure that I understand him. He is so",What is the bedroom east of?
+128,garden,"Answer: The room in the house opposite the kitchen.
+
+Question: What is the",What is the bedroom south of?
+129,hallway,"Answer: The bow-window.
+
+Question: What is the difference between a man",What is east of the bathroom?
+130,garden,"Answer: The bedroom east of the kitchen.
+
+Question: What is the bedroom west",What is the bedroom east of?
+131,kitchen,"Answer: The ""s"" is pronounced ""s"" in the word ""sister.""",What is south of the bathroom?
+132,kitchen,"Answer: The eastern side of the globe.
+
+Question: What is the great,",What is east of the garden?
+133,bathroom,"Answer: The hall is east of the kitchen.
+
+Question: What is the kitchen",What is the hallway east of?
+134,office,"Answer: The hall is the place where the people go to see the
+<context>",What is the hallway east of?
+135,kitchen,"Answer: The garden is the place where the trees are cut down.
+
+Question: What",What is the garden east of?
+136,bathroom,"Answer: The room in which you are sitting.
+
+Question: What is the room",What is the bedroom south of?
+137,hallway,"Answer: The garden is the one in the centre of the house, and is
+the",What is the garden east of?
+138,kitchen,"Answer: The side of the house opposite the west window.
+
+Question: What is",What is south of the hallway?
+139,hallway,"Answer: The kitchen.
+
+“I suppose you were the only person present at the",What is west of the kitchen?
+140,kitchen,"Answer: The city.
+
+Question: What is south of the garden?",What is north of the garden?
+141,office,"Answer: The kitchen west of the house is the one that is used for
+the kitchen",What is the kitchen west of?
+142,bathroom,Answer: The kitchen north of the house is the kitchen south of the house.,What is the kitchen north of?
+143,bathroom,"Answer: The kitchen. Question: What
+is west of the kitchen? Answer: The kitchen.",What is east of the kitchen?
+144,bathroom,"Answer: The valley of the Nile.
+
+Question: What is west of the garden?",What is east of the garden?
+145,kitchen,"Answer: The office of the ""sights"" of the house of the
+""s",What is the office south of?
+146,hallway,"Answer: The kitchen north of the kitchen south.
+Question: What is the kitchen south of",What is the kitchen north of?
+147,hallway,"Answer: The room in the house.
+
+Question: What is the room in the",What is the bedroom west of?
+148,bathroom,"</context>
+
+<context>
+
+<context>
+
+<context>",What is the office west of?
+149,hallway,"Answer: The library.
+
+Question: What is the library?
+Answer: The library",What is the office south of?
+150,bathroom,"Answer: The side of the house opposite the kitchen.
+
+<context>",What is north of the hallway?
+151,garden,"Answer: The room in the house of the
+
+<context>
+
+<context",What is the bathroom east of?
+152,kitchen,"Answer: The ""b"" is the ""b"" of the word ""bore.""",What is the bathroom east of?
+153,hallway,"Answer: The kitchen is the place where the cook is.
+
+Question: What is",What is south of the kitchen?
+154,hallway,"Answer: The south is the south-east.
+
+Question: What is the north-",What is south of the office?
+155,garden,"Answer: The room in the middle of the house.
+
+Question: What is the",What is the bedroom west of?
+156,office,"Answer: The bowers of the moon.
+
+Question: What is the difference between",What is south of the bedroom?
+157,bathroom,"Answer: The ""garn, or the green-garn,"" is the portion of",What is north of the garden?
+158,garden,"Answer: The bedroom east of the house.
+
+Question: What is the bedroom west",What is the bedroom east of?
+159,bedroom,"Answer: The kitchen is the place where the people live.
+
+Question: What is",What is south of the kitchen?
+160,hallway,"Answer: The office of the Secretary of the Treasury.
+
+Question: What is the",What is the office south of?
+161,bathroom,"Answer: The
+sod-yard.
+
+Question: What is the name of",What is north of the garden?
+162,hallway,"Answer: The side of the house.
+
+Question: What is the difference between a",What is east of the bathroom?
+163,hallway,"Answer: The office of the American and of the European.
+
+Question: What is",What is the office east of?
+164,bathroom,"Answer: The office of the West.
+Question: What is the office east of?",What is the office west of?
+165,kitchen,"Answer: The room in which the lady sleumps.
+
+Question: What is the",What is west of the bedroom?
+166,office,"Answer: The north is the direction of the sun.
+
+Question: What is the",What is north of the hallway?
+167,garden,"Answer: The office of the north is the office of the city.
+
+Question:",What is the office north of?
+168,kitchen,"Answer: The street.
+
+Question: What is east of the street?",What is west of the hallway?
+169,bedroom,"Answer: The garden is the
+<context>
+
+Question: What is the name of the",What is the garden south of?
+170,hallway,"Answer: The bedroom is the room on the north side of the house.
+
+Question",What is the bedroom north of?
+171,bathroom,"Answer: The hall is the one in which the children are taught to
+duties.",What is the hallway west of?
+172,kitchen,"Answer: The
+godium.
+
+Question: What is the difference between the American and the",What is north of the garden?
+173,hallway,"Answer: The bathroom is a room in a house, where the water is turned on",What is the bathroom north of?
+174,bathroom,"Answer: The place where the people are to be seated.
+
+Question: What is",What is south of the office?
+175,office,"Answer: The side of the house opposite to the one in which the
+crick-",What is east of the bathroom?
+176,hallway,"Answer: The bedroom west of the hall.
+
+Question: What is the room to",What is the bedroom west of?
+177,hallway,"Answer: The office is the office of the man who is the head of the
+dep",What is the office south of?
+178,kitchen,"Answer: The south-dream.
+
+""I'm sorry, but I can",What is south of the office?
+179,bathroom,"Answer: The garden is the place where the people live.
+
+<c>",What is the garden south of?
+180,hallway,"Ans: The room in which you are now.
+
+<c>The answer",What is the bedroom north of?
+181,bathroom,"Answer: The east is the east end of the hall.
+
+Question: What is",What is east of the hallway?
+182,bedroom,"Answer: The library.
+
+Question: What is the library?
+
+Answer:",What is the hallway west of?
+183,bathroom,"Answer: The south-west.
+Question: What is the difference between the two?",What is south of the garden?
+184,bedroom,"Answer: The office of the Grand-Larnaca, or the Larnaca,",What is the office west of?
+185,bathroom,"Answer: The bedroom.
+
+Question: What is east of the bedroom?",What is west of the bedroom?
+186,garden,"Answer: To make the world.
+
+Question: What is the office east of?",What is the office west of?
+187,garden,"Answer: The
+
+""The
+
+""The
+
+""The
+
+""",What is south of the bedroom?
+188,kitchen,"Answer: The office is south of the building.
+
+Question: What is the office",What is south of the office?
+189,hallway,"Answer: The bathroom.
+
+Question: What is west of the bathroom? Answer: The bathroom",What is east of the bathroom?
+190,bathroom,"Answer: The kitchen east of the house is the room in which the
+<context>",What is the kitchen east of?
+191,bathroom,"Answer: The office of the Holy Ghost.
+
+Question: What is the office of the",What is the office east of?
+192,bedroom,"Answer: The Department of the Navy.
+
+Question: What is the office north of",What is the office south of?
+193,office,"Answer: The kitchen south of the House of Commons is the kitchen
+north of the House",What is the kitchen south of?
+194,bedroom,"Answer: The sea.
+
+Question: What is west of the garden?",What is east of the garden?
+195,office,"Answer: The side of the house opposite the kitchen.
+
+Question: What is the",What is east of the bathroom?
+196,kitchen,"Answer: The room in which the two were sitting.
+
+<context>",What is north of the hallway?
+197,office,"Answer: The kitchen south of the house, or the kitchen south of the
+house-",What is the kitchen south of?
+198,garden,"Answer: The side of the house opposite the entrance.
+
+Question: What is the most",What is south of the hallway?
+199,kitchen,"Answer: The bathroom is the place where you go to wash your face and
+hands.",What is the bathroom south of?
+200,bedroom,"Answer: The hall is the place where the men are to be found, and the",What is the hallway south of?
+201,hallway,"Answer: The south-eastern part of the house.
+
+Question: What is the",What is east of the garden?
+202,office,"Answer: The bathroom north of the kitchen.
+
+Question: What is the bathroom south",What is the bathroom north of?
+203,kitchen,"Answer: The side of the house opposite the house.
+
+Question: What is the name",What is west of the hallway?
+204,office,"Answer: The library.
+
+Question: What is the library?
+Answer: The library",What is the bathroom east of?
+205,garden,"Answer: The room in the centre of the house.
+
+Question: What is the",What is the bedroom east of?
+206,garden,"Answer: The office of the foot-sions, or of the men-sions",What is the office north of?
+207,garden,"Answer: The man who is to be the chief of the people, and the
+s",What is the office north of?
+208,garden,"Answer: The office.
+
+Question: What is north of the office?",What is south of the office?
+209,bathroom,"Answer: The kitchen is the place where the cook is.
+
+<context>",What is south of the kitchen?
+210,office,"Answer: The south-west.
+
+Question: What is the difference between the two",What is south of the bedroom?
+211,kitchen,"Answer: The office of the East is the office of the Holy Church,
+which is",What is the office east of?
+212,office,"Answer: The side of the house opposite to the one in which the
+carn-",What is west of the bedroom?
+213,hallway,"Answer: The room in which the young man was sleeping.
+
+Question: What is",What is the bedroom south of?
+214,hallway,"Answer: The kitchen is the place where the cook is.
+
+<p>",What is the kitchen south of?
+215,bedroom,"Answer: The opposite of the east.
+
+Question: What is the opposite of the",What is west of the hallway?
+216,bedroom,"Answer: The west of the
+
+Question: What is the
+
+Answer: The",What is west of the office?
+217,hallway,"Answer: The east of the house.
+
+The following is a list of the names",What is east of the bathroom?
+218,office,"Answer: The garden is the valley of the river, and the river is the
+stream",What is the garden south of?
+219,hallway,"Answer: The office is the place where the men are.
+
+Question: What is",What is east of the office?
+220,office,"Acre, the, in the history of the world, 1
+
+Acre,",What is south of the bedroom?
+221,kitchen,"Luntions, the.
+
+Luntions, the.
+
+Lunt",What is west of the bedroom?
+222,kitchen,"Answer: The west of the world.
+
+The word ""gunt"" is the",What is west of the garden?
+223,bedroom,"Answer: The place where the water is to be brought to the house.
+
+[",What is the bathroom west of?
+224,kitchen,"Answer: The office of the United States of
+America.
+
+Question: What is",What is the office west of?
+225,hallway,"Answer: The garden is the place where the men of the city of the
+Mamm",What is the garden east of?
+226,hallway,"Answer: The kitchen is the place where the people live.
+
+Question: What is",What is north of the kitchen?
+227,kitchen,"Answer: The garden of the house of the
+
+""The house of the",What is the garden north of?
+228,hallway,"Answer: The garden is the place where the people live who are not
+in the city.",What is the garden north of?
+229,kitchen,"Answer: The side of the house.
+
+Question: What is the difference between the",What is west of the bedroom?
+230,garden,"Answer: The direction of the sun.
+
+Question: What is the direction of the",What is north of the hallway?
+231,garden,"Answer: The hall is the room in the centre of the house, and the
+d",What is the hallway west of?
+232,hallway,"Answer: The bathroom is the room in which the water is taken from the
+springs",What is the bathroom east of?
+233,bedroom,"Answer: The kitchen is the place where the servants are kept, and
+the servants are",What is the kitchen south of?
+234,bathroom,"Answer: The office of the American, or of the American, or of the
+American",What is the office west of?
+235,kitchen,"Answer: The east of the American
+
+Question: What is the name of the book",What is east of the bedroom?
+236,office,"Answer: The side of the bed.
+
+Question: What is the difference between the",What is east of the bedroom?
+237,bathroom,"Answer: The kitchen is the place where the cook is.
+
+Question: What is",What is east of the kitchen?
+238,bedroom,"Answer: The west of the
+Karn
+
+Question: What is the
+K",What is west of the kitchen?
+239,office,"Answer: The kitchen is to the north of the house.
+
+Question: What is the",What is the kitchen north of?
+240,garden,"Answer: The room in which the young people are sleeping.
+
+Question: What is the",What is north of the bedroom?
+241,bathroom,"Answer: The side of the house opposite the kitchen.
+
+Question: What is the",What is east of the kitchen?
+242,office,"Answer: The place where the sun is not.
+
+Question: What is the difference",What is north of the garden?
+243,bedroom,"Answer: The dining-room.
+
+Question: What is the dining-room?",What is the hallway south of?
+244,office,"Answer: The kitchen is the west side of the house.
+
+The following is a",What is the kitchen west of?
+245,garden,"Answer: The place where the blood is.
+
+Question: What is the difference between",What is south of the bedroom?
+246,garden,"Answer: The west of the office is the west of the world.
+
+Question:",What is west of the office?
+247,kitchen,"Answer: The ""garden"" is the place where the trees are cut down, and",What is the garden north of?
+248,office,"Answer: The place where the sun is highest.
+
+Question: What is the difference",What is west of the kitchen?
+249,bedroom,"Answer: The hall is the passage which leads from the kitchen to the
+kitchen-g",What is the hallway west of?
+250,office,"Answer: The side of the house opposite the water.
+
+Question: What is the",What is south of the bathroom?
+251,kitchen,"Answer: The place where the sun is not shining.
+
+Question: What is the",What is west of the bedroom?
+252,office,"Answer: The corridor.
+
+Question: What is the dining-room?
+Answer:",What is the hallway north of?
+253,bedroom,"Answer: The side of the house.
+
+Question: What is the east of the",What is east of the hallway?
+254,office,"Answer: The place where you are going to be.
+
+Question: What is the difference between",What is south of the bathroom?
+255,hallway,"Answer: The room in which the dead are laid.
+
+""I was not a",What is the bedroom north of?
+256,bathroom,"Answer: The garden east of is the garden of the world.
+
+Question: What",What is the garden east of?
+257,kitchen,"Answer: The bathroom is the room on the left of the main
+passage.",What is the bathroom north of?
+258,kitchen,"Answer: The American, and the American only.
+
+Question: What is the American",What is west of the bedroom?
+259,garden,"Answer: The hall is the place where the people are assembled.
+
+Question: What",What is the hallway east of?
+260,kitchen,"Answer: The moon.
+
+Question: What is the moon?
+
+Answer:",What is south of the garden?
+261,hallway,"Answer: The room in which the men and women of the house live.
+
+Question",What is the bedroom east of?
+262,garden,"Answer: The city.
+
+Question: What is the city?
+
+Answer:",What is west of the office?
+263,office,"Answer: The dining-room.
+
+Question: What is the dining-room?",What is north of the kitchen?
+264,garden,"Answer: The office of the United
+S.
+
+""The United
+S.",What is the office north of?
+265,kitchen,"A
+
+aer
+</context>
+
+Question: What is the difference between",What is north of the office?
+266,garden,"Answer: The side of the house.
+
+Question: What is the name of the",What is south of the bedroom?
+267,hallway,"Answer: The garden of the house of the Lord.
+
+Question: What is the name",What is the garden north of?
+268,garden,"Answer: The room east of the kitchen.
+
+Question: What is the room east",What is the bedroom east of?
+269,bedroom,"Answer: The room.
+
+Question: What is east of the hall?",What is west of the hallway?
+270,bathroom,"Answer: The hall.
+
+Question: What is west of the hall?",What is east of the hallway?
+271,kitchen,"Answer: The room in the centre of the house.
+
+Question: What is the",What is the bedroom south of?
+272,hallway,"Answer: The garden is east of the house.
+
+Question: What is west of",What is east of the garden?
+273,kitchen,<c><c><c><c><c><c><c,What is the hallway south of?
+274,office,"<context>
+
+Answer: The bathroom is on the left, and the kitchen on the right",What is the bathroom east of?
+275,bedroom,"Answer: The garden south of the house is the garden of the house.
+
+Question",What is the garden south of?
+276,bathroom,"Answer: The kitchen west of the kitchen east.
+
+Question: What is the kitchen",What is the kitchen west of?
+277,bathroom,"Answer: The south-dumps.
+
+Question: What is the name of the place where",What is east of the garden?
+278,bedroom,"Answer: The south is the south-east.
+
+Question: What is the south-",What is south of the bathroom?
+279,office,"Answer: The room in the house, or the room in the house, or the room",What is the bedroom west of?
+280,hallway,"Answer: The north of the garden is the place where the sun is not
+directly",What is north of the garden?
+281,hallway,"""I think it's the only thing that's good for anything, and that's",What is west of the office?
+282,hallway,"Answer: The west side of the ""Parns-s-s-s-",What is east of the bathroom?
+283,kitchen,"Answer: The west is the side of the house, and the side of the
+cor",What is west of the bedroom?
+284,garden,"Answer: The American American.
+
+Question: What is the American American?",What is north of the office?
+285,garden,"Answer: The hall is the basement of the house.
+
+Question: What is the basement",What is the hallway south of?
+286,hallway,"Answer: The garden east of the house is the place where the
+<context>",What is the garden east of?
+287,bathroom,"<context>
+
+<cont>
+
+<p>
+
+<p>",What is east of the bedroom?
+288,garden,"Answer: The east is the east of the city, and the west is the west of",What is east of the office?
+289,office,"Answer: The garden west of the city.
+Question: What is the garden east of?",What is the garden west of?
+290,garden,"Answer: The place where the water is turned on to the house.
+
+Question:",What is east of the bathroom?
+291,garden,"</context>
+
+<context></context>
+
+<context></context>",What is the bedroom west of?
+292,garden,"Answer: The west of the house.
+
+Question: What is the way to the",What is west of the kitchen?
+293,office,"Answer: The most important thing in the world.
+
+Question: What is the most",What is west of the bathroom?
+294,bathroom,"Answer: The room in which the bed is placed.
+
+Question: What is the",What is south of the bedroom?
+295,bathroom,"Answer: The place where the sun is not.
+
+The question is not so much",What is south of the bedroom?
+296,bathroom,"Answer: The kitchen south of the
+house.
+
+Question: What is the kitchen south of",What is the kitchen south of?
+297,office,"Answer: The kitchen is east of the kitchen.
+
+Question: What is west of",What is east of the kitchen?
+298,hallway,"Answer: The kitchen is the place where the cook cooks.
+
+Question: What is",What is north of the kitchen?
+299,kitchen,"Answer: The first of the three volumes of the American
+Bod-d-d",What is the bathroom east of?
+300,hallway,"Answer: The west of the house.
+
+Question: What is the difference between the",What is west of the bathroom?
+301,office,"Answer: The side of the house opposite the
+carn--
+
+""The side",What is south of the hallway?
+302,bathroom,"Answer: The hall is the dining-room.
+
+Question: What is the dining",What is the hallway west of?
+303,bedroom,"Answer: The east is the direction of the sun, and the west is the
+direction",What is east of the bathroom?
+304,garden,"Answer: To make the most of the advantages of the country.
+
+Question: What",What is the office south of?
+305,bedroom,"Answer: The office is to the right of the man.
+
+Question: What is",What is east of the office?
+306,bedroom,"Answer: The room on the left.
+
+Question: What is the room on the",What is north of the hallway?
+307,garden,"Answer: The office of the great, or the great-s-s-s-",What is the office east of?
+308,kitchen,"Answer: The hall of the house.
+
+Question: What is the front of the",What is the hallway west of?
+309,garden,"Answer: The west is the direction of the sun.
+Question: What is east of the",What is west of the bathroom?
+310,garden,"Answer: The kitchen west of the kitchen is the kitchen north of the
+kitchen.",What is the kitchen west of?
+311,bedroom,"Answer: The office of the
+
+Theod-
+
+Theod-",What is the office west of?
+312,bathroom,"Answer: The east of the garden is the sea.
+
+Question: What is the",What is east of the garden?
+313,bathroom,"Answer: The east of the house.
+
+Question: What is the direction of the",What is east of the kitchen?
+314,kitchen,"Answer: The garden is the place where the people live.
+
+Question: What is",What is the garden north of?
+315,kitchen,"Answer: The west of the hall is the place where the people of the
+carn",What is west of the hallway?
+316,office,"Answer: The east is the east of the garden.
+
+Question: What is the east",What is east of the garden?
+317,office,Answer: The hall is the passage from the court to the court-room.,What is the hallway west of?
+318,bedroom,"Answer: The side of the house opposite to the one on which the
+mamma-",What is east of the garden?
+319,hallway,"Answer: The garden is the garden of the mind.
+
+Question: What is the garden",What is the garden east of?
+320,bedroom,Answer: The office west of the House of Commons is the House of Lords.,What is the office west of?
+321,hallway,"Answer: The bathroom west of the house is the bathroom.
+
+Question: What is",What is the bathroom west of?
+322,bathroom,"Answer: The room in the middle of the house.
+
+Question: What is the",What is the bedroom north of?
+323,garden,"Answer: The room in the side of the house.
+
+Question: What is the",What is the bedroom east of?
+324,bathroom,"Answer: The ""garden"" is the place where the people live.
+
+<",What is the garden west of?
+325,hallway,"Answer: The great American garden.
+
+The great American garden is the great American home",What is south of the garden?
+326,hallway,"Answer: The American and the English newspapers.
+
+Question: What is the difference between",What is south of the office?
+327,kitchen,"Answer: The garden is the place where the people live, and the
+carnions",What is the garden east of?
+328,bathroom,"Answer: The garden is the place where the trees are planted, and the
+trees are",What is the garden west of?
+329,office,"Answer: The room in which you are sitting.
+
+Question: What is the room",What is the bathroom west of?
+330,hallway,"Answer: The west of the garden is the direction of the sun.
+
+Question:",What is west of the garden?
+331,bathroom,"Answer: The place where the people are.
+
+Question: What is the difference between",What is south of the hallway?
+332,hallway,"Answer: The room east of the room.
+
+Question: What is the room east",What is the bedroom east of?
+333,kitchen,"Answer: The room in the centre of the house.
+
+Question: What is the",What is the bedroom south of?
+334,kitchen,"<context>
+
+<context>
+
+<context>
+
+<context>",What is the garden south of?
+335,bathroom,"Answer: The world.
+
+Question: What is the world?
+
+Answer:",What is west of the office?
+336,garden,"Answer: The place where the water is.
+
+Question: What is the difference between",What is south of the bathroom?
+337,bathroom,"Answer: The west of the garden is the west of the world.
+
+<context",What is west of the garden?
+338,bathroom,"Answer: The office is in the middle of the room.
+
+Question: What is the",What is north of the office?
+339,garden,"Answer: The world.
+
+Question: What is the difference between a man and a",What is east of the office?
+340,bathroom,"Answer: The world.
+
+Question: What is the world?
+
+Answer:",What is west of the kitchen?
+341,office,"Answer: The garden is the house of the house-darned.
+
+Question",What is the garden south of?
+342,hallway,"Answer: The place where the sun is highest.
+
+Question: What is the difference between",What is west of the bedroom?
+343,bedroom,"Answer: The place where the sun is shining.
+
+Question: What is the name",What is south of the hallway?
+344,garden,"Answer: The ""mumps"" of the old house.
+
+Question: What is",What is the hallway east of?
+345,hallway,"Answer: The kitchen is the place where the cook is, and the
+dum-",What is north of the kitchen?
+346,garden,"Answer: The whole of the world.
+
+Question: What is the whole of the",What is west of the office?
+347,bathroom,"Answer: The office of the chief of the house, or of the chief of the",What is the office west of?
+348,bathroom,"Answer: The garden of the house, which is a large one, and is
+sur",What is the garden north of?
+349,garden,"Answer: The office of the United States of the Eastern and Western
+States, and of",What is the office south of?
+350,garden,"Answer: The corridor.
+
+Question: What is the corridor?
+
+Answer:",What is the hallway north of?
+351,hallway,"Answer: The library.
+
+Question: What is the library?
+
+Answer:",What is the kitchen west of?
+352,bathroom,"Answer: The
+dod-darn-darn-darn-darn",What is north of the hallway?
+353,bedroom,"Answer: The kitchen is the place where the people are to be found,
+and the",What is the kitchen north of?
+354,bathroom,"Answer: The kitchen is the place where the people eat.
+
+Question: What is the",What is the kitchen south of?
+355,bedroom,"Answer: The city of the world.
+
+Question: What is the name of the",What is north of the office?
+356,hallway,"Answer: The east of the American, and the west of the English.
+
+Question",What is east of the bathroom?
+357,kitchen,"Answer: The dining-room.
+
+Question: What is the difference between a man",What is south of the hallway?
+358,hallway,Answer: The office is the part of the house where the books are kept.,What is west of the office?
+359,bedroom,"Answer: The office is the place where the people are.
+
+Question: What is",What is the office north of?
+360,kitchen,"Answer: The south-dight of the house.
+
+<context>",What is north of the garden?
+361,hallway,"Answer: The garden east of the house.
+
+Question: What is the garden west",What is the garden east of?
+362,bathroom,"Answer: The kitchen is the place where the meat is cooked.
+
+Question: What is",What is the kitchen west of?
+363,garden,"<context>
+
+Answer: The corridor. <context>
+
+Question: What is the",What is the hallway east of?
+364,bedroom,"Answer: The office is south of the office.
+
+Question: What is the office",What is south of the office?
+365,bathroom,"Answer: The office of the Secretary of the United States.
+
+Question: What is",What is the office west of?
+366,hallway,"Answer: The side of the house.
+
+<c>The American and the European",What is east of the bedroom?
+367,garden,Answer: The first of the two-half-s-s-s-s-,What is west of the bedroom?
+368,kitchen,"Answer: The man who is in the habit of using it.
+Question: What is the",What is the bathroom west of?
+369,bathroom,"Answer: The apartment of the President of the United States.
+
+Question: What is",What is north of the bedroom?
+370,bathroom,"Answer: The garden is the valley of the river.
+
+Question: What is the",What is the garden south of?
+371,bathroom,"Answer: The hall is the place where the servants and the servants'
+families live.",What is the hallway west of?
+372,office,"Answer: The hall is the place where the people go to get their
+money.",What is the hallway east of?
+373,office,"Maid-cions.
+
+Maid-cions.
+
+Maid",What is east of the kitchen?
+374,bathroom,"Tower of
+
+Tower of
+
+Tower of
+
+Tower of",What is north of the kitchen?
+375,office,"Answer: The world.
+
+Question: What is the world?
+
+Answer:",What is west of the bathroom?
+376,kitchen,Answer: The office is the room in the house where the books are kept.,What is the office west of?
+377,garden,"Answer: The room in which the bed is.
+
+Question: What is the difference",What is south of the bedroom?
+378,garden,"Answer: The kitchen is north of the kitchen.
+
+Question: What is south of",What is north of the kitchen?
+379,office,"Answer: The room in the side of the house opposite the kitchen.
+
+<context",What is the bedroom south of?
+380,kitchen,"Answer: The office of the ""pumping-pounder.""
+
+""What is",What is the office north of?
+381,hallway,"Answer: The room in the side of the house.
+
+Question: What is the",What is the bedroom west of?
+382,bathroom,"Answer: The world.
+
+<context>
+
+I have sought to apply the",What is west of the office?
+383,bedroom,"Answer: The garden south of the house is the garden of the house.
+
+<",What is the garden south of?
+384,office,"Answer: The name of the place is the ""P.B.S.T.",What is north of the bathroom?
+385,bedroom,"Answer: The garden.
+
+Question: What is the difference between the two?",What is east of the garden?
+386,bathroom,"Answer: The kitchen is the place where the meat is cooked.
+
+Question: What",What is the kitchen east of?
+387,bedroom,"Answer: The garden south of the city of London.
+
+Question: What is the",What is the garden south of?
+388,bedroom,"Answer: The office is south of the building.
+Question: What is the office north of",What is the office south of?
+389,hallway,"Answer: The room in which the lady is sitting.
+
+Question: What is the",What is south of the bedroom?
+390,kitchen,Answer: The hall is the one that is in the centre of the house.,What is the hallway north of?
+391,bathroom,"Answer: The earth-floor of the house.
+
+Question: What is the difference between",What is north of the garden?
+392,kitchen,"Answer: The west of the garden is the place where the great
+mum-d",What is west of the garden?
+393,garden,"Answer: The room in which the two men were sitting.
+
+Question: What is",What is south of the hallway?
+394,bedroom,"_
+
+_The_
+
+_The_
+
+_The_
+
+_The",What is the office east of?
+395,bathroom,"Answer: The garden is the place where the water is drawn from the
+bowels of",What is the garden south of?
+396,bedroom,"Answer: The office of the great and the wise.
+
+Question: What is the",What is the office west of?
+397,bedroom,"Answer: The place where the water is turned on to the house.
+
+Question:",What is west of the bathroom?
+398,kitchen,"Answer: The office is west of the city.
+Question: What is the name of the",What is west of the office?
+399,hallway,"Answer: The direction of the sun.
+
+Question: What is the name of the",What is north of the garden?
+400,office,"Answer: The water-lions.
+
+""I was a little disappointed, but",What is south of the bathroom?
+401,garden,"Answer: The place where the water is.
+
+Question: What is the water?",What is west of the office?
+402,hallway,"Answer: The room in the side of the house, which is the one in which the",What is the bedroom east of?
+403,bathroom,"Answer: The office of the <conductor> of the <conductor> of the
+<",What is the office west of?
+404,bedroom,"Answer: The country of the <DW64>s.
+
+Question: What is",What is north of the garden?
+405,hallway,"_</context>
+
+_Answer: The room is the room of the soul, and the",What is the bedroom north of?
+406,bathroom,"Answer: The side of the house opposite to the one in which the
+sitting-",What is west of the hallway?
+407,bedroom,"Answer: The bathroom is the room in which the water is supplied to the
+house.",What is the bathroom east of?
+408,bedroom,"Answer: The office is the place where the superintendent and his assistants
+are located.",What is the office east of?
+409,garden,"Answer: The place where the water is turned off.
+
+Question: What is the",What is south of the bathroom?
+410,bathroom,"Answer: The north of the city.
+
+</context>
+
+""I am",What is north of the office?
+411,hallway,"Answer: The north is the place where the sun is.
+
+Question: What is",What is north of the kitchen?
+412,office,"Answer: The bathroom is the room in the house, and the
+c-c-",What is the bathroom south of?
+413,bathroom,"<context>
+
+Answer: The one in the middle of the room. <context>",What is the bedroom north of?
+414,kitchen,"Answer: The bathroom is the room in the house where the
+cook-darns",What is the bathroom west of?
+415,garden,"Answer: The corridor is the passage between the two wings of the
+building.",What is the hallway north of?
+416,hallway,"Answer: The south-east corner of the bathroom.
+
+Question: What is the",What is south of the bathroom?
+417,bathroom,"Answer: The hall is the place where the people go to get their
+information.",What is the hallway north of?
+418,hallway,"Answer: The office of the <p>
+
+<p>
+
+<p",What is the office south of?
+419,office,"Answer: The hall is the one that leads to the
+carn-vamps'",What is the hallway east of?
+420,kitchen,"Answer: The side of the house opposite the
+carn-vore.",What is east of the bathroom?
+421,hallway,"Answer: The place where the sun is.
+
+Question: What is the name of",What is north of the office?
+422,kitchen,"Answer: The room in the house, which is the room in the house.",What is the bedroom west of?
+423,office,"Answer: The old house, which is now the library.
+
+Question: What is",What is the garden west of?
+424,garden,"Answer: The kitchen is the one on the left of the house.
+
+<context",What is the kitchen east of?
+425,office,"Answer: The room in which you are sitting.
+
+Question: What is the room",What is the bedroom south of?
+426,bathroom,"Answer: The hall is the place where the people are assembled to
+congodium the great",What is the hallway south of?
+427,office,"Answer: The place where the water is turned off.
+
+Question: What is the",What is north of the bathroom?
+428,hallway,"Answer: The garden is the one that is not in the centre of the
+carn",What is the garden north of?
+429,bedroom,"Answer: The kitchen is the place where the water is heated.
+
+Question: What",What is the kitchen east of?
+430,kitchen,"Answer: The east of the room.
+
+Question: What is the difference between the",What is east of the bedroom?
+431,bedroom,"Answer: The ""b"" is the ""b"" of ""bump"" and the",What is south of the bathroom?
+432,kitchen,"Answer: The hall is the place of the library, and the library is the
+room",What is the hallway south of?
+433,kitchen,"Answer: The west is the direction of the sun, and the direction of the
+sun",What is west of the office?
+434,garden,"Answer: The kitchen is the place where the cook is.
+
+Question: What is",What is north of the kitchen?
+435,bathroom,"S: What is the room in the house?
+
+The answer: The room in",What is the bedroom south of?
+436,garden,"Answer: The west is the direction of the sun.
+
+Question: What is the",What is west of the kitchen?
+437,bathroom,"Answer: The bedroom east of the kitchen is the dining-room.
+
+Question:",What is the bedroom east of?
+438,bedroom,"Answer: The one in the middle of the room.
+Question: What is the bathroom east",What is the bathroom west of?
+439,garden,"Answer: The office south of the city of New York is the office of the
+United",What is the office south of?
+440,bathroom,"Answer: The kitchen is the room in the house that is opposite the
+sitting-",What is the kitchen east of?
+441,kitchen,"Answer: The hall is the passage leading to the kitchen.
+
+Question: What is",What is the hallway east of?
+442,bedroom,"<1>
+
+Answer: The king is not a constitutionalist.
+
+Question: What",What is south of the office?
+443,bedroom,"Answer: The garden south of the city of New York.
+Question: What is the garden",What is the garden south of?
+444,bathroom,"Answer: The city of the sun.
+
+Question: What is the city of the",What is south of the office?
+445,bedroom,"Answer: The sea.
+
+Question: What is west of the bathroom?
+Answer:",What is east of the bathroom?
+446,office,"Answer: The kitchen is the place where the people of the house live
+and do their",What is the kitchen east of?
+447,bathroom,"Answer: The room in which the cook is.
+
+Question: What is the name",What is the kitchen south of?
+448,garden,"Answer: The right of way.
+
+Question: What is the right of way?",What is west of the hallway?
+449,garden,"Answer: The bathroom is the room in the side of the house opposite to the
+c",What is the bathroom south of?
+450,hallway,"Answer: The west.
+
+Question: What is the west?
+
+Answer:",What is north of the office?
+451,hallway,"The answer is that the word is used to refer to the fact that the
+supp",What is south of the bathroom?
+452,office,"Answer: The place where the people live who are not in the
+world.",What is south of the bedroom?
+453,garden,"Answer: The world.
+
+Question: What is the world?
+
+Answer:",What is east of the hallway?
+454,bedroom,"Answer: The office of the man of the house.
+
+Question: What is the",What is the office south of?
+455,kitchen,"Answer: The west of the hall is the place of the sun.
+
+The following",What is west of the hallway?
+456,kitchen,"Answer: The great American library, which is the only one of the
+American books that",What is south of the garden?
+457,bedroom,"Answer: The bow-window.
+
+Question: What is the difference between the two",What is east of the hallway?
+458,bedroom,"Answer: The kitchen is the place where the people who live in the
+house live.",What is south of the kitchen?
+459,kitchen,"Answer: The hall is the room in which the house is built.
+
+Question:",What is the hallway west of?
+460,bedroom,"Answer: The water.
+
+Question: What is east of the hall?",What is west of the hallway?
+461,kitchen,"Answer: The
+
+<context>
+
+<context>
+
+<context>",What is the garden west of?
+462,hallway,"Answer: The east of the American, and the west of the English.
+
+Question:",What is east of the bathroom?
+463,office,"Answer: The west is the place where the sun is in the mer-moon,",What is west of the garden?
+464,garden,"Answer: The place where the water is turned off.
+
+Question: What is the",What is west of the bathroom?
+465,office,"<context>
+
+<context>
+
+<context>
+
+<context>",What is the garden north of?
+466,garden,"Answer: The west of the district is the west of the city, and the
+pre",What is west of the office?
+467,office,"Answer: The room in the east of the house.
+
+Question: What is the",What is the bedroom east of?
+468,kitchen,"Answer: The south of England.
+
+Question: What is the south of England?",What is south of the bedroom?
+469,hallway,"Answer: The bathroom is the
+room in which the water is turned on to the pipes. The",What is the bathroom north of?
+470,bedroom,"Answer: The west of the kitchen is the place where the
+cook-dorry is",What is west of the kitchen?
+471,office,"Answer: The west of the garden is the place where the
+god-people live",What is west of the garden?
+472,bathroom,"Answer: The north.
+
+Question: What is west of the hallway?",What is east of the hallway?
+473,bathroom,"Answer: The garden is the one that is in the middle of the
+<context>",What is the garden west of?
+474,bedroom,"Answer: The west of the house.
+
+Question: What is the name of the",What is east of the office?
+475,hallway,Answer: The chief of the school. Question: What is the name of the school? Answer:,What is the office west of?
+476,bathroom,"Answer: The room in which the ladies of the house sleep.
+
+Question: What",What is the bedroom south of?
+477,kitchen,"Answer: The west of the American
+
+Question: What is the difference between the two",What is west of the bathroom?
+478,office,"Answer: The garden is the place where the trees are planted.
+
+Question: What",What is the garden north of?
+479,kitchen,"Answer: The city of the great city.
+Question: What is the name of the city",What is north of the garden?
+480,bedroom,"Answer: The west of the house.
+
+Question: What is the name of the",What is west of the kitchen?
+481,bathroom,"Answer: The side of the house opposite the kitchen.
+
+Question: What is the",What is south of the hallway?
+482,hallway,"Answer: The west.
+
+Question: What is the west?
+
+Answer:",What is north of the kitchen?
+483,garden,"Answer: The North-west.
+
+Question: What is the name of the river",What is north of the office?
+484,bedroom,"Answer: The kitchen is the place where the cook is.
+
+""I'm sorry",What is the kitchen east of?
+485,garden,"Answer: The room in which the dead man was found.
+
+Question: What is the",What is east of the hallway?
+486,bedroom,"Answer: The side of the house opposite to the west.
+
+Question: What is",What is south of the hallway?
+487,hallway,"Answer: The kitchen.
+
+Question: What is west of the kitchen?",What is east of the kitchen?
+488,bathroom,"Answer: The office of the secretary of the United States of
+America.
+
+Question",What is the office south of?
+489,hallway,"Answer: The room in which the young lady is sleeping.
+
+""Question: What",What is the bedroom south of?
+490,hallway,"Answer: The world.
+
+Question: What is the difference between the two?",What is north of the bathroom?
+491,garden,"Answer: The world.
+
+Question: What is the difference between a man and a woman",What is east of the bathroom?
+492,garden,"Answer: The kitchen.
+
+Question: What is the nearest town?
+Answer: The",What is south of the kitchen?
+493,office,"Answer: The south is the land of the sun, and the sun is the sun of",What is south of the garden?
+494,bedroom,"Answer: The office is in the building on the right.
+
+Question: What is",What is the office west of?
+495,hallway,"Answer: The place where the sun is.
+
+Question: What is the name of",What is north of the bedroom?
+496,office,"Answer: The house.
+
+Question: What is the name of the book?",What is north of the bedroom?
+497,bedroom,"Answer: The office of the chief of the
+
+Question: What is the name of",What is the office north of?
+498,kitchen,"Answer: The office of the Patriul, or Patriarch, is the head of the",What is the office east of?
+499,hallway,"Answer: The bathroom is the place where the ladies and gentlemen
+wash, and the ladies and",What is the bathroom south of?
+500,garden,"Answer: <context>
+
+Question: What is the difference between the two?",What is east of the hallway?
+501,office,"Answer: The place where the sun is.
+
+Question: What is the sun?",What is east of the kitchen?
+502,bedroom,"Answer: The north is the north.
+Question: What is the south?
+Answer:",What is north of the garden?
+503,hallway,"Answer: The bathroom is a room in which the water is turned on to the
+floor",What is the bathroom east of?
+504,bedroom,Answer: The hall is the one to the left of the dining-room.,What is the hallway west of?
+505,garden,"Answer: The place where the water is.
+
+Question: What is the difference between",What is west of the bathroom?
+506,bedroom,"Answer: The office is the place where the members of the society meet
+to transact",What is north of the office?
+507,bedroom,"Answer: The hall is the place where the men are to be found.
+
+Question",What is the hallway north of?
+508,bathroom,"Answer: The garden is the one that is in the valley.
+
+Question: What",What is the garden north of?
+509,office,"Answer: The hall was the place of the council of the kings of the
+carn",What is the hallway east of?
+510,kitchen,"Answer: The room of the dead.
+
+Question: What is the room of the",What is south of the bedroom?
+511,hallway,"Answer: The office of the American
+
+""The"" is the word for ""the",What is the office east of?
+512,hallway,"Answer: The garden is the place where the man is.
+
+Question: What is",What is the garden north of?
+513,garden,"Answer: The place where the sun is.
+
+Question: What is the sun?",What is north of the office?
+514,garden,"Answer: The hall is the passage between the two rooms.
+
+Question: What is",What is the hallway north of?
+515,bathroom,"Answer: The office of the North is to the North-west, and the
+direction",What is the office north of?
+516,garden,"Answer: The side of the house opposite the kitchen.
+
+Question: What is the",What is west of the hallway?
+517,office,"Answer: The bathroom is the room in which the ladies and gentlemen
+wash, and the",What is the bathroom south of?
+518,office,"Answer: The north is the north.
+
+Question: What is the north of the",What is north of the hallway?
+519,hallway,"Answer: The east of the house.
+
+Question: What is the difference between the",What is east of the bathroom?
+520,bathroom,"Answer: The place where the bed is.
+
+Question: What is the difference between",What is south of the bedroom?
+521,hallway,"Answer: The west of the American
+
+Question: What is the difference between the two",What is west of the bathroom?
+522,kitchen,"Answer: The room in which the young man was murdered.
+
+""Question: What",What is the bedroom south of?
+523,garden,Answer: The house of the man who is the husband of the woman who is the,What is west of the bedroom?
+524,garden,"Answer: The office of the man who is in the house, and who is not",What is the office north of?
+525,garden,"Answer: The side of the house opposite the kitchen.
+
+Question: What is the",What is north of the bathroom?
+526,office,"Answer: The south is the land of the sun.
+
+<context>",What is south of the garden?
+527,bathroom,"Answer: The side of the house.
+
+Question: What is the side of the",What is west of the garden?
+528,garden,"Answer: The room in the side of the house.
+
+""The"" is the",What is the bedroom east of?
+529,hallway,"Answer: The office is south of the city.
+Question: What is the city?",What is south of the office?
+530,kitchen,"Answer: The garden south of the
+garden north.
+
+Question: What is the garden",What is the garden south of?
+531,hallway,"Answer: The side of the house opposite to the one in which the
+cumpain",What is west of the bedroom?
+532,office,"Answer: The room in the side of the house.
+
+Question: What is the",What is the bedroom west of?
+533,kitchen,"Answer: The ""garden"" is the place where the trees are cut and the",What is the garden east of?
+534,garden,"Answer: The room in the side of the house, which is opposite to the
+c",What is the bedroom south of?
+535,kitchen,"Answer: The room in which the two men were confined.
+
+Question: What is",What is the hallway east of?
+536,garden,Answer: The hall is the one that is in the centre of the house.,What is the hallway east of?
+537,bedroom,"Answer: The ""garden"" is the place where the trees are planted, and",What is the garden south of?
+538,bedroom,"Answer: The east of the garden is the east of the world.
+
+Question:",What is east of the garden?
+539,kitchen,"Answer: The hall is west of the kitchen.
+
+Question: What is the kitchen",What is the hallway west of?
+540,hallway,"Answer: The room in the house.
+
+Question: What is the bedded-",What is the bedroom east of?
+541,hallway,Answer: The bow-sumping-sumping-sumping-sumping-s,What is the bathroom south of?
+542,garden,"Answer: The kitchen is the place where the
+cook is.
+
+""",What is north of the kitchen?
+543,garden,"Answer: The kitchen is the place where the people live.
+
+Question: What is",What is east of the kitchen?
+544,office,"Answer: The man is a good man, and the woman is a good woman.",What is the bathroom north of?
+545,hallway,"Answer: The office of the sea-board.
+
+Question: What is the office",What is the office east of?
+546,hallway,"Answer: The room in the centre of the house.
+Question: What is the west of",What is the bedroom east of?
+547,office,"Answer: The direction of the sun.
+
+Question: What is the direction of the",What is north of the hallway?
+548,bedroom,"Answer: The earth is round.
+
+Question: What is east of the kitchen?",What is west of the kitchen?
+549,hallway,"Answer: The room of the house.
+
+""What is the room of the house",What is south of the bathroom?
+550,office,"<context>
+
+<context>
+
+<context>
+
+<context>",What is east of the hallway?
+551,bathroom,"Answer: The corridor.
+
+Question: What is the room in the left-side",What is the hallway east of?
+552,hallway,"Answer: The side of the house.
+
+Question: What is the difference between the",What is north of the bedroom?
+553,bedroom,"Answer: The garden is the part of the house which is not in the
+carn",What is the garden south of?
+554,office,"Answer: The place of the
+sod-parn
+
+Question: What is",What is south of the bedroom?
+555,bathroom,"Answer: The sea.
+
+Question: What is the name of the city?",What is east of the garden?
+556,kitchen,"Answer: The west of the city, or the west of the river.
+
+Question",What is west of the garden?
+557,bathroom,"Answer: The room in the house.
+
+Question: What is the room in the",What is the bedroom east of?
+558,garden,"Answer: The room in which the Blessed Sacrament is kept.
+
+<",What is the bathroom south of?
+559,kitchen,"Answer: The garden west of the house.
+
+Question: What is the house?",What is the garden west of?
+560,bedroom,"Answer: The kitchen is the place where the people live.
+
+Question: What is",What is the kitchen south of?
+561,kitchen,"Answer: The office is east of the office.
+
+Question: What is the difference",What is east of the office?
+562,hallway,"Answer: The west is the side of the house opposite the kitchen.
+
+Question:",What is west of the bathroom?
+563,hallway,"Answer: The garden is the one on the left of the house.
+
+Question:",What is the garden west of?
+564,bedroom,"Answer: The kitchen west of the house is the kitchen of the house.
+
+Question",What is the kitchen west of?
+565,kitchen,Answer: The office of the man who is to be the head of the house.,What is the office west of?
+566,bathroom,"Answer: The room in the side of the house.
+
+Question: What is the",What is the bedroom west of?
+567,bathroom,"Answer: The room.
+
+Question: What is the room?
+
+Answer:",What is west of the hallway?
+568,bedroom,"Answer: The city.
+
+Question: What is south of the garden?",What is north of the garden?
+569,kitchen,"Answer: The west.
+
+Question: What is the difference between the two?",What is south of the bathroom?
+570,kitchen,"Answer: The duties of the great American and of the great English
+mummions are",What is the office east of?
+571,bathroom,"Answer: The office is the place where the work is done, and the
+commer",What is north of the office?
+572,hallway,"Answer: The sun.
+
+<context>
+
+<Contents>
+
+<",What is north of the office?
+573,bedroom,"Answer: The world.
+
+Question: What is the world?
+
+Answer:",What is west of the garden?
+574,office,"Answer: The kitchen is the place where the servants live.
+
+<context>",What is the kitchen west of?
+575,bathroom,"Answer: The two-sod-sunk, and the two-sod-",What is the bedroom west of?
+576,office,"Answer: The bathroom is the room in the house where the patient is
+sitting,",What is the bathroom south of?
+577,hallway,"Answer: The kitchen.
+
+Question: What is the difference between a man and a",What is north of the bathroom?
+578,garden,"Answer: The kitchen south of the kitchen is the kitchen.
+
+Question: What is",What is the kitchen south of?
+579,kitchen,"Answer: The hall is the place where the people are going to be.
+
+Question",What is the hallway south of?
+580,office,"Answer: The room west of the bed-room.
+
+Question: What is the",What is the bedroom west of?
+581,hallway,"Answer: The garden east of the house.
+
+Question: What is the garden west",What is the garden east of?
+582,kitchen,"Answer: The room in the bow of the ship.
+
+Question: What is the",What is the bedroom south of?
+583,office,"Answer: The hall is the place where the servants are.
+
+Question: What is",What is the hallway west of?
+584,hallway,"An: The room in the house opposite the one in which the family is
+inhab",What is the bedroom north of?
+585,garden,"Answer: The west is the direction of the sun.
+
+Question: What is the",What is west of the bedroom?
+586,hallway,"Answer: The office is the place where the secretary is.
+
+Question: What is",What is south of the office?
+587,kitchen,"Answer: The ""Garden of the Sun"" is the name of the region in the",What is south of the garden?
+588,office,"<context>
+
+<context>
+
+<context>
+
+<context>",What is the bedroom east of?
+589,office,"Answer: The kitchen is the part of the house which is to the right of the
+door",What is south of the kitchen?
+590,bathroom,"Answer: The kitchen is the place where the people eat, and the
+people are the",What is the kitchen west of?
+591,hallway,"Answer: The office of the soap manufacturer.
+
+Question: What is the office of",What is the office north of?
+592,bathroom,"Answer: East of the kitchen is the east of the world.
+
+Question: What",What is east of the kitchen?
+593,office,"Answer: The side of the house.
+
+Question: What is the side of the",What is east of the hallway?
+594,kitchen,"Answer: The world.
+
+Question: What is the difference between the two?",What is west of the bedroom?
+595,garden,"Answer: The
+
+<codream>
+
+<codream>",What is the office west of?
+596,bedroom,"Answer: The west of the house.
+
+Question: What is the name of the",What is east of the office?
+597,office,"Answer: The water-pumps.
+
+Question: What is the difference between a",What is west of the bathroom?
+598,bathroom,"Answer: The kitchen west of the house is the kitchen.
+
+Question: What is",What is the kitchen west of?
+599,bathroom,"Answer: The garden is the place where the people live.
+
+Question: What is",What is the garden south of?
+600,hallway,"Answer: The east is the east, and the west is the west.
+
+Question",What is east of the office?
+601,kitchen,"Answer: The bathroom is the room in which the water is supplied to the
+<context",What is the bathroom south of?
+602,hallway,"Answer: The man who is in the least interested in the question
+will be able to",What is north of the bedroom?
+603,garden,"Answer: The office is to the left.
+
+Question: What is the name of",What is north of the office?
+604,bedroom,"Answer: The south is south of the
+kitchen. <context>
+
+Question: What",What is south of the kitchen?
+605,hallway,"Answer: The American and the European garden.
+
+Question: What is the difference between",What is west of the garden?
+606,office,"Answer: The west of the house.
+
+Question: What is the east of the",What is the kitchen west of?
+607,kitchen,"Answer: The room.
+
+Question: What is the room?
+
+Answer:",What is north of the bedroom?
+608,hallway,"Answer: The room south of the kitchen.
+
+Question: What is the room south",What is the bedroom south of?
+609,hallway,"Answer: The kitchen is the place where the people live.
+
+Question: What is",What is west of the kitchen?
+610,kitchen,"Answer: The room in the house, or the room in the house, or the room",What is the bedroom north of?
+611,office,"Answer: The bedroom is the room in which the bed is made.
+
+Question:",What is the bedroom north of?
+612,hallway,"Answer: The great American railroad-sod-sarns, the great
+c",What is east of the office?
+613,hallway,"Answer: The truth of the proposition is that the two are not
+distions, but",What is the office north of?
+614,hallway,"Answer: The east of the bedroom is the place where the man is lying
+who is",What is east of the bedroom?
+615,garden,"Answer: The office of the ""Parnisks"" is the ""Parnisks""",What is the office east of?
+616,office,"Answer: The room.
+
+Question: What is the room?
+
+Answer:",What is north of the bedroom?
+617,kitchen,"Answer: The room.
+
+Question: What is the name of the city?",What is north of the bedroom?
+618,hallway,"Answer: The American and the English newspapers are the only ones that
+have been able to",What is south of the office?
+619,bathroom,"Answer: The power of deciding the order of the orders of the
+sarn-s",What is the office west of?
+620,bedroom,"Answer: The garden is the garden of the city.
+
+<context>
+
+<",What is the garden east of?
+621,office,"Answer: The kitchen is the place where the cook is.
+
+Question: What is",What is the kitchen south of?
+622,kitchen,"Answer: The office south of the
+<DW72>s of the Alleghanies.",What is the office south of?
+623,garden,"Answer: The place of the
+
+""The question is, what is the place of",What is north of the office?
+624,bathroom,"Answer: The west is the direction of the sun.
+
+Question: What is the direction",What is west of the kitchen?
+625,office,"Answer: The side of the house.
+
+Question: What is west of the house",What is east of the bedroom?
+626,office,"Answer: The garden is the place where the trees are planted, and the
+trees are",What is the garden north of?
+627,bathroom,Answer: The east of the bed-room is the place where the children sleep.,What is east of the bedroom?
+628,office,"Answer: The bathroom is a room in the house, in which the members of the",What is the bathroom south of?
+629,garden,"Answer: The kitchen.
+
+Question: What is west of the kitchen?
+Answer:",What is east of the kitchen?
+630,bathroom,"Answer: The place where the kitchen is.
+
+Question: What is west of the",What is east of the kitchen?
+631,bathroom,"Answer: The office is the place where the members of the congregation
+meet to receive the",What is the office north of?
+632,bathroom,"Answer: The west is the direction of the sun.
+
+Question: What is the",What is west of the hallway?
+633,bedroom,"Answer: To direct the movements of the body, and to direct the movements
+of the",What is the office east of?
+634,bedroom,"Answer: The direction of the sea.
+
+Question: What is south of the office",What is east of the office?
+635,bedroom,"Answer: The kitchen is the room in the house where the
+family eat.",What is the kitchen north of?
+636,bedroom,"Answer: The kitchen is on the left of the main building.
+
+Question: What",What is the kitchen west of?
+637,kitchen,"Answer: The garden is the place where the sun is shining, and the
+sunshine is",What is the garden east of?
+638,kitchen,"Answer: The office of the <carnal, or, as it is called,",What is the office east of?
+639,kitchen,"Answer: The side of the house.
+
+Question: What is the side of the",What is east of the bedroom?
+640,bedroom,"Answer: The garden is the cemetery.
+Question: What is the cemetery?
+Answer:",What is the garden east of?
+641,office,"Answer: The hall is the place where the people go to get their
+instruction.",What is the hallway east of?
+642,office,Answer: The room in the house-of-suns-sitting-on-,What is the bedroom east of?
+643,garden,"Answer: The east is the direction of the sun.
+
+Question: What is the",What is east of the hallway?
+644,garden,"Answer: The man who has a good appetite for the best of everything, and
+who",What is the bathroom west of?
+645,office,"Answer: The west of the room.
+
+Question: What is the side of the",What is west of the bedroom?
+646,bedroom,"Answer: The right side of the room.
+
+Question: What is the right side",What is the hallway east of?
+647,bathroom,"Answer: The land of the
+<DW64>s. Question: What is west of the",What is east of the bedroom?
+648,garden,"Answer: The sun.
+
+Question: What is the difference between the sun and the",What is north of the bedroom?
+649,hallway,"Answer: The place where the sun is not.
+
+Question: What is the difference",What is south of the bedroom?
+650,office,"Answer: The corridor.
+
+Question: What is the corridor?
+
+Answer:",What is the hallway north of?
+651,garden,"Answer: The room.
+
+Question: What is the difference between the two?",What is east of the bedroom?
+652,kitchen,"Answer: The south is the part of the house which is south of the
+hallway",What is south of the hallway?
+653,hallway,"Answer: The place where the river is.
+
+Question: What is the river?",What is west of the garden?
+654,hallway,"Answer: The west of the bathroom is the west of the house.
+
+Question:",What is west of the bathroom?
+655,office,"Answer: The kitchen is the place where the cook is.
+
+Question: What is",What is the kitchen west of?
+656,bedroom,"Answer: The garden is the garden of the world.
+
+Question: What is the",What is the garden north of?
+657,kitchen,"Answer: The east of the garden is the side of the house opposite the
+garden",What is east of the garden?
+658,garden,"Answer: The side of the house opposite the kitchen.
+
+Question: What is the",What is south of the hallway?
+659,garden,"Answer: The east of the house.
+
+Question: What is the east of the",What is east of the kitchen?
+660,kitchen,"Answer: The garden is the place where the people live who are not
+inhabited",What is the garden east of?
+661,office,"Answer: The west of the house.
+
+Question: What is the name of the",What is west of the bathroom?
+662,bedroom,"Answer: The library.
+
+Question: What is the reason for the
+sitting",What is south of the office?
+663,bathroom,"Answer: The east is the land of the sun.
+
+Question: What is the",What is east of the garden?
+664,office,"Answer: The first of the three, the one in which the sun is most
+prom",What is the garden south of?
+665,kitchen,"Answer: The two-sod-beded, stone-sunk, and stone",What is the hallway north of?
+666,garden,"Answer: The office is the office of the American newspaper, the
+_Daily News_,",What is the office north of?
+667,garden,"Answer: The office is east of the office.
+Question: What is the name of the",What is the office east of?
+668,hallway,"Answer: The garden is the place where the sun is.
+
+<context>",What is the garden south of?
+669,hallway,"<context>
+
+Answer: ""The north of the garden is the land of the white man",What is north of the garden?
+670,bathroom,"Answer: The sea.
+
+Question: What is east of the garden?",What is west of the garden?
+671,garden,"Answer: The
+carn-dum-dum.
+
+""What is",What is east of the bedroom?
+672,kitchen,Answer: The <circum-<circum-<circum-<circum-<circum-,What is the garden north of?
+673,kitchen,"Answer: The garden is the place where the people live who are not
+sitting on",What is the garden south of?
+674,kitchen,"Answer: The room which is opposite the one in which the young people are
+sitting",What is the bedroom west of?
+675,bedroom,"Answer: The garden of the world.
+
+<context>
+
+<re-",What is the garden west of?
+676,garden,"Answer: The world.
+
+Question: What is the world?
+
+Answer:",What is north of the kitchen?
+677,bedroom,"Answer: <context>
+
+Question: What is south of the bathroom?",What is north of the bathroom?
+678,garden,"Answer: The room is on the left of the kitchen.
+
+Question: What is",What is the bedroom south of?
+679,office,"Answer: The side of the house.
+
+Question: What is the difference between the",What is south of the bedroom?
+680,hallway,"Answer: The direction of the sun.
+
+Question: What is the direction of the",What is east of the office?
+681,office,"Answer: The south-pumping-sumps.
+
+Question: What is the",What is south of the kitchen?
+682,garden,"Answer: The hall is the one to the left of the door.
+
+Question:",What is the hallway south of?
+683,office,"Answer: The place where the sun is not.
+
+<context>
+
+<",What is north of the hallway?
+684,office,"Answer: The hall is the one on the left.
+Question: What is the room on",What is the hallway east of?
+685,garden,"Answer: The side of the house opposite the kitchen.
+
+Question: What is the",What is east of the bathroom?
+686,hallway,"Answer: The office is the place where the people who are working for
+the company are",What is east of the office?
+687,office,"Answer: The side of the house opposite to the bed-room.
+
+Question:",What is west of the bathroom?
+688,kitchen,"Answer: The place where the sun is shining.
+
+Question: What is the name",What is north of the garden?
+689,bedroom,Answer: The side of the house opposite the one on which the water-l-s,What is north of the bathroom?
+690,office,"Answer: The south of the garden is the place where the flowers are
+gathered.",What is south of the garden?
+691,bathroom,"Answer: The south is the south.
+
+Question: What is the difference between the",What is south of the kitchen?
+692,garden,"Answer: The water-works.
+
+Question: What is the difference between a """,What is west of the bathroom?
+693,kitchen,"Answer: The first of the two great avenues of the house, which is
+the one",What is the hallway south of?
+694,office,"Answer: The direction of the sun's course.
+
+Question: What is the direction",What is west of the bedroom?
+695,office,"Answer: The ""b"" is a contraction for ""bacious,"" and the ""d",What is the bathroom west of?
+696,kitchen,"Answer: The office of the American, or the American-sore-sore.",What is the office north of?
+697,bedroom,"Answer: The corridor, or aisle, which is the main part of the house.",What is the hallway west of?
+698,office,"Answer: The ""bodium"" is the place where the water is turned on to the",What is the bathroom north of?
+699,kitchen,"Answer: The room in the side of the house, or the room in the side of",What is the bedroom east of?
+700,office,<<<<<<<<<<<<<<<<<<<<,What is west of the kitchen?
+701,office,"The answer is, that the word is not a little, but a great, difference",What is east of the bedroom?
+702,bedroom,"I am a little more than a little, but I am a great deal more than a",What is north of the kitchen?
+703,bedroom,"Vist
+
+Vist
+
+Vist
+
+Vist
+
+Vist",What is south of the office?
+704,bedroom,"Answer: The west.
+
+Question: What is the west of the house?",What is east of the kitchen?
+705,hallway,"</context>
+
+<context>The answer of the Patriarch of Constantinople to the",What is east of the office?
+706,kitchen,"Answer: The valley of the
+
+""The truth is, that the little cottage,",What is north of the garden?
+707,hallway,"Answer: The office of the American, or the American, is the
+knowledge of the",What is the office south of?
+708,garden,"Answer: The corridor.
+
+""What are the two great
+gates of the",What is the hallway west of?
+709,office,"Answer: The corridor.
+
+Question: What is the corridor?
+
+Answer:",What is the hallway north of?
+710,bathroom,"<context>
+
+Answer: The kitchen. <context>
+
+Question: What is the",What is north of the kitchen?
+711,bathroom,"<p>
+
+Answer: The office of the <p>
+
+<p>",What is the office east of?
+712,garden,"Answer: The ""sod-room"" is a small room in the basement, and",What is the bathroom south of?
+713,hallway,"Answer: The room in the middle of the house.
+
+<context>",What is the bedroom north of?
+714,bedroom,"Answer: The east is the direction of the sun.
+
+Question: What is the",What is east of the office?
+715,bedroom,"Answer: The garden is the place where the people live who are not
+in the city",What is the garden south of?
+716,bathroom,"Answer: The side of the house opposite to the one in which the
+carnate",What is north of the hallway?
+717,garden,"Answer: The hall is the
+room in which the furniture is kept.
+
+Question: What",What is the hallway east of?
+718,kitchen,"Answer: The library.
+
+Question: What is the direction of the aisle?",What is west of the hallway?
+719,garden,"Answer: The place where the water is turned off.
+
+Question: What is the difference",What is west of the bathroom?
+720,hallway,"Answer: The <context>
+
+<context>
+
+<context>",What is north of the bathroom?
+721,hallway,"Answer: The kitchen is the place where the people live.
+
+""I am sorry",What is south of the kitchen?
+722,kitchen,"Answer: The place where the dining-diers are.
+
+Question: What is",What is south of the hallway?
+723,hallway,"Answer: The garden is the place where the dead are buried.
+
+Question: What is",What is the garden west of?
+724,bedroom,"Answer: The side of the house opposite the kitchen.
+
+Question: What is the",What is east of the hallway?
+725,hallway,"Answer: The kitchen is the place where the cook is.
+
+Question: What is",What is the kitchen south of?
+726,bedroom,"Answer: The room in which the dead are laid.
+
+Question: What is the",What is the hallway north of?
+727,kitchen,"Answer: The American
+
+The American is a name for the American
+
+The American",What is the bathroom west of?
+728,hallway,"Answer: The great, wide, unpumping, unpumping, unpumping",What is south of the garden?
+729,bedroom,"Answer: The great American city of the
+hundred-and-c-c-c",What is east of the garden?
+730,bedroom,"Answer: The office is the place where the
+men are.
+
+Question: What",What is south of the office?
+731,bedroom,"Answer: The place where the water is turned off.
+
+Question: What is the",What is north of the bathroom?
+732,kitchen,"Answer: The office of the American
+American.
+
+Question: What is the office",What is the office west of?
+733,hallway,"Answer: The west of the American
+Republic.
+
+Question: What is the American",What is west of the garden?
+734,bathroom,"Answer: The room in which the child was confined.
+
+Question: What is the",What is the bedroom south of?
+735,kitchen,"Answer: The side of the house opposite the front of the house.
+
+Question:",What is north of the hallway?
+736,garden,"Answer: The room in which the water is turned on.
+Question: What is the difference",What is west of the bathroom?
+737,bedroom,"Answer: The place where the water is to be brought to the house.
+
+Question",What is west of the kitchen?
+738,kitchen,"Answer: The office of the United States of America.
+
+Question: What is the",What is the office west of?
+739,garden,"Answer: The corridor, the side of the house, the side of the
+gounds",What is the hallway south of?
+740,hallway,"Answer: The garden is the garden of the Palace.
+
+Question: What is the",What is the garden east of?
+741,bathroom,"Answer: The room on the left of the fireplace.
+
+Question: What is the",What is the bedroom west of?
+742,kitchen,"Answer: The room in which the man was sleeping.
+
+Question: What is the",What is north of the bedroom?
+743,bathroom,Answer: The west of the bed-room is the part of the house which is,What is west of the bedroom?
+744,office,"Answer: The room in the house of the king.
+
+Question: What is the",What is the hallway south of?
+745,bathroom,"Answer: The place where the cook is.
+
+Question: What is the word for",What is south of the kitchen?
+746,garden,Answer: The first thing to be done is to get a good supply of water.,What is the bathroom east of?
+747,garden,"Answer: The west of the house.
+
+Question: What is the difference between the",What is east of the kitchen?
+748,bedroom,"Answer: The west of the city.
+
+Question: What is the difference between the",What is west of the office?
+749,bedroom,"Answer: The hallway west of the house.
+
+Question: What is the hall west",What is the hallway west of?
+750,bedroom,"Answer: The place where you are going to be.
+
+Question: What is the difference",What is east of the bathroom?
+751,bathroom,"Answer: The office is in the centre of the city.
+
+Question: What is",What is the office south of?
+752,office,"Answer: The kitchen.
+
+Question: What is west of the kitchen?",What is east of the kitchen?
+753,bedroom,"Answer: The sun.
+
+<context>
+
+<context>
+
+<",What is north of the garden?
+754,bathroom,Answer: The west of the bed-room is the part of the house where the,What is west of the bedroom?
+755,kitchen,"Answer: The west.
+
+“I don’t know what to do with the",What is north of the hallway?
+756,kitchen,"Answer: The hall is the place where the people are kept.
+
+Question: What",What is the hallway west of?
+757,kitchen,"Answer: The bathroom is the room on the left of the main
+entrance.",What is the bathroom east of?
+758,bathroom,"Answer: The office of the railroad.
+
+Question: What is the office east of",What is the office west of?
+759,bathroom,"Answer: The kitchen is the place where the people live, and the
+carnions",What is the kitchen east of?
+760,garden,"Answer: The sun.
+
+Question: What is the difference between the two?",What is north of the bedroom?
+761,bedroom,"Answer: It is a large garden, and is called the ""Garden of the",What is the garden west of?
+762,kitchen,"Answer: The ""pump"" is the water-pipe that runs from the water-",What is south of the hallway?
+763,office,"Answer: The ""garden"" is the place where the trees are planted.",What is the garden north of?
+764,hallway,"Answer: The bathroom is the room in the house which is used for
+dressing and",What is the bathroom north of?
+765,hallway,"Answer: The south-sippets.
+
+Question: What is the difference between the",What is south of the bedroom?
+766,bedroom,"Answer: The garden east of is the garden of the house.
+
+Question: What",What is the garden east of?
+767,hallway,"Answer: The bedroom is the room in which the person is laid.
+
+Question:",What is the bedroom north of?
+768,bathroom,"Answer: The garden.
+
+Question: What is east of the garden?",What is west of the garden?
+769,hallway,"<context>
+
+Answer: The kitchen east of the house is the kitchen of the house.",What is the kitchen east of?
+770,office,"Answer: The kitchen.
+
+Question: What is the kitchen?
+
+Answer:",What is west of the hallway?
+771,bathroom,Answer: The garden is the one that is in the centre of the city.,What is the garden south of?
+772,garden,"Answer: The office of the man is to be a man, to be a man of",What is the office north of?
+773,office,"Answer: The one in the centre of the house.
+
+Question: What is the",What is the bathroom south of?
+774,bathroom,"Answer: The land of the inhabitants of the earth.
+
+Question: What is the",What is east of the garden?
+775,bathroom,"Answer: The kitchen is the place where the family eat.
+
+Question: What is",What is south of the kitchen?
+776,kitchen,"Answer: The west of the house.
+
+Question: What is the way to the",What is west of the bathroom?
+777,office,Answer: The garden is the part of the city which is not in the city.,What is the garden north of?
+778,hallway,"Answer: The office is north of the city.
+
+Question: What is the office",What is north of the office?
+779,bathroom,"Answer: The room that is opposite the dining-room.
+
+Question: What is",What is the bedroom south of?
+780,hallway,"Answer: The side of the house opposite the kitchen.
+
+Question: What is the",What is north of the bathroom?
+781,kitchen,"Answer: The first thing to be done is to get a good bath-room, and",What is the bathroom east of?
+782,hallway,"Answer: The water-pur, or the water-pur, is the water-pur",What is the bathroom west of?
+783,garden,"Answer: The water-house.
+
+<context>
+
+<context>",What is the bathroom north of?
+784,bathroom,"Answer: The kitchen is north of the
+<DW72> of the hill. <DW72",What is the kitchen north of?
+785,hallway,"Answer: The garden north of is the garden of the world.
+
+Question: What",What is the garden north of?
+786,hallway,"Answer: The great, wide, green, unpainted, unsh-sh-",What is north of the garden?
+787,bathroom,"Answer: The room in which you are sitting.
+
+Question: What is the difference",What is west of the bedroom?
+788,kitchen,"Answer: The room in the middle of the house.
+
+Question: What is the room",What is the bedroom north of?
+789,office,"Answer: The room in the bow of the ship.
+
+</context>",What is the bedroom north of?
+790,bedroom,"Answer: The kitchen is the place where the people eat.
+
+Question: What is",What is the kitchen east of?
+791,hallway,"Answer: The ""b"" is a little more than the ""a"" of the word",What is south of the bathroom?
+792,kitchen,"Answer: The west is the west.
+
+Question: What is the west of the",What is west of the hallway?
+793,kitchen,"Answer: The garden is the place where the sun is not, and the
+mister",What is the garden north of?
+794,office,"Answer: The room in which the water is turned on.
+
+Question: What is",What is west of the bathroom?
+795,bathroom,"Answer: The office is the one in the centre of the building.
+
+Question:",What is the office north of?
+796,garden,"Answer: The bathroom is the room in the house where the people are
+bated.",What is the bathroom east of?
+797,kitchen,"Answer: The garden is the house of the King's agent, and the house
+is",What is the garden west of?
+798,bedroom,"Answer: The garden of the Lord.
+
+Question: What is the garden of the",What is the garden north of?
+799,hallway,"Answer: The ""Garden of the King,"" which is a large, beautiful,",What is the garden west of?
+800,kitchen,"Answer: The office of the American, or of the American, or of the
+American",What is the office north of?
+801,office,"Answer: The west is the direction of the sun.
+
+Question: What is the",What is west of the kitchen?
+802,kitchen,"Answer: The hall is the place where the King and Queen are.
+
+Question:",What is the hallway west of?
+803,kitchen,"Answer: The place of the Church of the Holy
+Larn-Larn, which",What is south of the office?
+804,office,"Answer: The hall is the place where the men and women are kept.
+
+Question:",What is the hallway north of?
+805,garden,"Answer: The kitchen.
+
+Question: What is west of the kitchen?",What is east of the kitchen?
+806,hallway,"Answer: The river.
+
+Question: What is the river?
+
+Answer:",What is east of the garden?
+807,hallway,"Answer: The room in the bow of the ship.
+
+Question: What is the",What is the bedroom south of?
+808,garden,"Answer: The room.
+
+Question: What is the side of the house?",What is east of the hallway?
+809,hallway,"Answer: The room in the side of the house.
+
+Question: What is the",What is the bedroom east of?
+810,hallway,"Answer: The world.
+
+</context>
+
+“I am not a man",What is east of the office?
+811,bathroom,"Answer: The office of the king of the <context>
+
+Question: What is",What is the office north of?
+812,kitchen,"Answer: The garden south of is the garden of the world.
+
+Question: What",What is the garden south of?
+813,bathroom,"Answer: The garden is the one which is in the valley of the
+<contents>",What is the garden north of?
+814,bedroom,"Answer: The kitchen is the place where the cook is.
+
+Question: What is the",What is west of the kitchen?
+815,office,"Answer: The kitchen is the place where the family eat and sleep.
+
+Question:",What is the kitchen west of?
+816,hallway,"Answer: The sun.
+Question: What is south of the kitchen?
+Answer: The",What is north of the kitchen?
+817,garden,"Answer: The North is the place where the sun is.
+
+Question: What is",What is north of the bathroom?
+818,bedroom,"Answer: The kitchen is the place where the people live.
+
+Question: What is",What is the kitchen north of?
+819,bedroom,"Answer: The ""sod-shed.""
+
+<context>
+
+<",What is south of the bathroom?
+820,kitchen,"Answer: The place where the people are.
+
+Question: What is the name of",What is west of the bedroom?
+821,garden,Answer: The man who is in the water is the man who is in the water,What is the bathroom west of?
+822,bedroom,"Answer: The kitchen is the place where the servants are kept, and
+where the men",What is the kitchen south of?
+823,garden,"Answer: The hall is the place where the people are assembled to
+conges, or",What is the hallway west of?
+824,bathroom,"Answer: The west of the garden is the west of the city.
+
+Question:",What is west of the garden?
+825,bedroom,"Answer: The side of the earth.
+
+Question: What is west of the bathroom",What is east of the bathroom?
+826,office,"Answer: The garden is the west of the city.
+
+Question: What is the",What is the garden west of?
+827,bathroom,"Answer: The sun.
+
+Question: What is the sun?
+
+Answer:",What is south of the bedroom?
+828,kitchen,"Answer: The room.
+
+Question: What is the room?
+
+Answer:",What is east of the bedroom?
+829,bedroom,"Answer: The bathroom is the room in the house where the water is
+supplied.",What is the bathroom north of?
+830,hallway,"Answer: The room where you are.
+
+Question: What is the room where you",What is south of the bedroom?
+831,kitchen,"Answer: The side of the house opposite the kitchen.
+
+Question: What is the",What is east of the hallway?
+832,bathroom,"Answer: The city of Washington.
+Question: What is the name of the city?",What is west of the office?
+833,office,"Answer: The garden is the place where the sun is shining.
+
+<context>",What is the garden south of?
+834,kitchen,"Answer: The east is the place where
+the sun is most direct, and the sun is the",What is the garden east of?
+835,bathroom,"Answer: The kitchen west of the house.
+Question: What is the kitchen east of?",What is the kitchen west of?
+836,bathroom,"Answer: The hall is the place where the people go to see the
+people.",What is the hallway west of?
+837,bathroom,"Answer: The room in the house.
+
+Question: What is the bedroom west of?",What is the bedroom east of?
+838,office,"Answer: The room in which the young lady sleates.
+
+Question: What is",What is the bedroom south of?
+839,bedroom,"Answer: The room on the right.
+Question: What is the right hand of the right",What is north of the hallway?
+840,kitchen,Answer: The office is the place where the people go to get their money.,What is south of the office?
+841,bedroom,"Answer: The room in the house.
+
+Question: What is the room in the",What is the bathroom east of?
+842,bedroom,"Answer: The office of the <carn-vail>, or the man who carries",What is the office south of?
+843,kitchen,"Answer: The hall is the place where the people go to see the
+<context>",What is the hallway west of?
+844,office,"Answer: The earth.
+
+Question: What is west of the garden?",What is east of the garden?
+845,garden,"Answer: The room in the side of the house opposite the kitchen.
+
+Question:",What is the bedroom west of?
+846,bedroom,"Answer: The place where the library is.
+
+Question: What is the name of",What is east of the office?
+847,office,"Answer: The kitchen is the place where the dishes are cooked.
+
+<context>",What is north of the kitchen?
+848,bedroom,Answer: The water is in the bow and the bow is in the water.,What is the bathroom north of?
+849,bathroom,"Answer: The hall is the passage leading to the court-room.
+
+Question:",What is the hallway north of?
+850,hallway,"Answer: The kitchen is the place where the cook is.
+
+Question: What is",What is the kitchen north of?
+851,hallway,"Answer: The kitchen is the place where the men cook their food.
+
+Question:",What is the kitchen north of?
+852,garden,"Answer: The hall is the passage between the two wings of the house.
+
+Question",What is the hallway south of?
+853,bathroom,"Answer: The moon-kissed stream.
+
+Question: What is the word",What is east of the garden?
+854,bathroom,"Question: What is the garden east of?
+
+Question: What is the garden north",What is the garden west of?
+855,hallway,"Answer: The room in the house.
+
+Question: What is the room in the",What is the bedroom west of?
+856,bedroom,"Answer: The kitchen is the place where the people live.
+
+Question: What is",What is east of the kitchen?
+857,kitchen,"Answer: The library.
+
+“I don’t know what to do with you",What is east of the office?
+858,garden,"Answer: The office of the Patri-sophia, or the Patriarchate,",What is the office east of?
+859,bathroom,"<context>
+
+<context>
+
+<context>
+
+<context>",What is the office east of?
+860,bedroom,"Answer: The west of the room.
+
+Question: What is the side of the",What is west of the hallway?
+861,office,"Answer: The east is the east, and the west is the west.
+
+Question",What is east of the bathroom?
+862,bathroom,"Answer: The sun.
+Question: What is south of the garden?
+Answer: The",What is north of the garden?
+863,bedroom,"Answer: The north of the garden is the north of the earth.
+
+Question:",What is north of the garden?
+864,kitchen,"Answer: The west is the west of the world.
+
+Question: What is the",What is west of the office?
+865,hallway,"Answer: The room is the one in the centre of the house, and is the",What is the bedroom south of?
+866,hallway,Answer: The two-bed-sitting-sunk-in-the-s,What is the bedroom west of?
+867,garden,"Answer: The kitchen is the place where the people eat their
+meat.
+
+Question",What is the kitchen west of?
+868,garden,"Answer: The kitchen is the place where the dinner is cooked.
+
+Question: What",What is the kitchen east of?
+869,office,"Answer: The place where the earth is turned up by the plough.
+
+<",What is south of the garden?
+870,hallway,"Answer: The office is the one in the centre of the building.
+
+Question:",What is the office north of?
+871,kitchen,"Answer: The dining-room.
+
+Question: What is the door to the dining",What is south of the hallway?
+872,garden,"Ans: The hall is the place where the officers and men of the regiment
+meet",What is the hallway south of?
+873,kitchen,"Answer: The side of the house which is opposite to the one in which the
+s",What is west of the hallway?
+874,hallway,"Answer: The world.
+
+Question: What is the way to the city?",What is east of the garden?
+875,garden,"Answer: The west is the direction of the sun, and the sun is the
+direction",What is west of the bedroom?
+876,bathroom,"<context>
+
+Answer: The office south of the city is the city. <context>",What is the office south of?
+877,kitchen,"Answer: The room in which the body is buried.
+
+Question: What is the",What is south of the bedroom?
+878,bedroom,"Answer: The west is the west.
+
+Question: What is the east of the",What is west of the kitchen?
+879,garden,"Answer: The room in which the young people are.
+
+Question: What is the",What is south of the bedroom?
+880,hallway,"Answer: The kitchen is the place where the people live.
+
+<context>",What is north of the kitchen?
+881,bathroom,"Answer: The office is on the east side of the house.
+
+Question: What",What is east of the office?
+882,office,"Answer: The north.
+
+Question: What is the north of the garden?",What is west of the garden?
+883,bathroom,"Answer: The house of a citizen of the town of the same name.
+
+Question",What is north of the garden?
+884,bedroom,"Answer: The water-sions of the house are in the centre of the
+g",What is the bathroom east of?
+885,bathroom,"Answer: The world.
+
+Question: What is the difference between the two?",What is west of the kitchen?
+886,garden,Answer: The only one that is to be found in the history of the world.,What is the office west of?
+887,bathroom,"Answer: The north is the place where the sun is not.
+Question: What is the",What is north of the kitchen?
+888,kitchen,"Answer: The hall is the room in which the business of the house is
+transacted",What is the hallway north of?
+889,hallway,"Answer: The kitchen is the place where the people live.
+
+Question: What is",What is the kitchen south of?
+890,hallway,"Answer: The first part of the world.
+
+Question: What is the second part",What is east of the bedroom?
+891,hallway,"Answer: The south.
+
+</context>
+
+""I am sorry to hear",What is north of the garden?
+892,office,"Answer: The north of the bathroom is the north of the world.
+
+Question:",What is north of the bathroom?
+893,kitchen,"Answer: The garden is the place where the sun is shining.
+
+<p>",What is the garden north of?
+894,kitchen,"Answer: The library.
+
+Question: What is the name of the book?",What is west of the hallway?
+895,bathroom,"Answer: The office is in the middle of the street.
+
+Question: What is",What is the office east of?
+896,garden,"Answer: The side of the building opposite the
+gates.
+
+""What is",What is north of the hallway?
+897,kitchen,"Answer: The water-sarn, or the water-sarn-bain,",What is east of the bathroom?
+898,kitchen,"Answer: The side of the house opposite the dining-godium.
+
+Question:",What is south of the hallway?
+899,hallway,"Answer: The west of the city.
+
+Question: What is the name of the",What is west of the office?
+900,bedroom,"Answer: The office is the one on the left of the
+cor--
+
+""",What is the office north of?
+901,hallway,Answer: The west is the part of the earth which is farthest from the sun.,What is west of the kitchen?
+902,office,"Answer: The first one on the left.
+
+Question: What is the first one",What is the bathroom west of?
+903,garden,"Answer: The room in the side of the house opposite to the kitchen.
+
+Question",What is the bedroom south of?
+904,kitchen,"Answer: The library.
+
+Question: What was the name of the man who was",What is the bathroom east of?
+905,office,"Answer: The south-dinner-dailies.
+
+Question: What is",What is south of the bathroom?
+906,kitchen,"Answer: The bedroom east of the house is the room in which the
+household is",What is the bedroom east of?
+907,office,"Answer: The corridor that leads from the main entrance to the
+library.
+
+Question",What is the hallway west of?
+908,bedroom,"Answer: The office is the place where the people of the world meet to
+discuss the",What is the office east of?
+909,bathroom,"Answer: The place where the people are imprisoned.
+
+Question: What is the difference",What is south of the bedroom?
+910,bedroom,"Answer: The garden is the house of the man.
+
+[S]",What is the garden south of?
+911,hallway,"Answer: The north-easterly part of the city.
+
+Question: What",What is north of the office?
+912,kitchen,"Answer: The office is west of the office.
+
+Question: What is the name",What is west of the office?
+913,hallway,"Answer: The garden is the place where the sun shines, and the
+flowers",What is east of the garden?
+914,garden,"Answer: The office is the library.
+
+""The library is the--the--",What is the office north of?
+915,kitchen,"Answer: The garden is the place where the people live.
+
+Question: What is",What is the garden south of?
+916,garden,"Answer: The office.
+
+Question: What is the difference between the two?",What is north of the office?
+917,bathroom,"Answer: The place where the blood is.
+
+<context>
+
+<context",What is south of the bedroom?
+918,bathroom,"Answer: The room in which the guests are seated.
+
+Question: What is west",What is east of the hallway?
+919,kitchen,"Answer: The garden is west of the house.
+
+Question: What is the name",What is west of the garden?
+920,office,"Answer: The hall is the passageway between the two wings of the
+building.",What is the hallway north of?
+921,hallway,"Answer: The great, unpitted, unpounded, unpitted, unp",What is north of the garden?
+922,office,"Answer: The room in which the kitchen is.
+
+Question: What is the room",What is south of the kitchen?
+923,bathroom,"Answer: The “garden west of” is the place where the earth is
+so",What is the garden west of?
+924,bathroom,"Answer: The kitchen is the room in which the cook is.
+
+<context>",What is the kitchen east of?
+925,garden,"Answer: The kitchen is the place where the people live.
+
+""I'm going to",What is the kitchen south of?
+926,hallway,"Answer: The one in the side of the house.
+
+Question: What is the",What is the bathroom north of?
+927,bedroom,"Answer: The ""s"" is a contraction for ""sport.""
+
+Question:",What is south of the bathroom?
+928,bathroom,"Answer: The room in the house.
+
+Question: What is the room in the",What is the bedroom north of?
+929,kitchen,"Answer: The garden is the city.
+Question: What is the city?
+Answer:",What is the garden north of?
+930,office,"Answer: The great American garden, which is the great American
+might.",What is the garden north of?
+931,bathroom,"Answer: The south-east.
+
+Question: What is the direction of the sun",What is south of the garden?
+932,bathroom,"Answer: The library.
+
+The following is a list of the names of the books",What is the bedroom west of?
+933,hallway,"Answer: The side of the house opposite to the kitchen.
+
+Question: What is",What is west of the kitchen?
+934,bedroom,"Answer: The garden is the one on the west side of the house.
+
+Question",What is the garden east of?
+935,office,"Answer: The kitchen is the place where the cook is.
+
+Question: What is",What is the kitchen north of?
+936,kitchen,"Answer: The north of the hall is the place where the people who are
+not in",What is north of the hallway?
+937,garden,"Answer: The kitchen is the place where the people are working.
+
+Question: What",What is the kitchen north of?
+938,kitchen,"Answer: The American Academy of
+Lights.
+
+Question: What is the difference",What is south of the bedroom?
+939,bedroom,"Answer: The garden is the place where the people live who are not
+in the city",What is the garden east of?
+940,garden,"Answer: The ""dum-dum-dum"" of the old-time",What is south of the hallway?
+941,kitchen,"Answer: The bathroom is the room in the house that is not the
+darned",What is the bathroom west of?
+942,office,"Answer: The kitchen is the place where the members of the family
+are assembled to receive",What is the kitchen east of?
+943,bathroom,"Answer: The sun.
+
+Question: What is west of the garden?",What is east of the garden?
+944,bathroom,"A. Q. The garden is a large one, and is called the ""Garden",What is the garden north of?
+945,office,"Answer: The first of the two great volumes of the American
+carnupions,",What is the garden north of?
+946,bedroom,"Answer: The room in which the door is.
+
+Question: What is the door",What is north of the hallway?
+947,bathroom,"Answer: The kitchen is the place where the servants live.
+
+Question: What is",What is the kitchen north of?
+948,office,"Answer: The hall is the place where the house is built.
+
+Question: What",What is the hallway north of?
+949,bedroom,"Answer: The office of the _carnadora_, or the _carnad",What is the office north of?
+950,bathroom,"Ans: The hall is the place where the people go to worship.
+
+<",What is the hallway south of?
+951,bathroom,"Answer: The room is on the east side of the house.
+
+<context>",What is the bedroom west of?
+952,garden,"Answer: The kitchen.
+
+Question: What is west of the kitchen?",What is east of the bathroom?
+953,garden,"Answer: The office of the ""sump-t-t-t-t-",What is the office north of?
+954,kitchen,"Answer: The north-west.
+
+Question: What is the north-east?",What is north of the office?
+955,office,"Answer: The room.
+
+Question: What is west of the hallway?",What is east of the hallway?
+956,hallway,"Answer: The office of the United
+States of
+Canada.
+
+Question: What",What is the office east of?
+957,kitchen,"Answer: The garden is the one that is in the middle of the
+carn-",What is the garden east of?
+958,office,"Answer: I don’t know.
+
+Question: What is south of the garden",What is north of the garden?
+959,office,"Answer: The one in the left-wing of the house.
+
+<c>",What is the bedroom west of?
+960,garden,"Answer: The kitchen is the place where the house is.
+
+Question: What is",What is north of the kitchen?
+961,bedroom,Answer: The <dis->sert->sert->sert->s,What is the garden east of?
+962,kitchen,"<context>
+
+<context>
+
+<context>
+
+<context>",What is east of the office?
+963,garden,"Answer: The kitchen east of the kitchen is the dining-room.
+
+Question:",What is the kitchen east of?
+964,bathroom,"Answer: The two-fold, the two-fold.
+
+Question: What is",What is the hallway south of?
+965,garden,"Answer: The room in the house opposite the one in which the
+carnate is",What is the bedroom south of?
+966,bathroom,"Answer: The west is the west of the garden.
+
+Question: What is east",What is west of the garden?
+967,kitchen,"Answer: The east of the office is the east of the world.
+
+Question:",What is east of the office?
+968,office,"Answer: The garden is the place of the sun.
+
+Question: What is the",What is the garden south of?
+969,office,"Answer: The hall is the place where the wood-bunners are.
+
+Question",What is the hallway west of?
+970,bathroom,"Answer: The sea. Question: What is
+the sea? Answer: The sea is the sea",What is east of the garden?
+971,garden,"Answer: The hall is the room in which the members of the house are
+assembled.",What is the hallway east of?
+972,garden,"Answer: The kitchen is the part of the house that is opposite the
+door-ward",What is the kitchen east of?
+973,kitchen,"Answer: The direction of the sun.
+
+<context>
+
+<context>",What is north of the hallway?
+974,kitchen,"Answer: The street.
+
+Question: What is east of the hallway?",What is west of the hallway?
+975,bathroom,"Answer: The room where the bed is.
+
+<context>
+
+The letter",What is south of the bedroom?
+976,bedroom,"Answer: The kitchen is the place where the men are working.
+
+Question: What",What is the kitchen south of?
+977,bathroom,"Answer: The room.
+
+<context>
+
+<context>
+
+<",What is west of the bedroom?
+978,office,"<context>
+
+Answer: The west of the hall is the west of the house. <",What is west of the hallway?
+979,kitchen,"Answer: The world.
+Question: What is west of the hallway?
+Answer: The",What is east of the hallway?
+980,garden,"Answer: The land of the country.
+
+Question: What is the country?",What is north of the office?
+981,bedroom,"Answer: The north of the globe.
+
+Question: What is the difference between the",What is north of the garden?
+982,bathroom,"Answer: The bedroom south of the room is the room in which the bed is
+placed",What is the bedroom south of?
+983,hallway,"Answer: The north-west.
+
+Question: What is the north-east?",What is north of the office?
+984,hallway,"Answer: The moon.
+
+Question: What is the moon?
+
+Answer:",What is south of the bathroom?
+985,office,"Answer: The chamber of the heart.
+
+<
+
+<
+
+<",What is the bedroom west of?
+986,kitchen,"Answer: The garden is the valley of the Nile, and the city is the
+city",What is the garden south of?
+987,hallway,"Answer: The garden is the one that is in the centre of the
+carn--",What is the garden west of?
+988,office,"Answer: The west is the place where the sun is.
+
+Question: What is",What is west of the hallway?
+989,hallway,"<context>
+
+Answer: The office of the <context>
+
+<context>",What is the office west of?
+990,bedroom,Answer: The hall-d-d-d-d-d-d-d,What is the hallway east of?
+991,bedroom,Answer: The hall is the room on the left of the dining-room.,What is the hallway south of?
+992,hallway,"Answer: The garden is the one on the side of the house.
+
+Question: What",What is the garden east of?
+993,bedroom,"Answer: The hall is the one on the left of the entrance.
+
+Question:",What is the hallway north of?
+994,hallway,"Answer: The direction of the sun.
+
+Question: What is the difference between the",What is east of the bedroom?
+995,hallway,"Answer: The world.
+
+Question: What is the difference between a man and a",What is west of the bathroom?
+996,kitchen,"Answer: The north of the garden is the land that is not under the
+earth.",What is north of the garden?
+997,kitchen,"Answer: The place where the sun is highest.
+
+Question: What is east of",What is west of the bedroom?
+998,kitchen,Answer: The house of the old man who was too wise to ask questions.,What is north of the bedroom?
