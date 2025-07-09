@@ -8,7 +8,7 @@
 
 <!-- <a href="https://arxiv.org/abs/2406.14528"><img src="https://img.shields.io/badge/arXiv-2311.13608-b31b1b.svg"></a> -->
 
-This repository contains the official PyTorch implementation of Differential Mamba.
+This repository contains the official PyTorch implementation of Differential Mamba <a href="https://arxiv.org/pdf/2507.06204">paper</a>.
 We also provide training code, evaluation code, and model checkpoints to reproduce the results in the paper, including all the baselines.
 
 <img src="figures/diffmamba.PNG" width="90%"/> 
