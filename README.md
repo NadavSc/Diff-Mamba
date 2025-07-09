@@ -187,4 +187,13 @@ All model implementations are based on [Mamba](https://github.com/state-spaces/m
 If you use this code, please consider citing the following:
 
 ```
+@misc{schneider2025differentialmamba,
+      title={Differential Mamba}, 
+      author={Nadav Schneider and Itamar Zimerman and Eliya Nachmani},
+      year={2025},
+      eprint={2507.06204},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2507.06204}, 
+}
 ```
