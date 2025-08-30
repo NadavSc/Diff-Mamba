@@ -802,6 +802,58 @@ class DiffMamba2Block(Mamba2Block):
 
         self.subln = RMSNorm(self.d_model, eps=1e-5)
 
+    # -------- cache helper (lets each mixer see its own cache view) --------
+    class _SwapCache:
+        def __init__(self, cache_params, layer_idx: int, view):
+            self.cache_params, self.layer_idx, self.view, self.orig = cache_params, layer_idx, view, None
+        def __enter__(self):
+            if self.cache_params is not None:
+                # For DiffMamba2Cache, we need to handle both conv_states and ssm_states
+                self.orig = (self.cache_params.conv_states[self.layer_idx], self.cache_params.ssm_states[self.layer_idx])
+                if self.view is not None and isinstance(self.view, tuple) and len(self.view) == 2:
+                    self.cache_params.conv_states[self.layer_idx] = self.view[0]
+                    self.cache_params.ssm_states[self.layer_idx] = self.view[1]
+        def __exit__(self, exc_type, exc, tb):
+            if self.cache_params is not None and self.orig is not None:
+                self.cache_params.conv_states[self.layer_idx] = self.orig[0]
+                self.cache_params.ssm_states[self.layer_idx] = self.orig[1]
+
+    def _run_mixers(self, x, cache_params=None, **mixer_kwargs):
+        if cache_params is None:
+            y1 = self.mixer_1(x, cache_params=None, **mixer_kwargs)
+            y2 = self.mixer_2(x, cache_params=None, **mixer_kwargs)
+            return y1, y2
+
+        # Check if we have separate cache slots for each mixer
+        if hasattr(cache_params, '_diffmamba_cache') and self.layer_idx in cache_params._diffmamba_cache:
+            cache_slot = cache_params._diffmamba_cache[self.layer_idx]
+            if isinstance(cache_slot, tuple) and len(cache_slot) == 2:
+                c1, c2 = cache_slot
+                with DiffMamba2Block._SwapCache(cache_params, self.layer_idx, c1):
+                    y1 = self.mixer_1(x, cache_params=cache_params, **mixer_kwargs)
+                with DiffMamba2Block._SwapCache(cache_params, self.layer_idx, c2):
+                    y2 = self.mixer_2(x, cache_params=cache_params, **mixer_kwargs)
+            else:
+                # Fallback to shared cache
+                y1 = self.mixer_1(x, cache_params=cache_params, **mixer_kwargs)
+                y2 = self.mixer_2(x, cache_params=cache_params, **mixer_kwargs)
+        else:
+            # Fallback to shared cache
+            y1 = self.mixer_1(x, cache_params=cache_params, **mixer_kwargs)
+            y2 = self.mixer_2(x, cache_params=cache_params, **mixer_kwargs)
+        return y1, y2
+
+    def allocate_inference_cache(self, batch_size, max_seqlen, dtype=None, **kwargs):
+        """Allocate separate cache for each mixer."""
+        # Create cache for each mixer if they support it
+        cache1 = getattr(self.mixer_1, "allocate_inference_cache", None)
+        cache2 = getattr(self.mixer_2, "allocate_inference_cache", None)
+        
+        c1 = cache1(batch_size, max_seqlen, dtype=dtype, **kwargs) if callable(cache1) else None
+        c2 = cache2(batch_size, max_seqlen, dtype=dtype, **kwargs) if callable(cache2) else None
+        
+        return (c1, c2)
+
     def forward(
         self,
         hidden_states,
@@ -817,8 +869,15 @@ class DiffMamba2Block(Mamba2Block):
         lambda_q1 = torch.sum(self.lambda_q1, dim=-1).float()
         lambda_full = torch.sigmoid(lambda_q1) + self.lambda_init
 
-        attn = (self.mixer_1(hidden_states, cache_params=cache_params, cache_position=cache_position, attention_mask=attention_mask) -
-                lambda_full * self.mixer_2(hidden_states, cache_params=cache_params, cache_position=cache_position, attention_mask=attention_mask))
+        # Run the two mixers with cache management
+        y1, y2 = self._run_mixers(
+            hidden_states, 
+            cache_params=cache_params, 
+            cache_position=cache_position, 
+            attention_mask=attention_mask
+        )
+        
+        attn = y1 - lambda_full * y2
         attn = self.subln(attn)
         hidden_states = attn * (1 - self.lambda_init)
 
