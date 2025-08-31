@@ -1331,11 +1331,11 @@ class DiffMamba2ForCausalLM(Mamba2ForCausalLM):
     def __init__(self, config, *model_args, **kwargs):
         super().__init__(config)
         finetune = False
+        self.config.verbose = 1
         if not hasattr(config, "diffmamba"):
             finetune = True
             self.config.diffmamba = True
             self.config.diffmamba_settings = "alternate"
-            self.config.verbose = 1
         self.backbone = Mamba2Model(config)
         self.lm_head = nn.Linear(config.hidden_size, config.vocab_size, bias=False)
 
@@ -1345,20 +1345,19 @@ class DiffMamba2ForCausalLM(Mamba2ForCausalLM):
 
         self.post_init()
 
+
     def apply_diffmamba(self):
         nlayers = len(self.backbone.layers)
         if self.config.diffmamba_settings == "all":
             k = nlayers
         elif self.config.diffmamba_settings == "quarter":
             k = nlayers // 4
-        else:
-            k = int(self.config.diffmamba_settings)
-
-        if self.config.diffmamba_settings == "alternate":
+        elif self.config.diffmamba_settings == "alternate":
             for idx in range(nlayers):
                 if idx % 2 == 0:
                     self.backbone.layers[idx] = DiffMamba2Block.from_pretrained_block(self.backbone.layers[idx], self.config)
         else:
+            k = int(self.config.diffmamba_settings)
             for idx in range(nlayers - k, nlayers):
                 self.backbone.layers[idx] = DiffMamba2Block.from_pretrained_block(self.backbone.layers[idx], self.config)
 
