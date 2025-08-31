@@ -1,15 +1,21 @@
 # Differential Mamba
 
+[![arXiv](https://img.shields.io/badge/arXiv-2507.06204-red.svg)](https://arxiv.org/abs/2507.06204)
+[![deploy](https://img.shields.io/badge/Huggingface%20-DiffMamba%20-blue)](https://huggingface.co/nadavsc/diffmamba2-370M)
+
 <p align="center">
 
 <a href="https://scholar.google.com/citations?user=CrBv6b4AAAAJ&hl=iw">Nadav Schneider</a>,
 <a href="https://itamarzimm.github.io/">Itamar Zimerman</a>,
 <a href="https://sites.google.com/view/eliya-nachmani/home">Eliya Nachmani</a>
 
-<!-- <a href="https://arxiv.org/abs/2406.14528"><img src="https://img.shields.io/badge/arXiv-2311.13608-b31b1b.svg"></a> -->
-
 This repository contains the official PyTorch implementation of Differential Mamba <a href="https://arxiv.org/pdf/2507.06204">paper</a>.
 We also provide training code, evaluation code, and model checkpoints to reproduce the results in the paper, including all the baselines.
+
+## News
+- [2025.08.31] We published the model [DiffMamba](https://huggingface.co/nadavsc/diffmamba2-370M) and its [Mamba](https://huggingface.co/nadavsc/mamba2-370M) baseline, both trained on 50B tokens.
+- [2025.07.08] We have uploaded our paper to [arXiv](https://arxiv.org/abs/2507.06204).
+
 
 <img src="figures/diffmamba.PNG" width="90%"/> 
 
