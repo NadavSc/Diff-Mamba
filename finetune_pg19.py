@@ -124,6 +124,7 @@ def main():
 
     def model_load():
         config = AutoConfig.from_pretrained(args.ckpt_path)
+        model = DiffMamba2ForCausalLM(config) if args.diffmamba else Mamba2ForCausalLM(config)
         if args.diffmamba:
             model = DiffMamba2ForCausalLM.from_pretrained(args.ckpt_path, config)
         else:
