@@ -1147,14 +1147,8 @@ class Mamba2Model(Mamba2PreTrainedModel):
                 )
                 cache_position = torch.arange(0, self.config.conv_kernel, device=inputs_embeds.device)
             elif cache_position is None:
-                # cases when we do manual forward instead of using `model.generate` which will initiate
-                # `cache_position` and makes sure it is not None, throw error here instead of doing some
-                # hack to conjecture the current cache position
-                raise ValueError(
-                    "You have to specify the `cache_position` manually when `use_cache=True` and `cache_params` is passed, "
-                    "you don't have to pass a `cache_params` if you are in prefilling stage because in that case it will "
-                    "be initialized for you automatically"
-                )
+                # Default to prefill initialization if cache_position wasn't provided
+                cache_position = torch.arange(0, self.config.conv_kernel, device=inputs_embeds.device)
         else:
             cache_params = None
 
