@@ -40,7 +40,6 @@ from transformers.models.mamba2.configuration_mamba2 import Mamba2Config
 
 from mamba_ssm.ops.triton.layer_norm import RMSNorm
 import copy
-import torch.nn as nn
 
 logger = logging.get_logger(__name__)
 
@@ -162,8 +161,6 @@ class DiffMamba2Cache:
             A tensor of shape `[num_layers, batch_size, conv_kernel_size, intermediate_size + 2 * n_groups * state_size]` that holds convolutional states.
         ssm_states: (`torch.Tensor`):
             A tensor of shape `[num_layers, batch_size, num_heads, head_dim, state_size]` that holds ssm states.
-        _diffmamba_cache: (`dict`):
-            Dictionary storing separate cache states for DiffMamba2Block mixers, indexed by layer_idx.
     """
 
     def __init__(
@@ -177,34 +174,41 @@ class DiffMamba2Cache:
         self.head_dim = config.head_dim
         self.intermediate_size = int(config.expand * config.hidden_size)
 
-        self.conv_states = [torch.zeros(
-            batch_size,
-            self.intermediate_size + 2 * self.n_groups * self.state_size,
-            self.conv_kernel_size,
-            device=device,
-            dtype=dtype,
-        )
-        for layer in layers]
+        # Build cache tensors per layer. DiffMamba2Block consumes two cache slots (one per mixer),
+        # while a regular Mamba2Block consumes one.
+        self.conv_states = []
+        self.ssm_states = []
 
-        self.ssm_states = [torch.zeros(
-            batch_size,
-            self.num_heads,
-            self.head_dim,
-            self.state_size,
-            device=device,
-            dtype=dtype,
-        )
-        for layer in layers]
-        
-        # Initialize separate cache for DiffMamba2Blocks - populated lazily
-        self._diffmamba_cache = {}
+        for layer in layers:
+            # Helper to allocate conv/ssm states for a given layer config
+            def _alloc_for_cfg(cfg: Mamba2Config):
+                conv_dim = int(cfg.expand * cfg.hidden_size) + 2 * cfg.n_groups * cfg.state_size
+                self.conv_states.append(
+                    torch.zeros(
+                        batch_size,
+                        conv_dim,
+                        cfg.conv_kernel,
+                        device=device,
+                        dtype=dtype,
+                    )
+                )
+                self.ssm_states.append(
+                    torch.zeros(
+                        batch_size,
+                        cfg.num_heads,
+                        cfg.head_dim,
+                        cfg.state_size,
+                        device=device,
+                        dtype=dtype,
+                    )
+                )
 
-    def allocate_diffmamba_cache(self, layer_idx: int, layer, batch_size: int, max_seqlen: int, dtype=None, device=None):
-        """Allocate separate cache for DiffMamba2Block mixers."""
-        if hasattr(layer, 'allocate_inference_cache'):
-            cache_tuple = layer.allocate_inference_cache(batch_size, max_seqlen, dtype=dtype, device=device)
-            self._diffmamba_cache[layer_idx] = cache_tuple
-        return self._diffmamba_cache.get(layer_idx, None)
+            # For DiffMamba2Block allocate two entries, one for each internal mixer
+            if isinstance(layer, DiffMamba2Block):
+                _alloc_for_cfg(layer.config_1)
+                _alloc_for_cfg(layer.config_2)
+            else:
+                _alloc_for_cfg(layer.config)
 
     def update_conv_state(
         self, layer_idx: int, new_conv_state: torch.Tensor, cache_init: bool = False
@@ -221,8 +225,11 @@ class DiffMamba2Cache:
         return self.ssm_states[layer_idx]
 
     def reset(self):
-        self.conv_states.zero_()
-        self.ssm_states.zero_()
+        # Zero tensors in-place across the cache lists
+        for t in self.conv_states:
+            t.zero_()
+        for t in self.ssm_states:
+            t.zero_()
 
 
 class MambaRMSNormGated(torch.nn.Module):
@@ -527,7 +534,7 @@ class Mamba2Mixer(nn.Module):
         A = -torch.exp(self.A_log.float())                            # [num_heads]
         if cache_params is not None and cache_position is not None and cache_position[0] > 0:
             # We need to guarantee that anything regarding the cache is on the same device
-            cache_device = cache_params.ssm_states.device
+            cache_device = cache_params.ssm_states[0].device
 
             # Note: there is no need to pad parameter matrices here, as there is just one new token
             # for batched generation
@@ -799,11 +806,10 @@ class DiffMamba2Block(Mamba2Block):
         self.config_1 = copy.deepcopy(config)
         self.config_1.expand = 1
         self.config_1.head_dim = config.head_dim // 2
-        
+
         self.config_2 = copy.deepcopy(config)
         self.config_2.expand = 1
         self.config_2.head_dim = config.head_dim // 2
-        
         self.layer_idx = layer_idx
 
         self.mixer_1 = Mamba2Mixer(self.config_1, layer_idx=layer_idx)
@@ -820,111 +826,6 @@ class DiffMamba2Block(Mamba2Block):
 
         self.subln = RMSNorm(self.d_model, eps=1e-5)
 
-    # -------- cache helper (lets each mixer see its own cache view) --------
-    class _SwapCache:
-        def __init__(self, cache_params, layer_idx: int, view):
-            self.cache_params, self.layer_idx, self.view, self.orig = cache_params, layer_idx, view, None
-        def __enter__(self):
-            if self.cache_params is not None and self.view is not None:
-                # Store original cache states
-                self.orig = (
-                    self.cache_params.conv_states[self.layer_idx],
-                    self.cache_params.ssm_states[self.layer_idx],
-                )
-                # Replace with mixer-specific cache view
-                if isinstance(self.view, tuple) and len(self.view) == 2:
-                    conv_cache, ssm_cache = self.view
-                    self.cache_params.conv_states[self.layer_idx] = conv_cache
-                    self.cache_params.ssm_states[self.layer_idx] = ssm_cache
-        def __exit__(self, exc_type, exc, tb):
-            if self.cache_params is not None and self.orig is not None:
-                # Restore original cache states
-                self.cache_params.conv_states[self.layer_idx] = self.orig[0]
-                self.cache_params.ssm_states[self.layer_idx] = self.orig[1]
-
-    def _run_mixers(self, x, cache_params=None, **mixer_kwargs):
-        if cache_params is None:
-            y1 = self.mixer_1(x, cache_params=None, **mixer_kwargs)
-            y2 = self.mixer_2(x, cache_params=None, **mixer_kwargs)
-            return y1, y2
-
-        # Check if we have separate cache slots for each mixer
-        if hasattr(cache_params, '_diffmamba_cache'):
-            if self.layer_idx not in cache_params._diffmamba_cache:
-                # Allocate cache if it doesn't exist
-                batch_size = x.shape[0]
-                max_seqlen = cache_params.conv_kernel_size
-                device = x.device
-                dtype = x.dtype
-                cache_params.allocate_diffmamba_cache(self.layer_idx, self, batch_size, max_seqlen, dtype=dtype, device=device)
-            
-            cache_slot = cache_params._diffmamba_cache.get(self.layer_idx, None)
-            if isinstance(cache_slot, tuple) and len(cache_slot) == 2:
-                c1, c2 = cache_slot
-                with DiffMamba2Block._SwapCache(cache_params, self.layer_idx, c1):
-                    y1 = self.mixer_1(x, cache_params=cache_params, **mixer_kwargs)
-                with DiffMamba2Block._SwapCache(cache_params, self.layer_idx, c2):
-                    y2 = self.mixer_2(x, cache_params=cache_params, **mixer_kwargs)
-            else:
-                # Fallback to shared cache
-                y1 = self.mixer_1(x, cache_params=cache_params, **mixer_kwargs)
-                y2 = self.mixer_2(x, cache_params=cache_params, **mixer_kwargs)
-        else:
-            # Fallback to shared cache
-            y1 = self.mixer_1(x, cache_params=cache_params, **mixer_kwargs)
-            y2 = self.mixer_2(x, cache_params=cache_params, **mixer_kwargs)
-        return y1, y2
-
-    def allocate_inference_cache(self, batch_size, max_seqlen, dtype=None, **kwargs):
-        """Allocate separate cache for each mixer."""
-        device = kwargs.get('device', 'cuda' if torch.cuda.is_available() else 'cpu')
-        
-        # Try to use the mixer's own cache allocation if available
-        cache1 = getattr(self.mixer_1, "allocate_inference_cache", None)
-        cache2 = getattr(self.mixer_2, "allocate_inference_cache", None)
-        
-        if callable(cache1) and callable(cache2):
-            c1 = cache1(batch_size, max_seqlen, dtype=dtype, **kwargs)
-            c2 = cache2(batch_size, max_seqlen, dtype=dtype, **kwargs)
-            return (c1, c2)
-        
-        # Fallback: create cache structures manually
-        conv_dim_1 = int(self.config_1.expand * self.config_1.hidden_size) + 2 * self.config_1.n_groups * self.config_1.state_size
-        conv_states_1 = torch.zeros(
-            batch_size,
-            conv_dim_1,
-            self.config_1.conv_kernel,
-            device=device,
-            dtype=dtype or torch.float16,
-        )
-        ssm_states_1 = torch.zeros(
-            batch_size,
-            self.config_1.num_heads,
-            self.config_1.head_dim,
-            self.config_1.state_size,
-            device=device,
-            dtype=dtype or torch.float16,
-        )
-        
-        conv_dim_2 = int(self.config_2.expand * self.config_2.hidden_size) + 2 * self.config_2.n_groups * self.config_2.state_size
-        conv_states_2 = torch.zeros(
-            batch_size,
-            conv_dim_2,
-            self.config_2.conv_kernel,
-            device=device,
-            dtype=dtype or torch.float16,
-        )
-        ssm_states_2 = torch.zeros(
-            batch_size,
-            self.config_2.num_heads,
-            self.config_2.head_dim,
-            self.config_2.state_size,
-            device=device,
-            dtype=dtype or torch.float16,
-        )
-        
-        return ((conv_states_1, ssm_states_1), (conv_states_2, ssm_states_2))
-
     def forward(
         self,
         hidden_states,
@@ -940,8 +841,15 @@ class DiffMamba2Block(Mamba2Block):
         lambda_q1 = torch.sum(self.lambda_q1, dim=-1).float()
         lambda_full = torch.sigmoid(lambda_q1) + self.lambda_init
 
-        # Run the two mixers with cache management
-        y1, y2 = self._run_mixers(
+        # Use shared model cache for both mixers; their layer_idx must be pre-assigned
+        y1 = self.mixer_1(
+            hidden_states,
+            cache_params=cache_params,
+            cache_position=cache_position,
+            attention_mask=attention_mask,
+        )
+
+        y2 = self.mixer_2(
             hidden_states,
             cache_params=cache_params,
             cache_position=cache_position,
@@ -956,6 +864,7 @@ class DiffMamba2Block(Mamba2Block):
         return hidden_states
 
 
+
     @classmethod
     def from_pretrained_block(cls, pretrained_block: Mamba2Block, args, **kwargs):
         new_block = cls(
@@ -968,8 +877,10 @@ class DiffMamba2Block(Mamba2Block):
         new_block.norm.load_state_dict(pretrained_block.norm.state_dict())
         if hasattr(pretrained_block, 'mixer'):
             # Regular Mamba2Block with single mixer
-            new_block.mixer_1 = load_partial_state_dict(new_block.mixer_1, pretrained_block.mixer.state_dict(), args, load_first=True)
-            new_block.mixer_2 = load_partial_state_dict(new_block.mixer_2, pretrained_block.mixer.state_dict(), args, load_first=False)
+            new_block.mixer_1 = load_partial_state_dict(new_block.mixer_1, pretrained_block.mixer.state_dict(), args,
+                                                        load_first=True)
+            new_block.mixer_2 = load_partial_state_dict(new_block.mixer_2, pretrained_block.mixer.state_dict(), args,
+                                                        load_first=False)
         else:
             # Already a DiffMamba2Block - copy existing mixers
             new_block.mixer_1.load_state_dict(pretrained_block.mixer_1.state_dict())
@@ -977,7 +888,6 @@ class DiffMamba2Block(Mamba2Block):
             new_block.subln.load_state_dict(pretrained_block.subln.state_dict())
             new_block.lambda_q1.data.copy_(pretrained_block.lambda_q1.data)
         return new_block
-
 
 
 class Mamba2PreTrainedModel(PreTrainedModel):
@@ -988,7 +898,7 @@ class Mamba2PreTrainedModel(PreTrainedModel):
 
     config_class = Mamba2Config
     base_model_prefix = "backbone"
-    _no_split_modules = ["Mamba2Block"]
+    _no_split_modules = ["Mamba2Block", "DiffMamba2Block"]
     supports_gradient_checkpointing = True
     _is_stateful = True
 
@@ -1160,7 +1070,26 @@ class Mamba2Model(Mamba2PreTrainedModel):
         self.norm_f = Mamba2RMSNorm(config.hidden_size, eps=config.layer_norm_epsilon)
         # Initialize weights and apply final processing
         self._register_load_state_dict_pre_hook(self.load_hook)
+        # Assign cache indices for mixers across all layers (DiffMamba2 layers consume two slots)
+        self._assign_cache_indices()
         self.post_init()
+
+    def _assign_cache_indices(self):
+        """
+        Assign contiguous cache indices to mixers across layers so the shared cache layout is:
+        - Regular Mamba2Block: 1 slot
+        - DiffMamba2Block: 2 slots (mixer_1, mixer_2)
+        """
+        cache_idx = 0
+        for layer in self.layers:
+            if isinstance(layer, DiffMamba2Block):
+                layer.mixer_1.layer_idx = cache_idx
+                layer.mixer_2.layer_idx = cache_idx + 1
+                cache_idx += 2
+            else:
+                # Regular block
+                layer.mixer.layer_idx = cache_idx
+                cache_idx += 1
 
     def load_hook(self, state_dict, prefix, *args):
         for k in state_dict:
@@ -1195,7 +1124,7 @@ class Mamba2Model(Mamba2PreTrainedModel):
         output_hidden_states = (
             output_hidden_states if output_hidden_states is not None else self.config.output_hidden_states
         )
-        use_cache = use_cache if use_cache is not None else (self.config.use_cache if not self.training else True)
+        use_cache = use_cache if use_cache is not None else (self.config.use_cache if not self.training else False)
         return_dict = return_dict if return_dict is not None else self.config.use_return_dict
 
         if (input_ids is None) ^ (inputs_embeds is not None):  # ^ is python for xor
@@ -1205,15 +1134,15 @@ class Mamba2Model(Mamba2PreTrainedModel):
             inputs_embeds = self.embeddings(input_ids)
 
         if self.gradient_checkpointing and self.training and use_cache:
-            use_cache = True
+            use_cache = False
 
         if use_cache:
             if cache_params is None:
                 cache_params = DiffMamba2Cache(
-                    config=self.config, 
-                    layers=self.layers, 
-                    batch_size=inputs_embeds.size(0), 
-                    device=inputs_embeds.device, 
+                    config=self.config,
+                    layers=self.layers,
+                    batch_size=inputs_embeds.size(0),
+                    device=inputs_embeds.device,
                     dtype=inputs_embeds.dtype
                 )
                 cache_position = torch.arange(0, self.config.conv_kernel, device=inputs_embeds.device)
@@ -1421,6 +1350,8 @@ class DiffMamba2ForCausalLM(Mamba2ForCausalLM):
         # If loading a pre-trained Mamba to fine-tune, apply_diffmamba should happen only after alignment
         if not finetune:
             self.apply_diffmamba()
+            # Reassign cache indices after swapping layers
+            self.backbone._assign_cache_indices()
 
         self.post_init()
 
@@ -1443,4 +1374,3 @@ class DiffMamba2ForCausalLM(Mamba2ForCausalLM):
 
 
 __all__ = ["Mamba2ForCausalLM", "Mamba2Model", "Mamba2PreTrainedModel"]
-

@@ -143,31 +143,6 @@ def main():
     eval_dataset = load_dataset("emozilla/pg19", split='test')
     eval_dataset = tokenize_dataset(eval_dataset, tokenizer, args.max_length)
 
-    print('Mamba')
-    config = AutoConfig.from_pretrained('nadavsc/mamba2-370M')
-    # model = Mamba2ForCausalLM(config)
-    model = Mamba2ForCausalLM.from_pretrained('nadavsc/mamba2-370M')
-    model.to('cuda')
-    input_ids = tokenizer("Hey how are you doing?", return_tensors="pt")["input_ids"]
-    input_ids = input_ids.cuda()
-    out = model.generate(input_ids, max_new_tokens=20, use_cache=False, do_sample=False)
-    print(tokenizer.batch_decode(out))
-    out = model.generate(input_ids, max_new_tokens=20, use_cache=True, do_sample=False)
-    print(tokenizer.batch_decode(out))
-
-    print('Diff')
-    config = AutoConfig.from_pretrained('nadavsc/diffmamba2-370M')
-    # model = DiffMamba2ForCausalLM(config)
-    model = DiffMamba2ForCausalLM.from_pretrained(
-        'nadavsc/diffmamba2-370M', config=config
-    ).to('cuda')
-
-    input_ids = tokenizer("Hey how are you doing?", return_tensors="pt")["input_ids"].cuda()
-    out = model.generate(input_ids, max_new_tokens=20, use_cache=False, do_sample=False)
-    print(tokenizer.batch_decode(out))
-    out = model.generate(input_ids, max_new_tokens=20, use_cache=True, do_sample=False)
-    print(tokenizer.batch_decode(out))
-
 
     training_args = TrainingArguments(
         output_dir=args.output_dir,
