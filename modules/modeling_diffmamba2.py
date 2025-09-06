@@ -180,35 +180,12 @@ class DiffMamba2Cache:
         self.ssm_states = []
 
         for layer in layers:
-            # Helper to allocate conv/ssm states for a given layer config
-            def _alloc_for_cfg(cfg: Mamba2Config):
-                conv_dim = int(cfg.expand * cfg.hidden_size) + 2 * cfg.n_groups * cfg.state_size
-                self.conv_states.append(
-                    torch.zeros(
-                        batch_size,
-                        conv_dim,
-                        cfg.conv_kernel,
-                        device=device,
-                        dtype=dtype,
-                    )
-                )
-                self.ssm_states.append(
-                    torch.zeros(
-                        batch_size,
-                        cfg.num_heads,
-                        cfg.head_dim,
-                        cfg.state_size,
-                        device=device,
-                        dtype=dtype,
-                    )
-                )
-
             # For DiffMamba2Block allocate two entries, one for each internal mixer
             if isinstance(layer, DiffMamba2Block):
-                _alloc_for_cfg(layer.config_1)
-                _alloc_for_cfg(layer.config_2)
+                self._alloc_for_cfg(layer.config_1, batch_size, dtype, device)
+                self._alloc_for_cfg(layer.config_2, batch_size, dtype, device)
             else:
-                _alloc_for_cfg(layer.config)
+                self._alloc_for_cfg(layer.config, batch_size, dtype, device)
 
     def update_conv_state(
         self, layer_idx: int, new_conv_state: torch.Tensor, cache_init: bool = False
@@ -219,6 +196,28 @@ class DiffMamba2Cache:
             self.conv_states[layer_idx] = self.conv_states[layer_idx].roll(shifts=-1, dims=-1)
             self.conv_states[layer_idx][:, :, -1] = new_conv_state[:, 0, :].to(self.conv_states[0].device)
         return self.conv_states[layer_idx]
+
+    def _alloc_for_cfg(self, cfg: Mamba2Config, batch_size: int, dtype: torch.dtype, device: Optional[str]):
+        conv_dim = int(cfg.expand * cfg.hidden_size) + 2 * cfg.n_groups * cfg.state_size
+        self.conv_states.append(
+            torch.zeros(
+                batch_size,
+                conv_dim,
+                cfg.conv_kernel,
+                device=device,
+                dtype=dtype,
+            )
+        )
+        self.ssm_states.append(
+            torch.zeros(
+                batch_size,
+                cfg.num_heads,
+                cfg.head_dim,
+                cfg.state_size,
+                device=device,
+                dtype=dtype,
+            )
+        )
 
     def update_ssm_state(self, layer_idx: int, new_ssm_state: torch.Tensor):
         self.ssm_states[layer_idx] = new_ssm_state.to(self.ssm_states[0].device)
