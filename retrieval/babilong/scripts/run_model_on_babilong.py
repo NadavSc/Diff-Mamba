@@ -124,7 +124,7 @@ def main(
     }
 
     if mamba and local and diff:
-        generate_kwargs['use_cache'] = False
+        generate_kwargs['use_cache'] = True
 
     if generate_kwargs['pad_token_id'] is None:
         generate_kwargs['pad_token_id'] = tokenizer.eos_token_id
