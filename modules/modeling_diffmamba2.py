@@ -1359,10 +1359,9 @@ class DiffMamba2ForCausalLM(Mamba2ForCausalLM):
             for idx in range(nlayers):
                 if idx % 2 == 0:
                     self.backbone.layers[idx] = DiffMamba2Block.from_pretrained_block(self.backbone.layers[idx], self.config)
-        else:
-            k = int(self.config.diffmamba_settings)
-            for idx in range(nlayers - k, nlayers):
-                self.backbone.layers[idx] = DiffMamba2Block.from_pretrained_block(self.backbone.layers[idx], self.config)
+            return
+        for idx in range(nlayers - k, nlayers):
+            self.backbone.layers[idx] = DiffMamba2Block.from_pretrained_block(self.backbone.layers[idx], self.config)
 
 
 
