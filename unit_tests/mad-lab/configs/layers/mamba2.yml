@@ -1,0 +1,8 @@
+dim: 1024
+d_state: 64
+d_conv: 4
+expand: 2
+dt_init_floor: 0.0001
+conv_bias: true
+bias: false
+use_fast_path: true  # Fused kernel options

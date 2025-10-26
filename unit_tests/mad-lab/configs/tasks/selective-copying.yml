@@ -1,0 +1,11 @@
+baseline:
+  vocab_size: 16
+  seq_len: 256
+  num_tokens_to_copy: 16
+  num_train_examples: 12800
+
+changes:
+  vocab_size: [32]
+  seq_len: [512]
+  num_train_examples: [6400]
+  num_tokens_to_copy: [32]

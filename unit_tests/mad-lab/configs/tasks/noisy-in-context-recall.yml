@@ -1,0 +1,13 @@
+baseline:
+  vocab_size: 32
+  noise_vocab_size: 16
+  seq_len: 128
+  num_train_examples: 12800
+  multi_query: True
+  frac_noise: 0.2 
+
+changes:
+  vocab_size: [48] # adding 16 for noise vocab!
+  seq_len: [512]
+  num_train_examples: [6400]
+  frac_noise: [0.6]

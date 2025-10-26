@@ -1,0 +1,13 @@
+dim: 1024
+d_state: 64
+d_conv: 4
+expand: 1
+headdim: 64
+ngroups: 1
+dt_min: 0.001
+dt_max: 0.1
+dt_init_floor: 0.0001
+learnable_init_states: false
+activation: "swish"
+bias: false
+conv_bias: true
