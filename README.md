@@ -97,25 +97,25 @@ python train.py experiment=lm/diffmamba2-text8 trainer.devices=[0] model.dropout
 
 ```accumulate_grad_batches```: can be used if the memory in the GPU is not sufficient for the required batch size
 
+## Training
+To train Mamba run:
+```
+torchrun --nproc_per_node=4 train.py --model_id=AntonV/mamba2-370m-hf --lr=3e-4 --batch_size=6 --grad_accum_steps=12 --max_steps=4000 --weight_decay=0.1 --warmup=400 --save_steps=500 --eval_steps=500 --output_dir=./outputs/mamba2-370m-pg19-finetune
+```
+To train Diff-Mamba run:
+```
+torchrun --nproc_per_node=4 train.py --model_id=AntonV/mamba2-370m-hf --diffmamba --lr=3e-4 --batch_size=6 --grad_accum_steps=12 --max_steps=4000 --weight_decay=0.1 --warmup=400 --save_steps=500 --eval_steps=500 --output_dir=./outputs
+```
 
 ## Retrieval
-<img src="figures/babilong.PNG" width="90%"/> 
+<img src="figures/babilong.PNG" width="45%"/> 
 
-Run cd retrieval.
 To evaluate the models, make sure to save the models checkpoints in the Diff-Mamba/outputs directory.
 
-### Finetune PG19
-To finetune Mamba on PG19 run:
-```
-torchrun --nproc_per_node=4 finetune_pg19.py --model_id=AntonV/mamba2-370m-hf --lr=3e-4 --batch_size=6 --grad_accum_steps=12 --max_steps=4000 --weight_decay=0.1 --warmup=400 --save_steps=500 --eval_steps=500 --output_dir=./outputs/mamba2-370m-pg19-finetune
-```
-To finetune Diff-Mamba on PG19 run:
-```
-torchrun --nproc_per_node=4 finetune_pg19.py --model_id=AntonV/mamba2-370m-hf --diffmamba --lr=3e-4 --batch_size=6 --grad_accum_steps=12 --max_steps=4000 --weight_decay=0.1 --warmup=400 --save_steps=500 --eval_steps=500 --output_dir=./outputs
-```
-
 ### Finetune BABILong
-To finetune Mamba on BABILong run:
+Run cd retrieval. 
+
+Then to finetune Mamba on BABILong run:
 ```
 torchrun --nproc_per_node=1 finetune_needle.py --ckpt_path=./outputs/mamba2-370m-pg19-finetune --lr=3e-4 --batch_size=6 --grad_accum_steps=1 --max_steps=500 --weight_decay=0.1 --warmup=50 --save_steps=100 --eval_steps=100 --seed=0 --output_dir=./outputs/mamba2-370m-needle-finetune
 ```
@@ -156,8 +156,33 @@ python plot_compare.py --model_name diffmamba2-370m-needle-finetune --ratio
 ```
 The plot will be saved in scripts/babilong_evals. Use the flag ```--ratio``` for the relative precentage plot or omit it for the original scores plot
 
+## Long-Context
+<img src="figures/per_token_loss.png" width="40%"/> 
+First, make sure to download the dataset LongCrawl64.
+
+Then, to evaluate Mamba and Diff-Mamba run the following line. Make sure to add --diffmamba if you test the diff model.
+```
+fabric run run_per_token_loss.py \
+   --devices 1 \
+   --diffmamba \
+   --model  "diffmamba2-370M" \
+   --model_path "outputs/diffmamba2-370M" \
+   --resume \
+   --save_interval 128
+```
+
+## Unit-Tests
+<img src="figures/MAD.PNG" width="75%"/> 
+
+To run the MAD pipeline for Mamba and Diff-Mamba:
+
+```
+cd unit_tests/mad-lab
+python -m scripts.architecture_improvement --gpus 5 --cpus 8 --num-trials-gpu 1 --num-cpus-trial 2 --logs-path mad-lab/logs/mamba2-improvement --log-to-csv
+```
+
 ## Tuned-Lens
-<img src="figures/LensLogScale.PNG" width="90%"/> 
+<img src="figures/Lens.PNG" width="70%"/> 
 
 Run cd tuned-lens.
 ### Training Lens
