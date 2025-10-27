@@ -13,6 +13,7 @@ This repository contains the official PyTorch implementation of Differential Mam
 We also provide training code, evaluation code, and model checkpoints to reproduce the results in the paper, including all the baselines.
 
 ## News
+- [2025.10.25] Diff-Mamba was accepted to AACL 2025! 🎉
 - [2025.08.31] We published the model [DiffMamba](https://huggingface.co/nadavsc/diffmamba2-370M) and its [Mamba](https://huggingface.co/nadavsc/mamba2-370M) baseline, both trained on 50B tokens.
 - [2025.07.08] We have uploaded our paper to [arXiv](https://arxiv.org/abs/2507.06204).
 
@@ -157,7 +158,7 @@ python plot_compare.py --model_name diffmamba2-370m-needle-finetune --ratio
 The plot will be saved in scripts/babilong_evals. Use the flag ```--ratio``` for the relative precentage plot or omit it for the original scores plot
 
 ## Long-Context
-<img src="figures/per_token_loss.png" width="40%"/> 
+<img src="figures/per_token_loss.png" width="45%"/> 
 First, make sure to download the dataset LongCrawl64.
 
 Then, to evaluate Mamba and Diff-Mamba run the following line. Make sure to add --diffmamba if you test the diff model.
@@ -172,7 +173,7 @@ fabric run run_per_token_loss.py \
 ```
 
 ## Unit-Tests
-<img src="figures/MAD.PNG" width="75%"/> 
+<img src="figures/MAD.PNG" width="90%"/> 
 
 To run the MAD pipeline for Mamba and Diff-Mamba:
 
@@ -182,7 +183,7 @@ python -m scripts.architecture_improvement --gpus 5 --cpus 8 --num-trials-gpu 1 
 ```
 
 ## Tuned-Lens
-<img src="figures/Lens.PNG" width="70%"/> 
+<img src="figures/Lens.PNG" width="80%"/> 
 
 Run cd tuned-lens.
 ### Training Lens
