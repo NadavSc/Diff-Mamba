@@ -9,7 +9,7 @@
 <a href="https://itamarzimm.github.io/">Itamar Zimerman</a>,
 <a href="https://sites.google.com/view/eliya-nachmani/home">Eliya Nachmani</a>
 
-This repository contains the official PyTorch implementation of Differential Mamba <a href="https://arxiv.org/pdf/2507.06204">paper</a>.
+This repository contains the official PyTorch implementation of Differential Mamba <a href="https://aclanthology.org/2025.ijcnlp-long.138/">paper</a>.
 We also provide training code, evaluation code, and model checkpoints to reproduce the results in the paper, including all the baselines.
 
 ## News
@@ -219,13 +219,28 @@ All model implementations are based on [Mamba](https://github.com/state-spaces/m
 If you use this code, please consider citing the following:
 
 ```
-@misc{schneider2025differentialmamba,
-      title={Differential Mamba}, 
-      author={Nadav Schneider and Itamar Zimerman and Eliya Nachmani},
-      year={2025},
-      eprint={2507.06204},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2507.06204}, 
+@inproceedings{schneider-etal-2025-differential,
+    title = "Differential Mamba",
+    author = "Schneider, Nadav  and
+      Zimerman, Itamar  and
+      Nachmani, Eliya",
+    editor = "Inui, Kentaro  and
+      Sakti, Sakriani  and
+      Wang, Haofen  and
+      Wong, Derek F.  and
+      Bhattacharyya, Pushpak  and
+      Banerjee, Biplab  and
+      Ekbal, Asif  and
+      Chakraborty, Tanmoy  and
+      Singh, Dhirendra Pratap",
+    booktitle = "Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics",
+    month = dec,
+    year = "2025",
+    address = "Mumbai, India",
+    publisher = "The Asian Federation of Natural Language Processing and The Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.ijcnlp-long.138/",
+    pages = "2561--2575",
+    ISBN = "979-8-89176-298-5",
+    abstract = "Sequence models like Transformers and RNNs often overallocate attention to irrelevant context, leading to noisy intermediate representations. This degrades LLM capabilities by promoting hallucinations, weakening long-range and retrieval abilities, and reducing robustness. Recent work has shown that differential design can mitigate this issue in Transformers, improving their effectiveness across various applications. In this paper, we explore whether these techniques, originally developed for Transformers, can be applied to Mamba, a recent architecture based on selective state-space layers that achieves Transformer-level performance with greater efficiency. We show that a naive adaptation of differential design to Mamba is insufficient and requires careful architectural modifications. To address this, we introduce a novel differential mechanism for Mamba, empirically validated on language modeling benchmarks, demonstrating improved retrieval capabilities and superior performance over vanilla Mamba. Finally, we conduct extensive ablation studies and empirical analyses to justify our design choices and provide evidence that our approach effectively mitigates the overallocation problem in Mamba-based models."
 }
 ```
