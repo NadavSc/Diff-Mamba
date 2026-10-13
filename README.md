@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<a href="https://scholar.google.com/citations?user=CrBv6b4AAAAJ&hl=iw">Nadav Schneider</a>,
+<a href="https://nadavsc.github.io/">Nadav Schneider</a>,
 <a href="https://itamarzimm.github.io/">Itamar Zimerman</a>,
 <a href="https://sites.google.com/view/eliya-nachmani/home">Eliya Nachmani</a>
 
